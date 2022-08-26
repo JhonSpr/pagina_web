@@ -22,6 +22,7 @@ const PerfilPag = () => {
        <p>{user.name}</p>
        <p>{user.user_id}</p>
        <p>{user.password_hash}</p>
+       <p>{user.last_login}</p>
        </div>
         
       
