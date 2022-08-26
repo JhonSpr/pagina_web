@@ -60,6 +60,7 @@ function App () {
        />}/>
      
       <Route path="/perfil" element={<PerfilPag/>}/>
+      
      {/* capitulos Animes */}
 
       <Route path="/akudama-drive" element={<Capitulos12 tituloAnime={"Akudama Drive"} 
