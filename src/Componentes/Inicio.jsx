@@ -7,8 +7,8 @@ import '../css/themes/default.min.css'
 import { Alertas} from '../index'
 import SearchBar from '../searchComponent';
 import { Noticia } from "./Noticias";
-import { LoginButton } from "../login";
-
+import { LoginButton } from '../login'
+ 
 
 
 /* eslint-disable jsx-a11y/no-distracting-elements */
