@@ -4,6 +4,10 @@ import { useAuth0 } from "@auth0/auth0-react";
 export const LoginButton = () => {
     const { loginWithRedirect } = useAuth0();
   
-    return <button onClick={() => loginWithRedirect()} className="button is-orange">Log In</button>;
+    return (
+        <li className="navbar-nav nav-item">
+            <button onClick={() => loginWithRedirect()} className="button is-orange">Log In</button>
+        </li>
+    );
   };
   
