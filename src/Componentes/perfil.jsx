@@ -10,11 +10,12 @@ import { Alertas} from '../index'
 import SearchBar from '../searchComponent';
 
 export function PerfilPagina(){
-    const {isAuthenticated} = useAuth0();
+    const {user,isAuthenticated} = useAuth0();
 
     return(
 
     <div>
+        <title>{'Perfil' + user.nickname}</title>
              <nav className="navbar navbar-expand-lg bg-dark">
         <div className="container-fluid">
             <a className='navbar-brand item-nav logo-cont' href="/"><h1 className="letraA">A</h1> <h2 className="letraN">n</h2> <h2 className="letraI">i</h2> <h2 className="letraM">m</h2> <h2 className="letraE">e</h2> <h2 className="letraK">k</h2> <h2 className="letraU">u</h2> <h2 className="letraN">n</h2></a>
