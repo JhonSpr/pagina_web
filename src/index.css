@@ -140,6 +140,11 @@ a{
   color: #fff !important;
 }
 
+.perfil-container{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
 .button.is-orange.is-outlined {
   background-color: transparent !important;
   border-color: #00F4F8;
