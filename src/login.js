@@ -7,7 +7,7 @@ export const LoginButton = () => {
   
     return (
         <li className="navbar-item item-nav">
-            <button onClick={() => loginWithRedirect()}>Iniciar Sesion</button>
+            <button onClick={() => loginWithRedirect()} className="button is-orange">Iniciar Sesion</button>
         </li>
     );
   };
