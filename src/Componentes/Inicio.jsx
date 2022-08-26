@@ -39,18 +39,18 @@ export function Inicio({href1,href2,href3,href4,href5,href6,href7,href8,href9,hr
     <div className="collapse navbar-collapse contenedor-ul" id="navbarText">
     <ul className='navbar-nav'>
                     <li className='navbar-item mobile item-nav'>
-                        <a className='nav-link item-nav' href='https://animekuns.netlify.app/'>Inicio </a>
+                        <a className='nav-link item-nav' href='/'>Inicio </a>
                     </li>
                     <li className='navbar-item item-nav'>
-                        <a className='nav-link item-nav' href='https://animekuns.netlify.app/animes'>Animes </a>
+                        <a className='nav-link item-nav' href='/animes'>Animes </a>
                     </li>
                     <li className='navbar-item item-nav' >
-                        <a className='nav-link item-nav' href='https://animekuns.netlify.app/en-emision'>En Emision</a>
+                        <a className='nav-link item-nav' href='/en-emision'>En Emision</a>
                     </li>
                   
                     <Alertas/>
                     <li className='navbar-item item-nav' >
-                        <a className='nav-link item-nav' href='https://animekuns.netlify.app/ovas'>Ovas</a>
+                        <a className='nav-link item-nav' href='/ovas'>Ovas</a>
                     </li>
                    
                     
