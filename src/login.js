@@ -5,7 +5,7 @@ export const LoginButton = () => {
     const { loginWithRedirect } = useAuth0();
   
     return (
-        <li className="navbar-nav nav-item">
+        <li className="navbar-item item-nav">
             <button onClick={() => loginWithRedirect()} className="button is-orange">Iniciar Sesion</button>
         </li>
     );
