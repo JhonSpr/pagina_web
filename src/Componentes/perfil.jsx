@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import PerfilPag from "../perfilPagina";
 import { LoginButton } from '../login'
 import LogoutButton from "../logout";
@@ -19,6 +20,7 @@ export function PerfilPagina(){
             <a className='navbar-brand item-nav logo-cont' href="/"><h1 className="letraA">A</h1> <h2 className="letraN">n</h2> <h2 className="letraI">i</h2> <h2 className="letraM">m</h2> <h2 className="letraE">e</h2> <h2 className="letraK">k</h2> <h2 className="letraU">u</h2> <h2 className="letraN">n</h2></a>
      
         <div className=" bg-dark" data-bs-toggle="collapse" data-bs-target="#navbarText" >
+           
             <a role="button" className="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarText">
                 <span className="line1"></span>
                 <span className="line2"></span>

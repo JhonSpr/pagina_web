@@ -19,7 +19,7 @@ const PerfilPag = () => {
        </div>
        <div className="container-informacion">
        <h2 className="nickname">{user.nickname}</h2>
-       <p>{user.email}</p>
+       <p>{user.name}</p>
        <p>{user.user_id}</p>
        <p>{user.password_hash}</p>
        </div>
