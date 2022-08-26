@@ -5,7 +5,7 @@ const Profile = () => {
   const { user, isAuthenticated, isLoading } = useAuth0();
 
   if (isLoading) {
-    return <div class="spinner-border text-secondary" role="status">
+    return <div class="spinner-border text-secondary navbar-item" role="status">
     <span class="visually-hidden">Loading...</span>
   </div>;
   }
