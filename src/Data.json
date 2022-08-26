@@ -1,0 +1,387 @@
+[
+    {
+      "id": "1",
+      "img": "https://www.animefenix.com/cdn/animes/cover/5f7e65dc3eb65/akudama-drive.jpg",
+      "link": "/akudama-drive",
+      "title": "Akudama Drive",
+      "year": 2022
+      
+    },
+    {
+      "id":"2",
+      "img": "https://www.animefenix.com/cdn/animes/cover/614e84bf0253f/hanyo-no-yashahime-ni-no-shou.jpg",
+      "link": "/hanyo-no-yashahime-ni-no-shou",
+      "title": "Hanyo no Yashahime ni no Shou",
+      "year": 2021
+      
+    },
+    { 
+        "id":"3",
+        "img": "https://www.animefenix.com/cdn/animes/cover/60dd1bd47b14c/heion-sedai-no-idaten-tachi.jpg",
+        "link": "/heion-sedai-no-idaten-tachi",
+        "title": "Heion Sedai no Idaten Tachi",
+        "year": 2021
+        
+      },
+      { 
+        "id":"4",
+        "img": "https://www.animefenix.com/cdn/animes/cover/60d7d39e29e28/peach-boy-riverside.jpg",
+        "link": "/peach-boy-riverside",
+        "title": "Peach Boy Riverside",
+        "year": 2021
+        
+      },
+      { 
+        "id":"5",
+        "img": "https://www.animefenix.com/cdn/animes/cover/5f66cfddef53a/jujutsu-kaisen.jpg",
+        "link": "/jujutsu-kaisen",
+        "title": "Jujutsu Kaisen",
+        "year": 2020
+        
+      }
+      ,
+      { 
+        "id":"6",
+        "img": "https://www.animefenix.com/cdn/animes/cover/5f94201ce23b1/shingeki-no-bahamut-virgin-soul.jpg",
+        "link": "/shingeki-no-bahamut:virgin-soul",
+        "title": "Shingeki no Bahamut:Virgin Soul",
+        "year": 2017
+        
+      },
+      { 
+        "id":"7",
+        "img": "https://www.animefenix.com/cdn/animes/cover/5e4efb4be5001/castlevania-season-2.jpg",
+        "link": "/castlevania-segunda-temporada",
+        "title": "Castlevania Segunda Temporada",
+        "year": 2018
+        
+      },
+      { 
+        "id":"8",
+        "img": "https://www.animefenix.com/cdn/animes/cover/5de4438a79aa5/overlord-iii.jpg",
+        "link": "/overlord-III",
+        "title": "Overlord III",
+        "year": 2018
+        
+      },
+      { 
+        "id":"9",
+        "img": "https://www.animefenix.com/cdn/animes/cover/5ebaac070d30a/ao-no-exorcist-kyoto-fujouou-hen.png",
+        "link": "/ao-no-exorcist-kyoto-fujouou-hen",
+        "title": "Ao no Exorcist Kyoto Fujouou Hen",
+        "year": 2017
+        
+      },
+      { 
+        "id":"10",
+        "img": "https://www.animefenix.com/cdn/animes/cover/5d9ad108f3780/fairy-gone.jpg",
+        "link": "/fairy-gone",
+        "title": "Fairy Gone",
+        "year": 2019
+        
+      },
+      { 
+        "id":"11",
+        "img": "https://www.animefenix.com/cdn/animes/cover/62b391c6e1119/dr-stone-ryusui.png",
+        "link": "/dr-stone-ryusui",
+        "title": "Dr.Stone Ryusui",
+        "year": 2022
+        
+      },
+      { 
+        "id":"12",
+        "img": "https://www.animefenix.com/cdn/animes/cover/62b39151eb430/isekai-yakkyoku.jpg",
+        "link": "/isekai-yakkyoku",
+        "title": "Isekai Yakkyoku",
+        "year": 2022
+        
+      },
+      { 
+        "id":"13",
+        "img": "https://www.animefenix.com/cdn/animes/cover/62b390dacca80/kuro-no-shoukanshi.jpg",
+        "link": "/kuro-no-shoukanshi",
+        "title": "Kuro no Shoukanshi",
+        "year": 2022
+        
+      },
+      { 
+        "id":"14",
+        "img": "https://www.animefenix.com/cdn/animes/cover/5d95594d48a4f/fairy-gone-2nd-season.jpg",
+        "link": "/fairy-gone-segunda-temporada",
+        "title": "Fairy Gone Segunda Temporada",
+        "year": 2019
+        
+      },
+      { 
+        "id":"15",
+        "img": "https://www.animefenix.com/cdn/animes/cover/62b38b1fc1df2/isekai-meikyuu-de-harem-wo.jpg",
+        "link": "/isekai-meiryuu-de-harem-wo",
+        "title": "Isekai Meiryuu de Harem wo",
+        "year": 2022
+        
+      },
+      { 
+        "id":"16",
+        "img": "https://www.animefenix.com/cdn/animes/cover/62b9c44a32f53/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2nd-season.jpg",
+        "link": "/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada",
+        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Temporada 2",
+        "year": 2022
+        
+      },
+      { 
+        "id":"17",
+        "img": "https://www.animefenix.com/cdn/animes/cover/6244890fb1517/spy-x-family.jpg",
+        "link": "/spy-x-family",
+        "title": "Spy x Family",
+        "year": 2022
+        
+      },
+      { 
+        "id":"18",
+        "img": "https://www.animefenix.com/cdn/animes/cover/6244857fc1e27/date-a-live-iv.jpg",
+        "link": "/date-a-live-IV",
+        "title": "Date a Live IV",
+        "year": 2022
+        
+      },
+      { 
+        "id":"19",
+        "img": "https://www.animefenix.com/cdn/animes/cover/62447f98a25d4/tate-no-yuusha-no-nariagari-season-2.jpg",
+        "link": "/tate-no-yuusha-no-naraigari-segunda-temporada",
+        "title": "Tate no Yuusha no Naraigari Segunda Temporada",
+        "year": 2022
+        
+      },
+      { 
+        "id":"20",
+        "img": "https://www.animefenix.com/cdn/animes/cover/6243d9a8a5622/tomodachi-game.jpg",
+        "link": "/tomodachi-game",
+        "title": "Tomodachi Game",
+        "year": 2022
+        
+      },
+      { 
+        "id":"21",
+        "img": "https://www.animefenix.com/cdn/animes/cover/61d5dfcce04ed/baraou-no-souretsu.jpg",
+        "link": "/baraou-no-souretsu",
+        "title": "Baraou no Souretsu",
+        "year": 2022
+        
+      },
+      { 
+        "id":"22",
+        "img": "https://www.animefenix.com/cdn/animes/cover/62ac02707f3b4/karakuri-circus.jpg",
+        "link": "/karakuri-circus",
+        "title": "Karakuri Circus",
+        "year": 2022
+        
+      },
+      { 
+        "id":"23",
+        "img": "https://www.animefenix.com/cdn/animes/cover/62c5b68624724/extreme-hearts.jpg",
+        "link": "/extreme-hearts",
+        "title": "Extreme Hearts",
+        "year": 2022
+        
+      },
+      { 
+        "id":"24",
+        "img": "https://www.animefenix.com/cdn/animes/cover/61d5e31f8b785/gensou-sangokushi-tengen-reishinki.png",
+        "link": "/gensou-sangokushi-tenge-reishink",
+        "title": "Gensou Sangokushi Tenge Reishink",
+        "year": 2022
+        
+      },
+      { 
+        "id":"25",
+        "img": "https://www.animefenix.com/cdn/animes/cover/5e444cd3919fa/tate-no-yuusha-no-nariagari.jpg",
+        "link": "/tate-no-yuusha-no-naraigari",
+        "title": "Tate no Yuusha no Naraigari",
+        "year": 2019
+        
+      },
+      { 
+        "id":"26",
+        "img": "https://www.animefenix.com/cdn/animes/cover/61d5e15f2bb7b/tribe-nine.jpg",
+        "link": "/tribe-nine",
+        "title": "Tribe Nine",
+        "year": 2022
+        
+      },
+      { 
+        "id":"27",
+        "img": "https://www.animefenix.com/cdn/animes/cover/61d5e7d13b599/koroshi-ai.jpg",
+        "link": "/koroshi-ai",
+        "title": "Koroshi Ai",
+        "year": 2022
+        
+      },
+      { 
+        "id":"28",
+        "img": "https://www.animefenix.com/cdn/animes/cover/61d5e2254d6c2/sabikui-bisco.jpg",
+        "link": "/sabikui-bisco",
+        "title": "Sabikui Bisco",
+        "year": 2022
+        
+      },
+      { 
+        "id":"29",
+        "img": "https://www.animefenix.com/cdn/animes/cover/61d5e08d99019/sasaki-to-miyano.jpg",
+        "link": "/sasaki-to-miyano",
+        "title": "Sasaki to Miyano",
+        "year": 2022
+        
+      },
+      { 
+        "id":"30",
+        "img": "https://img1.ak.crunchyroll.com/i/spire4/3025f2a7a0017b257753a208b55068481514330222_main.jpg",
+        "link": "/ito-junji:-collection",
+        "title": "Ito Junji: Collection",
+        "year": 2018
+        
+      },
+      { 
+        "id":"31",
+        "img": "https://www.animefenix.com/cdn/animes/cover/6205d3e32689f/toaru-majutsu-no-index.jpg",
+        "link": "/toaru-majutsu-no-index",
+        "title": "Toaru Majutsu no Index",
+        "year": 2008
+        
+      },
+      { 
+        "id":"32",
+        "img": "https://www.animefenix.com/cdn/animes/cover/61d5dd5629b71/dolls-frontline.jpg",
+        "link": "/dolls-frontline",
+        "title": "Dolls Frontline",
+        "year": 2022
+        
+      },
+      { 
+        "id":"33",
+        "img": "https://www.animefenix.com/cdn/animes/cover/61be3b0f8c216/saiyuki-reload-zeroin.jpg",
+        "link": "/saiyoki-reload-zeroin",
+        "title": "Saiyoki Reload Zeroin",
+        "year": 2022
+        
+      },
+      { 
+        "id":"34",
+        "img": "https://www.animefenix.com/cdn/animes/cover/5d69f2b45ac8a/violet-evergarden.jpg",
+        "link": "/violet-evergarden",
+        "title": "Violet Evergarden",
+        "year": 2018
+        
+      },
+      { 
+        "id":"35",
+        "img": "https://www.animefenix.com/cdn/animes/cover/62b38fc442857/shadows-house-2nd-season.jpg",
+        "link": "/shadows-house-segunda-temporada",
+        "title": "Shadows House Temporada 2",
+        "year": 2022
+        
+      },
+      { 
+        "id":"36",
+        "img": "https://www.animefenix.com/cdn/animes/cover/62b392ddc06ee/orient-2nd-cour.jpg",
+        "link": "/orient-segunda-temporada",
+        "title": "Orient Temporada 2",
+        "year": 2022
+        
+      },
+      { 
+        "id":"37",
+        "img": "https://www.animefenix.com/cdn/animes/cover/62b3883db4847/isekai-ojisan.jpg",
+        "link": "/isekai-ojisan",
+        "title": "Isekai Ojisan",
+        "year": 2022
+        
+      },
+      { 
+        "id":"38",
+        "img": "https://www.animefenix.com/cdn/animes/cover/62b3854093b93/overlord-iv.jpg",
+        "link": "/overlord-IV",
+        "title": "Overlord IV",
+        "year": 2022
+        
+      },
+      { 
+        "id":"39",
+        "img": "https://www.animefenix.com/cdn/animes/cover/62b37fcac4bd9/tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete-sekai-saikyou-ni-narimashita.jpg",
+        "link": "/tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete-sekai-saikyou-ni-narimashita",
+        "title": "Tensei kenja no Isekai life dai 2 no shokugyou wo ete sekai saikyou ni narimashita",
+        "year": 2022
+        
+      },
+      { 
+        "id":"40",
+        "img": "https://www.animefenix.com/cdn/animes/cover/628261b2c0949/vampire-in-the-garden.jpg",
+        "link": "/vampire-in-the-garden",
+        "title": "Vampire in the Garden",
+        "year": 2022
+        
+      },
+      { 
+        "id":"41",
+        "img": "https://www.animefenix.com/cdn/animes/cover/627841868ee88/kuroshitsuji-book-of-murder.jpg",
+        "link": "/kuroshitsuji-book-of-murder",
+        "title": "Kuroshitsuji Book of Murder",
+        "year": 2015
+        
+      },
+      { 
+        "id":"42",
+        "img": "https://www.animefenix.com/cdn/animes/cover/624c70de1804b/zuihou-de-zhaohuan-shi-the-last-summoner.png",
+        "link": "/zuihou-de-zhaohuan-shi-the-last-summoner",
+        "title": "Ziuhou de Zhaohuan Shi the last summoner",
+        "year": 2022
+        
+      },
+      { 
+        "id":"43",
+        "img": "https://www.animefenix.com/cdn/animes/cover/62448993a5267/kingdom-4th-season.jpg",
+        "link": "/kingdom-cuarta-temporada",
+        "title": "kingdom temporada 4",
+        "year": 2022
+        
+      },
+      { 
+        "id":"44",
+        "img": "https://www.animefenix.com/cdn/animes/cover/624483a92e3a8/mahoutsukai-reimeiki.jpg",
+        "link": "/mahoutsukai-reimeiki",
+        "title": "mahoutsukai reimeiki",
+        "year": 2022
+        
+      },
+      { 
+        "id":"45",
+        "img": "https://www.animefenix.com/cdn/animes/cover/6244848bdfdc6/tiger-and-bunny-2.jpg",
+        "link": "/tiger-and-bunny-2",
+        "title": "tiger and bunny 2",
+        "year": 2022
+        
+      },
+      { 
+        "id":"46",
+        "img": "https://www.animefenix.com/cdn/animes/cover/620ec001eb85a/toaru-majutsu-no-index-iii.jpg",
+        "link": "/toaru-majustu-no-index-III",
+        "title": "toaru majustu no index III",
+        "year": 2018
+        
+      },
+      { 
+        "id":"47",
+        "img": "https://www.animefenix.com/cdn/animes/cover/61be3c43e2252/shingeki-no-kyojin-the-final-season-part-2.jpg",
+        "link": "/shingeki-no-kyojin-temporada-final-parte-2",
+        "title": "shingeki no kyojin temporada final parte 2",
+        "year": 2022
+        
+      },
+      { 
+        "id":"48",
+        "img": "",
+        "link": "/",
+        "title": "",
+        "year": 20
+        
+      }
+  ]
