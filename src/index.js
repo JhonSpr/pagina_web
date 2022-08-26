@@ -23,7 +23,6 @@ import AlertifyTest from "./alertifyTest";
 // import { Animes7 } from './Componentes/Componente7';
 // import { Animes6 } from './Componentes/componente6';
 import { Animes5 } from './Componentes/Componente5';
-import { LoginButton } from './login';
 // import Search from './searchComponent';
 
 
@@ -49,7 +48,6 @@ root.render(
   <App/>
   <Videos/>
   <Animes5/>
-  <LoginButton/>
   </Auth0Provider>
   
   
