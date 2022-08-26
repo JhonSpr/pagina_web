@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 import { useAuth0 } from "@auth0/auth0-react";
 
@@ -6,7 +7,7 @@ export const LoginButton = () => {
   
     return (
         <li className="navbar-item item-nav">
-            <button onClick={() => loginWithRedirect()} className="button is-orange">Iniciar Sesion</button>
+            <a onClick={() => loginWithRedirect()} className="nav-link item-nav">Iniciar Sesion</a>
         </li>
     );
   };
