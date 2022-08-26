@@ -35,7 +35,7 @@ export function Inicio({href1,href2,href3,href4,href5,href6,href7,href8,href9,hr
                
                
                     </a>
-                    <LoginButton/>
+                    
                 </div>
     <div className="collapse navbar-collapse contenedor-ul" id="navbarText">
     <ul className='navbar-nav'>
@@ -53,7 +53,9 @@ export function Inicio({href1,href2,href3,href4,href5,href6,href7,href8,href9,hr
                     <li className='navbar-item item-nav' >
                         <a className='nav-link item-nav' href='/ovas'>Ovas</a>
                     </li>
-                   
+                   <li className="navbar-item item-nav">
+                   <LoginButton/>
+                   </li>
                     
                    
 
