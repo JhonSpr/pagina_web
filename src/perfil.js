@@ -11,7 +11,7 @@ const Profile = () => {
   return (
     isAuthenticated && (
       <li className="navbar-item ">
-       <a href={"Profile"}> </a>
+       <a href="/perfil"> </a>
        <img src={user.picture} alt={user.name} />
         <h2>{user.nickname}</h2>
       
