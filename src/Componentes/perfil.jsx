@@ -73,9 +73,7 @@ export function PerfilPagina(){
 </div>
 
     </nav>
-    <section className="section page-home__latest-series">
-        <PerfilPag/>
-    </section>
+  
     </div>
     );
 }
