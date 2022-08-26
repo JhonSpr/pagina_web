@@ -7,7 +7,7 @@ const LogoutButton = () => {
 
   return (
     <li className="navbar-item item-nav">
-        <a onClick={() => logout({ returnTo: window.location.origin })} className="nav-link item-nav">Cerrar Session</a>
+        <button onClick={() => logout({ returnTo: window.location.origin })}>Cerrar Session</button>
     </li>
   );
 };
