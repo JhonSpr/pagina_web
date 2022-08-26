@@ -139,6 +139,9 @@ a{
   color: #fff !important;
 }
 
+.spinner-container{
+  margin-left: 10px;
+}
 .perfil-container{
   text-align: center;
   align-items: center;
