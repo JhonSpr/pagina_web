@@ -9,6 +9,7 @@ import SearchBar from '../searchComponent';
 import { Noticia } from "./Noticias";
 import { LoginButton } from '../login'
 import LogoutButton from "../logout";
+import Profile from "../perfil";
  
 
 
@@ -28,6 +29,7 @@ export function Inicio({href1,href2,href3,href4,href5,href6,href7,href8,href9,hr
             <nav className="navbar navbar-expand-lg bg-dark">
                 <div className="container-fluid">
                     <a className='navbar-brand item-nav logo-cont' href="/"><h1 className="letraA">A</h1> <h2 className="letraN">n</h2> <h2 className="letraI">i</h2> <h2 className="letraM">m</h2> <h2 className="letraE">e</h2> <h2 className="letraK">k</h2> <h2 className="letraU">u</h2> <h2 className="letraN">n</h2></a>
+                <Profile/>
                 <div className=" bg-dark" data-bs-toggle="collapse" data-bs-target="#navbarText" >
                     <a role="button" className="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarText">
                         <span className="line1"></span>
