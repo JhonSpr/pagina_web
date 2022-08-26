@@ -59,8 +59,7 @@ export function Inicio({href1,href2,href3,href4,href5,href6,href7,href8,href9,hr
                         <a className='nav-link item-nav' href='/ovas'>Ovas</a>
                     </li>
                     {isAuthenticated ? <> 
-                    <Profile />
-                    <LogoutButton/>
+                    <Profile />                   
                     <LogoutButton/>
                     </>
                     : <LoginButton/>
