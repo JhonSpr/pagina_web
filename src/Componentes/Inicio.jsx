@@ -10,7 +10,7 @@ import { Noticia } from "./Noticias";
 import { LoginButton } from '../login'
 import LogoutButton from "../logout";
 import Profile from "../perfil";
- 
+import { useAuth0 } from '@auth0/auth0-react'
 
 
 /* eslint-disable jsx-a11y/no-distracting-elements */
@@ -19,7 +19,8 @@ export function Inicio({href1,href2,href3,href4,href5,href6,href7,href8,href9,hr
                         emision,tv}){
                
                            
-                        
+        const {isAuthenticated} = useAuth0();
+
 
     return(
 
@@ -57,9 +58,14 @@ export function Inicio({href1,href2,href3,href4,href5,href6,href7,href8,href9,hr
                     <li className='navbar-item item-nav' >
                         <a className='nav-link item-nav' href='/ovas'>Ovas</a>
                     </li>
-                    <LoginButton/>
+                    {isAuthenticated ? <> 
+                    <Profile />
                     <LogoutButton/>
+                    <LogoutButton/>
+                    </>
+                    : <LoginButton/>
                    
+                    }
                    
                     
                    
