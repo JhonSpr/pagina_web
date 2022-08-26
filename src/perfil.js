@@ -5,7 +5,7 @@ const Profile = () => {
   const { user, isAuthenticated, isLoading } = useAuth0();
 
   if (isLoading) {
-    return <div>Cargando ...</div>;
+    return <div className="navbar-item item-nav">Cargando ...</div>;
   }
 
   return (
