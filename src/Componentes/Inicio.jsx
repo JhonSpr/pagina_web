@@ -8,6 +8,7 @@ import { Alertas} from '../index'
 import SearchBar from '../searchComponent';
 import { Noticia } from "./Noticias";
 import { LoginButton } from '../login'
+import LogoutButton from "../logout";
  
 
 
@@ -55,6 +56,7 @@ export function Inicio({href1,href2,href3,href4,href5,href6,href7,href8,href9,hr
                         <a className='nav-link item-nav' href='/ovas'>Ovas</a>
                     </li>
                     <LoginButton/>
+                    <LogoutButton/>
                    
                    
                     
