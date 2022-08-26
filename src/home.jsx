@@ -50,7 +50,7 @@ function App () {
 
       classpag11="disable" classpag2="active"
       anterior={"Anterior"} siguiente={"Siguiente"} pagAnterior={"/animes"} pagSiguiente={"/animes-3"}
-      pag1="/animes" pag2="/animes-2" pag3="/animes-3" pag4="/animes-4" pag5="/animes-5" pag6="/animes-6" pag7="/animes-7" pag8="/animes-8" pag9="/animes-9" pag10="/animes-10"
+      pag1="https://animekuns.netlify.app/animes" pag2="https://animekuns.netlify.app/animes-2" pag3="https://animekuns.netlify.app/animes-3" pag4="https://animekuns.netlify.app/animes-4" pag5="https://animekuns.netlify.app/animes-5" pag6="https://animekuns.netlify.app/animes-6" pag7="https://animekuns.netlify.app/animes-7" pag8="https://animekuns.netlify.app/animes-8" pag9="https://animekuns.netlify.app/animes-9" pag10="https://animekuns.netlify.app/animes-10"
       primero="1" segundo="2" tercero="3" cuarto="4" quinto="5" sexto="6" septimo="7" octavo="8" noveno="9" decimo="10" 
       classEmision1={"disable"} classEmision2={"disable"} classEmision3={"disable"} classEmision4={"disable"} classEmision5={"disable"} classEmision6={"disable"} classEmision7={"disable"} classEmision8={"disable"} classEmision9={"disable"} 
       classEmision10={"disable"} classEmision11={"disable"} classEmision12={"tag is-success airing"} classEmision13={"disable"} classEmision14={"tag is-success airing"} classEmision15={"tag is-success airing"}
@@ -61,7 +61,7 @@ function App () {
 
      {/* capitulos Animes */}
 
-      <Route path="/akudama-drive" element={<Capitulos12 tituloAnime={"Akudama Drive"} 
+      <Route path="https://animekuns.netlify.app/akudama-drive" element={<Capitulos12 tituloAnime={"Akudama Drive"} 
       genero1={""} genero2={""} genero3={""} genero4={""} genero5={""}
       genre1={"disable"} genre2={"disable"} 
       genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"disable"} genre5={"disable"}
@@ -78,7 +78,7 @@ function App () {
       capituloAnime9={"/ver/akudama-drive-9"} capituloAnime10={"/ver/akudama-drive-10"} capituloAnime11={"/ver/akudama-drive-11"} capituloAnime12={"/ver/akudama-drive-12"}  
       />}/>
       
-      <Route path="/hanyo-no-yashahime-ni-no-shou" element={<Capitulos12 tituloAnime={"Hanyo no Yashahime ni no Shou"}
+      <Route path="https://animekuns.netlify.app/hanyo-no-yashahime-ni-no-shou" element={<Capitulos12 tituloAnime={"Hanyo no Yashahime ni no Shou"}
       genero1={""} genero2={""} genero3={""} genero4={""} genero5={""}
       genre1={"disable"} genre2={"disable"} 
       genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"disable"} genre5={"disable"}
@@ -102,7 +102,7 @@ function App () {
       capituloAnime23={"/ver/hanyo-no-yashahime-ni-no-shou-23"} capituloAnime24={"/ver/hanyo-no-yashahime-ni-no-shou-24"}
        />} />
       
-      <Route path="/heion-sedai-no-idaten-tachi" element={<Capitulos12 tituloAnime={"Heion Sedai no Idaten Tachi"} 
+      <Route path="https://animekuns.netlify.app/heion-sedai-no-idaten-tachi" element={<Capitulos12 tituloAnime={"Heion Sedai no Idaten Tachi"} 
       genero1={""} genero2={""} genero3={""} genero4={""} genero5={""}
       genre1={"disable"} genre2={"disable"} 
       genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"disable"} genre5={"disable"}
@@ -120,7 +120,7 @@ function App () {
       li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"}li39={"li"} li40={"li"}
       />} />
       
-      <Route path="/tensei-shitara-slime-datta-ken-segunda-temporada-parte-2" element={<Capitulos12 tituloAnime={"Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2"}
+      <Route path="https://animekuns.netlify.app/tensei-shitara-slime-datta-ken-segunda-temporada-parte-2" element={<Capitulos12 tituloAnime={"Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2"}
       descripcion={"Segunda parte de la segunda temporada del slime"} 
       genero1={""} genero2={""} genero3={""} genero4={""} genero5={""}
       genre1={"disable"} genre2={"disable"} 
@@ -141,7 +141,7 @@ function App () {
       capituloAnime13={"/ver/tensei-shitara-slime-datta-ken-segunda-temporada-parte-2-13"} 
       />} />
       
-      <Route path="/peach-boy-riverside" element={<Capitulos12 tituloAnime={"Peach Boy Riverside"} 
+      <Route path="https://animekuns.netlify.app/peach-boy-riverside" element={<Capitulos12 tituloAnime={"Peach Boy Riverside"} 
       sec2={"sec"} sec3={"sec"} sec1={"sec"}
       genero1={""} genero2={""} genero3={""} genero4={""} genero5={""}
       genre1={"disable"} genre2={"disable"} 
@@ -159,7 +159,7 @@ function App () {
       capituloAnime11={"/ver/peach-boy-riverside-11"} capituloAnime12={"/ver/peach-boy-riverside-12"} 
       />} />
      
-      <Route path="/jujutsu-kaisen" element={<Capitulos12 tituloAnime={"Jujutsu Kaisen"}
+      <Route path="https://animekuns.netlify.app/jujutsu-kaisen" element={<Capitulos12 tituloAnime={"Jujutsu Kaisen"}
       sec2={"sec"} sec3={"sec"} sec1={"sec"}
       genero1={""} genero2={""} genero3={""} genero4={""} genero5={""}
       genre1={"disable"} genre2={"disable"} 
@@ -180,7 +180,7 @@ function App () {
       capituloAnime21={"/ver/jujutsu-kaisen-21"} capituloAnime22={"/ver/jujutsu-kaisen-22"} capituloAnime23={"/ver/jujutsu-kaisen-23"} capituloAnime24={"/ver/jujutsu-kaisen-24"}
       />} />
       
-      <Route path="/shingeki-no-bahamut:virgin-soul" element={<Capitulos12 tituloAnime={"Shingeki no Bahamut:Virgin Soul"} 
+      <Route path="https://animekuns.netlify.app/shingeki-no-bahamut:virgin-soul" element={<Capitulos12 tituloAnime={"Shingeki no Bahamut:Virgin Soul"} 
       sec2={"sec"} sec3={"sec"} sec1={"sec"}
       genero1={""} genero2={""} genero3={""} genero4={""} genero5={""}
       genre1={"disable"} genre2={"disable"} 
@@ -204,7 +204,7 @@ function App () {
       capituloAnime24={"/ver/shingeki-no-bahamut:virgin-soul-24"}
       />} />
       
-      <Route path="/castlevania-segunda-temporada" element={<Capitulos12 tituloAnime={""} descripcion={"Segunda temporada de Castlevania."} 
+      <Route path="https://animekuns.netlify.app/castlevania-segunda-temporada" element={<Capitulos12 tituloAnime={""} descripcion={"Segunda temporada de Castlevania."} 
       sec2={"sec"} sec3={"sec"} sec1={"sec"}
       genero1={""} genero2={""} genero3={""} genero4={""} genero5={""}
       genre1={"disable"} genre2={"disable"} 
@@ -223,7 +223,7 @@ function App () {
       capituloAnime6={"/ver/castlevania-segunda-temporada-6"} capituloAnime7={"/ver/castlevania-segunda-temporada-7"} capituloAnime8={"/ver/castlevania-segunda-temporada-8"}
       />} />
       
-      <Route path="/overlord-III" element={<Capitulos12 tituloAnime={"Overlord III"} 
+      <Route path="https://animekuns.netlify.app/overlord-III" element={<Capitulos12 tituloAnime={"Overlord III"} 
       sec2={"sec"} sec3={"sec"} sec1={"sec"}
       genero1={""} genero2={""} genero3={""} genero4={""} genero5={""}
       genre1={"disable"} genre2={"disable"} 
@@ -587,12 +587,12 @@ function App () {
 
 
    {/* Filtro */}
-   <Route path="/estado=finalizado" element={<Filter finalizado={"dropdown-item active"} enEmision={"dropdown-item"} proximamente={"dropdown-item"} />}/>
-   <Route path="/estado=proximamente" element={<Filter finalizado={"dropdown-item"} enEmision={"dropdown-item"} proximamente={"dropdown-item active"}/>}/>
+   <Route path="https://animekuns.netlify.app/estado=finalizado" element={<Filter finalizado={"dropdown-item active"} enEmision={"dropdown-item"} proximamente={"dropdown-item"} />}/>
+   <Route path="https://animekuns.netlify.app/estado=proximamente" element={<Filter finalizado={"dropdown-item"} enEmision={"dropdown-item"} proximamente={"dropdown-item active"}/>}/>
 
    {/*  */}
       ---------------
-   <Route path="/en-emision" exact element={<EnEmision 
+   <Route path="https://animekuns.netlify.app/en-emision" exact element={<EnEmision 
       img1=""
       img2="" 
       img3="" 
@@ -641,7 +641,7 @@ function App () {
 
      {/* Animes */}
 
-     <Route path="/animes" element={<Componente1 
+     <Route path="https://animekuns.netlify.app/animes" element={<Componente1 
       img1="https://www.animefenix.com/cdn/animes/cover/5f7e65dc3eb65/akudama-drive.jpg"
       img2="https://www.animefenix.com/cdn/animes/cover/614e84bf0253f/hanyo-no-yashahime-ni-no-shou.jpg" 
       img3="https://www.animefenix.com/cdn/animes/cover/60dd1bd47b14c/heion-sedai-no-idaten-tachi.jpg" 
