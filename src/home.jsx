@@ -641,7 +641,7 @@ function App () {
 
      {/* Animes */}
 
-     <Route path="https://animekuns.netlify.app/animes" element={<Componente1 
+     <Route path="/animes" element={<Componente1 
       img1="https://www.animefenix.com/cdn/animes/cover/5f7e65dc3eb65/akudama-drive.jpg"
       img2="https://www.animefenix.com/cdn/animes/cover/614e84bf0253f/hanyo-no-yashahime-ni-no-shou.jpg" 
       img3="https://www.animefenix.com/cdn/animes/cover/60dd1bd47b14c/heion-sedai-no-idaten-tachi.jpg" 
@@ -690,7 +690,7 @@ function App () {
       classEmision22={"disable"} classEmision23={"disable"} classEmision24={"tag is-orange airing"}
       />}/>
      
-     <Route path="https://animekuns.netlify.app/animes-2" element={<Componente1 
+     <Route path="/animes-2" element={<Componente1 
       img1="https://www.animefenix.com/cdn/animes/cover/61d5e31f8b785/gensou-sangokushi-tengen-reishinki.png" 
       img2="https://www.animefenix.com/cdn/animes/cover/5e444cd3919fa/tate-no-yuusha-no-nariagari.jpg" 
       img3="https://www.animefenix.com/cdn/animes/cover/61d5e15f2bb7b/tribe-nine.jpg" img4="https://www.animefenix.com/cdn/animes/cover/61d5e7d13b599/koroshi-ai.jpg" 
