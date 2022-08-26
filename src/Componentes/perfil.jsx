@@ -9,7 +9,7 @@ import BookData from "../Data.json";
 import { Alertas} from '../index'
 import SearchBar from '../searchComponent';
 
-export function PerfilPagina(){
+export function PerfilPaginaMenu(){
     const {user,isAuthenticated} = useAuth0();
 
     return(
@@ -73,7 +73,9 @@ export function PerfilPagina(){
 </div>
 
     </nav>
-  
+    <section className="section page-home__latest-series">
+        <PerfilPag/>
+    </section>
     </div>
     );
 }

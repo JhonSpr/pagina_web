@@ -5,7 +5,7 @@ import { Capitulos12 } from "./Componentes/Componente2";
 import { Filter } from "./Componentes/DropDown";
 import { EnEmision } from "./Componentes/enEmision";
 import { Inicio } from "./Componentes/Inicio";
-import PerfilPag from "./perfilPagina";
+import { PerfilPaginaMenu } from "./Componentes/perfil";
 
 
 function App () {
@@ -59,8 +59,8 @@ function App () {
       classEmision22={"tag is-success airing"} classEmision23={"disable"} classEmision24={"disable"}
        />}/>
      
-      <Route path="/perfil" element={<PerfilPag/>}/>
-      
+      <Route path="/perfil" element={<PerfilPaginaMenu/>}/>
+
      {/* capitulos Animes */}
 
       <Route path="/akudama-drive" element={<Capitulos12 tituloAnime={"Akudama Drive"} 
