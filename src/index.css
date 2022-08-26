@@ -145,6 +145,13 @@ a{
   justify-content: center;
   margin-left: 5px;
 }
+
+.nickname{
+  margin-left: 6px;
+  background-color: #111111;
+  color: rgb(230,230,230);
+}
+
 .button.is-orange.is-outlined {
   background-color: transparent !important;
   border-color: #00F4F8;
