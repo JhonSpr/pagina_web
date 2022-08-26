@@ -44,7 +44,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
 
   <BrowserRouter>
-  <Auth0Provider>
+  <Auth0Provider domain='dev-xb-8m80m.us.auth0.com' clientId='UFQNWhaps7ya5kaxAm5BOByawGn9J6y2' redirectUri={window.location.origin}>
   <App/>
   <Videos/>
   <Animes5/>
