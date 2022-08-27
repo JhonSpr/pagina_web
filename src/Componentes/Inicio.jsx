@@ -11,6 +11,8 @@ import { LoginButton } from '../login'
 import LogoutButton from "../logout";
 import Profile from "../perfil";
 import { useAuth0 } from '@auth0/auth0-react'
+import { Carousel } from "./carousel";
+import "react-responsive-carousel/lib/styles/carousel.min.css";
 
 
 /* eslint-disable jsx-a11y/no-distracting-elements */
@@ -83,6 +85,10 @@ export function Inicio({href1,href2,href3,href4,href5,href6,href7,href8,href9,hr
   </div>
    
             </nav>
+
+            <section className="section page-home__lastest-series">
+                <Carousel/>
+            </section>
 
             <div className="hero is-lightx is-fullheight">
             <div>
