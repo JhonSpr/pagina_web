@@ -3,7 +3,7 @@ import { Video } from "./Componentes/Componente3";
 
 function Videos(){
     return(
-        <section>
+        
             <Routes>
                 <Route path="akudama-drive-1" exact element={<Video frame1={"https://sbfull.com/e/2dlhg80oowou.html"} contAnteriorClass="primer-capitulo" tituloAnime={"Akudama Drive Capitulo 1"}  contSiguienteClass={"column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"} tituloPag={"Animekun"} anime={"Akudama Drive"} numero={"1"}  classOpcionSiguiente="column is-3-desktop is-2-tablet is-2-mobile cont-siguiente" siguienteVideo={"/ver/akudama-drive-2"} capitulosVideo={"/akudama-drive"} />}/>
                 <Route path="akudama-drive-2" exact element={<Video frame1={"https://sbfull.com/e/d9bdotmfn8uf.html"} contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"  contSiguienteClass={"column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"} tituloAnime={"Akudama Drive Capitulo 2"} tituloPag={"Animekun"} anime={"Akudama Drive"} numero={"2"} classOpcionSiguiente="" siguienteVideo={"/ver/akudama-drive-3"} capitulosVideo={"/akudama-drive"} anteriorVideo={"/ver/akudama-drive-1"} />}/>
@@ -1040,7 +1040,7 @@ function Videos(){
                 ----------------
 
             </Routes>
-        </section>
+        
     );
 }
 export default Videos
