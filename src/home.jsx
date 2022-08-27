@@ -14,7 +14,7 @@ function App () {
     <div>
      <Routes>
       {/* Inicio */}
-     <Route path="/" exact element={<Inicio
+     <Route path="/" element={<Inicio
 
       img1="https://www.animefenix.com/cdn/animes/cover/61d5e31f8b785/gensou-sangokushi-tengen-reishinki.png" 
       img2="https://www.animefenix.com/cdn/animes/cover/5e444cd3919fa/tate-no-yuusha-no-nariagari.jpg" 
@@ -63,7 +63,7 @@ function App () {
 
      {/* capitulos Animes */}
 
-      <Route path="/akudama-drive" exact element={<Capitulos12 tituloAnime={"Akudama Drive"} 
+      <Route path="/akudama-drive" element={<Capitulos12 tituloAnime={"Akudama Drive"} 
       genero1={""} genero2={""} genero3={""} genero4={""} genero5={""}
       genre1={"disable"} genre2={"disable"} 
       genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"disable"} genre5={"disable"}
