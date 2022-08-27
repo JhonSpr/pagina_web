@@ -15,11 +15,12 @@ const Profile = () => {
       <li className="navbar-item perfil-container" >
        
        
-       <a href="/perfil"> 
-       <div>
+       
+       
         <img src={user.picture} alt={user.name} />
+        <a href="/perfil"> 
         <h2 className="nickname">{user.nickname}</h2>
-       </div>
+       
       </a>
         
       </li>
