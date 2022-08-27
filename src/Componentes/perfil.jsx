@@ -67,7 +67,7 @@ export function PerfilPaginaMenu(){
 </div>
 
     </nav>
-    <section className="section-perfil">
+    <section className="section-perfil container">
         <PerfilPag/>
         {isAuthenticated ? <> 
                              
