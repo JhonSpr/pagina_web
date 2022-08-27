@@ -31,7 +31,6 @@ export function Alertas() {
 
   return (
     <div className="App">
-    
       <AlertifyTest />
     </div>
   );
