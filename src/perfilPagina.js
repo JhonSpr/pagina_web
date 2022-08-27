@@ -3,6 +3,22 @@ import { useAuth0 } from "@auth0/auth0-react";
 import { LoginButton } from "./login";
 import LogoutButton from "./logout";
 
+var axios = require("axios").default;
+
+var options = {
+  method: 'PATCH',
+  url: 'https://YOUR_DOMAIN/api/v2/users/USER_ID',
+  headers: {authorization: 'Bearer ABCD', 'content-type': 'application/json'},
+  data: {user_metadata: {picture: 'https://example.com/some-image.png'}}
+};
+
+axios.request(options).then(function (response) {
+  console.log(response.data);
+}).catch(function (error) {
+  console.error(error);
+});
+
+
 const PerfilPag = () => {
   const { user, isAuthenticated, isLoading } = useAuth0();
 
@@ -27,16 +43,17 @@ const PerfilPag = () => {
         <li>
         <p className="nickname">Correo Electronico: {user.email}</p>
         </li>
-        <li>
-        {isAuthenticated ? <> 
+      
+       </ul>
+       <div className="container">
+       {isAuthenticated ? <> 
                              
                              <LogoutButton/>
                              </>
                              : <LoginButton/>
                             
                              }
-        </li>
-       </ul>
+       </div>
     
     
        </div>
