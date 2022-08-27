@@ -11,7 +11,6 @@ import { LoginButton } from '../login'
 import LogoutButton from "../logout";
 import Profile from "../perfil";
 import { useAuth0 } from '@auth0/auth0-react'
-import { Carousel } from "./carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 
 
