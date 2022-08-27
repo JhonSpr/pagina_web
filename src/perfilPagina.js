@@ -20,10 +20,10 @@ const PerfilPag = () => {
        <div className="container-informacion">
        <ul>
         <li>
-        <h2 className="nickname">{user.nickname}</h2>
+        <h2 className="nickname">Nombre de Usuario {user.nickname}</h2>
         </li>
         <li>
-        <p className="nickname">{user.email}</p>
+        <p className="nickname">Correo Electronico {user.email}</p>
         </li>
        </ul>
        </div>
