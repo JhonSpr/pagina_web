@@ -5,6 +5,7 @@ import LogoutButton from "./logout";
 
 
 const PerfilPag = () => {
+    const { loginWithRedirect } = useAuth0();
   const { user, isAuthenticated, isLoading } = useAuth0();
 
   if (isLoading) {
@@ -38,10 +39,13 @@ const PerfilPag = () => {
                              : <LoginButton/>
                             
                              }
-      <button className="btn btn-primary" type="button" disabled>
+      <button className="btn btn-primary" type="button" disabled onClick={() => loginWithRedirect()}>
+      Iniciar Sesion
   <span className="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
   Loading...
 </button>
+<button  className="button is-orange"></button>
+
     
     
        </div>
