@@ -73,7 +73,7 @@ export function PerfilPaginaMenu(){
 </div>
 
     </nav>
-    <section className="section page-home__latest-series">
+    <section className="section">
         <PerfilPag/>
     </section>
     </div>
