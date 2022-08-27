@@ -1057,3 +1057,8 @@ margin-bottom: -10px !important;
   width: 80px;
   height: 80px;
 }
+
+.container-imagen{
+  width: 120px;
+  height: auto;
+}
