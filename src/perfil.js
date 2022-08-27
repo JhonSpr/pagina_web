@@ -1,5 +1,7 @@
 import React from "react";
 import { useAuth0 } from "@auth0/auth0-react";
+import { LoginButton } from "./login";
+import { LogoutButton} from "./logout"
 
 const Profile = () => {
   const { user, isAuthenticated, isLoading } = useAuth0();
@@ -14,9 +16,15 @@ const Profile = () => {
     isAuthenticated && (
       <li className="navbar-item perfil-container" >
        
-       
-       
+       {isAuthenticated ? <> 
+                                     
+                                     <LogoutButton/>
+                                     </>
+                                     : <LoginButton/>
+                                    
+                                     }
        <i className="fa-solid fa-user-large"></i>
+       
         <a href="/perfil"> 
         
         <h2 className="nickname">{user.nickname}</h2>
