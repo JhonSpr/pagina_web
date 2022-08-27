@@ -75,9 +75,9 @@ function App () {
       imagenAnime="https://www.animefenix.com/cdn/animes/cover/5f7e65dc3eb65/akudama-drive.jpg" videoTrailer={"https://www.youtube-nocookie.com/embed/DTp7ZcUsqes?showinfo=0&rel=0&showsearch=0&autoplay=1&unmuted=1&modestbranding=1&fs=0"} tipo={"TV"} numeroEpisodios={"12"} 
       estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
       numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} anime={"Akudama Drive "} 
-      capituloAnime1={"/ver/akudama-drive-1"} capituloAnime2={"/ver/akudama-drive-2"} capituloAnime3={"/ver/akudama-drive-3"} capituloAnime4={"/ver/akudama-drive-4"} 
-      capituloAnime5={"/ver/akudama-drive-5"} capituloAnime6={"/ver/akudama-drive-6"} capituloAnime7={"/ver/akudama-drive-"} capituloAnime8={"/ver/akudama-drive-8"} 
-      capituloAnime9={"/ver/akudama-drive-9"} capituloAnime10={"/ver/akudama-drive-10"} capituloAnime11={"/ver/akudama-drive-11"} capituloAnime12={"/ver/akudama-drive-12"}  
+      capituloAnime1={"akudama-drive-1"} capituloAnime2={"akudama-drive-2"} capituloAnime3={"akudama-drive-3"} capituloAnime4={"akudama-drive-4"} 
+      capituloAnime5={"akudama-drive-5"} capituloAnime6={"akudama-drive-6"} capituloAnime7={"akudama-drive-"} capituloAnime8={"akudama-drive-8"} 
+      capituloAnime9={"akudama-drive-9"} capituloAnime10={"akudama-drive-10"} capituloAnime11={"akudama-drive-11"} capituloAnime12={"akudama-drive-12"}  
       />}/>
       
       <Route path="/hanyo-no-yashahime-ni-no-shou" element={<Capitulos12 tituloAnime={"Hanyo no Yashahime ni no Shou"}
