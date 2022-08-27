@@ -44,10 +44,10 @@ export function Capitulos12({hrefGenre1,hrefGenre2,hrefGenre3,hrefGenre4,hrefGen
     </div>
   </div>
 </nav> */}
-    <nav className="navbar navbar-expand-lg bg-dark">
+  <nav className="navbar navbar-expand-lg bg-dark">
                 <div className="container-fluid">
                     <a className='navbar-brand item-nav logo-cont' href="/"><h1 className="letraA">A</h1> <h2 className="letraN">n</h2> <h2 className="letraI">i</h2> <h2 className="letraM">m</h2> <h2 className="letraE">e</h2> <h2 className="letraK">k</h2> <h2 className="letraU">u</h2> <h2 className="letraN">n</h2></a>
-                <Profile/>
+             
                 <div className=" bg-dark" data-bs-toggle="collapse" data-bs-target="#navbarText" >
                     <a role="button" className="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarText">
                         <span className="line1"></span>
@@ -60,7 +60,17 @@ export function Capitulos12({hrefGenre1,hrefGenre2,hrefGenre3,hrefGenre4,hrefGen
                 </div>
     <div className="collapse navbar-collapse contenedor-ul" id="navbarText">
     <ul className='navbar-nav'>
+    {isAuthenticated ? <> 
+                                     
+                                     <LogoutButton/>
+                                     </>
+                                     : <LoginButton/>
+                                    
+                                     }
     
+    <Profile/>
+           
+
                     <li className='navbar-item mobile item-nav'>
                         <a className='nav-link item-nav' href='/'>Inicio </a>
                     </li>
@@ -75,15 +85,10 @@ export function Capitulos12({hrefGenre1,hrefGenre2,hrefGenre3,hrefGenre4,hrefGen
                     <li className='navbar-item item-nav' >
                         <a className='nav-link item-nav' href='/ovas'>Ovas</a>
                     </li>
-                    {isAuthenticated ? <> 
-                                     
-                    <LogoutButton/>
-                    </>
-                    : <LoginButton/>
+                  
                    
-                    }
-                   
-                    
+                    <SearchBar placeholder={"Buscar animes..."} data={BookData} imagenSearch={img}/>
+
                    
 
                 </ul>
@@ -91,7 +96,6 @@ export function Capitulos12({hrefGenre1,hrefGenre2,hrefGenre3,hrefGenre4,hrefGen
 
                 
     </div>
-    <SearchBar placeholder={"Buscar animes..."} data={BookData} imagenSearch={img}/>
 
   </div>
    
