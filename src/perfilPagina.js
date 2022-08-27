@@ -25,11 +25,17 @@ const PerfilPag = () => {
        <div className="container-informacion">
        <ul>
         <li>
-        <p className="nickname">Nombre de Usuario: {user.name}</p>
+        <p className="nickname">Nombre de Usuario: {user.user}</p>
         </li>
        
         <li>
         <p className="nickname">Correo Electronico: {user.email}</p>
+        </li>
+        <li>
+        <p className="nickname">Correo Electronico: {user.user}</p>
+        </li>
+        <li>
+        <p className="nickname">Correo Electronico: {user.preferred_username}</p>
         </li>
       
        </ul>
