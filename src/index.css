@@ -1038,11 +1038,12 @@ margin-bottom: -10px !important;
   align-items: center !important;
   background-color: rgba(80,80,80,0.5);
   display: flex !important;
+  margin-top: 4em !important;
  
 }
 
 .contenedor-informacion{
-  margin-top: 4em;
+  margin-top: 4em !important;
   justify-content: center !important;
   text-align: center !important;
   align-items: center !important;
