@@ -1049,3 +1049,8 @@ margin-bottom: -10px !important;
   align-items: center !important;
   margin-top: 3em !important;
 }
+
+.spinner-grow{
+  width: 3rem; 
+  height: 3rem;
+}
