@@ -1038,6 +1038,7 @@ margin-bottom: -10px !important;
   align-items: center !important;
   background-color: rgba(80,80,80,0.5);
   display: flex !important;
+  margin-top: 4em;
 }
 
 .contenedor-informacion{
