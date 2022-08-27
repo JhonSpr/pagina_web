@@ -14,7 +14,7 @@ const PerfilPag = () => {
 
   return (
     isAuthenticated && (
-      <div className="contenedor-informacion">
+      <div className="contenedor-informacion container">
        
        <div className="container-imagen">
        <img src={user.picture} alt={user.name} />
@@ -28,7 +28,6 @@ const PerfilPag = () => {
         <p className="nickname">Correo Electronico: {user.email}</p>
         </li>
        </ul>
-
        {isAuthenticated ? <> 
                              
                              <LogoutButton/>
@@ -36,6 +35,7 @@ const PerfilPag = () => {
                              : <LoginButton/>
                             
                              }
+    
        </div>
         
       
