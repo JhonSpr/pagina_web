@@ -12,7 +12,6 @@ import LogoutButton from "../logout";
 import Profile from "../perfil";
 import { useAuth0 } from '@auth0/auth0-react'
 import "react-responsive-carousel/lib/styles/carousel.min.css";
-import { RegisterButton } from "../registrarse";
 
 
 /* eslint-disable jsx-a11y/no-distracting-elements */
