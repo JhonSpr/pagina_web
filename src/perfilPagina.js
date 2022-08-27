@@ -6,6 +6,8 @@ import LogoutButton from "./logout";
 
 const PerfilPag = () => {
     const { loginWithRedirect } = useAuth0();
+    const { logout } = useAuth0();
+
   const { user, isAuthenticated, isLoading } = useAuth0();
 
   if (isLoading) {
@@ -39,9 +41,8 @@ const PerfilPag = () => {
                              : <LoginButton/>
                             
                              }
-      <button className="button is-orange" type="button" disabled onClick={() => loginWithRedirect()}>
-    Iniciar Sesion
-</button>
+    <button className="button is-orange" type="button" disabled onClick={() => loginWithRedirect()}>Iniciar Sesion</button>
+    <button onClick={() => logout({ returnTo: window.location.origin })} className="button is-orange">Cerrar Session</button>
 
     
     
