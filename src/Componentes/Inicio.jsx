@@ -222,7 +222,7 @@ export function Inicio({href1,href2,href3,href4,href5,href6,href7,href8,href9,hr
                 </div>
                 </section>
 
-                <section className="section page-home__latest-series" >
+                <section className="section page-home__latest-series noticias" >
                 <div className="container rounded-container">
                 <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">NOTICIAS SOBRE ANIME</h1>
                 <hr />
