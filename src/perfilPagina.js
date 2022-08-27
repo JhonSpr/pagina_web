@@ -40,11 +40,8 @@ const PerfilPag = () => {
                             
                              }
       <button className="btn btn-primary" type="button" disabled onClick={() => loginWithRedirect()}>
-      
-  <span className="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
-  Iniciar Sesion
+    Iniciar Sesion
 </button>
-<button  className="button is-orange"></button>
 
     
     
