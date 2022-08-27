@@ -25,7 +25,7 @@ const PerfilPag = () => {
        <div className="container-informacion">
        <ul>
         <li>
-        <p className="nickname">Nombre de Usuario: {user.user}</p>
+        <p className="nickname">Nombre de Usuario: {user.nickname}</p>
         </li>
        
         <li>
