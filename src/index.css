@@ -1033,17 +1033,16 @@ margin-bottom: -10px !important;
   justify-content: end !important;
 }
 .section-perfil{
-  width: 1400px;
-  justify-content: center;
-  text-align: center;
-  align-items: center;
+  justify-content: center !;
+  text-align: center !;
+  align-items: center !;
   background-color: rgba(80,80,80,0.5);
-  display: flex;
+  display: flex !important;
 }
 
 .contenedor-informacion{
-  justify-content: center;
-  text-align: center;
-  align-items: center;
+  justify-content: center !important;
+  text-align: center !important;
+  align-items: center !important;
   margin-top: 3em !important;
 }
