@@ -1037,6 +1037,7 @@ margin-bottom: -10px !important;
   justify-content: center;
   text-align: center;
   align-items: center;
+  background-color: rgba(80,80,80,0.5);
 }
 
 .contenedor-informacion{
