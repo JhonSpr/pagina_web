@@ -1032,3 +1032,6 @@ margin-bottom: -10px !important;
 .contenedor-ul{
   justify-content: end !important;
 }
+.section-perfil{
+  width: 1400px;
+}
