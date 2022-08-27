@@ -118,6 +118,7 @@ a{
   .container-imagen{
     width: 140px !important;
     height: auto !important;
+    background-color: transparent;
   }
 }
 
