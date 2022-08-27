@@ -6,7 +6,7 @@ export function Noticia(){
                 
                 Noticias.map((noticia,id) =>{
                     return(
-                <article className="noticia-card" key={id}>
+                <article className="noticia-card" key={id} title={noticia.title}>
                 <h1 className="has-text-orange has-text-weight-semibold has-text-centered is-size-6">Noticia {noticia.Numero}</h1>
 
                     <figure className="image" >
