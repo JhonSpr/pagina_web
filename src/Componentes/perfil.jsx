@@ -33,13 +33,7 @@ export function PerfilPaginaMenu(){
         </div>
 <div className="collapse navbar-collapse contenedor-ul" id="navbarText">
 <ul className='navbar-nav'>
-{isAuthenticated ? <> 
-                             
-                             <LogoutButton/>
-                             </>
-                             : <LoginButton/>
-                            
-                             }
+
 
 <Profile/>
    
@@ -73,8 +67,15 @@ export function PerfilPaginaMenu(){
 </div>
 
     </nav>
-    <section className="section">
+    <section className="section-perfil">
         <PerfilPag/>
+        {isAuthenticated ? <> 
+                             
+                             <LogoutButton/>
+                             </>
+                             : <LoginButton/>
+                            
+                             }
     </section>
     </div>
     );
