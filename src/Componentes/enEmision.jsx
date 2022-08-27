@@ -3,6 +3,11 @@ import img from "../Data.json";
 import BookData from "../Data.json";
 import { Alertas } from "../index";
 import SearchBar from '../searchComponent';
+import { LoginButton } from '../login'
+import LogoutButton from "../logout";
+import Profile from "../perfil";
+import { useAuth0 } from '@auth0/auth0-react'
+
 export function EnEmision({year1,year2,year3,year4,year5,year6,year7,year8,year9,year10,year11,year12,year13,year14,year15,year16,year17,year18,year19,year20,year21,year22,
                     year23,year24,classpag1,classpag2,classpag3,classpag4,classpag5,classpag6,classpag7,classpag8,classpag9,classpag10,
                     img1,img2,img3,img4,img5,img6,img7,img8,img9,img10,img11,img12,img13,img14,img15,img16,img17,img18,img19,img20,img21,img22,img23,img24,
@@ -13,6 +18,9 @@ export function EnEmision({year1,year2,year3,year4,year5,year6,year7,year8,year9
                     classEmision9, classEmision10, classEmision11, classEmision12, classEmision13, classEmision14, classEmision15, classEmision16, classEmision17, classEmision18, classEmision19, classEmision20, classEmision21, classEmision22, classEmision23, classEmision24,  
                     href1,href2,href3,href4,href5,href6,href7,href8,href9,href10,href11,href12,href13,href14,href15,href16,href17,href18,href19,href20,href21,href22,href23,href24,pagAnterior,pagSiguiente }) {
                     
+
+                        const {isAuthenticated} = useAuth0();
+
                 return(
 
         <div>
