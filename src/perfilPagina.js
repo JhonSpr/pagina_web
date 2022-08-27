@@ -27,14 +27,17 @@ const PerfilPag = () => {
         <li>
         <p className="nickname">Correo Electronico: {user.email}</p>
         </li>
-       </ul>
-       {isAuthenticated ? <> 
+        <li>
+        {isAuthenticated ? <> 
                              
                              <LogoutButton/>
                              </>
                              : <LoginButton/>
                             
                              }
+        </li>
+       </ul>
+    
     
        </div>
         
