@@ -16,9 +16,9 @@ const Profile = () => {
        
        
        
-       
+       <i className="fa-solid fa-user-large"></i>
         <a href="/perfil"> 
-        <i className="fa-solid fa-user-large"></i>
+        
         <h2 className="nickname">{user.nickname}</h2>
        
       </a>
