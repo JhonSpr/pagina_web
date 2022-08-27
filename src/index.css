@@ -116,8 +116,6 @@ a{
     position: absolute;  
   }
   .perfil-container{
-    width: 140px !important;
-    height: auto !important;
     background-color: transparent;
   }
 }
