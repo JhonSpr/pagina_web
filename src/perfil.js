@@ -19,6 +19,7 @@ const Profile = () => {
        
         <img src={user.picture} alt={user.name} />
         <a href="/perfil"> 
+        <i class="fa-solid fa-user-large"></i>
         <h2 className="nickname">{user.nickname}</h2>
        
       </a>
