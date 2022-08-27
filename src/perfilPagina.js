@@ -31,12 +31,6 @@ const PerfilPag = () => {
         <li>
         <p className="nickname">Correo Electronico: {user.email}</p>
         </li>
-        <li>
-        <p className="nickname">Correo Electronico: {user.user}</p>
-        </li>
-        <li>
-        <p className="nickname">Correo Electronico: {user.preferred_username}</p>
-        </li>
       
        </ul>
        
