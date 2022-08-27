@@ -18,11 +18,14 @@ const PerfilPag = () => {
        <img src={user.picture} alt={user.name} />
        </div>
        <div className="container-informacion">
-       <h2 className="nickname">{user.nickname}</h2>
-       <p className="nickname">{user.email}</p>
-       <p className="nickname">{user.user_id}</p>
-       <p className="nickname">{user.password_hash}</p>
-       <p className="nickname">{user.last_login}</p>
+       <ul>
+        <li>
+        <h2 className="nickname">{user.nickname}</h2>
+        </li>
+        <li>
+        <p className="nickname">{user.email}</p>
+        </li>
+       </ul>
        </div>
         
       
