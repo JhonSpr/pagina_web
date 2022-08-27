@@ -59,7 +59,7 @@ export function PerfilPaginaMenu(){
 </div>
 
     </nav>
-    <section className="section-perfil container">
+    <section className="section-perfil">
         <PerfilPag/>
      
     </section>
