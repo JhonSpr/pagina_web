@@ -1,16 +1,12 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import PerfilPag from "../perfilPagina";
-import { LoginButton } from '../login'
-import LogoutButton from "../logout";
 import Profile from "../perfil";
-import { useAuth0 } from '@auth0/auth0-react'
 import img from "../Data.json";
 import BookData from "../Data.json";
 import { Alertas} from '../index'
 import SearchBar from '../searchComponent';
 
 export function PerfilPaginaMenu(){
-    const {isAuthenticated} = useAuth0();
 
     return(
 
@@ -69,13 +65,7 @@ export function PerfilPaginaMenu(){
     </nav>
     <section className="section-perfil container">
         <PerfilPag/>
-        {isAuthenticated ? <> 
-                             
-                             <LogoutButton/>
-                             </>
-                             : <LoginButton/>
-                            
-                             }
+     
     </section>
     </div>
     );
