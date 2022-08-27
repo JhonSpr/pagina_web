@@ -23,7 +23,7 @@ const PerfilPag = () => {
   const { user, isAuthenticated, isLoading } = useAuth0();
 
   if (isLoading) {
-    return <div class="spinner-border spinner-border-sm spinner-container" role="status">
+    return <div class="spinner-grow" style="width: 3rem; height: 3rem;" role="status">
     <span class="visually-hidden">Loading...</span>
   </div>;
   }
