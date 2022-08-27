@@ -60,6 +60,10 @@ export function Capitulos12({hrefGenre1,hrefGenre2,hrefGenre3,hrefGenre4,hrefGen
                 </div>
     <div className="collapse navbar-collapse contenedor-ul" id="navbarText">
     <ul className='navbar-nav'>
+    
+    
+    <Profile/>
+           
     {isAuthenticated ? <> 
                                      
                                      <LogoutButton/>
@@ -67,10 +71,6 @@ export function Capitulos12({hrefGenre1,hrefGenre2,hrefGenre3,hrefGenre4,hrefGen
                                      : <LoginButton/>
                                     
                                      }
-    
-    <Profile/>
-           
-
                     <li className='navbar-item mobile item-nav'>
                         <a className='nav-link item-nav' href='/'>Inicio </a>
                     </li>

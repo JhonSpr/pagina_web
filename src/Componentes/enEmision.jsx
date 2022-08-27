@@ -42,6 +42,10 @@ export function EnEmision({year1,year2,year3,year4,year5,year6,year7,year8,year9
                 </div>
     <div className="collapse navbar-collapse contenedor-ul" id="navbarText">
     <ul className='navbar-nav'>
+    
+    
+    <Profile/>
+           
     {isAuthenticated ? <> 
                                      
                                      <LogoutButton/>
@@ -49,10 +53,6 @@ export function EnEmision({year1,year2,year3,year4,year5,year6,year7,year8,year9
                                      : <LoginButton/>
                                     
                                      }
-    
-    <Profile/>
-           
-
                     <li className='navbar-item mobile item-nav'>
                         <a className='nav-link item-nav' href='/'>Inicio </a>
                     </li>

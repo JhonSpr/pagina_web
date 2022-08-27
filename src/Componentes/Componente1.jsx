@@ -45,6 +45,10 @@ export function Componente1({year1,year2,year3,year4,year5,year6,year7,year8,yea
                 </div>
     <div className="collapse navbar-collapse contenedor-ul" id="navbarText">
     <ul className='navbar-nav'>
+    
+    
+    <Profile/>
+           
     {isAuthenticated ? <> 
                                      
                                      <LogoutButton/>
@@ -52,10 +56,6 @@ export function Componente1({year1,year2,year3,year4,year5,year6,year7,year8,yea
                                      : <LoginButton/>
                                     
                                      }
-    
-    <Profile/>
-           
-
                     <li className='navbar-item mobile item-nav'>
                         <a className='nav-link item-nav' href='/'>Inicio </a>
                     </li>

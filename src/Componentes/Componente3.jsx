@@ -33,6 +33,10 @@ export function Video({tituloAnime, anime , capitulosVideo, siguienteVideo , num
                 </div>
     <div className="collapse navbar-collapse contenedor-ul" id="navbarText">
     <ul className='navbar-nav'>
+    
+    
+    <Profile/>
+           
     {isAuthenticated ? <> 
                                      
                                      <LogoutButton/>
@@ -40,10 +44,6 @@ export function Video({tituloAnime, anime , capitulosVideo, siguienteVideo , num
                                      : <LoginButton/>
                                     
                                      }
-    
-    <Profile/>
-           
-
                     <li className='navbar-item mobile item-nav'>
                         <a className='nav-link item-nav' href='/'>Inicio </a>
                     </li>

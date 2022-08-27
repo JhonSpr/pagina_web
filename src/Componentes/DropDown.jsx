@@ -1,7 +1,11 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
+import { useAuth0 } from "@auth0/auth0-react";
 import img from "../Data.json";
 import BookData from "../Data.json";
 import { Alertas } from "../index";
+import { LoginButton } from "../login";
+import LogoutButton from "../logout";
+import Profile from "../perfil";
 import SearchBar from '../searchComponent';
 export function Filter({finalizado,enEmision,proximamente,year1,year2,year3,year4,year5,year6,year7,year8,year9,year10,year11,year12,year13,year14,year15,year16,year17,year18,year19,year20,year21,year22,
                     year23,year24,classpag1,classpag2,classpag3,classpag4,classpag5,classpag6,classpag7,classpag8,classpag9,classpag10,
@@ -12,7 +16,8 @@ export function Filter({finalizado,enEmision,proximamente,year1,year2,year3,year
                     classEmision1, classEmision2, classEmision3, classEmision4, classEmision5, classEmision6, classEmision7, classEmision8,
                     classEmision9, classEmision10, classEmision11, classEmision12, classEmision13, classEmision14, classEmision15, classEmision16, classEmision17, classEmision18, classEmision19, classEmision20, classEmision21, classEmision22, classEmision23, classEmision24,  
                     href1,href2,href3,href4,href5,href6,href7,href8,href9,href10,href11,href12,href13,href14,href15,href16,href17,href18,href19,href20,href21,href22,href23,href24,pagAnterior,pagSiguiente }) {
-                    
+                    const { isAuthenticated } = useAuth0();
+
                 return(
 
         <div>
@@ -21,6 +26,7 @@ export function Filter({finalizado,enEmision,proximamente,year1,year2,year3,year
     <nav className="navbar navbar-expand-lg bg-dark">
                 <div className="container-fluid">
                     <a className='navbar-brand item-nav logo-cont' href="/"><h1 className="letraA">A</h1> <h2 className="letraN">n</h2> <h2 className="letraI">i</h2> <h2 className="letraM">m</h2> <h2 className="letraE">e</h2> <h2 className="letraK">k</h2> <h2 className="letraU">u</h2> <h2 className="letraN">n</h2></a>
+             
                 <div className=" bg-dark" data-bs-toggle="collapse" data-bs-target="#navbarText" >
                     <a role="button" className="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarText">
                         <span className="line1"></span>
@@ -29,9 +35,21 @@ export function Filter({finalizado,enEmision,proximamente,year1,year2,year3,year
                
                
                     </a>
+                    
                 </div>
     <div className="collapse navbar-collapse contenedor-ul" id="navbarText">
     <ul className='navbar-nav'>
+    
+    
+    <Profile/>
+           
+    {isAuthenticated ? <> 
+                                     
+                                     <LogoutButton/>
+                                     </>
+                                     : <LoginButton/>
+                                    
+                                     }
                     <li className='navbar-item mobile item-nav'>
                         <a className='nav-link item-nav' href='/'>Inicio </a>
                     </li>
@@ -46,13 +64,14 @@ export function Filter({finalizado,enEmision,proximamente,year1,year2,year3,year
                     <li className='navbar-item item-nav' >
                         <a className='nav-link item-nav' href='/ovas'>Ovas</a>
                     </li>
+                  
                    
-                    
+                    <SearchBar placeholder={"Buscar animes..."} data={BookData} imagenSearch={img}/>
+
                    
 
                 </ul>
-
-                <SearchBar placeholder={"Buscar animes..."} data={BookData} imagenSearch={img}/>
+               
 
                 
     </div>
