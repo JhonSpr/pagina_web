@@ -147,43 +147,12 @@ export function Video({tituloAnime, anime , capitulosVideo, siguienteVideo , num
                     </div>
                 </div>
 
-                <DiscussionEmbed
-    shortname='example'
-    config={
-        {
-            url: this.props.article.url,
-            identifier: this.props.article.id,
-            title: this.props.article.title,
-            language: 'zh_TW' //e.g. for Traditional Chinese (Taiwan)	
-        }
-    }
-/>
-<CommentCount
-    shortname='example'
-    config={
-        {
-            url: this.props.article.url,
-            identifier: this.props.article.id,
-            title: this.props.article.title,
-        }
-    }
->
-    {/* Placeholder Text */}
-    Comments
-</CommentCount>
-
                
 
             </div>
         </div>
     </section>
-    <CommentEmbed
-    commentId={this.props.article.featuredCommentId}
-    showMedia={true}
-    showParentComment={true}
-    width={420}
-    height={320}
-/>
+
 </div>
         </div>
     );
