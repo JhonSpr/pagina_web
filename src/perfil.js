@@ -19,7 +19,7 @@ const Profile = () => {
        
         <a href="/perfil"> 
         
-        <h2 className="nickname">{user.nickname}</h2>
+        <h2 className="nickname">{user.name}</h2>
        
       </a>
         
