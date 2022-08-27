@@ -1038,3 +1038,9 @@ margin-bottom: -10px !important;
   text-align: center;
   align-items: center;
 }
+
+.contenedor-informacion{
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}

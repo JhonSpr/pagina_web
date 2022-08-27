@@ -12,7 +12,7 @@ const PerfilPag = () => {
 
   return (
     isAuthenticated && (
-      <div>
+      <div className="contenedor-informacion">
        
        <div className="container-imagen">
        <img src={user.picture} alt={user.name} />
