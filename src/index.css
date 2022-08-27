@@ -116,7 +116,7 @@ a{
     position: absolute;  
   }
   .perfil-container{
-    background-color: transparent;
+    background-color: transparent !important;
     border-bottom:2px solid rgb(100,100,100) ;
   }
   .image_2{
