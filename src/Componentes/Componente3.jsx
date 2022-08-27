@@ -8,6 +8,10 @@ import { LoginButton } from '../login'
 import LogoutButton from "../logout";
 import Profile from "../perfil";
 import { useAuth0 } from '@auth0/auth0-react'
+import { DiscussionEmbed } from 'disqus-react';
+import { CommentCount } from 'disqus-react';
+import { CommentEmbed } from 'disqus-react';
+
 
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Video({tituloAnime, anime , capitulosVideo, siguienteVideo , numero , contAnteriorClass,contSiguienteClass, iconoAnterior , tituloPag,  iconoSiguiente , frame1 , frame2 , frame3 ,anteriorVideo, classOpcionAnterior, classOpcionCapitulos , classOpcionSiguiente , botonAnterior , botonCapitulos , botonSiguiente , classOpciones}){
@@ -143,8 +147,38 @@ export function Video({tituloAnime, anime , capitulosVideo, siguienteVideo , num
                     </div>
                 </div>
 
-            
-                
+                <DiscussionEmbed
+    shortname='example'
+    config={
+        {
+            url: this.props.article.url,
+            identifier: this.props.article.id,
+            title: this.props.article.title,
+            language: 'zh_TW' //e.g. for Traditional Chinese (Taiwan)	
+        }
+    }
+/>
+<CommentCount
+    shortname='example'
+    config={
+        {
+            url: this.props.article.url,
+            identifier: this.props.article.id,
+            title: this.props.article.title,
+        }
+    }
+>
+    {/* Placeholder Text */}
+    Comments
+</CommentCount>
+
+ <CommentEmbed
+    commentId={this.props.article.featuredCommentId}
+    showMedia={true}
+    showParentComment={true}
+    width={420}
+    height={320}
+/>               
 
             </div>
         </div>
