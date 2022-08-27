@@ -6,11 +6,11 @@ import Datas from "./Data.json"
 function SearchBar({ placeholder, data }) {
     const [filteredData, setFilteredData] = useState([]);
     const [wordEntered, setWordEntered] = useState("");
+    const { isLoading } = React.useState();
+  
     const handleFilter = (event) => {
       const searchWord = event.target.value;
       setWordEntered(searchWord);
-   
-      
       const newFilter = data.filter((value) => {
         return value.title.toLowerCase().includes(searchWord.toLowerCase());
       });
@@ -22,7 +22,15 @@ function SearchBar({ placeholder, data }) {
       }
     };
   
-
+    if(isLoading){
+      return(
+        <div className="text-center">
+        <div className="spinner-border" role="status">
+          <span className="visually-hidden">Loading...</span>
+        </div>
+      </div>
+      );
+    }
   
     return (
       <div className="search">
@@ -49,11 +57,7 @@ function SearchBar({ placeholder, data }) {
          Datas.map( () => {
             return(
                 <div className="dataResult"  >
-                    <div className="text-center">
-                    <div className="spinner-border" role="status">
-                      <span className="visually-hidden">Loading...</span>
-                    </div>
-                  </div>
+                   
                 {filteredData.map((value,id) => {
 
                   return (
