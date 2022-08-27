@@ -1033,9 +1033,9 @@ margin-bottom: -10px !important;
   justify-content: end !important;
 }
 .section-perfil{
-  justify-content: center !;
-  text-align: center !;
-  align-items: center !;
+  justify-content: center !important;
+  text-align: center !important;
+  align-items: center !important;
   background-color: rgba(80,80,80,0.5);
   display: flex !important;
 }
