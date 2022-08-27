@@ -67,7 +67,7 @@ a{
   .titulo-noticia{
     justify-content: start;
     text-align: center;
-    width:400px;
+    width:400px !important;
     text-overflow:ellipsis;
     overflow:hidden;
     white-space:nowrap;
@@ -86,7 +86,7 @@ a{
     margin:0;
   }
   .noticia-card{
-    width: 400px;
+    width: 400px !important;
     display: inline-block;
     margin-top: 2em;
   
