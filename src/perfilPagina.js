@@ -20,7 +20,7 @@ const PerfilPag = () => {
       <div className="contenedor-informacion container">
        
        <div className="container-imagen">
-       <img src={user.picture} alt={user.name} />
+       <img src={user.picture} alt={user.name}/>
        </div>
        <div className="container-informacion">
        <ul>
