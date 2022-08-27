@@ -34,7 +34,7 @@ const PerfilPag = () => {
         <p className="nickname">Correo Electronico: {user.email}</p>
         </li>
         <li>
-        <p className="nickname">Correo Electronico (Verificado):{user.email_verified}</p>
+        <p className="nickname">Correo Electronico Verificado: {String(user.email_verified)}</p>
         </li>
       
        </ul>
