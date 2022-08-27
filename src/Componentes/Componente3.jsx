@@ -40,14 +40,14 @@ export function Video({tituloAnime, anime , capitulosVideo, siguienteVideo , num
                     </li>
                    
                     
-                   
+                       <SearchBar placeholder={"Buscar animes..."} data={BookData} imagenSearch={img}/>
+
 
                 </ul>
 
 
                 
     </div>
-    <SearchBar placeholder={"Buscar animes..."} data={BookData} imagenSearch={img}/>
 
   </div>
    
