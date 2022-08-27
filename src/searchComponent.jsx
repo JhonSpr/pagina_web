@@ -21,7 +21,7 @@ function SearchBar({ placeholder, data }) {
       }
     };
   
-    if(filteredData === []){
+    if(filteredData == null){
       return(
         <div className="text-center">
         <div className="spinner-border" role="status">
