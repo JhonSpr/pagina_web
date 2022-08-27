@@ -6,7 +6,6 @@ import Datas from "./Data.json"
 function SearchBar({ placeholder, data }) {
     const [filteredData, setFilteredData] = useState([]);
     const [wordEntered, setWordEntered] = useState("");
-    const { isLoading } = React.useState();
   
     const handleFilter = (event) => {
       const searchWord = event.target.value;
