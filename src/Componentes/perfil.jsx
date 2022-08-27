@@ -1,6 +1,5 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import PerfilPag from "../perfilPagina";
-import Profile from "../perfil";
 import img from "../Data.json";
 import BookData from "../Data.json";
 import { Alertas} from '../index'
@@ -29,9 +28,6 @@ export function PerfilPaginaMenu(){
         </div>
 <div className="collapse navbar-collapse contenedor-ul" id="navbarText">
 <ul className='navbar-nav'>
-
-
-<Profile/>
    
 
             <li className='navbar-item mobile item-nav'>
