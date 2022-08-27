@@ -39,7 +39,7 @@ const PerfilPag = () => {
                              : <LoginButton/>
                             
                              }
-      <button className="btn btn-primary" type="button" disabled onClick={() => loginWithRedirect()}>
+      <button className="button is-orange" type="button" disabled onClick={() => loginWithRedirect()}>
     Iniciar Sesion
 </button>
 
