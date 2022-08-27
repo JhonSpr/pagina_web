@@ -172,17 +172,18 @@ export function Video({tituloAnime, anime , capitulosVideo, siguienteVideo , num
     Comments
 </CommentCount>
 
- <CommentEmbed
+               
+
+            </div>
+        </div>
+    </section>
+    <CommentEmbed
     commentId={this.props.article.featuredCommentId}
     showMedia={true}
     showParentComment={true}
     width={420}
     height={320}
-/>               
-
-            </div>
-        </div>
-    </section>
+/>
 </div>
         </div>
     );
