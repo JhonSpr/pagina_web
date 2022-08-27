@@ -49,10 +49,15 @@ function SearchBar({ placeholder, data }) {
          Datas.map( () => {
             return(
                 <div className="dataResult"  >
+                    <div className="text-center">
+                    <div className="spinner-border" role="status">
+                      <span className="visually-hidden">Loading...</span>
+                    </div>
+                  </div>
                 {filteredData.map((value,id) => {
 
                   return (
-                      
+                  
                       <a className="dataItem" href={value.link} title={value.title.toLowerCase()} key={id}>
                         <img src={value.img} alt="**" className="icono-search"/>
                       <span className="span-search">{value.title.toLowerCase()} </span>
