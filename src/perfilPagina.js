@@ -34,13 +34,6 @@ const PerfilPag = () => {
       
        </ul>
        
-       {isAuthenticated ? <> 
-                             
-                             <LogoutButton/>
-                             </>
-                             : <LoginButton/>
-                            
-                             }
     <button className="button is-orange" type="button" disabled onClick={() => loginWithRedirect()}>Iniciar Sesion</button>
     <button onClick={() => logout({ returnTo: window.location.origin })} className="button is-orange">Cerrar Session</button>
 
