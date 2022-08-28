@@ -34,6 +34,7 @@ function SearchBar({ placeholder, data }) {
             autoCorrect="off"
             autoSave="off"
           /> 
+          <i className="fa-solid fa-search"></i>
         </li>
        
                         
