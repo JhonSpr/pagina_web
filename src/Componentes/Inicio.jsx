@@ -85,62 +85,7 @@ export function Inicio({href1,href2,href3,href4,href5,href6,href7,href8,href9,hr
 
 
 
-            <nav className="navbar navbar-expand-lg bg-dark">
-                <div className="container-fluid">
-                    <a className='navbar-brand item-nav logo-cont' href="/"><h1 className="letraA">A</h1> <h2 className="letraN">n</h2> <h2 className="letraI">i</h2> <h2 className="letraM">m</h2> <h2 className="letraE">e</h2> <h2 className="letraK">k</h2> <h2 className="letraU">u</h2> <h2 className="letraN">n</h2></a>
-             
-                <div className=" bg-dark" data-bs-toggle="collapse" data-bs-target="#navbarText" >
-                    <a role="button" className="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarText">
-                        <span className="line1"></span>
-                        <span className="line2"></span>
-                        <span className="line3"></span>
-               
-               
-                    </a>
-                    
-                </div>
-    <div className="collapse navbar-collapse contenedor-ul" id="navbarText">
-    <ul className='navbar-nav'>
-    
-    
-    <Profile/>
-           
-    {isAuthenticated ? <> 
-                                     
-                                     <LogoutButton/>
-                                     </>
-                                     : <LoginButton/> 
-                                      
-                                     }
-                    <li className='navbar-item mobile item-nav'>
-                        <a className='nav-link item-nav' href='/'>Inicio </a>
-                    </li>
-                    <li className='navbar-item item-nav'>
-                        <a className='nav-link item-nav' href='/animes'>Animes </a>
-                    </li>
-                    <li className='navbar-item item-nav' >
-                        <a className='nav-link item-nav' href='/en-emision'>En Emision</a>
-                    </li>
-                  
-                    <Alertas/>
-                    <li className='navbar-item item-nav' >
-                        <a className='nav-link item-nav' href='/ovas'>Ovas</a>
-                    </li>
-                  
-                   
-                    <SearchBar placeholder={"Buscar animes..."} data={BookData} imagenSearch={img}/>
-
-                   
-
-                </ul>
-               
-
-                
-    </div>
-
-  </div>
-   
-            </nav>
+         
 
            
 
