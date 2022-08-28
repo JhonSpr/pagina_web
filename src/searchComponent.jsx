@@ -45,7 +45,7 @@ function SearchBar({ placeholder, data }) {
         {filteredData.length != 0 && (
          Datas.map( () => {
             return(
-                <div className="dataResult navbar-item"  >
+                <div className="dataResult"  >
                    
                 {filteredData.map((value,id) => {
 
