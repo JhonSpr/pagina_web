@@ -29,7 +29,7 @@ function SearchBar({ placeholder, data }) {
             placeholder={placeholder}
             value={wordEntered}
             onChange={handleFilter}
-            className="input is-orange is-rounded form-control me-2"
+            className="input is-orange is-rounded"
             autoCorrect="off"
             autoSave="off"
           /> 
