@@ -24,7 +24,6 @@ function SearchBar({ placeholder, data }) {
     return (
       <div className="search">
         <div className="searchInputs">
-        <li className="navbar-item">
         <input
             type="text"
             placeholder={placeholder}
@@ -35,7 +34,6 @@ function SearchBar({ placeholder, data }) {
             autoSave="off"
           /> 
           <i className="fas fa-search"></i>
-        </li>
        
                         
                     
