@@ -102,7 +102,7 @@ a{
   
  }
  .contenedor-ul{
-  justify-content: start !important;
+  justify-content: start;
  }
  #navbarText ul{
   width: calc(800px - 20px);
