@@ -69,11 +69,7 @@ export function EnEmision({year1,year2,year3,year4,year5,year6,year7,year8,year9
     <span class="sr-only">Toggle Dropdown</span>
   </button>
   <div class="dropdown-menu">
-    ...
-  </div>
-</div> 
-
-           <div className="contenedor-botones">
+  
            {isAuthenticated ? <> 
                                              
                                              <LogoutButton/>
@@ -81,7 +77,11 @@ export function EnEmision({year1,year2,year3,year4,year5,year6,year7,year8,year9
                                              : <LoginButton/> 
                                               
                                              }
-           </div>
+           
+  </div>
+</div> 
+
+          
       <form class="d-flex" role="search">
       <SearchBar placeholder={"Buscar animes..."} data={BookData} imagenSearch={img}/>
       </form>
