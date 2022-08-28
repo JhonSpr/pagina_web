@@ -94,6 +94,9 @@ a{
     align-items: center;
     text-align: start;
   }
+  .contenedor-ul ul:last-child{
+    right: 0;
+  }
  
 }
 @media screen and (min-width:999px) and (max-width:1230px){
