@@ -99,6 +99,7 @@ a{
     text-align: center;
     align-items: center;
     height: 20px !important;
+    padding: 7px 10px;
   }
 
   .input-mobile{
