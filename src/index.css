@@ -67,6 +67,11 @@ a{
   color: rgb(240,240,240);
 }
 
+.boton-desktop {
+  background-color: rgb(60,60,60);
+  color: rgb(230,230,230);
+  border-radius: 5px;
+}
 
 
 @media screen and (min-width:995px) and (max-width:2560px){
