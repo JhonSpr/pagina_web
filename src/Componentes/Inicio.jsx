@@ -47,6 +47,15 @@ export function Inicio({href1,href2,href3,href4,href5,href6,href7,href8,href9,hr
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
 
+      <Profile/>
+           
+           {isAuthenticated ? <> 
+                                            
+                                            <LogoutButton/>
+                                            </>
+                                            : <LoginButton/> 
+                                             
+                                            }
                            <li className='navbar-item mobile item-nav'>
                                <a className='nav-link item-nav' href='/'>Inicio </a>
                            </li>
