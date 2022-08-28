@@ -18,7 +18,9 @@ export function Video({tituloAnime, anime , capitulosVideo, siguienteVideo , num
     return(
         <div>
                 <title>{tituloAnime}</title>
-            
+                <link rel="icon" href="./favicon-32x32.png" type="image/x-icon"/>
+                <link rel="shortcut icon" href="./favicon-32x32.png" type="image/x-icon" class="imagen-pagina"/>
+
                 <nav className="navbar navbar-expand-lg bg-dark">
                 <div className="container-fluid">
                     <a className='navbar-brand item-nav logo-cont' href="/"><h1 className="letraA">A</h1> <h2 className="letraN">n</h2> <h2 className="letraI">i</h2> <h2 className="letraM">m</h2> <h2 className="letraE">e</h2> <h2 className="letraK">k</h2> <h2 className="letraU">u</h2> <h2 className="letraN">n</h2></a>
