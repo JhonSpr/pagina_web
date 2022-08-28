@@ -149,6 +149,9 @@ a{
   .noticia-card{
     width: 100% !important; 
   }
+  .fa-user-large{
+    display: none;
+  }
 }
 
 .contenedor-opciones{
