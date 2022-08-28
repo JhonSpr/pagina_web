@@ -90,6 +90,14 @@ a{
   }
  
 }
+@media screen and (min-width:999px) and (max-width:1230px){
+ .contenedor-ul{
+  display: none;
+ }
+ .navbar-burger.burger{
+  display: block;
+ }
+}
 @media screen and (min-width:990px) and (max-width:999px){
   input{
     display: none !important;
