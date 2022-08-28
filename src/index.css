@@ -131,6 +131,9 @@ a{
   }
 }
 @media screen and (min-width:1px) and (max-width:999px) {
+  .dropdown-toggle{
+    display: none !important;
+  }
   .fa-search{
     left: 280px;
     cursor: pointer;
