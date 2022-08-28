@@ -102,7 +102,7 @@ a{
   width: 900px;
  }
  #navbarText ul{
-  width: 800px;
+  width: calc(800px - 20px);
   font-size: 15px;
  }
 
