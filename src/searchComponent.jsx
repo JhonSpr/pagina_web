@@ -24,15 +24,18 @@ function SearchBar({ placeholder, data }) {
     return (
       <div className="search">
         <div className="searchInputs">
+        <li className="navbar-item">
         <input
             type="text"
             placeholder={placeholder}
             value={wordEntered}
             onChange={handleFilter}
-            className="input is-orange is-rounded"
+            className="input is-orange is-rounded form-control me-2"
             autoCorrect="off"
             autoSave="off"
           /> 
+          <i className="fas fa-search"></i>
+        </li>
        
                         
                     
