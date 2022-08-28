@@ -26,16 +26,12 @@ a{
 }
 
 .div-noticias{
-  background-color: #fff;
   justify-content: center !important;
   text-align: center !important;
   align-items: center !important;
 
 }
 
-.section-noticias{
-  background-color: #00F4F8;
-}
 
 .paginacion-contenedor{
   justify-content: center;
