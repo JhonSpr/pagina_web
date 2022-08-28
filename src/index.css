@@ -145,7 +145,7 @@ a{
   }
 }
 @media screen and (min-width:1px) and (max-width:999px) {
-  .dropdown-toggle{
+  .navbar-item-menu-drop{
     display: none !important;
   }
   .fa-search{
