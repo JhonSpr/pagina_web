@@ -152,8 +152,7 @@ export function Video({tituloAnime, anime , capitulosVideo, siguienteVideo , num
             </div>
         </div>
     </section>
-    <div id="disqus_thread"></div>
-    <DiscussionEmbed/>
+    <div id="disqus_thread" sty></div>
 </div>
         </div>
     );
