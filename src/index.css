@@ -85,6 +85,7 @@ a{
   .dropdown-toggle{
     color: rgb(230,230,230) !important;
     margin: auto 10px;
+    background-color:rgba(0, 0, 0, 0.22);
   }
 
   .input-mobile{
