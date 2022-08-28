@@ -165,7 +165,9 @@ a{
   .spinner-mobile{
     display: block;
   }
-
+  .titulo-noticia{
+    width: auto !important;
+  }
   .fa-search{
     left: 280px;
     cursor: pointer;
