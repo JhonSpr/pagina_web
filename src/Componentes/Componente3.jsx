@@ -8,7 +8,6 @@ import { LoginButton } from '../login'
 import LogoutButton from "../logout";
 import Profile from "../perfil";
 import { useAuth0 } from '@auth0/auth0-react'
-import { DiscussionEmbed } from "disqus-react";
 
 
 /* eslint-disable jsx-a11y/iframe-has-title */
