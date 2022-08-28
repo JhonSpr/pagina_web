@@ -88,13 +88,6 @@ a{
     width: 450px !important; 
     display: flex;
   }
-  .noticia{
-    display: block;
-    justify-content: center;
-    align-items: center;
-    text-align: start;
-    padding-left: 150px;
-  }
   .contenedor-ul ul:last-child{
    float: right;
   }
