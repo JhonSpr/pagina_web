@@ -67,13 +67,15 @@ export function EnEmision({year1,year2,year3,year4,year5,year6,year7,year8,year9
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
   
-  {isAuthenticated ? <> 
+    <li>
+    {isAuthenticated ? <> 
                                     
                                     <LogoutButton/>
                                     </>
                                     : <LoginButton/> 
                                      
                                     }
+    </li>
   
   </div>
 </div>
