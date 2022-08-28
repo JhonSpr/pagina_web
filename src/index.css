@@ -92,7 +92,7 @@ a{
 }
 @media screen and (min-width:999px) and (max-width:1230px){
  .contenedor-ul{
-  display: none;
+  display: none !important;
  }
  .navbar-burger.burger{
   display: block;
