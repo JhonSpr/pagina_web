@@ -92,9 +92,13 @@ a{
 }
 @media screen and (min-width:999px) and (max-width:1230px){
  #navbarText{
-  display: none !important;
+  width: 900px;
  }
- .navbar-burger.burger{
+ #navbarText ul{
+  width: 800px;
+  font-size: 25px;
+ }
+ .navbar-burger.burger:cli{
   display: block !important;
  }
 }
