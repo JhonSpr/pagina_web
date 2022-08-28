@@ -13,6 +13,9 @@ import Profile from "../perfil";
 import { useAuth0 } from '@auth0/auth0-react'
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Disqus } from "./disqus";
+import ProfileMobile from "../perfilMobile";
+import LogoutButtonMobile from "../LogoutMobile";
+import { LoginButtonMobile } from "../LoginMobile";
 
 
 /* eslint-disable jsx-a11y/no-distracting-elements */
@@ -50,7 +53,7 @@ export function Inicio({href1,href2,href3,href4,href5,href6,href7,href8,href9,hr
                            <li className='navbar-item mobile item-nav'>
                                <a className='nav-link item-nav' href='/'>Inicio </a>
                            </li>
-                           <li className='navbar-item item-nav'>
+                           <li className='navbar-item item-nav first-item_desktop'>
                                <a className='nav-link item-nav' href='/animes'>Animes </a>
                            </li>
                            <li className='navbar-item item-nav' >
@@ -62,19 +65,42 @@ export function Inicio({href1,href2,href3,href4,href5,href6,href7,href8,href9,hr
                                <a className='nav-link item-nav' href='/ovas'>Ovas</a>
                            </li>
              
-                         
+                           <ProfileMobile/>     
       </ul>
-      <Profile/>
-           
-           <div className="contenedor-botones">
-           {isAuthenticated ? <> 
-                                             
-                                             <LogoutButton/>
-                                             </>
-                                             : <LoginButton/> 
-                                              
-                                             }
-           </div>
+      
+
+      <div className="dropdown filter-item">
+  <div className="dropdown-toggle navbar-item-menu-drop navbar-item"  data-bs-toggle="dropdown" aria-expanded="false">
+    Perfil
+  </div>
+  <ul className="dropdown-menu dropdown-menu-dark menu-drop">
+  <Profile/>
+    <li>{isAuthenticated ? <> 
+                                    
+                                    <LogoutButton/>
+                                    </>
+                                    : <LoginButton/> 
+                                     
+                                    }</li>
+    
+    
+  </ul>
+</div>
+
+{isAuthenticated ? <> 
+                                    
+                                    <LogoutButtonMobile/>
+                                    </>
+                                    : <LoginButtonMobile/> 
+                                     
+                                    }
+
+  
+
+  
+
+
+          
       <form class="d-flex" role="search">
       <SearchBar placeholder={"Buscar animes..."} data={BookData} imagenSearch={img}/>
       </form>

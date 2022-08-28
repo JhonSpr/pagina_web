@@ -7,6 +7,9 @@ import { LoginButton } from '../login'
 import LogoutButton from "../logout";
 import Profile from "../perfil";
 import { useAuth0 } from '@auth0/auth0-react'
+import { LoginButtonMobile } from "../LoginMobile";
+import LogoutButtonMobile from "../LogoutMobile";
+import ProfileMobile from "../perfilMobile";
 
 
 
@@ -49,7 +52,7 @@ export function Componente1({year1,year2,year3,year4,year5,year6,year7,year8,yea
                            <li className='navbar-item mobile item-nav'>
                                <a className='nav-link item-nav' href='/'>Inicio </a>
                            </li>
-                           <li className='navbar-item item-nav'>
+                           <li className='navbar-item item-nav first-item_desktop'>
                                <a className='nav-link item-nav' href='/animes'>Animes </a>
                            </li>
                            <li className='navbar-item item-nav' >
@@ -61,19 +64,42 @@ export function Componente1({year1,year2,year3,year4,year5,year6,year7,year8,yea
                                <a className='nav-link item-nav' href='/ovas'>Ovas</a>
                            </li>
              
-                         
+                           <ProfileMobile/>     
       </ul>
-      <Profile/>
-           
-           <div className="contenedor-botones">
-           {isAuthenticated ? <> 
-                                             
-                                             <LogoutButton/>
-                                             </>
-                                             : <LoginButton/> 
-                                              
-                                             }
-           </div>
+      
+
+      <div className="dropdown filter-item">
+  <div className="dropdown-toggle navbar-item-menu-drop navbar-item"  data-bs-toggle="dropdown" aria-expanded="false">
+    Perfil
+  </div>
+  <ul className="dropdown-menu dropdown-menu-dark menu-drop">
+  <Profile/>
+    <li>{isAuthenticated ? <> 
+                                    
+                                    <LogoutButton/>
+                                    </>
+                                    : <LoginButton/> 
+                                     
+                                    }</li>
+    
+    
+  </ul>
+</div>
+
+{isAuthenticated ? <> 
+                                    
+                                    <LogoutButtonMobile/>
+                                    </>
+                                    : <LoginButtonMobile/> 
+                                     
+                                    }
+
+  
+
+  
+
+
+          
       <form class="d-flex" role="search">
       <SearchBar placeholder={"Buscar animes..."} data={BookData} imagenSearch={img}/>
       </form>
