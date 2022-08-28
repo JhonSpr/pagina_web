@@ -125,6 +125,9 @@ a{
   .spinner-mobile{
     display: none;
   }
+  .titulo-noticia{
+    width: auto !important;
+  }
  
 }
 @media screen and (min-width:999px) and (max-width:1230px){
