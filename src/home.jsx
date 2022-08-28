@@ -737,7 +737,7 @@ function App () {
       classEmision22={"tag is-success airing"} classEmision23={"disable"} classEmision24={"disable"}
       />}/>
      
-     <Route path="/animes-3" element={<Componente1 img1="" img2=""
+     <Route path="/ver/castlevania-segunda-temporada-3" element={<Componente1 img1="" img2=""
       img3="" img4="" 
       img5="" img6="" 
       img7="" img8="" 
