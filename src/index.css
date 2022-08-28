@@ -19,6 +19,7 @@ a{
 
 .contenedor-perfil-mobile{
   display: block;
+  width: max-content;
 }
 
 .div-noticias{
