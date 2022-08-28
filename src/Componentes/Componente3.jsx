@@ -9,7 +9,6 @@ import LogoutButton from "../logout";
 import Profile from "../perfil";
 import { useAuth0 } from '@auth0/auth0-react'
 import { DiscussionEmbed } from "disqus-react";
-import { Component } from "react";
 
 
 /* eslint-disable jsx-a11y/iframe-has-title */
@@ -147,7 +146,7 @@ export function Video({tituloAnime, anime , capitulosVideo, siguienteVideo , num
                         <div id="showComments" className="button is-fullwidth is-dark">{anime}</div>
                     </div>
                 </div>
-                                     <Component/>
+                                     
                <DiscussionEmbed/>
                                     
             </div>
