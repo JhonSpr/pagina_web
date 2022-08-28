@@ -281,7 +281,7 @@ input {
       display: block
   }
 
-  .list-series>.serie-card {
+  .list-series>.serie-card,.noticia-card {
       width: calc(25% - 5px);
       margin: 1px
   }
