@@ -62,15 +62,16 @@ export function EnEmision({year1,year2,year3,year4,year5,year6,year7,year8,year9
       </ul>
       <Profile/>
 
-      <div class="dropdown">
-  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    Dropdown button
-  </button>
-  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-    <a class="dropdown-item" href="#">Action</a>
-    <a class="dropdown-item" href="#">Another action</a>
-    <a class="dropdown-item" href="#">Something else here</a>
+      <div className="dropdown filter-item">
+  <div className="btn btn-secondary dropdown-toggle"  data-bs-toggle="dropdown" aria-expanded="false">
+   Estado
   </div>
+  <ul className="dropdown-menu dropdown-menu-dark">
+    <li><a className="dropdown-item" href="/estado=finalizado">FINALIZADO</a></li>
+    <li><a className="dropdown-item active" href="/en-emision">EN EMISIÓN</a></li>
+    <li><a className="dropdown-item" href="/estado=proximamente">PROXIMAMENTE</a></li>
+    
+  </ul>
 </div>
 
     {isAuthenticated ? <> 
