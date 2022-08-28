@@ -91,7 +91,7 @@ a{
  
 }
 @media screen and (min-width:999px) and (max-width:1230px){
- .contenedor-ul{
+ #navbarText{
   display: none !important;
  }
  .navbar-burger.burger{
