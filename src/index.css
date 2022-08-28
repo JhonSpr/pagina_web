@@ -90,9 +90,7 @@ a{
     width: 450px !important; 
     display: flex;
   }
-  .contenedor-ul .navbar-nav:last-child{
-   float: right;
-  }
+
  
 }
 @media screen and (min-width:999px) and (max-width:1230px){
