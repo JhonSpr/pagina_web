@@ -17,6 +17,15 @@ a{
   color: rgb(240,240,240) !important;
 }
 
+.div-noticias{
+  background-color: #fff;
+
+}
+
+.section-noticias{
+  background-color: #00F4F8;
+}
+
 .paginacion-contenedor{
   justify-content: center;
   align-items: center;
