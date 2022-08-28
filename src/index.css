@@ -119,6 +119,9 @@ a{
   .perfil-container-mobile{
     display: none !important;
   }
+  .first-item_desktop{
+    margin-left: 15px;
+  }
  
 }
 @media screen and (min-width:999px) and (max-width:1230px){
@@ -229,7 +232,7 @@ a{
   align-items: center;
   justify-content: center;
   margin-left: 5px;
-  background: rgb(60,60,60);
+  border-bottom: 2px solid rgb(0, 0, 0);
 }
 
 .nickname{

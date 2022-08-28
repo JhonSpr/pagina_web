@@ -49,7 +49,7 @@ export function EnEmision({year1,year2,year3,year4,year5,year6,year7,year8,year9
                            <li className='navbar-item mobile item-nav'>
                                <a className='nav-link item-nav' href='/'>Inicio </a>
                            </li>
-                           <li className='navbar-item item-nav'>
+                           <li className='navbar-item item-nav first-item_desktop'>
                                <a className='nav-link item-nav' href='/animes'>Animes </a>
                            </li>
                            <li className='navbar-item item-nav' >
