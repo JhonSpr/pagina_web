@@ -230,11 +230,6 @@ input {
 }
 
 
-
-.page-footer.hero.is-dark {
-  background-color: #1c1c1c;
-}
-
 .pagination-link.is-current {
   background-color: #0E25BD !important;
   border-color: #0E25BD;
@@ -311,7 +306,7 @@ input {
       display: block
   }
 
-  .list-series>.serie-card {
+  .list-series>.serie-card,.noticia-card {
       width: calc(19.99997% - 10px);
       margin: 5px
   }
