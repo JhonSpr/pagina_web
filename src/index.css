@@ -1101,10 +1101,10 @@ margin-bottom: -10px !important;
 
 @media screen and (min-width:1020px) and (max-width:2560px){
   .contenedor-botones{
-  overflow: hidden;
+  display: none;
   }
   .perfil-container:hover .contenedor-botones{
-  overflow: visible;
+  display: block;
   }
   .margin-nav{
     margin-left: 15px !important;
