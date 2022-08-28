@@ -97,7 +97,8 @@ a{
     justify-content: center;
     text-align: center;
     align-items: center;
-    height: 50px !important;
+    height: 40px !important;
+    border-radius: 20px;
   }
 
   .input-mobile{
