@@ -79,7 +79,7 @@ a{
   .menu-drop{
     margin-top: 15px !important;
     background-color: rgb(60,60,60);
-    width: 70px;
+    width: auto;
     height: auto;
   }
 
