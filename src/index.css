@@ -95,7 +95,7 @@ a{
   display: none !important;
  }
  .navbar-burger.burger{
-  display: block;
+  display: block !important;
  }
 }
 @media screen and (min-width:990px) and (max-width:999px){
