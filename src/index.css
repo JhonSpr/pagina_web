@@ -171,6 +171,9 @@ a{
   .noticia-card{
     width: 100% !important; 
   }
+  .perfil-container-mobile{
+    display: block !important;
+  }
 }
 
 .contenedor-opciones{
