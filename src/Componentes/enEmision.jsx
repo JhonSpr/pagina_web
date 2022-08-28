@@ -61,14 +61,17 @@ export function EnEmision({year1,year2,year3,year4,year5,year6,year7,year8,year9
                          
       </ul>
       <Profile/>
-           
-      <div class="btn-group">
-  <button class="btn btn-secondary btn-sm dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+
+   <div class="btn-group">
+  <button class="btn btn-secondary btn-sm" type="button">
+  </button>
+  <button type="button" class="btn btn-sm btn-secondary dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <span class="sr-only">Toggle Dropdown</span>
   </button>
   <div class="dropdown-menu">
     ...
   </div>
-</div>  
+</div> 
 
            <div className="contenedor-botones">
            {isAuthenticated ? <> 
