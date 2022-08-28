@@ -1101,3 +1101,7 @@ margin-bottom: -10px !important;
 #disqus_thread{
   margin-top: 200px !important;
 }
+
+input{
+  float: right !important;
+}
