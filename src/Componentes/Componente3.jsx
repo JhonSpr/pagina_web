@@ -19,13 +19,13 @@ export function Video({tituloAnime, anime , capitulosVideo, siguienteVideo , num
         <div>
                 <title>{tituloAnime}</title>
                 <link rel="icon" href="./favicon-32x32.png" type="image/x-icon"/>
-                <link rel="shortcut icon" href="./favicon-32x32.png" type="image/x-icon" class="imagen-pagina"/>
+                <link rel="shortcut icon" href="../../public/favicon-32x32.png" type="image/x-icon" class="imagen-pagina"/>
 
-                <nav className="navbar navbar-expand-lg bg-dark">
-                <div className="container-fluid">
+                <nav class="navbar navbar-expand-lg bg-dark">
+            <div className="container-fluid">
                     <a className='navbar-brand item-nav logo-cont' href="/"><h1 className="letraA">A</h1> <h2 className="letraN">n</h2> <h2 className="letraI">i</h2> <h2 className="letraM">m</h2> <h2 className="letraE">e</h2> <h2 className="letraK">k</h2> <h2 className="letraU">u</h2> <h2 className="letraN">n</h2></a>
-             
-                <div className=" bg-dark" data-bs-toggle="collapse" data-bs-target="#navbarText" >
+
+    <div className=" bg-dark" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" >
                     <a role="button" className="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarText">
                         <span className="line1"></span>
                         <span className="line2"></span>
@@ -35,47 +35,42 @@ export function Video({tituloAnime, anime , capitulosVideo, siguienteVideo , num
                     </a>
                     
                 </div>
-    <div className="collapse navbar-collapse contenedor-ul" id="navbarText">
-    <ul className='navbar-nav'>
-    
-    
-    <Profile/>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0 cont-ul">
+      
+                           <li className='navbar-item mobile item-nav'>
+                               <a className='nav-link item-nav' href='/'>Inicio </a>
+                           </li>
+                           <li className='navbar-item item-nav'>
+                               <a className='nav-link item-nav' href='/animes'>Animes </a>
+                           </li>
+                           <li className='navbar-item item-nav' >
+                               <a className='nav-link item-nav' href='/en-emision'>En Emision</a>
+                           </li>
+                         
+                           <Alertas/>
+                           <li className='navbar-item item-nav' >
+                               <a className='nav-link item-nav' href='/ovas'>Ovas</a>
+                           </li>
+             
+                         
+      </ul>
+      <Profile/>
            
-    {isAuthenticated ? <> 
-                                     
-                                     <LogoutButton/>
-                                     </>
-                                     : <LoginButton/>
-                                    
-                                     }
-                    <li className='navbar-item mobile item-nav'>
-                        <a className='nav-link item-nav' href='/'>Inicio </a>
-                    </li>
-                    <li className='navbar-item item-nav'>
-                        <a className='nav-link item-nav' href='/animes'>Animes </a>
-                    </li>
-                    <li className='navbar-item item-nav' >
-                        <a className='nav-link item-nav' href='/en-emision'>En Emision</a>
-                    </li>
-                  
-                    <Alertas/>
-                    <li className='navbar-item item-nav' >
-                        <a className='nav-link item-nav' href='/ovas'>Ovas</a>
-                    </li>
-                  
-                   
-                    <SearchBar placeholder={"Buscar animes..."} data={BookData} imagenSearch={img}/>
-
-                   
-
-                </ul>
-               
-
-                
+           <div className="contenedor-botones">
+           {isAuthenticated ? <> 
+                                             
+                                             <LogoutButton/>
+                                             </>
+                                             : <LoginButton/> 
+                                              
+                                             }
+           </div>
+      <form class="d-flex" role="search">
+      <SearchBar placeholder={"Buscar animes..."} data={BookData} imagenSearch={img}/>
+      </form>
     </div>
-
   </div>
-   
             </nav>
 
 <div className="hero is-fullheightX">
