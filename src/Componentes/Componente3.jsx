@@ -10,7 +10,6 @@ import Profile from "../perfil";
 import { useAuth0 } from '@auth0/auth0-react'
 
 
-
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Video({tituloAnime, anime , capitulosVideo, siguienteVideo , numero , contAnteriorClass,contSiguienteClass, iconoAnterior , tituloPag,  iconoSiguiente , frame1 , frame2 , frame3 ,anteriorVideo, classOpcionAnterior, classOpcionCapitulos , classOpcionSiguiente , botonAnterior , botonCapitulos , botonSiguiente , classOpciones}){
     const {isAuthenticated} = useAuth0();
