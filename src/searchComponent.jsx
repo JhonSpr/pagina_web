@@ -33,7 +33,6 @@ function SearchBar({ placeholder, data }) {
             autoCorrect="off"
             autoSave="off"
           /> 
-          <i className="fas fa-search"></i>
        
                         
                     
