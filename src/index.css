@@ -117,7 +117,9 @@ a{
   .image_2{
     display: none !important;
   }
-
+  .noticia-card{
+    width: 500px;
+  }
 }
 
 .contenedor-opciones{
