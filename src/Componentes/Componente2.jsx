@@ -38,7 +38,7 @@ export function Capitulos12({hrefGenre1,hrefGenre2,hrefGenre3,hrefGenre4,hrefGen
                            <li className='navbar-item mobile item-nav'>
                                <a className='nav-link item-nav' href='/'>Inicio </a>
                            </li>
-                           <li className='navbar-item item-nav ml-2'>
+                           <li className='navbar-item item-nav ml-2 margin-nav'>
                                <a className='nav-link item-nav' href='/animes'>Animes </a>
                            </li>
                            <li className='navbar-item item-nav' >
