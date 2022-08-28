@@ -4,7 +4,7 @@ import Disqus from "disqus-react"
 
 export default class extends Component {
   render() {
-    const disqusShortname = "your-site-shortname"
+    const disqusShortname = "animekuns"
     const disqusConfig = {
       url: "https://animekuns.netlify.app/",
       identifier: "article-id",
