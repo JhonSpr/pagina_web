@@ -96,7 +96,7 @@ a{
     padding-left: 150px;
   }
   .contenedor-ul ul:last-child{
-    right: 0;
+   float: right;
   }
  
 }
