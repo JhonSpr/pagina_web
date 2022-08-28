@@ -104,6 +104,7 @@ a{
  #navbarText ul{
   width: calc(800px - 20px);
   font-size: 15px;
+  left: 0;
  }
 
 }
