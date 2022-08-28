@@ -23,7 +23,9 @@ a{
 
 }
 
-
+.contenedor-ul{
+  justify-content: flex-end;
+}
 .paginacion-contenedor{
   justify-content: center;
   align-items: center;
