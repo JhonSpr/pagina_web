@@ -16,7 +16,11 @@ a{
   text-decoration: none;
   color: rgb(240,240,240) !important;
 }
-
+.search{
+  justify-content: start;
+  text-align: start;
+  align-items: flex-start;
+}
 
 .paginacion-contenedor{
   justify-content: center;
