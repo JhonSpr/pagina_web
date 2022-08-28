@@ -146,7 +146,7 @@ export function Video({tituloAnime, anime , capitulosVideo, siguienteVideo , num
                     </div>
                 </div>
                                      
-                <div id="disqus_thread" sty></div>
+                
                                     
             </div>
         </div>
