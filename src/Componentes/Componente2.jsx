@@ -60,7 +60,7 @@ export function Capitulos12({hrefGenre1,hrefGenre2,hrefGenre3,hrefGenre4,hrefGen
       <div className="dropdown filter-item">
   <div className="dropdown-toggle navbar-item-menu-drop navbar-item"  data-bs-toggle="dropdown" aria-expanded="false">
   isAuthenticated && (
-    <img src={user.picture} alt="" />
+    <img src={user.picture} alt={user.name} className="imagen-perfil"/>
   )
     
     Perfil
