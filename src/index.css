@@ -1097,9 +1097,7 @@ margin-bottom: -10px !important;
 }
 
 
-.cont-ul{
-  margin-left: 15px;
-}
+
 
 @media screen and (min-width:1020px) and (max-width:2560px){
   .contenedor-botones{
@@ -1107,6 +1105,9 @@ margin-bottom: -10px !important;
   }
   .perfil-container:hover .contenedor-botones{
   display: block;
+  }
+  .cont-ul{
+    margin-left: 15px !important;
   }
 
 }
