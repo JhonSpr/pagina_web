@@ -77,7 +77,6 @@ a{
     display: none !important;
   }
   .item-nav a{
-    width: 100px;
     margin: -5px;
     justify-content: center;
     text-align: center;
@@ -1095,9 +1094,6 @@ margin-bottom: -10px !important;
   border-radius: 15px;
 }
 
-.boton-registrarse{
-  margin-left: 10px;
-}
 
 #disqus_thread{
   margin-top: 200px !important;
