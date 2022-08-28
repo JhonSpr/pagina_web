@@ -1061,7 +1061,7 @@ margin-bottom: -10px !important;
   background-color: rgba(0, 0, 0, 0.8) !important;
 }
 
-.contenedor-ul:last-child{
+.contenedor-ul ul:last-child{
   justify-content: end !important;
 }
 .section-perfil{
