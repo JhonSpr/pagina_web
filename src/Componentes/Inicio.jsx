@@ -45,7 +45,7 @@ export function Inicio({href1,href2,href3,href4,href5,href6,href7,href8,href9,hr
                     
                 </div>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0 cont-ul">
       
                            <li className='navbar-item mobile item-nav'>
                                <a className='nav-link item-nav' href='/'>Inicio </a>
