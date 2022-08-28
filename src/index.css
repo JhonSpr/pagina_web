@@ -100,6 +100,7 @@ a{
 @media screen and (min-width:999px) and (max-width:1230px){
  #navbarText{
   width: 900px;
+  justify-content: start;
  }
  #navbarText ul{
   width: calc(800px - 20px);
