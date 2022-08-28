@@ -93,6 +93,7 @@ a{
     justify-content: center;
     align-items: center;
     text-align: start;
+    padding-left: 150px;
   }
   .contenedor-ul ul:last-child{
     right: 0;
