@@ -115,7 +115,9 @@ a{
     width: 450px !important; 
     display: flex;
   }
-
+  .perfil-container-mobile{
+    display: none !important;
+  }
  
 }
 @media screen and (min-width:999px) and (max-width:1230px){
