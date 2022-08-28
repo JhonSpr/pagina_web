@@ -67,6 +67,7 @@ export function Inicio({href1,href2,href3,href4,href5,href6,href7,href8,href9,hr
                           
       </ul>
       <form class="d-flex" role="search">
+      <div className="contenedor-perfil-mobile">
       <Profile/>
            
            {isAuthenticated ? <> 
@@ -76,6 +77,7 @@ export function Inicio({href1,href2,href3,href4,href5,href6,href7,href8,href9,hr
                                             : <LoginButton/> 
                                              
                                             }
+      </div>
       <SearchBar placeholder={"Buscar animes..."} data={BookData} imagenSearch={img}/>
       </form>
     </div>

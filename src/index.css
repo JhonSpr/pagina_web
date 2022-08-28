@@ -17,6 +17,10 @@ a{
   color: rgb(240,240,240) !important;
 }
 
+.contenedor-perfil-mobile{
+  display: block;
+}
+
 .div-noticias{
   background-color: #fff;
 
