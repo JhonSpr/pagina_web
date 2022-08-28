@@ -122,6 +122,9 @@ a{
   .first-item_desktop{
     margin-left: 15px;
   }
+  .spinner-mobile{
+    display: none;
+  }
  
 }
 @media screen and (min-width:999px) and (max-width:1230px){
@@ -159,6 +162,10 @@ a{
   .navbar-item-menu-drop{
     display: none !important;
   }
+  .spinner-mobile{
+    display: block;
+  }
+
   .fa-search{
     left: 280px;
     cursor: pointer;
