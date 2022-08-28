@@ -47,15 +47,6 @@ export function Inicio({href1,href2,href3,href4,href5,href6,href7,href8,href9,hr
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
 
-      <Profile/>
-           
-           {isAuthenticated ? <> 
-                                            
-                                            <LogoutButton/>
-                                            </>
-                                            : <LoginButton/> 
-                                             
-                                            }
                            <li className='navbar-item mobile item-nav'>
                                <a className='nav-link item-nav' href='/'>Inicio </a>
                            </li>
@@ -76,7 +67,15 @@ export function Inicio({href1,href2,href3,href4,href5,href6,href7,href8,href9,hr
                           
       </ul>
       <form class="d-flex" role="search">
-    
+      <Profile/>
+           
+           {isAuthenticated ? <> 
+                                            
+                                            <LogoutButton/>
+                                            </>
+                                            : <LoginButton/> 
+                                             
+                                            }
       <SearchBar placeholder={"Buscar animes..."} data={BookData} imagenSearch={img}/>
       </form>
     </div>
@@ -228,7 +227,7 @@ export function Inicio({href1,href2,href3,href4,href5,href6,href7,href8,href9,hr
                 </div>
                 </section>
 
-                <section className="section page-home__latest-series section-noticias" >
+                <section className="section page-home__latest-series" >
                 <div className="container rounded-container div-noticias">
                 <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">NOTICIAS SOBRE ANIME</h1>
                 <hr />
