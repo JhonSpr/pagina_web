@@ -7,6 +7,8 @@ import { LoginButton } from '../login'
 import LogoutButton from "../logout";
 import Profile from "../perfil";
 import { useAuth0 } from '@auth0/auth0-react'
+import { LoginButtonMobile } from "../LoginMobile";
+import LogoutButtonMobile from "../LogoutMobile";
 
 export function EnEmision({year1,year2,year3,year4,year5,year6,year7,year8,year9,year10,year11,year12,year13,year14,year15,year16,year17,year18,year19,year20,year21,year22,
                     year23,year24,classpag1,classpag2,classpag3,classpag4,classpag5,classpag6,classpag7,classpag8,classpag9,classpag10,
@@ -78,7 +80,13 @@ export function EnEmision({year1,year2,year3,year4,year5,year6,year7,year8,year9
   </ul>
 </div>
 
-    
+{isAuthenticated ? <> 
+                                    
+                                    <LogoutButtonMobile/>
+                                    </>
+                                    : <LoginButtonMobile/> 
+                                     
+                                    }
 
   
 

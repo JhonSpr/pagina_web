@@ -73,7 +73,9 @@ a{
   .container-fluid{
     width: 1500px;
   }
-
+  .btn-mobile{
+    display: none;
+  }
 
   .input-mobile{
     display: none !important;
