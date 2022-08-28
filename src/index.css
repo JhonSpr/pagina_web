@@ -224,6 +224,13 @@ a{
   margin-left: 5px;
   border-bottom: 2px solid rgb(100,100,100);
 }
+.perfil-container-mobile{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin-left: 5px;
+  background: rgb(60,60,60);
+}
 
 .nickname{
   margin-left: 6px;
