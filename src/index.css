@@ -998,7 +998,6 @@ margin-bottom: -10px !important;
 .titulo-noticia{
  justify-content: start;
  text-align: center;
- width:300px;
  text-overflow:ellipsis;
  overflow:hidden;
  white-space:nowrap;
