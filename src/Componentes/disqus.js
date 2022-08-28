@@ -7,7 +7,7 @@ export default class extends Component {
     const disqusShortname = "animekuns"
     const disqusConfig = {
       url: "https://animekuns.netlify.app/",
-      identifier: "article-id",
+      identifier: "Animes-id",
       title: "Animes"
     }
 
