@@ -17,7 +17,7 @@ a{
   color: rgb(240,240,240) !important;
 }
 .perfil-container{
-  display: block;
+  margin-left: 10px;
 }
 
 .contenedor-perfil-mobile{
