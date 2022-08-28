@@ -147,12 +147,13 @@ export function Video({tituloAnime, anime , capitulosVideo, siguienteVideo , num
                     </div>
                 </div>
                                      
-               <DiscussionEmbed/>
+               
                                     
             </div>
         </div>
     </section>
-
+    <div id="disqus_thread"></div>
+    <DiscussionEmbed/>
 </div>
         </div>
     );
