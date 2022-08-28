@@ -44,7 +44,7 @@ const PerfilPag = () => {
        </div>
         
       
-       <div id="disqus_thread" style={{ display: "none !important"}}></div>
+       <div id="disqus_thread" style={{ display: "none"}}></div>
       </div>
        
       
