@@ -89,6 +89,12 @@ a{
     width: 450px !important; 
     display: flex;
   }
+  .noticia{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: start;
+  }
  
 }
 @media screen and (min-width:999px) and (max-width:1230px){
