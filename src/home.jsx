@@ -646,7 +646,7 @@ function App () {
       numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
       numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
       numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
-      anime={" "} 
+      anime={"Fullmetal Alchemist Brotherhood "} 
       capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
       capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
       capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
