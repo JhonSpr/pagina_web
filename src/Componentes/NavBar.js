@@ -21,7 +21,7 @@ export default function Menubar(){
 <div>
 <nav class="navbar navbar-expand-lg bg-dark">
             <div className="container-fluid">
-                    <NavLink className='navbar-brand item-nav logo-cont' to={"/"}><h1 className="letraA">A</h1> <h2 className="letraN">n</h2> <h2 className="letraI">i</h2> <h2 className="letraM">m</h2> <h2 className="letraE">e</h2> <h2 className="letraK">k</h2> <h2 className="letraU">u</h2> <h2 className="letraN">n</h2></NavLink>
+                    <a className='navbar-brand item-nav logo-cont' href={"/"}><h1 className="letraA">A</h1> <h2 className="letraN">n</h2> <h2 className="letraI">i</h2> <h2 className="letraM">m</h2> <h2 className="letraE">e</h2> <h2 className="letraK">k</h2> <h2 className="letraU">u</h2> <h2 className="letraN">n</h2></a>
 
     <div className=" bg-dark" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" >
                     <a role="button" className="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarText">
@@ -37,7 +37,7 @@ export default function Menubar(){
       <ul class="navbar-nav me-auto mb-2 mb-lg-0 cont-ul">
       
                            <li className='navbar-item mobile item-nav'>
-                           <NavLink to={"/"} className="nav-link item-nav">Inicio</NavLink>
+                           <a href={"/"} className="nav-link item-nav">Inicio</a>
                            
                            </li>
                            <li className='navbar-item item-nav first-item_desktop'>
