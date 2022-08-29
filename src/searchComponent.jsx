@@ -1,6 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-has-content */
 /* eslint-disable eqeqeq */
 import React, { useState } from "react";
+import { NavLink } from "react-router-dom";
 import Datas from "./Data.json"
 
 function SearchBar({ placeholder, data }) {
@@ -58,11 +59,11 @@ function SearchBar({ placeholder, data }) {
 
                   return (
                   
-                      <a className="dataItem" href={value.link} title={value.title.toLowerCase()} key={data.id}>
+                      <NavLink className="dataItem" to={value.link} title={value.title.toLowerCase()} key={data.id}>
                         <img src={value.img} alt="**" className="icono-search"/>
                       <span className="span-search">{value.title.toLowerCase()} </span>
                       
-                    </a>
+                    </NavLink>
                     
                  
                   );
