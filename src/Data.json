@@ -383,5 +383,13 @@
         "title": "",
         "year": 20
         
+      },
+      { 
+        "id":"49",
+        "img": "https://www.animefenix.com/cdn/animes/cover/5fd97249d303d/golden-time.jpg",
+        "link": "/golden-time",
+        "title": "Golden Time",
+        "year": 2016
+        
       }
   ]
