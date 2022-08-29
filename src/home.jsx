@@ -595,9 +595,9 @@ function App () {
       />}/>
 
 <Route path="/fullmetal-alchemist-brotherhood" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
-      genero1={"Comedia"} genero2={"Romance"} genero3={"Seinen"} genero4={""} genero5={""}
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
       genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
-      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"disable"} genre5={"disable"}
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
       hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
       sec2={"sec"} sec3={"sec"} sec1={"sec"}
       li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
