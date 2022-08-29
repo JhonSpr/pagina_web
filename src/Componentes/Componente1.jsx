@@ -121,18 +121,18 @@ export function Componente1({year1,year2,year3,year4,year5,year6,year7,year8,yea
   
     <figure className=" image overarchingdiv2" >
         
-        <NavLink to={href1}>
+        <a href={href1}>
             <img src={img1} alt={anime1} />
             <div className="overlay-dark"></div>
             <div className="hoveroverlay">
             <i className="fas fa-play pgnav activehov"></i>
             </div>
-        </NavLink>
+        </a>
         <span className="tag year is-dark">{year1}</span>
         <span className="tag is-danger type">{tv}</span>
         <span className={classEmision1}>{emision}</span>
         <div className="title">
-            <h3><NavLink to={href1} className="has-text-orange has-text-weight-semibold has-text-centered is-size-6">{anime1}</NavLink></h3>
+            <h3><a href={href1} className="has-text-orange has-text-weight-semibold has-text-centered is-size-6">{anime1}</a></h3>
         </div>
     </figure>
   </article>
