@@ -798,14 +798,14 @@ function App () {
       year9="" year10="" year11="" year12="" year13="" year14="" year15="" year16=""
       year17="" year18="" year19="" year20="" year21="" year22="" year23="" year24=""
 
-      href1="/golden-time" href2="" href3="" href4="" href5="" href6="" href7="" href8="" href9=""
+      href1="/golden-time" href2="/fullmetal-alchemist-brotherhood" href3="" href4="" href5="" href6="" href7="" href8="" href9=""
       href10="" href11="" href12="" href13="" href14="" href15="" href16="" href17=""
       href18="" href19="" href20="" href21="" href22="" href23="" href24=""
 
-      anime1="Golden Time" anime2="" anime3="" anime4="" anime5="" anime6="" anime7="" anime8="" 
+      anime1="Golden Time" anime2="Fullmetal Alchemist Brotherhood" anime3="" anime4="" anime5="" anime6="" anime7="" anime8="" 
       anime9="" anime10="" anime11="" anime12="" anime13="" anime14="" anime15=""
       anime16="" anime17="" anime18="" anime19="" anime20="" anime21="" anime22="" anime23=""anime24="" 
-      alt1="Golden Time" alt2="" alt3="" alt4="" alt5="" alt6="" alt7="" alt8="" 
+      alt1="Golden Time" alt2="Fullmetal Alchemist Brotherhood" alt3="" alt4="" alt5="" alt6="" alt7="" alt8="" 
       alt9="" alt10="" alt11="" alt12="" alt13="" alt14="" alt15="" alt16="" alt17=""
       alt18="" alt19="" alt20="" alt21="" alt22="" alt23="" alt24=""
       classpag11="disable" classpag3="active"
