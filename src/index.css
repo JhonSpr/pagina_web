@@ -191,6 +191,9 @@ a{
   .perfil-container-mobile{
     display: block !important;
   }
+  .filtrador{
+    margin-top: 6em !important;
+  }
 }
 
 .contenedor-opciones{
