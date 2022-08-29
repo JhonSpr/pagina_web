@@ -568,8 +568,6 @@ function App () {
       capituloAnime19={"/ver/extreme-hearts-19"} capituloAnime20={"/ver/extreme-hearts-20"} 
       capituloAnime21={"/ver/extreme-hearts-21"} capituloAnime22={"/ver/extreme-hearts-22"} capituloAnime23={"/ver/extreme-hearts-23"} capituloAnime24={"/ver/extreme-hearts-24"}
       />} />
-      
-
 
       <Route path="/golden-time" exact element={<Capitulos12 tituloAnime={"Golden Time"} 
       genero1={"Comedia"} genero2={"Romance"} genero3={"Seinen"} genero4={""} genero5={""}

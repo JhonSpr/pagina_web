@@ -1090,7 +1090,7 @@ margin-bottom: -10px !important;
   display: none;
 }
 .dataResult{
-  position: absolute;
+  position: relative;
   height: auto;
   max-height: min-content;
   overflow: hidden;
