@@ -1083,6 +1083,7 @@ margin-bottom: -10px !important;
   max-height: 300px !important;
   background-color: rgb(20,20,20);
   overflow: hidden;
+  z-index: 99999 !important;
 }
 
 .dataResult::-webkit-scrollbar {
@@ -1093,7 +1094,7 @@ margin-bottom: -10px !important;
   height: auto;
   max-height: min-content;
   overflow: hidden;
-  z-index: 100 !important;
+  z-index: 9999 !important;
 
 }
 .icono-search{
