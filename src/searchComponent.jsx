@@ -4,9 +4,13 @@ import React, { useState } from "react";
 import Datas from "./Data.json"
 
 function SearchBar({ placeholder, data }) {
+
+
+ 
+
     const [filteredData, setFilteredData] = useState([]);
     const [wordEntered, setWordEntered] = useState("");
-  
+    
     const handleFilter = (event) => {
       const searchWord = event.target.value;
       setWordEntered(searchWord);
@@ -43,15 +47,18 @@ function SearchBar({ placeholder, data }) {
 
         </div>
         {filteredData.length != 0 && (
-         Datas.map( () => {
+         Datas.map( data => {
             return(
-                <div className="dataResult"  >
-                   
-                {filteredData.map((value,id) => {
+                <div className="dataResult">
+                   {
+                    filteredData.length == 0 
+                    
+                   }
+                { filteredData.slice(0,4).map( value => {
 
                   return (
                   
-                      <a className="dataItem" href={value.link} title={value.title.toLowerCase()} key={id}>
+                      <a className="dataItem" href={value.link} title={value.title.toLowerCase()} key={data.id}>
                         <img src={value.img} alt="**" className="icono-search"/>
                       <span className="span-search">{value.title.toLowerCase()} </span>
                       
@@ -60,15 +67,17 @@ function SearchBar({ placeholder, data }) {
                  
                   );
                 })}
+                
               </div>
             )
          })
-         
+
         )}
         
       </div>
 
     );
   }
+
   
   export default SearchBar;
