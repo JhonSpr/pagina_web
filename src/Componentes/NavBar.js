@@ -38,21 +38,17 @@ export default function Menubar(){
       
                            <li className='navbar-item mobile item-nav'>
                            <NavLink to={"/"} className="nav-link item-nav"/>
-                               <a className='nav-link item-nav' href='/'>Inicio </a>
                            </li>
                            <li className='navbar-item item-nav first-item_desktop'>
                            <NavLink to={"/animes"} className="nav-link item-nav"/>
-                               <a className='nav-link item-nav' href='/animes'>Animes </a>
                            </li>
                            <li className='navbar-item item-nav' >
                            <NavLink to={"/en-emision"} className="nav-link item-nav"/>
-                               <a className='nav-link item-nav' href='/en-emision'>En Emision</a>
                            </li>
                          
                            <Alertas/>
                            <li className='navbar-item item-nav' >
                             <NavLink to={"/ovas"} className="nav-link item-nav"/>
-                               <a className='nav-link item-nav' href='/ovas'>Ovas</a>
                            </li>
              
                            <ProfileMobile/>     
