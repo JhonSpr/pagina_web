@@ -1,100 +1,16 @@
 /* eslint-disable react/style-prop-object */
 /* eslint-disable jsx-a11y/anchor-is-valid */
-import img from "../Data.json";
-import BookData from "../Data.json";
-import { Alertas } from "../index";
-import SearchBar from '../searchComponent';
-import { LoginButton } from '../login'
-import LogoutButton from "../logout";
-import Profile from "../perfil";
-import { useAuth0 } from '@auth0/auth0-react'
+
 import { Disqus } from "./disqus";
-import ProfileMobile from "../perfilMobile";
-import LogoutButtonMobile from "../LogoutMobile";
-import { LoginButtonMobile } from "../LoginMobile";
 
 
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Capitulos12({hrefGenre1,hrefGenre2,hrefGenre3,hrefGenre4,hrefGenre5,genre1,genre2,genre3,genre4,genre5,genero1,genero2,genero3,genero4,genero5,sec1,sec2,sec3,hrefSecuela2,hrefSecuela3,nombreSecuela2,nombreSecuela3,textoSecuela2,textoSecuela3,hrefSecuela,textoSecuela,nombreSecuela,tituloAnime,videoTrailer,imagenAnime,descripcion,anime,numeroEpisodios,tipo,estado,li1,li2,li3,li4,li5,li6,li7,li8,li9,li10,li11,li12,li13,li14,li15,li16,li17,li18,li19,li20,li21,li22,li23,li24,li25,li26,li27,li28,li29,li30,li31,li32,li33,li34,li35,li36,li37,li38,li39,li40,capituloAnime1,capituloAnime2,capituloAnime3,capituloAnime4,capituloAnime5,capituloAnime6,capituloAnime7,capituloAnime8,capituloAnime9,capituloAnime10,capituloAnime11,capituloAnime12,capituloAnime13,capituloAnime14,capituloAnime15,capituloAnime16,capituloAnime17,capituloAnime18,capituloAnime19,capituloAnime20,capituloAnime21,capituloAnime22,capituloAnime23,capituloAnime24,capituloAnime25,capituloAnime26,capituloAnime27,capituloAnime28,capituloAnime29,capituloAnime30,capituloAnime31,capituloAnime32,capituloAnime33,capituloAnime34,capituloAnime35,capituloAnime36,capituloAnime37,capituloAnime38,capituloAnime39,capituloAnime40,numeroCapitulo1,numeroCapitulo2,numeroCapitulo3,numeroCapitulo4,numeroCapitulo5,numeroCapitulo6,numeroCapitulo7,numeroCapitulo8,numeroCapitulo9,numeroCapitulo10,numeroCapitulo11,numeroCapitulo12,numeroCapitulo13,numeroCapitulo14,numeroCapitulo15,numeroCapitulo16,numeroCapitulo17,numeroCapitulo18,numeroCapitulo19,numeroCapitulo20,numeroCapitulo21,numeroCapitulo22,numeroCapitulo23,numeroCapitulo24,numeroCapitulo25,numeroCapitulo26,numeroCapitulo27,numeroCapitulo28,numeroCapitulo29,numeroCapitulo30,numeroCapitulo31,numeroCapitulo32,numeroCapitulo33,numeroCapitulo34,numeroCapitulo35,numeroCapitulo36,numeroCapitulo37,numeroCapitulo38,numeroCapitulo39,numeroCapitulo40,capituloAnime41,capituloAnime42,capituloAnime43,capituloAnime44,capituloAnime45,capituloAnime46,capituloAnime47,capituloAnime48,capituloAnime49,capituloAnime50,capituloAnime51,capituloAnime52,capituloAnime53,capituloAnime54,capituloAnime55,capituloAnime56,capituloAnime57,capituloAnime58,capituloAnime59,capituloAnime60,capituloAnime61,capituloAnime62,capituloAnime63,capituloAnime64,li41,li42,li43,li44,li45,li46,li47,li48,li49,li50,li51,li52,li53,li54,li55,li56,li57,li58,li59,li60,li61,li62,li63,li64}){
-    const { isAuthenticated } = useAuth0();
     return (
         <section>
                 
     <title>{tituloAnime}</title>
-    <nav class="navbar navbar-expand-lg bg-dark">
-            <div className="container-fluid">
-                    <a className='navbar-brand item-nav logo-cont' href="/"><h1 className="letraA">A</h1> <h2 className="letraN">n</h2> <h2 className="letraI">i</h2> <h2 className="letraM">m</h2> <h2 className="letraE">e</h2> <h2 className="letraK">k</h2> <h2 className="letraU">u</h2> <h2 className="letraN">n</h2></a>
-
-    <div className=" bg-dark" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" >
-                    <a role="button" className="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarText">
-                        <span className="line1"></span>
-                        <span className="line2"></span>
-                        <span className="line3"></span>
-               
-               
-                    </a>
-                    
-                </div>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0 cont-ul">
-      
-                           <li className='navbar-item mobile item-nav'>
-                               <a className='nav-link item-nav' href='/'>Inicio </a>
-                           </li>
-                           <li className='navbar-item item-nav first-item_desktop'>
-                               <a className='nav-link item-nav' href='/animes'>Animes </a>
-                           </li>
-                           <li className='navbar-item item-nav' >
-                               <a className='nav-link item-nav' href='/en-emision'>En Emision</a>
-                           </li>
-                         
-                           <Alertas/>
-                           <li className='navbar-item item-nav' >
-                               <a className='nav-link item-nav' href='/ovas'>Ovas</a>
-                           </li>
-             
-                           <ProfileMobile/>     
-      </ul>
-      
-
-      <div className="dropdown filter-item">
-  <div className="dropdown-toggle navbar-item-menu-drop navbar-item"  data-bs-toggle="dropdown" aria-expanded="false">
-    Perfil
-  </div>
-  <ul className="dropdown-menu dropdown-menu-dark menu-drop">
-  <Profile/>
-    <li>{isAuthenticated ? <> 
-                                    
-                                    <LogoutButton/>
-                                    </>
-                                    : <LoginButton/> 
-                                     
-                                    }</li>
-    
-    
-  </ul>
-</div>
-
-{isAuthenticated ? <> 
-                                    
-                                    <LogoutButtonMobile/>
-                                    </>
-                                    : <LoginButtonMobile/> 
-                                     
-                                    }
-
   
-
-  
-
-
-          
-      <form class="d-flex" role="search">
-      <SearchBar placeholder={"Buscar animes..."} data={BookData} imagenSearch={img}/>
-      </form>
-    </div>
-  </div>
-            </nav>
 
 <section className="section">
         <div className="container">
