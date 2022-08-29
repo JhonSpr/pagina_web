@@ -538,19 +538,19 @@ export function Componente1({year1,year2,year3,year4,year5,year6,year7,year8,yea
     
  <div className="paginacion-contenedor">
  <ul>
-    <a href={pagAnterior} className="anterior">{anterior}</a>
-    <li className={classpag1}><a href={pag1}>{primero}</a></li>
-    <li className={classpag2}><a href={pag2}>{segundo}</a></li>
-    <li className={classpag3}><a href={pag3}>{tercero}</a></li>
-    <li className={classpag4}><a href={pag4}>{cuarto}</a></li>
-    <li className={classpag5}><a href={pag5}>{quinto}</a></li>
-    <li className={classpag6}><a href={pag6}>{sexto}</a></li>
-    <li className={classpag7}><a href={pag7}>{septimo}</a></li>
-    <li className={classpag8}><a href={pag8}>{octavo}</a></li>
-    <li className={classpag9}><a href={pag9}>{noveno}</a></li>
-    <li className={classpag10}><a href={pag10}>{decimo}</a></li>
-    <li className={classpag11}><a href={pag11}>{onceavo}</a></li>
-    <a href={pagSiguiente} className="siguiente"> {siguiente} </a>
+    <NavLink to={pagAnterior} className="anterior">{anterior}</NavLink>
+    <li className={classpag1}><NavLink to={pag1}>{primero}</NavLink></li>
+    <li className={classpag2}><NavLink to={pag2}>{segundo}</NavLink></li>
+    <li className={classpag3}><NavLink to={pag3}>{tercero}</NavLink></li>
+    <li className={classpag4}><NavLink to={pag4}>{cuarto}</NavLink></li>
+    <li className={classpag5}><NavLink to={pag5}>{quinto}</NavLink></li>
+    <li className={classpag6}><NavLink to={pag6}>{sexto}</NavLink></li>
+    <li className={classpag7}><NavLink to={pag7}>{septimo}</NavLink></li>
+    <li className={classpag8}><NavLink to={pag8}>{octavo}</NavLink></li>
+    <li className={classpag9}><NavLink to={pag9}>{noveno}</NavLink></li>
+    <li className={classpag10}><NavLink to={pag10}>{decimo}</NavLink></li>
+    <li className={classpag11}><NavLink to={pag11}>{onceavo}</NavLink></li>
+    <NavLink to={pagSiguiente} className="siguiente"> {siguiente} </NavLink>
   </ul>
  </div>
 
