@@ -594,7 +594,7 @@ function App () {
       capituloAnime21={"/ver/golden-time-21"} capituloAnime22={"/ver/golden-time-22"} capituloAnime23={"/ver/golden-time-23"} capituloAnime24={"/ver/golden-time-24"}    
       />}/>
 
-<Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+<Route path="/fullmetal-alchemist-brotherhood" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
       genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
       genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
       genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
