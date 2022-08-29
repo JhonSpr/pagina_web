@@ -594,13 +594,15 @@ function App () {
       capituloAnime21={"/ver/golden-time-21"} capituloAnime22={"/ver/golden-time-22"} capituloAnime23={"/ver/golden-time-23"} capituloAnime24={"/ver/golden-time-24"}    
       />}/>
 
-<Route path="/fullmetal-alchemist-brotherhood" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+<Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
       genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
       genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
       genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
       hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
       sec2={"sec"} sec3={"sec"} sec1={"sec"}
       li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
       descripcion={''}
       imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
       tipo={"TV"} numeroEpisodios={"24"} 
@@ -628,10 +630,8508 @@ function App () {
       capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
       />}/>
 
+<Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+<Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+<Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+<Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+<Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      descripcion={''}
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      />}/>
+
+      
+      
 
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    {/* Filtro */}
    <Route path="/estado=finalizado" element={<Filter finalizado={"dropdown-item active"} enEmision={"dropdown-item"} proximamente={"dropdown-item"} />}/>
    <Route path="/estado=proximamente" element={<Filter finalizado={"dropdown-item"} enEmision={"dropdown-item"} proximamente={"dropdown-item active"}/>}/>
