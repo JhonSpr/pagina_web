@@ -73,8 +73,8 @@ function App () {
       li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
       descripcion={"Hace muchos años, una Gran Guerra Civil devastó Japón, dejando al país fragmentado en dos regiones: Kansai y Kanto. En Kansai, un grupo de seis Akudama llevan a cabo las misiones que les encomienda un misterioso gato negro, mientras evaden a la policía. Pero un viaje peligroso está a punto de desarrollarse cuando una niña civil se retuerce en el estilo de vida de los Akudama y es testigo de sus impulsos criminales."}
       imagenAnime="https://www.animefenix.com/cdn/animes/cover/5f7e65dc3eb65/akudama-drive.jpg" videoTrailer={"https://www.youtube-nocookie.com/embed/DTp7ZcUsqes?showinfo=0&rel=0&showsearch=0&autoplay=1&unmuted=1&modestbranding=1&fs=0"} tipo={"TV"} numeroEpisodios={"12"} 
-      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
-      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} anime={"Akudama Drive "} 
+      estado={"Finalizado"} 
+      anime={"Akudama Drive "} 
       capituloAnime1={"/ver/akudama-drive-1"} capituloAnime2={"/ver/akudama-drive-2"} capituloAnime3={"/ver/akudama-drive-3"} capituloAnime4={"/ver/akudama-drive-4"} 
       capituloAnime5={"/ver/akudama-drive-5"} capituloAnime6={"/ver/akudama-drive-6"} capituloAnime7={"/ver/akudama-drive-"} capituloAnime8={"/ver/akudama-drive-8"} 
       capituloAnime9={"/ver/akudama-drive-9"} capituloAnime10={"/ver/akudama-drive-10"} capituloAnime11={"/ver/akudama-drive-11"} capituloAnime12={"/ver/akudama-drive-12"}  
@@ -89,11 +89,6 @@ function App () {
       accion={""} fantasia={""} juegos={""} terror={""}
       li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
       descripcion={"¡Las hijas de Sesshomaru e Inuyasha se lanzan en una aventura que trasciende en el tiempo! En el Japón Feudal, las gemelas mitad demonio Towa y Setsuna son separadas durante un incendio forestal. Mientras busca desesperadamente a su hermana menor, Towa se encuentra un misterioso túnel que la transporta al Japón moderno, en donde es encontrada y puesta al cuidado del hermano de Kagome Higurashi, Sota y su familia. Diez años después, el túnel que conecta las dos eras es abierto de nuevo, permitiendo a Towa volver a reunirse con Setsuna, quien ahora se ha convertido en una Asesina de Youkais en conjunto con Kohaku. Pero lo peor es que Setsuna parece haber perdido sus recuerdos y ya no reconoce a Towa. Ahora uniéndose con Moroha, la hija de Inuyasha, y con Kagome, las tres viajarán entre dos eras en una aventura por recuperar un pasado olvidado."} anime={"Hanyo no Yashahime ni no Shou"} tipo={"TV"} numeroEpisodios={"24"} estado={"Finalizado"}  imagenAnime={"https://www.animefenix.com/cdn/animes/cover/614e84bf0253f/hanyo-no-yashahime-ni-no-shou.jpg"} 
-      numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} numeroCapitulo7={"7"} 
-      numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"}
-      numeroCapitulo11={"11"} numeroCapitulo12={"12"} numeroCapitulo13={"13"} numeroCapitulo14={"14"} 
-      numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} numeroCapitulo19={"19"} numeroCapitulo20={"20"}
-      numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
       capituloAnime1={"/ver/hanyo-no-yashahime-ni-no-shou-1"} capituloAnime2={"/ver/hanyo-no-yashahime-ni-no-shou-2"} capituloAnime3={"/ver/hanyo-no-yashahime-ni-no-shou-3"} capituloAnime4={"/ver/hanyo-no-yashahime-ni-no-shou-4"} capituloAnime5={"/ver/hanyo-no-yashahime-ni-no-shou-5"} capituloAnime6={"/ver/hanyo-no-yashahime-ni-no-shou-6"} capituloAnime7={"/ver/hanyo-no-yashahime-ni-no-shou-7"} capituloAnime8={"/ver/hanyo-no-yashahime-ni-no-shou-8"} capituloAnime9={"/ver/hanyo-no-yashahime-ni-no-shou-9"} capituloAnime10={"/ver/hanyo-no-yashahime-ni-no-shou-10"}
       capituloAnime11={"/ver/hanyo-no-yashahime-ni-no-shou-11"} capituloAnime12={"/ver/hanyo-no-yashahime-ni-no-shou-12"}
        capituloAnime13={"/ver/hanyo-no-yashahime-ni-no-shou-13"} capituloAnime14={"/ver/hanyo-no-yashahime-ni-no-shou-14"} 
@@ -112,8 +107,6 @@ function App () {
       sec2={"sec"} sec3={"sec"} sec1={"sec"}
       descripcion={"En la historia de este manga, los dioses aparecieron cuando la humanidad estaba al borde de la aniquilación por parte de los demonios. Deidades llamadas “Idaten” pelearon y sellaron a los demonios hace 800 años. Ahora, los “Idaten” ya no tiene experiencia en peleas y viven vidas pacíficas. Pero, al mismo tiempo, los demonios están reviviendo, y la batalla entre humanos, dioses y demonios está a punto de comenzar. ¿Cuál será el bando que se alce con la victoria en esta ocasión con las condiciones tan cambiadas?"} 
       anime={"Heion Sedai no Idaten Tachi"} tipo={"TV"} numeroEpisodios={"11"} estado={"Finalizado"}  imagenAnime={"https://www.animefenix.com/cdn/animes/cover/60dd1bd47b14c/heion-sedai-no-idaten-tachi.jpg"} 
-      numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"}
-      numeroCapitulo11={"11"} 
       capituloAnime1={"/ver/heion-sedai-no-idaten-tachi-1"} capituloAnime2={"/ver/heion-sedai-no-idaten-tachi-2"} capituloAnime3={"/ver/heion-sedai-no-idaten-tachi-3"} capituloAnime4={"/ver/heion-sedai-no-idaten-tachi-4"} capituloAnime5={"/ver/heion-sedai-no-idaten-tachi-5"} 
       capituloAnime6={"/ver/heion-sedai-no-idaten-tachi-6"} capituloAnime7={"/ver/heion-sedai-no-idaten-tachi-7"} capituloAnime8={"/ver/heion-sedai-no-idaten-tachi-8"} capituloAnime9={"/ver/heion-sedai-no-idaten-tachi-9"} 
       capituloAnime10={"/ver/heion-sedai-no-idaten-tachi-10"} capituloAnime11={"/ver/heion-sedai-no-idaten-tachi-11"} 
@@ -171,9 +164,6 @@ function App () {
       descripcion={"Un niño lucha... por 'la muerte justa'. Dificultad, arrepentimiento, vergüenza: los sentimientos negativos que sentimos los humanos se convierten en Maldiciones que acechan en nuestra vida diaria. Las maldiciones corren desenfrenadas por todo el mundo, capaces de llevar a la gente a una terrible desgracia e incluso a la muerte. Además, las maldiciones solo pueden ser exorcizadas por otra maldición. Itadori Yuji es un chico con una fuerza física tremenda, aunque vive una vida de escuela secundaria completamente normal. Un día, para salvar a un amigo que ha sido atacado por Maldiciones, se come el dedo del Espectro de Doble Cara, llevándose la Maldición a su propia alma. A partir de entonces, comparte un cuerpo con el Espectro de Doble Cara. Guiado por el más poderoso de los hechiceros, Gojo Satoru, Itadori es admitido en la Escuela Superior Técnica Metropolitana de Hechicería de Tokio, una organización que lucha contra las maldiciones ... y así comienza la heroica historia de un niño que se convirtió en una maldición para exorcizar una maldición. , una vida de la que nunca podría volver atrás."} 
       anime={"Jujutsu Kaisen"} tipo={"TV"} numeroEpisodios={"24"} estado={"Finalizado"}  
       imagenAnime={"https://www.animefenix.com/cdn/animes/cover/5f66cfddef53a/jujutsu-kaisen.jpg"} 
-      numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"}
-      numeroCapitulo11={"11"} numeroCapitulo12={"12"} numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} numeroCapitulo19={"19"} numeroCapitulo20={"20"}
-      numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
       capituloAnime1={"/ver/jujutsu-kaisen-1"} capituloAnime2={"/ver/jujutsu-kaisen-2"} capituloAnime3={"/ver/jujutsu-kaisen-3"} capituloAnime4={"/ver/jujutsu-kaisen-4"} 
       capituloAnime5={"/ver/jujutsu-kaisen-5"} capituloAnime6={"/ver/jujutsu-kaisen-6"} capituloAnime7={"/ver/jujutsu-kaisen-7"} capituloAnime8={"/ver/jujutsu-kaisen-8"} 
       capituloAnime9={"/ver/jujutsu-kaisen-9"} capituloAnime10={"/ver/jujutsu-kaisen-10"} capituloAnime11={"/ver/jujutsu-kaisen-11"} capituloAnime12={"/ver/jujutsu-kaisen-12"}
@@ -191,9 +181,6 @@ function App () {
       li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}             
       descripcion={"10 años después de que el mundo escapó de la destrucción debido al resurgimiento de Bahamut, los humanos en la capital real recolectan riqueza, los demonios son esclavizados para ayudar con el renacimiento de la capital y los dioses pierden su poder debido a una disminución de la piedad religiosa."} 
       anime={"Shingeki no Bahamut:Virgin Soul"} tipo={"TV"} numeroEpisodios={"24"} estado={"Finalizado"}  imagenAnime={"https://www.animefenix.com/cdn/animes/cover/5f94201ce23b1/shingeki-no-bahamut-virgin-soul.jpg"} 
-      numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"}
-      numeroCapitulo11={"11"} numeroCapitulo12={"12"} numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} numeroCapitulo19={"19"} numeroCapitulo20={"20"}
-      numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
       capituloAnime1={"/ver/shingeki-no-bahamut:virgin-soul-1"} capituloAnime2={"/ver/shingeki-no-bahamut:virgin-soul-2"} capituloAnime3={"/ver/shingeki-no-bahamut:virgin-soul-3"} 
       capituloAnime4={"/ver/shingeki-no-bahamut:virgin-soul-4"} capituloAnime5={"/ver/shingeki-no-bahamut:virgin-soul-5"} capituloAnime6={"/ver/shingeki-no-bahamut:virgin-soul-6"} 
       capituloAnime7={"/ver/shingeki-no-bahamut:virgin-soul-7"} capituloAnime8={"/ver/shingeki-no-bahamut:virgin-soul-8"} capituloAnime9={"/ver/shingeki-no-bahamut:virgin-soul-9"} 
@@ -235,8 +222,6 @@ function App () {
       imagenAnime={"https://www.animefenix.com/cdn/animes/cover/5de4438a79aa5/overlord-iii.jpg"} 
       li14={"li"} li15={"li"} li16={"li"} li17={"li"} li18={"li"} li19={"li"} li20={"li"} li21={"li"} li22={"li"} li23={"li"} li24={"li"}
       li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
-      numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"}
-      numeroCapitulo11={"11"} numeroCapitulo12={"12"} numeroCapitulo13={"13"} 
       capituloAnime1={"/ver/overlord-III-1"} capituloAnime2={"/ver/overlord-III-2"} capituloAnime3={"/ver/overlord-III-3"} 
       capituloAnime4={"/ver/overlord-III-4"} capituloAnime5={"/ver/overlord-III-5"} capituloAnime6={"/ver/overlord-III-6"} 
       capituloAnime7={"/ver/overlord-III-7"} capituloAnime8={"/ver/overlord-III-8"} capituloAnime9={"/ver/overlord-III-9"} 
@@ -594,7 +579,7 @@ function App () {
       sec2={"sec"} sec3={"sec"} sec1={"sec"}
       li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
       descripcion={'Tada Banri, es un estudiante de nuevo ingreso en una escuela privada de derecho en Tokio, después de la ceremonia de apertura, él estaba completamente perdido tratando de encontrar el camino hacia el salón de orientación para los de primer año. En ese momento, se encuentra con un estudiante de primer año, que también estaba perdido, Mitsuo Yanagisawa. De alguna manera llegaron al lugar donde se dirigían, pero de repente frente a los dos aparece una chica hermosa que sostiene un ramo de rosas. La chica golpeó a Mitsuo en la cara con el ramo. "felicidades, estudiante de nuevo ingreso", fue todo lo que dijo, y luego se fue. La mujer que golpeo a Mitsuo se trataba de su amiga de la infancia, Kaga Kouko. Cuando eran niños se habían prometido a casarse cuando algún día llegarán a cumplir sus sueños. Con el fin de escapar de ella, Mitsuo había salido secretamente y tomado el examen de este colegio privado muy conocido.'}
-      imagenAnime="https://i.ibb.co/kQ9hyMc/golden-time.jpg" 
+      imagenAnime="https://img1.ak.crunchyroll.com/i/spire4/fc8938a7d556f9068bb8ed327c6c56351380569594_full.jpg" 
       tipo={"TV"} numeroEpisodios={"24"} 
       estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
       numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
