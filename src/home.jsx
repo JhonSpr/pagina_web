@@ -602,7 +602,7 @@ function App () {
       sec2={"sec"} sec3={"sec"} sec1={"sec"}
       li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
       descripcion={''}
-      imagenAnime="https://www.animefenix.com/fullmetal-alchemist-brotherhood" 
+      imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
       tipo={"TV"} numeroEpisodios={"24"} 
       estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
       numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
@@ -781,7 +781,7 @@ function App () {
       />}/>
      
      <Route path="/animes-3" element={<Componente1 
-      img1="https://www.animefenix.com/cdn/animes/cover/5fd97249d303d/golden-time.jpg" img2="https://www.animefenix.com/fullmetal-alchemist-brotherhood"
+      img1="https://www.animefenix.com/cdn/animes/cover/5fd97249d303d/golden-time.jpg" img2="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg"
       img3="" img4="" 
       img5="" img6="" 
       img7="" img8="" 
