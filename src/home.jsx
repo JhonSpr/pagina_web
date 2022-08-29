@@ -594,6 +594,31 @@ function App () {
       capituloAnime21={"/ver/golden-time-21"} capituloAnime22={"/ver/golden-time-22"} capituloAnime23={"/ver/golden-time-23"} capituloAnime24={"/ver/golden-time-24"}    
       />}/>
 
+<Route path="/fullmetal-alchemist-brotherhood" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
+      genero1={"Comedia"} genero2={"Romance"} genero3={"Seinen"} genero4={""} genero5={""}
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
+      genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"disable"} genre5={"disable"}
+      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      sec2={"sec"} sec3={"sec"} sec1={"sec"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      descripcion={'Tada Banri, es un estudiante de nuevo ingreso en una escuela privada de derecho en Tokio, después de la ceremonia de apertura, él estaba completamente perdido tratando de encontrar el camino hacia el salón de orientación para los de primer año. En ese momento, se encuentra con un estudiante de primer año, que también estaba perdido, Mitsuo Yanagisawa. De alguna manera llegaron al lugar donde se dirigían, pero de repente frente a los dos aparece una chica hermosa que sostiene un ramo de rosas. La chica golpeó a Mitsuo en la cara con el ramo. "felicidades, estudiante de nuevo ingreso", fue todo lo que dijo, y luego se fue. La mujer que golpeo a Mitsuo se trataba de su amiga de la infancia, Kaga Kouko. Cuando eran niños se habían prometido a casarse cuando algún día llegarán a cumplir sus sueños. Con el fin de escapar de ella, Mitsuo había salido secretamente y tomado el examen de este colegio privado muy conocido.'}
+      imagenAnime="https://www.animefenix.com/fullmetal-alchemist-brotherhood" 
+      tipo={"TV"} numeroEpisodios={"24"} 
+      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={" "} 
+      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
+      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
+      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
+      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
+      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}    
+      />}/>
+
+
+
 
 
    {/* Filtro */}
@@ -745,7 +770,7 @@ function App () {
       />}/>
      
      <Route path="/animes-3" element={<Componente1 
-      img1="https://www.animefenix.com/cdn/animes/cover/5fd97249d303d/golden-time.jpg" img2=""
+      img1="https://www.animefenix.com/cdn/animes/cover/5fd97249d303d/golden-time.jpg" img2="https://www.animefenix.com/fullmetal-alchemist-brotherhood"
       img3="" img4="" 
       img5="" img6="" 
       img7="" img8="" 
