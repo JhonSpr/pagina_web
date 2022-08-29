@@ -5,6 +5,7 @@ import { Capitulos12 } from "./Componentes/Componente2";
 import { Filter } from "./Componentes/DropDown";
 import { EnEmision } from "./Componentes/enEmision";
 import { Inicio } from "./Componentes/Inicio";
+import NoExiste from "./Componentes/NoExiste";
 import { PerfilPaginaMenu } from "./Componentes/perfil";
 
 
@@ -14,6 +15,8 @@ function App () {
     <div>
      <Routes>
       {/* Inicio */}
+
+     <Route path="*" element={<NoExiste/>} />
      <Route path="/" element={<Inicio
 
       img1="https://www.animefenix.com/cdn/animes/cover/61d5e31f8b785/gensou-sangokushi-tengen-reishinki.png" 

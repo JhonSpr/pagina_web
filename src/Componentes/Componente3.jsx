@@ -1,22 +1,12 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 /* eslint-disable react/style-prop-object */
-import img from "../Data.json";
-import BookData from "../Data.json";
-import { Alertas } from "../index";
-import SearchBar from '../searchComponent';
-import { LoginButton } from '../login'
-import LogoutButton from "../logout";
-import Profile from "../perfil";
-import { useAuth0 } from '@auth0/auth0-react'
+
 import { Disqus } from "./disqus";
-import ProfileMobile from "../perfilMobile";
-import LogoutButtonMobile from "../LogoutMobile";
-import { LoginButtonMobile } from "../LoginMobile";
+
 
 
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Video({tituloAnime, anime , capitulosVideo, siguienteVideo , numero , contAnteriorClass,contSiguienteClass, iconoAnterior , tituloPag,  iconoSiguiente , frame1 , frame2 , frame3 ,anteriorVideo, classOpcionAnterior, classOpcionCapitulos , classOpcionSiguiente , botonAnterior , botonCapitulos , botonSiguiente , classOpciones}){
-    const {isAuthenticated} = useAuth0();
     
     return(
         <div>
@@ -24,80 +14,7 @@ export function Video({tituloAnime, anime , capitulosVideo, siguienteVideo , num
                 <link rel="icon" href="./favicon-32x32.png" type="image/x-icon"/>
                 <link rel="shortcut icon" href="../../public/favicon-32x32.png" type="image/x-icon" class="imagen-pagina"/>
 
-                <nav class="navbar navbar-expand-lg bg-dark">
-            <div className="container-fluid">
-                    <a className='navbar-brand item-nav logo-cont' href="/"><h1 className="letraA">A</h1> <h2 className="letraN">n</h2> <h2 className="letraI">i</h2> <h2 className="letraM">m</h2> <h2 className="letraE">e</h2> <h2 className="letraK">k</h2> <h2 className="letraU">u</h2> <h2 className="letraN">n</h2></a>
-
-    <div className=" bg-dark" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" >
-                    <a role="button" className="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarText">
-                        <span className="line1"></span>
-                        <span className="line2"></span>
-                        <span className="line3"></span>
-               
-               
-                    </a>
-                    
-                </div>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0 cont-ul">
-      
-                           <li className='navbar-item mobile item-nav'>
-                               <a className='nav-link item-nav' href='/'>Inicio </a>
-                           </li>
-                           <li className='navbar-item item-nav first-item_desktop'>
-                               <a className='nav-link item-nav' href='/animes'>Animes </a>
-                           </li>
-                           <li className='navbar-item item-nav' >
-                               <a className='nav-link item-nav' href='/en-emision'>En Emision</a>
-                           </li>
-                         
-                           <Alertas/>
-                           <li className='navbar-item item-nav' >
-                               <a className='nav-link item-nav' href='/ovas'>Ovas</a>
-                           </li>
              
-                           <ProfileMobile/>     
-      </ul>
-      
-
-      <div className="dropdown filter-item">
-  <div className="dropdown-toggle navbar-item-menu-drop navbar-item"  data-bs-toggle="dropdown" aria-expanded="false">
-    Perfil
-  </div>
-  <ul className="dropdown-menu dropdown-menu-dark menu-drop">
-  <Profile/>
-    <li>{isAuthenticated ? <> 
-                                    
-                                    <LogoutButton/>
-                                    </>
-                                    : <LoginButton/> 
-                                     
-                                    }</li>
-    
-    
-  </ul>
-</div>
-
-{isAuthenticated ? <> 
-                                    
-                                    <LogoutButtonMobile/>
-                                    </>
-                                    : <LoginButtonMobile/> 
-                                     
-                                    }
-
-  
-
-  
-
-
-          
-      <form class="d-flex" role="search">
-      <SearchBar placeholder={"Buscar animes..."} data={BookData} imagenSearch={img}/>
-      </form>
-    </div>
-  </div>
-            </nav>
 
 <div className="hero is-fullheightX">
     <section className="section">
