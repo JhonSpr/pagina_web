@@ -71,6 +71,8 @@ function App () {
       sec2={"sec"} sec3={"sec"} sec1={"sec"}
       li13={"li"} li14={"li"} li15={"li"} li16={"li"} li17={"li"} li18={"li"} li19={"li"} li20={"li"} li21={"li"} li22={"li"} li23={"li"} li24={"li"}
       li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
       descripcion={"Hace muchos años, una Gran Guerra Civil devastó Japón, dejando al país fragmentado en dos regiones: Kansai y Kanto. En Kansai, un grupo de seis Akudama llevan a cabo las misiones que les encomienda un misterioso gato negro, mientras evaden a la policía. Pero un viaje peligroso está a punto de desarrollarse cuando una niña civil se retuerce en el estilo de vida de los Akudama y es testigo de sus impulsos criminales."}
       imagenAnime="https://www.animefenix.com/cdn/animes/cover/5f7e65dc3eb65/akudama-drive.jpg" videoTrailer={"https://www.youtube-nocookie.com/embed/DTp7ZcUsqes?showinfo=0&rel=0&showsearch=0&autoplay=1&unmuted=1&modestbranding=1&fs=0"} tipo={"TV"} numeroEpisodios={"12"} 
       estado={"Finalizado"} 
@@ -88,6 +90,8 @@ function App () {
       sec2={"sec"} sec3={"sec"} sec1={"sec"}
       accion={""} fantasia={""} juegos={""} terror={""}
       li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
       descripcion={"¡Las hijas de Sesshomaru e Inuyasha se lanzan en una aventura que trasciende en el tiempo! En el Japón Feudal, las gemelas mitad demonio Towa y Setsuna son separadas durante un incendio forestal. Mientras busca desesperadamente a su hermana menor, Towa se encuentra un misterioso túnel que la transporta al Japón moderno, en donde es encontrada y puesta al cuidado del hermano de Kagome Higurashi, Sota y su familia. Diez años después, el túnel que conecta las dos eras es abierto de nuevo, permitiendo a Towa volver a reunirse con Setsuna, quien ahora se ha convertido en una Asesina de Youkais en conjunto con Kohaku. Pero lo peor es que Setsuna parece haber perdido sus recuerdos y ya no reconoce a Towa. Ahora uniéndose con Moroha, la hija de Inuyasha, y con Kagome, las tres viajarán entre dos eras en una aventura por recuperar un pasado olvidado."} anime={"Hanyo no Yashahime ni no Shou"} tipo={"TV"} numeroEpisodios={"24"} estado={"Finalizado"}  imagenAnime={"https://www.animefenix.com/cdn/animes/cover/614e84bf0253f/hanyo-no-yashahime-ni-no-shou.jpg"} 
       capituloAnime1={"/ver/hanyo-no-yashahime-ni-no-shou-1"} capituloAnime2={"/ver/hanyo-no-yashahime-ni-no-shou-2"} capituloAnime3={"/ver/hanyo-no-yashahime-ni-no-shou-3"} capituloAnime4={"/ver/hanyo-no-yashahime-ni-no-shou-4"} capituloAnime5={"/ver/hanyo-no-yashahime-ni-no-shou-5"} capituloAnime6={"/ver/hanyo-no-yashahime-ni-no-shou-6"} capituloAnime7={"/ver/hanyo-no-yashahime-ni-no-shou-7"} capituloAnime8={"/ver/hanyo-no-yashahime-ni-no-shou-8"} capituloAnime9={"/ver/hanyo-no-yashahime-ni-no-shou-9"} capituloAnime10={"/ver/hanyo-no-yashahime-ni-no-shou-10"}
       capituloAnime11={"/ver/hanyo-no-yashahime-ni-no-shou-11"} capituloAnime12={"/ver/hanyo-no-yashahime-ni-no-shou-12"}
@@ -111,8 +115,10 @@ function App () {
       capituloAnime6={"/ver/heion-sedai-no-idaten-tachi-6"} capituloAnime7={"/ver/heion-sedai-no-idaten-tachi-7"} capituloAnime8={"/ver/heion-sedai-no-idaten-tachi-8"} capituloAnime9={"/ver/heion-sedai-no-idaten-tachi-9"} 
       capituloAnime10={"/ver/heion-sedai-no-idaten-tachi-10"} capituloAnime11={"/ver/heion-sedai-no-idaten-tachi-11"} 
       li1={""} li2={""} li3={""} li4={""} li5={""} li6={""} li7={""} li8={""} li9={""} li10={""} li11={""} li12={"li"} li13={"li"} li14={"li"} li15={"li"} li16={"li"} li17={"li"} li18={"li"}
-      li19={"li"} li20={"li"} li21={"li"} li22={"li"} li23={"li"} li24={"li"} li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} 
-      li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"}li39={"li"} li40={"li"}
+      li19={"li"} li20={"li"} li21={"li"} li22={"li"} li23={"li"} li24={"li"}      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+
       />} />
       
       <Route path="/tensei-shitara-slime-datta-ken-segunda-temporada-parte-2" element={<Capitulos12 tituloAnime={"Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2"}
@@ -124,6 +130,8 @@ function App () {
       sec2={"sec"} sec3={"sec"} sec1={"sec"}
       li14={"li"} li15={"li"} li16={"li"} li17={"li"} li18={"li"} li19={"li"} li20={"li"} li21={"li"} li22={"li"} li23={"li"} li24={"li"}
       li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
       anime={"Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2"} tipo={"TV"} numeroEpisodios={"13"} estado={"Finalizado"}  imagenAnime={"https://www.animefenix.com/cdn/animes/cover/60d7ea610da30/tensei-shitara-slime-datta-ken-2nd-season-part-2.jpg"} 
       numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} numeroCapitulo7={"7"} 
       numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} numeroCapitulo13={"13"} 
@@ -143,7 +151,9 @@ function App () {
       genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"disable"} genre5={"disable"}
       hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}      
       li13={"li"} li14={"li"} li15={"li"} li16={"li"} li17={"li"} li18={"li"} li19={"li"} li20={"li"} li21={"li"} li22={"li"} li23={"li"} li24={"li"}
-      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}      
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
       descripcion={"Saltherine Aldarake, princesa del Reino de Aldarake, sueña con viajar por el mundo, un sueño peligroso en una tierra donde los monstruos deambulan por el campo a su antojo y los humanos viven detrás de muros altos y fuertes. Pero cuando un encuentro casual con la viajera Mikoto le da esperanza a su sueño, él lo rompe poco después, ya que se revela como nada menos que Momotaro, un despiadado asesino de demonios. Aunque horrorizada por la sangre que Momotaro deja atrás, Saltherine está más convencida que nunca de que necesita aprender sobre el mundo más allá de sus muros, y viaja ... siguiendo los pasos del misterioso, carismático y aterrador chico que conoció ese día..."}
       anime={"Peach Boy Riverside"} tipo={"TV"} numeroEpisodios={"12"} estado={"Finalizado"}  imagenAnime={"https://www.animefenix.com/cdn/animes/cover/60d7d39e29e28/peach-boy-riverside.jpg"}
       numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} numeroCapitulo7={"7"} 
@@ -160,7 +170,9 @@ function App () {
       genre1={"disable"} genre2={"disable"} 
       genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"disable"} genre5={"disable"}
       hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
-      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}             
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
       descripcion={"Un niño lucha... por 'la muerte justa'. Dificultad, arrepentimiento, vergüenza: los sentimientos negativos que sentimos los humanos se convierten en Maldiciones que acechan en nuestra vida diaria. Las maldiciones corren desenfrenadas por todo el mundo, capaces de llevar a la gente a una terrible desgracia e incluso a la muerte. Además, las maldiciones solo pueden ser exorcizadas por otra maldición. Itadori Yuji es un chico con una fuerza física tremenda, aunque vive una vida de escuela secundaria completamente normal. Un día, para salvar a un amigo que ha sido atacado por Maldiciones, se come el dedo del Espectro de Doble Cara, llevándose la Maldición a su propia alma. A partir de entonces, comparte un cuerpo con el Espectro de Doble Cara. Guiado por el más poderoso de los hechiceros, Gojo Satoru, Itadori es admitido en la Escuela Superior Técnica Metropolitana de Hechicería de Tokio, una organización que lucha contra las maldiciones ... y así comienza la heroica historia de un niño que se convirtió en una maldición para exorcizar una maldición. , una vida de la que nunca podría volver atrás."} 
       anime={"Jujutsu Kaisen"} tipo={"TV"} numeroEpisodios={"24"} estado={"Finalizado"}  
       imagenAnime={"https://www.animefenix.com/cdn/animes/cover/5f66cfddef53a/jujutsu-kaisen.jpg"} 
@@ -178,7 +190,9 @@ function App () {
       genre1={"disable"} genre2={"disable"} 
       genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"disable"} genre5={"disable"}
       hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
-      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}             
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
       descripcion={"10 años después de que el mundo escapó de la destrucción debido al resurgimiento de Bahamut, los humanos en la capital real recolectan riqueza, los demonios son esclavizados para ayudar con el renacimiento de la capital y los dioses pierden su poder debido a una disminución de la piedad religiosa."} 
       anime={"Shingeki no Bahamut:Virgin Soul"} tipo={"TV"} numeroEpisodios={"24"} estado={"Finalizado"}  imagenAnime={"https://www.animefenix.com/cdn/animes/cover/5f94201ce23b1/shingeki-no-bahamut-virgin-soul.jpg"} 
       capituloAnime1={"/ver/shingeki-no-bahamut:virgin-soul-1"} capituloAnime2={"/ver/shingeki-no-bahamut:virgin-soul-2"} capituloAnime3={"/ver/shingeki-no-bahamut:virgin-soul-3"} 
@@ -201,8 +215,10 @@ function App () {
       hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
       li9={"li"} li10={"li"} li11={"li"} li12={"li"}
       li13={"li"} li14={"li"} li15={"li"} li16={"li"} li17={"li"} li18={"li"} li19={"li"} li20={"li"} li21={"li"} li22={"li"} li23={"li"} li24={"li"}
-      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} 
-      li37={"li"} li38={"li"} li39={"li"} li40={"li"}   
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+
       anime={"Castlevania Segunda Temporada"} tipo={"TV"} numeroEpisodios={"8"} estado={"Finalizado"}  
       imagenAnime={"https://www.animefenix.com/cdn/animes/cover/5e4efb4be5001/castlevania-season-2.jpg"} 
       numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"}
@@ -222,6 +238,8 @@ function App () {
       imagenAnime={"https://www.animefenix.com/cdn/animes/cover/5de4438a79aa5/overlord-iii.jpg"} 
       li14={"li"} li15={"li"} li16={"li"} li17={"li"} li18={"li"} li19={"li"} li20={"li"} li21={"li"} li22={"li"} li23={"li"} li24={"li"}
       li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
       capituloAnime1={"/ver/overlord-III-1"} capituloAnime2={"/ver/overlord-III-2"} capituloAnime3={"/ver/overlord-III-3"} 
       capituloAnime4={"/ver/overlord-III-4"} capituloAnime5={"/ver/overlord-III-5"} capituloAnime6={"/ver/overlord-III-6"} 
       capituloAnime7={"/ver/overlord-III-7"} capituloAnime8={"/ver/overlord-III-8"} capituloAnime9={"/ver/overlord-III-9"} 
@@ -236,7 +254,9 @@ function App () {
       genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"disable"} genre5={"disable"}
       hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
       li14={"li"} li15={"li"} li16={"li"} li17={"li"} li18={"li"} li19={"li"} li20={"li"} li21={"li"} li22={"li"} li23={"li"} li24={"li"}
-      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}      
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
       descripcion={"A finales de la era Edo, un demonio conocido como el Rey Impuro mató a miles de personas. Tras vencer al demonio, los Caballeros de la Verdadera Cruz mantuvieron su ojo izquierdo sellado a salvo en la Academia, pero ahora ha sido robado. Al escuchar que el ladrón ha tomado por rehén a un niño, Yukio y Rin parten a ayudar. La investigación y la persecución llevará a Rin y a sus amigos hasta Kyoto, donde se verán involucrados en una oscura trama."}
       anime={"Ao no Exorcist Kyoto Fujouou Hen"} tipo={"TV"} numeroEpisodios={"13"} estado={"Finalizado"}  
       imagenAnime={"https://www.animefenix.com/cdn/animes/cover/5ebaac070d30a/ao-no-exorcist-kyoto-fujouou-hen.png"} 
@@ -281,8 +301,10 @@ function App () {
       numeroCapitulo1={"1"}
       li2={"li"} li3={"li"} li4={"li"} li5={"li"} li6={"li"} li7={"li"} li8={"li"}  li9={"li"} li10={"li"} li11={"li"} li12={"li"}
       li13={"li"} li14={"li"} li15={"li"} li16={"li"} li17={"li"} li18={"li"} li19={"li"} li20={"li"} li21={"li"} li22={"li"} li23={"li"} li24={"li"}
-      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} 
-      li37={"li"} li38={"li"} li39={"li"} li40={"li"}   
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+ 
       capituloAnime1={"/ver/dr-stone-ryusui-1"} 
       />} />
       
@@ -306,8 +328,10 @@ function App () {
       capituloAnime21={"/ver/isekai-yakkyoku-21"} capituloAnime22={"/ver/isekai-yakkyoku-22"} capituloAnime23={"/ver/isekai-yakkyoku-23"} capituloAnime24={"/ver/isekai-yakkyoku-24"}
       li8={"li"}  li9={"li"} li10={"li"} li11={"li"} li12={"li"}
       li13={"li"} li14={"li"} li15={"li"} li16={"li"} li17={"li"} li18={"li"} li19={"li"} li20={"li"} li21={"li"} li22={"li"} li23={"li"} li24={"li"}
-      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} 
-      li37={"li"} li38={"li"} li39={"li"} li40={"li"}   
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+
 
       />} />
       
@@ -331,8 +355,10 @@ function App () {
       capituloAnime21={"/ver/kuro-no-shoukanshi-21"} capituloAnime22={"/ver/kuro-no-shoukanshi-22"} capituloAnime23={"/ver/kuro-no-shoukanshi-23"} capituloAnime24={"/ver/kuro-no-shoukanshi-24"}
       li8={"li"}  li9={"li"} li10={"li"} li11={"li"} li12={"li"}
       li13={"li"} li14={"li"} li15={"li"} li16={"li"} li17={"li"} li18={"li"} li19={"li"} li20={"li"} li21={"li"} li22={"li"} li23={"li"} li24={"li"}
-      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} 
-      li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+
       />} />
    
 
@@ -344,8 +370,10 @@ function App () {
       numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"}
       numeroCapitulo11={"11"} numeroCapitulo12={"12"}
       li13={"li"} li14={"li"} li15={"li"} li16={"li"} li17={"li"} li18={"li"} li19={"li"} li20={"li"} li21={"li"} li22={"li"} li23={"li"} li24={"li"}
-      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} 
-      li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+
       genero1={""} genero2={""} genero3={""} genero4={""} genero5={""}
       genre1={"disable"} genre2={"disable"} 
       genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"disable"} genre5={"disable"}
@@ -408,8 +436,10 @@ function App () {
       genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"disable"} genre5={"disable"}
       hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
       li13={"li"} li14={"li"} li15={"li"} li16={"li"} li17={"li"} li18={"li"} li19={"li"} li20={"li"} li21={"li"} li22={"li"} li23={"li"} li24={"li"}
-      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} 
-      li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+
 
       />} />
       
@@ -428,8 +458,10 @@ function App () {
       capituloAnime5={"/ver/spy-x-family-5"} capituloAnime6={"/ver/spy-x-family-6"} capituloAnime7={"/ver/spy-x-family-7"} capituloAnime8={"/ver/spy-x-family-8"} 
       capituloAnime9={"/ver/spy-x-family-9"} capituloAnime10={"/ver/spy-x-family-10"} capituloAnime11={"/ver/spy-x-family-11"} capituloAnime12={"/ver/spy-x-family-12"} 
       li13={"li"} li14={"li"} li15={"li"} li16={"li"} li17={"li"} li18={"li"} li19={"li"} li20={"li"} li21={"li"} li22={"li"} li23={"li"} li24={"li"}
-      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} 
-      li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+
       />} />
       
       <Route path="/date-a-live-IV" element={<Capitulos12 tituloAnime={"Date a Live IV"} 
@@ -448,8 +480,10 @@ function App () {
       genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"disable"} genre5={"disable"}
       hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
       li13={"li"} li14={"li"} li15={"li"} li16={"li"} li17={"li"} li18={"li"} li19={"li"} li20={"li"} li21={"li"} li22={"li"} li23={"li"} li24={"li"}
-      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} 
-      li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+
       />} />
       
       <Route path="/tate-no-yuusha-no-naraigari-segunda-temporada" element={<Capitulos12 tituloAnime={"Tate no Yuusha no Naraigari Segunda Temporada"} 
@@ -470,8 +504,10 @@ function App () {
       genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"disable"} genre5={"disable"}
       hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
       li13={"li"} li14={"li"} li15={"li"} li16={"li"} li17={"li"} li18={"li"} li19={"li"} li20={"li"} li21={"li"} li22={"li"} li23={"li"} li24={"li"}
-      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} 
-      li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+
       /> } />
       
       <Route path="/tomodachi-game" element={<Capitulos12 tituloAnime={"Tomodachi Game"} 
@@ -490,8 +526,10 @@ function App () {
       genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"disable"} genre5={"disable"}
       hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
       li13={"li"} li14={"li"} li15={"li"} li16={"li"} li17={"li"} li18={"li"} li19={"li"} li20={"li"} li21={"li"} li22={"li"} li23={"li"} li24={"li"}
-      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} 
-      li37={"li"} li38={"li"} li39={"li"} li40={"li"} 
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+
       />} />
       
       <Route path="/baraou-no-souretsu" element={<Capitulos12 tituloAnime={"Baraou no Souretsu"} 
@@ -513,19 +551,16 @@ function App () {
       capituloAnime15={"/ver/baraou-no-souretsu-15"} capituloAnime16={"/ver/baraou-no-souretsu-16"} capituloAnime17={"/ver/baraou-no-souretsu-17"} capituloAnime18={"/ver/baraou-no-souretsu-18"} 
       capituloAnime19={"/ver/baraou-no-souretsu-19"} capituloAnime20={"/ver/baraou-no-souretsu-20"} 
       capituloAnime21={"/ver/baraou-no-souretsu-21"} capituloAnime22={"/ver/baraou-no-souretsu-22"} capituloAnime23={"/ver/baraou-no-souretsu-23"} capituloAnime24={"/ver/baraou-no-souretsu-24"}
-      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} 
-      li37={"li"} li38={"li"} li39={"li"} li40={"li"} 
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+
       />} />
       
       <Route path="karakuri-circus" element={<Capitulos12 tituloAnime={"Karakuri Circus"} 
       descripcion={"El protagonista, Masaru, acaba de heredar una gran fortuna tras la muerte de su padre. Sin embargo, la gente está tratando de ponerlo en sus manos por cualquier medio necesario, incluso si eso significa matarlo. Narumi ayuda a Masaru a ser secuestrado después de luchar contra figuras extrañas. Descubre que no son humanos, sino títeres de madera con una fuerza increíble. Después de una dura lucha, Narumi se ve obligado a admitir que no es un oponente para ellos; y justo cuando empieza a pensar que Masaru será capturado, Shirogane, el vigilante de Masaru, llega de Francia con un arma, el títere Arlequin. Aquí comienza la historia de Karakuri Circus."} 
       anime={"Karakuri Circus"} tipo={"TV"} numeroEpisodios={"36"} estado={"Finalizado"}  
       imagenAnime={"https://www.animefenix.com/cdn/animes/cover/62ac02707f3b4/karakuri-circus.jpg"} 
-      numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"}
-      numeroCapitulo11={"11"} numeroCapitulo12={"12"} numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} numeroCapitulo19={"19"} numeroCapitulo20={"20"}
-      numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} numeroCapitulo25={"25"} numeroCapitulo26={"26"} 
-      numeroCapitulo27={"27"} numeroCapitulo28={"28"} numeroCapitulo29={"29"} numeroCapitulo30={"30"} 
-      numeroCapitulo31={"31"} numeroCapitulo32={"32"} numeroCapitulo33={"33"} numeroCapitulo34={"34"} numeroCapitulo35={"35"} numeroCapitulo36={"36"} 
       capituloAnime1={"/ver/karakuri-circus-1"} capituloAnime2={"/ver/karakuri-circus-2"} capituloAnime3={"/ver/karakuri-circus-3"} capituloAnime4={"/ver/karakuri-circus-4"} 
       capituloAnime5={"/ver/karakuri-circus-5"} capituloAnime6={"/ver/karakuri-circus-6"} capituloAnime7={"/ver/karakuri-circus-7"} capituloAnime8={"/ver/karakuri-circus-8"} 
       capituloAnime9={"/ver/karakuri-circus-9"} capituloAnime10={"/ver/karakuri-circus-10"}
@@ -537,6 +572,9 @@ function App () {
       capituloAnime31={"/ver/karakuri-circus-31"} capituloAnime32={"/ver/karakuri-circus-32"} capituloAnime33={"/ver/karakuri-circus-33"} capituloAnime34={"/ver/karakuri-circus-34"}
       capituloAnime35={"/ver/karakuri-circus-35"} capituloAnime36={"/ver/karakuri-circus-36"}  
       li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+
       sec1={"sec"} sec2={"sec"} sec3={"sec"}
       genero1={""} genero2={""} genero3={""} genero4={""} genero5={""}
       genre1={"disable"} genre2={"disable"} 
@@ -552,8 +590,10 @@ function App () {
       hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
       li8={"li"} li9={"li"} li10={"li"} li11={"li"} li12={"li"}
       li13={"li"} li14={"li"} li15={"li"} li16={"li"} li17={"li"} li18={"li"} li19={"li"} li20={"li"} li21={"li"} li22={"li"} li23={"li"} li24={"li"}
-      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} 
-      li37={"li"} li38={"li"} li39={"li"} li40={"li"}  
+      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+
       descripcion={'La historia está ambientada en el futuro, no mucho después del día de hoy. Los hiperdeportes, que usan equipos extremos como elementos de apoyo, se han convertido en competencias de pasatiempos populares entre niños y adultos. Hiyori Hayama es una cantante de secundaria que no tiene nada que ver con Hyper Sports, pero cierto incidente pone en marcha la historia: "Esta es la historia de cómo conocimos a nuestros mejores amigos".'} 
       anime={"Extreme Hearts"} tipo={"TV"} numeroEpisodios={"7"} estado={"En Emision"}  
       imagenAnime={"https://www.animefenix.com/cdn/animes/cover/62c5b68624724/extreme-hearts.jpg"} 
@@ -576,6 +616,8 @@ function App () {
       hrefGenre1={"/generos=comedia"} hrefGenre2={"/generos=romance"} hrefGenre3={"/generos=seinen"} hrefGenre4={""} hrefGenre5={""}
       sec2={"sec"} sec3={"sec"} sec1={"sec"}
       li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
+      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
       descripcion={'Tada Banri, es un estudiante de nuevo ingreso en una escuela privada de derecho en Tokio, después de la ceremonia de apertura, él estaba completamente perdido tratando de encontrar el camino hacia el salón de orientación para los de primer año. En ese momento, se encuentra con un estudiante de primer año, que también estaba perdido, Mitsuo Yanagisawa. De alguna manera llegaron al lugar donde se dirigían, pero de repente frente a los dos aparece una chica hermosa que sostiene un ramo de rosas. La chica golpeó a Mitsuo en la cara con el ramo. "felicidades, estudiante de nuevo ingreso", fue todo lo que dijo, y luego se fue. La mujer que golpeo a Mitsuo se trataba de su amiga de la infancia, Kaga Kouko. Cuando eran niños se habían prometido a casarse cuando algún día llegarán a cumplir sus sueños. Con el fin de escapar de ella, Mitsuo había salido secretamente y tomado el examen de este colegio privado muy conocido.'}
       imagenAnime="https://www.animefenix.com/cdn/animes/cover/5fd97249d303d/golden-time.jpg" 
       tipo={"TV"} numeroEpisodios={"24"} 
