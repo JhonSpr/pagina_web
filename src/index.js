@@ -46,8 +46,8 @@ root.render(
   <BrowserRouter>
   
   <Auth0Provider domain='dev-xb-8m80m.us.auth0.com' clientId='3baeGoxny7190uFl6CQfn7b46tkiWaXy' redirectUri={window.location.origin}>
-  <App/>
   <Menubar/>
+  <App/>
   <Videos/>
   <Animes5/>
   </Auth0Provider>
