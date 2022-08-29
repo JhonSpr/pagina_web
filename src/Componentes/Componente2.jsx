@@ -12,6 +12,7 @@ import { Disqus } from "./disqus";
 import ProfileMobile from "../perfilMobile";
 import LogoutButtonMobile from "../LogoutMobile";
 import { LoginButtonMobile } from "../LoginMobile";
+import { NumerosDoce } from "./12capitulos";
 
 
 /* eslint-disable jsx-a11y/iframe-has-title */
@@ -167,7 +168,7 @@ export function Capitulos12({hrefGenre1,hrefGenre2,hrefGenre3,hrefGenre4,hrefGen
                     </h1>
 
                     
-                    <ul className="anime-page__episode-list is-size-6">
+                    <ul className="anime-page__episode-list is-size-6 cuarenta-caps">
                    
 
                             <li id={li1}>
@@ -294,7 +295,7 @@ export function Capitulos12({hrefGenre1,hrefGenre2,hrefGenre3,hrefGenre4,hrefGen
                                                     
                                             
                     </ul>
-
+                    <NumerosDoce/>
 
            
 
