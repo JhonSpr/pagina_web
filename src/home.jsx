@@ -745,7 +745,7 @@ function App () {
       />}/>
      
      <Route path="/animes-3" element={<Componente1 
-      img1="https://i.ibb.co/kQ9hyMc/golden-time.jpg" img2=""
+      img1="https://www.animefenix.com/cdn/animes/cover/5fd97249d303d/golden-time.jpg" img2=""
       img3="" img4="" 
       img5="" img6="" 
       img7="" img8="" 
