@@ -588,7 +588,7 @@ function App () {
 
       <Route path="/golden-time" exact element={<Capitulos12 tituloAnime={"Golden Time"} 
       genero1={"Comedia"} genero2={"Romance"} genero3={"Seinen"} genero4={""} genero5={""}
-      genre1={"disable"} genre2={"disable"} 
+      genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
       genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"disable"} genre5={"disable"}
       hrefGenre1={"/generos=comedia"} hrefGenre2={"/generos=romance"} hrefGenre3={"/generos=seinen"} hrefGenre4={""} hrefGenre5={""}
       sec2={"sec"} sec3={"sec"} sec1={"sec"}
