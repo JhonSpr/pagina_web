@@ -193,6 +193,7 @@ a{
   }
   .filtrador{
     margin-top: 300px !important;
+    z-index: 0;
   }
 }
 
