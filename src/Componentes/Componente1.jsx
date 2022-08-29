@@ -190,86 +190,86 @@ export function Componente1({year1,year2,year3,year4,year5,year6,year7,year8,yea
   </article>
   <article className="serie-card" title={anime5}>
     <figure className="image overarchingdiv2">
-        <NavLink to={href5}>
+        <a to={href5}>
             <img src={img5} alt={anime5} />
             <div className="overlay-dark"></div>
             <div className="hoveroverlay">
             <i className="fas fa-play pgnav activehov"></i>
             </div>
-        </NavLink>
+        </a>
         <span className="tag year is-dark">{year5}</span>
         <span className="tag is-danger type">{tv}</span>
         <span className={classEmision5}>{emision}</span>
         <div className="title">
-            <h3><NavLink to={href5} className="has-text-orange has-text-weight-semibold has-text-centered is-size-6">{anime5}</NavLink></h3>
+            <h3><a to={href5} className="has-text-orange has-text-weight-semibold has-text-centered is-size-6">{anime5}</a></h3>
         </div>
     </figure>
   </article>
   <article className="serie-card" title={anime6}>
     <figure className="image overarchingdiv2">
-        <NavLink to={href6}>
+        <a to={href6}>
             <img src={img6} alt={anime6} />
             <div className="overlay-dark"></div>
             <div className="hoveroverlay">
             <i className="fas fa-play pgnav activehov"></i>
             </div>
-        </NavLink>
+        </a>
         <span className="tag year is-dark">{year6}</span>
         <span className="tag is-danger type">{tv}</span>
         <span className={classEmision6}>{emision}</span>
         <div className="title">
-            <h3><NavLink to={href6} className="has-text-orange has-text-weight-semibold has-text-centered is-size-6">{anime6}</NavLink></h3>
+            <h3><a to={href6} className="has-text-orange has-text-weight-semibold has-text-centered is-size-6">{anime6}</a></h3>
         </div>
     </figure>
   </article>
   <article className="serie-card" title={anime7}>
     <figure className="image overarchingdiv2">
-        <NavLink to={href7}>
+        <a to={href7}>
             <img src={img7} alt={anime7} />
             <div className="overlay-dark"></div>
             <div className="hoveroverlay">
             <i className="fas fa-play pgnav activehov"></i>
             </div>
-        </NavLink>
+        </a>
         <span className="tag year is-dark">{year7}</span>
         <span className="tag is-danger type">{tv}</span>
         <span className={classEmision7}>{emision}</span>
         <div className="title">
-            <h3><NavLink to={href7} className="has-text-orange has-text-weight-semibold has-text-centered is-size-6">{anime7}</NavLink></h3>
+            <h3><a to={href7} className="has-text-orange has-text-weight-semibold has-text-centered is-size-6">{anime7}</a></h3>
         </div>
     </figure>
   </article>
   <article className="serie-card" title={anime8}>
     <figure className="image overarchingdiv2">
-        <NavLink to={href8}>
+        <a to={href8}>
             <img src={img8} alt={anime8} />
             <div className="overlay-dark"></div>
             <div className="hoveroverlay">
             <i className="fas fa-play pgnav activehov"></i>
             </div>
-        </NavLink>
+        </a>
         <span className="tag year is-dark">{year8}</span>
         <span className="tag is-danger type">{tv}</span>
         <span className={classEmision8}>{emision}</span>
         <div className="title">
-            <h3><NavLink to={href8} className="has-text-orange has-text-weight-semibold has-text-centered is-size-6">{anime8}</NavLink></h3>
+            <h3><a to={href8} className="has-text-orange has-text-weight-semibold has-text-centered is-size-6">{anime8}</a></h3>
         </div>
     </figure>
   </article>
   <article className="serie-card" title={anime9}>
     <figure className="image overarchingdiv2">
-        <NavLink to={href9}>
+        <a to={href9}>
             <img src={img9} alt={anime9} />
             <div className="overlay-dark"></div>
             <div className="hoveroverlay">
             <i className="fas fa-play pgnav activehov"></i>
             </div>
-        </NavLink>
+        </a>
         <span className="tag year is-dark">{year9}</span>
         <span className="tag is-danger type">{tv}</span>
         <span className={classEmision9}>{emision}</span>
         <div className="title">
-            <h3><NavLink to={href9} className="has-text-orange has-text-weight-semibold has-text-centered is-size-6">{anime9}</NavLink></h3>
+            <h3><a to={href9} className="has-text-orange has-text-weight-semibold has-text-centered is-size-6">{anime9}</a></h3>
         </div>
     </figure>
   </article>
@@ -538,19 +538,19 @@ export function Componente1({year1,year2,year3,year4,year5,year6,year7,year8,yea
     
  <div className="paginacion-contenedor">
  <ul>
-    <NavLink to={pagAnterior} className="anterior">{anterior}</NavLink>
-    <li className={classpag1}><NavLink to={pag1}>{primero}</NavLink></li>
-    <li className={classpag2}><NavLink to={pag2}>{segundo}</NavLink></li>
-    <li className={classpag3}><NavLink to={pag3}>{tercero}</NavLink></li>
-    <li className={classpag4}><NavLink to={pag4}>{cuarto}</NavLink></li>
-    <li className={classpag5}><NavLink to={pag5}>{quinto}</NavLink></li>
-    <li className={classpag6}><NavLink to={pag6}>{sexto}</NavLink></li>
-    <li className={classpag7}><NavLink to={pag7}>{septimo}</NavLink></li>
-    <li className={classpag8}><NavLink to={pag8}>{octavo}</NavLink></li>
-    <li className={classpag9}><NavLink to={pag9}>{noveno}</NavLink></li>
-    <li className={classpag10}><NavLink to={pag10}>{decimo}</NavLink></li>
-    <li className={classpag11}><NavLink to={pag11}>{onceavo}</NavLink></li>
-    <NavLink to={pagSiguiente} className="siguiente"> {siguiente} </NavLink>
+    <a href={pagAnterior} className="anterior">{anterior}</a>
+    <li className={classpag1}><a href={pag1}>{primero}</a></li>
+    <li className={classpag2}><a href={pag2}>{segundo}</a></li>
+    <li className={classpag3}><a href={pag3}>{tercero}</a></li>
+    <li className={classpag4}><a href={pag4}>{cuarto}</a></li>
+    <li className={classpag5}><a href={pag5}>{quinto}</a></li>
+    <li className={classpag6}><a href={pag6}>{sexto}</a></li>
+    <li className={classpag7}><a href={pag7}>{septimo}</a></li>
+    <li className={classpag8}><a href={pag8}>{octavo}</a></li>
+    <li className={classpag9}><a href={pag9}>{noveno}</a></li>
+    <li className={classpag10}><a href={pag10}>{decimo}</a></li>
+    <li className={classpag11}><a href={pag11}>{onceavo}</a></li>
+    <a href={pagSiguiente} className="siguiente"> {siguiente} </a>
   </ul>
  </div>
 
