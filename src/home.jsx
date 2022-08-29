@@ -759,7 +759,7 @@ function App () {
       />}/>
      
      <Route path="/animes-3" element={<Componente1 
-      img1="https://www3.animeflv.net/uploads/animes/covers/1139.jpg" img2=""
+      img1="Componententes/covers/golden-time.jpg" img2=""
       img3="" img4="" 
       img5="" img6="" 
       img7="" img8="" 
