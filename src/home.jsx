@@ -601,7 +601,7 @@ function App () {
       hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
       sec2={"sec"} sec3={"sec"} sec1={"sec"}
       li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
-      descripcion={'Tada Banri, es un estudiante de nuevo ingreso en una escuela privada de derecho en Tokio, después de la ceremonia de apertura, él estaba completamente perdido tratando de encontrar el camino hacia el salón de orientación para los de primer año. En ese momento, se encuentra con un estudiante de primer año, que también estaba perdido, Mitsuo Yanagisawa. De alguna manera llegaron al lugar donde se dirigían, pero de repente frente a los dos aparece una chica hermosa que sostiene un ramo de rosas. La chica golpeó a Mitsuo en la cara con el ramo. "felicidades, estudiante de nuevo ingreso", fue todo lo que dijo, y luego se fue. La mujer que golpeo a Mitsuo se trataba de su amiga de la infancia, Kaga Kouko. Cuando eran niños se habían prometido a casarse cuando algún día llegarán a cumplir sus sueños. Con el fin de escapar de ella, Mitsuo había salido secretamente y tomado el examen de este colegio privado muy conocido.'}
+      descripcion={''}
       imagenAnime="https://www.animefenix.com/fullmetal-alchemist-brotherhood" 
       tipo={"TV"} numeroEpisodios={"24"} 
       estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
@@ -614,7 +614,18 @@ function App () {
       capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
       capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
       capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
-      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}    
+      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
+      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
+      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
+      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
+      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
+      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
+      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
+      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
+      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
+      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
+      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
+      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
       />}/>
 
 
