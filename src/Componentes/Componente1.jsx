@@ -275,82 +275,82 @@ export function Componente1({year1,year2,year3,year4,year5,year6,year7,year8,yea
   </article>
   <article className="serie-card" title={anime10}>
     <figure className="image overarchingdiv2">
-        <NavLink to={href10}>
+        <a to={href10}>
             <img src={img10} alt={anime10} />
             <div className="overlay-dark"></div>
             <div className="hoveroverlay">
             <i className="fas fa-play pgnav activehov"></i>
             </div>
-        </NavLink>
+        </a>
         <span className="tag year is-dark">{year10}</span>
         <span className="tag is-danger type">{tv}</span>
         <span className={classEmision10}>{emision}</span>
         <div className="title">
-            <h3><NavLink to={href10} className="has-text-orange has-text-weight-semibold has-text-centered is-size-6">{anime10}</NavLink></h3>
+            <h3><a to={href10} className="has-text-orange has-text-weight-semibold has-text-centered is-size-6">{anime10}</a></h3>
         </div>
     </figure>
   </article>
   <article className="serie-card" title={anime11}>
     <figure className="image overarchingdiv2">
-        <NavLink to={href11}>
+        <a to={href11}>
             <img src={img11} alt={anime11} />
             <div className="overlay-dark"></div>
             <div className="hoveroverlay">
             <i className="fas fa-play pgnav activehov"></i>
             </div>
-        </NavLink>
+        </a>
         <span className="tag year is-dark">{year11}</span>
         <span className="tag is-danger type">{tv}</span>
         <span className={classEmision11}>{emision}</span>
         <div className="title">
-            <h3><NavLink to={href11} className="has-text-orange has-text-weight-semibold has-text-centered is-size-6">{anime11}</NavLink></h3>
+            <h3><a to={href11} className="has-text-orange has-text-weight-semibold has-text-centered is-size-6">{anime11}</a></h3>
         </div>
     </figure>
   </article>
   <article className="serie-card" title={anime12}>
     <figure className="image overarchingdiv2">
-        <NavLink to={href12}>
+        <a to={href12}>
             <img src={img12} alt={anime12} />
             <div className="overlay-dark"></div>
             <div className="hoveroverlay">
             <i className="fas fa-play pgnav activehov"></i>
             </div>
-        </NavLink>
+        </a>
         <span className="tag year is-dark">{year12}</span>
         <span className="tag is-danger type">{tv}</span>
         <span className={classEmision12}>{emision}</span>
         <div className="title">
-            <h3><NavLink to={href12} className="has-text-orange has-text-weight-semibold has-text-centered is-size-6">{anime12}</NavLink></h3>
+            <h3><a to={href12} className="has-text-orange has-text-weight-semibold has-text-centered is-size-6">{anime12}</a></h3>
         </div>
     </figure>
   </article>
   <article className="serie-card" title={anime13}>
     <figure className="image overarchingdiv2">
-        <NavLink to={href13}>
+        <a to={href13}>
             <img src={img13} alt={anime13} />
             <div className="overlay-dark"></div>
             <div className="hoveroverlay">
             <i className="fas fa-play pgnav activehov"></i>
             </div>
-        </NavLink>
+        </a>
         <span className="tag year is-dark">{year13}</span>
         <span className="tag is-danger type">{tv}</span>
         <span className={classEmision13}>{emision}</span>
 
         <div className="title">
-            <h3><NavLink to={href13} className="has-text-orange has-text-weight-semibold has-text-centered is-size-6">{anime13}</NavLink></h3>
+            <h3><a to={href13} className="has-text-orange has-text-weight-semibold has-text-centered is-size-6">{anime13}</a></h3>
         </div>
     </figure>
   </article>
   <article className="serie-card" title={anime14}>
     <figure className="image overarchingdiv2">
-        <NavLink to={href14}>
+        <a to={href14}>
             <img src={img14} alt={anime14} />
             <div className="overlay-dark"></div>
             <div className="hoveroverlay">
             <i className="fas fa-play pgnav activehov"></i>
             </div>
-        </NavLink>
+        </a>
         <span className="tag year is-dark">{year14}</span>
         <span className="tag is-danger type">{tv}</span>
         <span className={classEmision14}>{emision}</span>
