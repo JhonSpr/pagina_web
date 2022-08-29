@@ -893,6 +893,9 @@ z-index: 99;
 .dropdown{
   z-index: 9999 !important;
 }
+.dropdown-toggle{
+  z-index: 1;
+}
 
 .fa-filter{
   margin-left: 4px;
