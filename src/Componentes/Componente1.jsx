@@ -94,15 +94,8 @@ export function Componente1({year1,year2,year3,year4,year5,year6,year7,year8,yea
                                      
                                     }
 
-  
-
-  
-
-
           
-      <form class="d-flex" role="search">
       <SearchBar placeholder={"Buscar animes..."} data={BookData} imagenSearch={img}/>
-      </form>
     </div>
   </div>
             </nav>
