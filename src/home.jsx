@@ -759,7 +759,7 @@ function App () {
       />}/>
      
      <Route path="/animes-3" element={<Componente1 
-      img1="Componentes/covers/golden-time.jpg" img2=""
+      img1="https://lh3.googleusercontent.com/ejDi_9I4YW_2sQt5cS2E4qaDzVSDIacyUTzwBTwIgezilJjfoDTaCEbnLQWUx3QhQAVBCrHPRpzRbz8AkxYVSOzs5ELKpa0bUVKiPliRU1-cQI1j9ySCRJOjsuw45ghFn7M9BnIs13ufCc8zrIaspPR8KzVzUOzegPP1dGCPFYjfp3-VBYd8Ivh_JmvwxZmTPmHdvmgVxPmsjRZtQSD496x8s2Gi1qWcu9-xcZQ3sRycf8Di6s0BlcVHoyVsuBPug4GuQvG8rUaPKEritrwkcjScKy7YsJ71FwpE3w9NddW7S5RqHCLwyhfj_BrXfP-EHktyP2DRzMZWfrGKKXBb0nr4DaA-WICEQ6h3t9p6mN_exlDYD2z-cxAU8joUAq6-4R-1ikwKtMO5y3lRGR404Yat6OcYBKAQieI2KNjHh4TTmfIqv4qZMB5QUozadpbg5PVZJIzLh3-Uct0x3Rps_upjNS02CxXbJ9olXjvM7L4ucq-1dfJ6YsazBWY6QoVmzZYxonw2DhmyyiHW29sxW7NPEQ4YY31MOWaudjyQAiXykozs5sEqFlGNTzM9IOiiBnwWfyOCNDgwAxhBrMUPlt6M8VdZiSrSOeCxdct3k9TaYdFMgCTOlork7zsY2ovrQGvTfhfTygtb3A3ATrgOfziUwHesBeiUkE6RU7cs-UCZLMcizWUpyxi_AOzX59hBJjgEgs23EIJxgfuRCA-MDLrsnxU6TdIo7VNvHOSXFvBGQ6RkEAN7tPys6NW82TN1WidpTMnZI4MBPczDQQbScU92EcgWRb__OrK77Rq1ddUvH3zOSu-nFRboRYer6zaXwBbZ=w245-h350-no?authuser=1" img2=""
       img3="" img4="" 
       img5="" img6="" 
       img7="" img8="" 
