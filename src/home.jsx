@@ -592,15 +592,20 @@ function App () {
       genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"disable"} genre5={"disable"}
       hrefGenre1={"/generos=comedia"} hrefGenre2={"/generos=romance"} hrefGenre3={"/generos=seinen"} hrefGenre4={""} hrefGenre5={""}
       sec2={"sec"} sec3={"sec"} sec1={"sec"}
-      li13={"li"} li14={"li"} li15={"li"} li16={"li"} li17={"li"} li18={"li"} li19={"li"} li20={"li"} li21={"li"} li22={"li"} li23={"li"} li24={"li"}
       li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
       descripcion={'Tada Banri, es un estudiante de nuevo ingreso en una escuela privada de derecho en Tokio, después de la ceremonia de apertura, él estaba completamente perdido tratando de encontrar el camino hacia el salón de orientación para los de primer año. En ese momento, se encuentra con un estudiante de primer año, que también estaba perdido, Mitsuo Yanagisawa. De alguna manera llegaron al lugar donde se dirigían, pero de repente frente a los dos aparece una chica hermosa que sostiene un ramo de rosas. La chica golpeó a Mitsuo en la cara con el ramo. "felicidades, estudiante de nuevo ingreso", fue todo lo que dijo, y luego se fue. La mujer que golpeo a Mitsuo se trataba de su amiga de la infancia, Kaga Kouko. Cuando eran niños se habían prometido a casarse cuando algún día llegarán a cumplir sus sueños. Con el fin de escapar de ella, Mitsuo había salido secretamente y tomado el examen de este colegio privado muy conocido.'}
       imagenAnime="https://www3.animeflv.net/uploads/animes/covers/1139.jpg" tipo={"TV"} numeroEpisodios={"12"} 
       estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
-      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} anime={"Akudama Drive "} 
-      capituloAnime1={"/ver/akudama-drive-1"} capituloAnime2={"/ver/akudama-drive-2"} capituloAnime3={"/ver/akudama-drive-3"} capituloAnime4={"/ver/akudama-drive-4"} 
-      capituloAnime5={"/ver/akudama-drive-5"} capituloAnime6={"/ver/akudama-drive-6"} capituloAnime7={"/ver/akudama-drive-"} capituloAnime8={"/ver/akudama-drive-8"} 
-      capituloAnime9={"/ver/akudama-drive-9"} capituloAnime10={"/ver/akudama-drive-10"} capituloAnime11={"/ver/akudama-drive-11"} capituloAnime12={"/ver/akudama-drive-12"}  
+      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
+      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
+      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      anime={"Golden Time "} 
+      capituloAnime1={"/ver/golden-time-1"} capituloAnime2={"/ver/golden-time-2"} capituloAnime3={"/ver/golden-time-3"} capituloAnime4={"/ver/golden-time-4"} 
+      capituloAnime5={"/ver/golden-time-5"} capituloAnime6={"/ver/golden-time-6"} capituloAnime7={"/ver/golden-time-7"} capituloAnime8={"/ver/golden-time-8"} 
+      capituloAnime9={"/ver/golden-time-9"} capituloAnime10={"/ver/golden-time-10"} capituloAnime11={"/ver/golden-time-11"} capituloAnime12={"/ver/golden-time-12"}
+      capituloAnime13={"/ver/golden-time-13"} capituloAnime14={"/ver/golden-time-14"} capituloAnime15={"/ver/golden-time-15"} capituloAnime16={"/ver/golden-time-16"} 
+      capituloAnime17={"/ver/golden-time-17"} capituloAnime18={"/ver/golden-time-18"} capituloAnime19={"/ver/golden-time-19"} capituloAnime20={"/ver/golden-time-20"} 
+      capituloAnime21={"/ver/golden-time-21"} capituloAnime22={"/ver/golden-time-22"} capituloAnime23={"/ver/golden-time-23"} capituloAnime24={"/ver/golden-time-24"}    
       />}/>
 
 
@@ -753,7 +758,8 @@ function App () {
       classEmision22={"tag is-success airing"} classEmision23={"disable"} classEmision24={"disable"}
       />}/>
      
-     <Route path="/animes-3" element={<Componente1 img1="" img2=""
+     <Route path="/animes-3" element={<Componente1 
+      img1="https://www3.animeflv.net/uploads/animes/covers/1139.jpg" img2=""
       img3="" img4="" 
       img5="" img6="" 
       img7="" img8="" 
@@ -770,13 +776,14 @@ function App () {
       year9="" year10="" year11="" year12="" year13="" year14="" year15="" year16=""
       year17="" year18="" year19="" year20="" year21="" year22="" year23="" year24=""
 
-      href1="" href2="" href3="" href4="" href5="" href6="" href7="" href8="" href9=""
+      href1="/golden-time" href2="" href3="" href4="" href5="" href6="" href7="" href8="" href9=""
       href10="" href11="" href12="" href13="" href14="" href15="" href16="" href17=""
       href18="" href19="" href20="" href21="" href22="" href23="" href24=""
 
-      anime1="" anime2="" anime3="" anime4="" anime5="" anime6="" anime7="" anime8="" 
+      anime1="Golden Time" anime2="" anime3="" anime4="" anime5="" anime6="" anime7="" anime8="" 
       anime9="" anime10="" anime11="" anime12="" anime13="" anime14="" anime15=""
-      anime16="" anime17="" anime18="" anime19="" anime20="" anime21="" anime22="" anime23=""anime24="" alt1="" alt2="" alt3="" alt4="" alt5="" alt6="" alt7="" alt8="" 
+      anime16="" anime17="" anime18="" anime19="" anime20="" anime21="" anime22="" anime23=""anime24="" 
+      alt1="Golden Time" alt2="" alt3="" alt4="" alt5="" alt6="" alt7="" alt8="" 
       alt9="" alt10="" alt11="" alt12="" alt13="" alt14="" alt15="" alt16="" alt17=""
       alt18="" alt19="" alt20="" alt21="" alt22="" alt23="" alt24=""
       classpag11="disable" classpag3="active"
