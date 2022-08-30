@@ -1,5 +1,6 @@
 import React from "react";
 import { useAuth0 } from "@auth0/auth0-react";
+import { Link } from "react-router-dom";
 
 const Profile = () => {
   const { user, isAuthenticated, isLoading } = useAuth0();
@@ -17,11 +18,11 @@ const Profile = () => {
    
        <i className="fa-solid fa-user-large"></i>
        
-        <a href="/perfil"> 
+        <Link to={`/perfil/${user.nickname}`}> 
         
         <h2 className="nickname">{user.nickname}</h2>
        
-      </a>
+      </Link>
         
       </li>
        

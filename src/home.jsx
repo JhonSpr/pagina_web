@@ -61,7 +61,7 @@ function App () {
       classEmision22={"tag is-success airing"} classEmision23={"disable"} classEmision24={"disable"}
        />}/>
      
-      <Route path="/perfil" element={<PerfilPaginaMenu/>}/>
+      <Route path="/perfil:user" element={<PerfilPaginaMenu/>}/>
 
      {/* capitulos Animes */}
 
