@@ -131,9 +131,6 @@ a {
     white-space: nowrap;
     width: 449px;
   }
-  .imagen-noticia {
-    height: 420px;
-  }
 }
 @media screen and (min-width: 999px) and (max-width: 1230px) {
   #navbarText {
@@ -205,9 +202,6 @@ a {
     overflow: hidden;
     white-space: wrap;
     width: 399px;
-  }
-  .imagen-noticia {
-    justify-content: cover;
   }
 }
 
