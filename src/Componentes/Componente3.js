@@ -21,7 +21,6 @@ export function Video({
   contSiguienteClass,
   tituloPag,
   frame1,
-  anteriorVideo,
 }) {
   return (
     // <div>
