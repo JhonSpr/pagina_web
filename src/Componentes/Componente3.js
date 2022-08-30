@@ -24,7 +24,7 @@ export function Video({tituloAnime, anime , capitulosVideo, siguienteVideo , num
                 <div className="column is-12-mobile is-8-tablet is-9-desktop">
 
                     <h1 className="title is-size-4 has-text-centeredX has-text-weight-semibold is-uppercaseX has-text-light">
-                      {anime} {numero} Sub Español
+                      {anime} {numero}
                     </h1>
 
 
