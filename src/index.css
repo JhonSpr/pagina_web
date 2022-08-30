@@ -195,6 +195,12 @@ a{
     margin-top: 300px !important;
     z-index: 0;
   }
+  .paginacion-contenedor{
+  font-size: 15px;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  }
 }
 
 .contenedor-opciones{
