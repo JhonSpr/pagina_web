@@ -1208,7 +1208,7 @@ textarea {
 .overtitlenews {
   padding: 0px 5px;
   background: rgba(0, 0, 0, 0.8);
-  font-size: 23px;
+  font-size: 15px;
   position: absolute;
   bottom: 0px;
   -ms-text-overflow: ellipsis;
