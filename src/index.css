@@ -1242,3 +1242,8 @@ textarea {
 .otros-animes {
   margin-top: 0.5rem;
 }
+
+.div-grid {
+  display: grid;
+  place-items: center;
+}
