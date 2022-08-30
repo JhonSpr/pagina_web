@@ -35,6 +35,7 @@ export function Video({
       <div className="hero is-fullheightX">
         <section className="section">
           <div className="container">
+            <AnimesRecommend />
             <div className="columns is-multiline">
               <div className="column is-12-mobile is-8-tablet is-9-desktop">
                 <h1 className="title is-size-4 has-text-centeredX has-text-weight-semibold is-uppercaseX has-text-light">
@@ -52,7 +53,6 @@ export function Video({
                       allowFullScreen
                     ></iframe>
                   </div>
-                  <AnimesRecommend />
 
                   <div className="column is-12-mobile is-4-tablet is-3-desktop">
                     <div className="columns is-variable is-1 cont-opciones">
