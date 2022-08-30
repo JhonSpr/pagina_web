@@ -5,7 +5,6 @@ import { Capitulos12 } from "./Componentes/Componente2";
 import { Filter } from "./Componentes/DropDown";
 import { EnEmision } from "./Componentes/enEmision";
 import { Inicio } from "./Componentes/Inicio";
-import NoExiste from "./Componentes/NoExiste";
 import { PerfilPaginaMenu } from "./Componentes/perfil";
 
 
