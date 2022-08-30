@@ -1,7 +1,7 @@
 import Animes from "../Data.json";
 
 export function AnimesRecommend() {
-  Animes.slice(0, 6).map((animes) => {
+  Animes.slice(0, 6).map.Math.floor(Math.random)((animes) => {
     return (
       <div class="item" key={animes.id}>
         <div class="overarchingdiv">
@@ -19,8 +19,4 @@ export function AnimesRecommend() {
       </div>
     );
   });
-  Animes = (array) => {
-    let randomIndex = Math.floor(Math.random() * array.length);
-    return array[randomIndex];
-  };
 }
