@@ -1240,26 +1240,18 @@ textarea {
   display: inline-block !important;
 }
 .img-otros-animes {
-  width: 200px;
+  width: 100%;
   height: auto;
   border-radius: 7px;
 }
 .otros-animes {
   margin-top: 1rem;
   display: block !important;
-  justify-content: center;
-  text-align: center;
-  align-items: center;
 }
 
 .div-grid {
   display: grid !important;
   place-items: center !important;
-}
-
-.div-img {
-  display: inline-block !important;
-  margin: 5px;
 }
 
 .title-otros {
