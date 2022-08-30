@@ -140,40 +140,6 @@ export default function Prueba() {
             </div>
 
             <div class="column is-12-mobile is-3-tablet is-3-deskop">
-              <div class="social-container">
-                <a
-                  href="https://facebook.com/Untaltioyt-105493257589307"
-                  class="wrap"
-                >
-                  <span class="social-internal">
-                    <i class="fab fa-facebook-f social-icon1"></i>
-                    <span class="social-icon2">Siguenos en</span>
-                    <span class="social-icon3">Facebook</span>
-                  </span>
-                </a>
-                <a href="https://discord.com/invite/C2UYNH6" class="wrap">
-                  <span class="social-internal">
-                    <i class="fab fa-discord social-icon1"></i>
-                    <span class="social-icon2">Únete a</span>
-                    <span class="social-icon3">Discord</span>
-                  </span>
-                </a>
-                <a href="https://www.twitch.tv/untaltioyt" class="wrap">
-                  <span class="social-internal">
-                    <i class="fab fa-twitch social-icon1"></i>
-                    <span class="social-icon2">Sigueme en</span>
-                    <span class="social-icon3">Twitch</span>
-                  </span>
-                </a>
-                <a href="https://twitter.com/YTWorlds" class="wrap">
-                  <span class="social-internal">
-                    <i class="fab fa-twitter social-icon1"></i>
-                    <span class="social-icon2">Siguenos en</span>
-                    <span class="social-icon3">Twitter</span>
-                  </span>
-                </a>
-              </div>
-              <div></div>
               <div class="column is-12-mobile is-12-tablet is-12-desktop is-paddingless">
                 <h5 class="has-text-light text-centered">
                   Series Recomendadas
