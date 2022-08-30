@@ -1222,8 +1222,8 @@ textarea {
 .item {
   cursor: pointer;
   margin: 10px;
-  width: 467px;
-  height: 315px;
+  width: 407px;
+  height: auto;
   position: relative;
   left: 0px;
   display: inline-block;
