@@ -1319,6 +1319,7 @@ function Videos(){
        <Route path="/ver/-12" element={<Video frame1={"https://sbthe.com/e/.html"} contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"  contSiguienteClass={"disable"}                                                  tituloAnime={" Capitulo 12"} tituloPag={"Animekun"} anime={" "} numero={"12"} capitulosVideo={"/"} anteriorVideo={"/ver/-11"}  />}/>
 
        ----------------
+    
 
             </Routes>
         
