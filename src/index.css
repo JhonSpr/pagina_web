@@ -129,7 +129,7 @@ a {
     text-align: center;
     text-overflow: ellipsis;
     overflow: hidden;
-    white-space: wrap;
+    white-space: nowrap;
     width: 449px;
   }
 }
@@ -203,7 +203,7 @@ a {
     text-align: center;
     text-overflow: ellipsis;
     overflow: hidden;
-    white-space: nowrap;
+    white-space: wrap;
     width: 399px;
   }
   .imagen-noticia {
