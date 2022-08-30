@@ -1275,4 +1275,6 @@ textarea {
 .contenedor-otros {
   margin-top: 60px;
   border-top: 2px solid rgb(100, 100, 100);
+  float: right;
+  width: 400px;
 }
