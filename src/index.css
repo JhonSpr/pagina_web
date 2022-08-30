@@ -1262,7 +1262,7 @@ textarea {
 }
 
 .title-otros {
-  font-size: 1rem;
+  font-size: initial;
   font-weight: bold;
   padding-top: 20px;
   text-align: center;
