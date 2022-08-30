@@ -6,8 +6,6 @@ import {
   AnimeRecommend2,
   AnimeRecommend3,
   AnimeRecommend4,
-  AnimeRecommend5,
-  AnimeRecommend6,
 } from "./AnimesRecommend";
 import { Disqus } from "./disqus";
 
@@ -94,8 +92,6 @@ export function Video({
                     <AnimeRecommend2 />
                     <AnimeRecommend3 />
                     <AnimeRecommend4 />
-                    <AnimeRecommend5 />
-                    <AnimeRecommend6 />
                   </div>
                 </div>
               </div>
