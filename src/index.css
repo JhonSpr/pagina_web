@@ -123,7 +123,12 @@ a {
     display: none;
   }
   .titulo-noticia {
-    width: auto !important;
+    justify-content: start;
+    text-align: center;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 449px;
   }
 }
 @media screen and (min-width: 999px) and (max-width: 1230px) {
@@ -161,9 +166,6 @@ a {
   .spinner-mobile {
     display: block;
   }
-  .titulo-noticia {
-    width: auto !important;
-  }
   .fa-search {
     left: 280px;
     cursor: pointer;
@@ -191,6 +193,14 @@ a {
     justify-content: center;
     text-align: center;
     align-items: center;
+  }
+  .titulo-noticia {
+    justify-content: start;
+    text-align: center;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 399px;
   }
 }
 
