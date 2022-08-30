@@ -10079,7 +10079,7 @@ function App () {
 
 
 
-      <Route path="*/" element={<NoExiste/>} />
+      <Route path="*" element={<NoExiste/>} />
 
 
      </Routes>
