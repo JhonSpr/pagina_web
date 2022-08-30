@@ -1,12 +1,12 @@
 import Animes from "../Data.json";
 
 export default function AnimesRecommend() {
-  Animes.slice(0, 6).map(() => {
+  Animes.slice(0, 6).map((Anime) => {
     return (
       <div>
-        <a href={Animes.link}>
-          <img src={Animes.img} alt={Animes.title} />
-          <strong>{Animes.title}</strong>
+        <a href={Anime.link}>
+          <img src={Anime.img} alt={Anime.title} />
+          <strong>{Anime.title}</strong>
         </a>
       </div>
     );
