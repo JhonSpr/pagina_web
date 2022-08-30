@@ -693,7 +693,7 @@ z-index: 99;
   
       /* Handle on hover */
       ::-webkit-scrollbar-thumb:hover {
-      background: rgba(158, 158, 158, 0.12); 
+      background: rgba(20,20,20); 
       }
       .anime-page__episode-list>li>a{
         width: 100%;
