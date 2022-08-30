@@ -1260,3 +1260,11 @@ textarea {
   display: inline-block;
   margin: 5px;
 }
+
+.title-otros {
+  font-size: 3em;
+  font-weight: bold;
+  padding: 10px auto;
+  text-align: center;
+  display: block;
+}
