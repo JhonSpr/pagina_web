@@ -157,6 +157,10 @@ a {
   }
 }
 @media screen and (min-width: 1px) and (max-width: 999px) {
+  .img-otros-animes {
+    width: calc(23.3333% - 0.1em);
+    height: auto;
+  }
   .navbar-item-menu-drop {
     display: none !important;
   }
