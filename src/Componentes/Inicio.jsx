@@ -2,6 +2,7 @@
 import { Noticia } from "./Noticias";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Disqus } from "./disqus";
+import { AnimesRecommend } from "./AnimesRecommend";
 
 /* eslint-disable jsx-a11y/no-distracting-elements */
 export function Inicio({
@@ -64,6 +65,7 @@ export function Inicio({
 
       <div className="hero is-lightx is-fullheight">
         <div>
+          <AnimesRecommend />
           <section className="section page-home__latest-series">
             <div className="container rounded-container">
               <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">

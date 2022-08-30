@@ -1,22 +1,12 @@
 import Animes from "../Data.json";
 
 export function AnimesRecommend() {
-  Animes.slice(0, 6).map.Math.floor(Math.random)((animes) => {
-    return (
-      <div class="item" key={animes.id}>
-        <div class="overarchingdiv">
-          <a href={animes.link}>
-            <img src={animes.img} alt={animes.title} />
-            <div class="seriesoverlay has-text-orange">
-              <h3 class="has-text-centered">
-                <div class="overtitlenews has-text-weight-semibold">
-                  {animes.title}
-                </div>
-              </h3>
-            </div>
-          </a>
-        </div>
-      </div>
-    );
-  });
+  const randomAnime = Math.floor(Math.random) * 100;
+  return (
+    <div>
+      <a href="">
+        <img src={Animes && Animes[randomAnime].img} alt="" />
+      </a>
+    </div>
+  );
 }
