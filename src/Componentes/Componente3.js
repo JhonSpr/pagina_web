@@ -1,6 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 /* eslint-disable react/style-prop-object */
 
+import AnimesRecommend from "./AnimesRecommend";
 import { Disqus } from "./disqus";
 
 /* eslint-disable jsx-a11y/iframe-has-title */
@@ -51,6 +52,7 @@ export function Video({
                       allowFullScreen
                     ></iframe>
                   </div>
+                  <AnimesRecommend />
 
                   <div className="column is-12-mobile is-4-tablet is-3-desktop">
                     <div className="columns is-variable is-1 cont-opciones">
