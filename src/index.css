@@ -1236,8 +1236,8 @@ textarea {
   display: inline-block !important;
 }
 .img-otros-animes {
+  width: 300px;
   height: auto;
-  display: inline-block !important;
 }
 .otros-animes {
   margin-top: 0.5rem;
