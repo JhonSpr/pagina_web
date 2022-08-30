@@ -1258,7 +1258,7 @@ textarea {
 }
 
 .div-img {
-  display: inline-block;
+  display: inline-block !important;
   margin: 5px;
 }
 
