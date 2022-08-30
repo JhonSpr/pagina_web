@@ -2,11 +2,7 @@ import Animes from "../Data.json";
 
 export function AnimesRecommend() {
   let RandomNumber = Math.floor(Math.random() * 100);
-  let RandomNumber2 = Math.floor(Math.random() * 100);
-  let RandomNumber3 = Math.floor(Math.random() * 100);
-  let RandomNumber4 = Math.floor(Math.random() * 100);
-  let RandomNumber5 = Math.floor(Math.random() * 100);
-  let RandomNumber6 = Math.floor(Math.random() * 100);
+
   return (
     <div>
       <div class="column is-12-mobile is-12-tablet is-12-desktop is-paddingless">
