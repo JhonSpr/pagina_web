@@ -8,7 +8,10 @@ export function AnimesRecommend() {
         href={Animes && Animes[RandomNumber].link}
         title={Animes && Animes[RandomNumber].title}
       >
-        <img src={Animes && Animes[RandomNumber].img} alt="" />
+        <img
+          src={Animes && Animes[RandomNumber].img}
+          alt={Animes && Animes[RandomNumber].title}
+        />
       </a>
     </div>
   );
