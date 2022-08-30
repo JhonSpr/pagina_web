@@ -11,7 +11,6 @@ import { useAuth0 } from '@auth0/auth0-react'
 import { LoginButtonMobile } from "../LoginMobile";
 import LogoutButtonMobile from "../LogoutMobile";
 import ProfileMobile from "../perfilMobile";
-import { NavLink } from "react-router-dom";
 
 
 export default function Menubar(){
@@ -41,15 +40,15 @@ export default function Menubar(){
                            
                            </li>
                            <li className='navbar-item item-nav first-item_desktop'>
-                           <NavLink to={"/animes"} className="nav-link item-nav">Animes</NavLink>
+                           <a href={"/animes"} className="nav-link item-nav">Animes</a>
                            </li>
                            <li className='navbar-item item-nav' >
-                           <NavLink to={"/en-emision"} className="nav-link item-nav">En Emision</NavLink>
+                           <a href={"/en-emision"} className="nav-link item-nav">En Emision</a>
                            </li>
                          
                            <Alertas/>
                            <li className='navbar-item item-nav' >
-                            <NavLink to={"/ovas"} className="nav-link item-nav">Ovas</NavLink>
+                            <a href={"/ovas"} className="nav-link item-nav">Ovas</a>
                            </li>
              
                            <ProfileMobile/>     
