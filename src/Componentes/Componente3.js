@@ -90,9 +90,9 @@ export function Video({tituloAnime, anime , capitulosVideo, siguienteVideo , num
             </div>
         </div>
     </section>
-    
+    <Disqus/>
 </div>
-<Disqus/>
+
         </div>
     );
 }
