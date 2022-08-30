@@ -65,7 +65,7 @@ function App () {
       <Route path="/perfil/:user" element={<PerfilPaginaMenu/>}/>
 
 
-      <Route path="/ver" element={<Ver/>}/>
+      <Route path="/ver/*" element={<Ver/>}/>
      {/* capitulos Animes */}
 
       <Route path="/akudama-drive" exact element={<Capitulos12 tituloAnime={"Akudama Drive"} 
