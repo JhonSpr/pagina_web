@@ -3,12 +3,13 @@
 import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
 import Datas from "./Data.json"
+import link from "./Data.json"
 
 function SearchBar({ placeholder, data }) {
 
 
  
-
+    
     const [filteredData, setFilteredData] = useState([]);
     const [wordEntered, setWordEntered] = useState("");
     
@@ -25,7 +26,7 @@ function SearchBar({ placeholder, data }) {
         setFilteredData(newFilter);
       }
     };
-  
+    
     return (
       <div className="search">
         <div className="searchInputs">
@@ -39,7 +40,7 @@ function SearchBar({ placeholder, data }) {
             autoCorrect="off"
             autoSave="off"
           /> 
-          <i className="fa-solid fa-search"></i>
+          <a href={link} className="fa-solid fa-search"></a>
         </li>
        
                         
