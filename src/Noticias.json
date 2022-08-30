@@ -1,31 +1,30 @@
 [
-    {
-        "id":"1",
-        "title":"Nuevo Vídeo promocional para Shinobi no Ittoki",
-        "img":"https://ytlandia.es/wp-content/uploads/2022/08/cats-47-750x350.jpg",
-        "link":"https://ytlandia.es/2022/08/22/nuevo-video-promocional-para-shinobi-no-ittoki/",
-        "Numero":"1"
-    },
-    {
-        "id":"2",
-        "title":"Finaliza el manga Assassins Pride",
-        "img":"https://ytlandia.es/wp-content/uploads/2022/08/cats-45-750x350.jpg",
-        "link":"https://ytlandia.es/2022/08/22/finaliza-el-manga-assassins-pride/",
-        "Numero":"2"
-    },
-    {
-        "id":"3",
-        "title":"Especial e información sobre el capítulo 2 de Teppen!!!!!!!!!!!!!!!",
-        "img":"https://ytlandia.es/wp-content/uploads/2022/08/cats-44-750x350.jpg",
-        "link":"https://ytlandia.es/2022/08/21/especial-e-informacion-sobre-el-capitulo-2-de-teppen/",
-        "Numero":"3"
-    },
-    {
-        "id":"4",
-        "title":"Romantic Killer tendrá anime en octubre",
-        "img":"https://ytlandia.es/wp-content/uploads/2022/08/cats-49-750x350.jpg",
-        "link":"",
-        "Numero":"4"
-    }
-    
+  {
+    "id": "1",
+    "title": "El manga Aoashi aumentó 5 millones de copias en circulación desde el debut del anime",
+    "img": "https://ytlandia.es/wp-content/uploads/2022/08/cats-68-750x350.jpg",
+    "link": "https://ytlandia.es/2022/08/30/el-manga-aoashi-aumento-5-millones-de-copias-en-circulacion-desde-el-debut-del-anime/",
+    "Numero": "1"
+  },
+  {
+    "id": "2",
+    "title": "Chainsaw Man protagoniza un espectacular visual para una revista",
+    "img": "https://somoskudasai.com/wp-content/uploads/2022/08/FbZMVKkVQAI29di-1207x1536.jpg",
+    "link": "https://somoskudasai.com/noticias/anime/chainsaw-man-protagoniza-un-espectacular-visual-para-una-revista/",
+    "Numero": "2"
+  },
+  {
+    "id": "3",
+    "title": "Más de diez series de anime comenzarán a llegar a Netflix",
+    "img": "https://somoskudasai.com/wp-content/uploads/2022/08/Visual-5-2-1229x1536.jpg",
+    "link": "https://somoskudasai.com/noticias/anime/mas-de-diez-series-de-anime-comenzaran-a-llegar-a-netflix/",
+    "Numero": "3"
+  },
+  {
+    "id": "4",
+    "title": "Una secuela para Lycoris Recoil dependería de los fanáticos",
+    "img": "https://somoskudasai.com/wp-content/uploads/2022/08/9_1-1024x576.jpg",
+    "link": "https://somoskudasai.com/noticias/cultura-otaku/una-secuela-para-lycoris-recoil-dependeria-de-los-fanaticos/",
+    "Numero": "4"
+  }
 ]
