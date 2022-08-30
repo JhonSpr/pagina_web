@@ -8,7 +8,6 @@ function SearchBar({ placeholder, data }) {
 
 
  
-    
     const [filteredData, setFilteredData] = useState([]);
     const [wordEntered, setWordEntered] = useState("");
     
@@ -24,7 +23,10 @@ function SearchBar({ placeholder, data }) {
       } else {
         setFilteredData(newFilter);
       }
+    
     };
+
+   
     
     return (
       <div className="search">
