@@ -111,6 +111,7 @@ a {
   }
   .noticia-card {
     width: 450px !important;
+    height: 340px;
     justify-content: cover;
     display: flex;
   }
@@ -127,10 +128,6 @@ a {
     position: absolute;
     background-color: rgba(0, 0, 0, 0.8);
     color: rgb(230, 230, 230);
-  }
-  .imagen-noticia {
-    width: 450px;
-    height: 430px;
   }
 }
 @media screen and (min-width: 999px) and (max-width: 1230px) {
