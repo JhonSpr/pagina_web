@@ -4,31 +4,20 @@ export function Noticia() {
     <section>
       {Noticias.map((noticia, id) => {
         return (
-          <article className="noticia-card" key={id} title={noticia.title}>
-            <h1 className="has-text-orange has-text-weight-semibold has-text-centered is-size-6">
-              Noticia {noticia.Numero}
-            </h1>
-
-            <figure className="image ">
+          <div class="item" key={noticia.id}>
+            <div class="overarchingdiv">
               <a href={noticia.link}>
-                <img
-                  src={noticia.img}
-                  alt={noticia.title}
-                  className="imagen-noticia"
-                />
+                <img src={noticia.img} alt={noticia.title} />
+                <div class="seriesoverlay has-text-orange">
+                  <h3 class="has-text-centered">
+                    <div class="overtitlenews has-text-weight-semibold">
+                      {noticia.title}
+                    </div>
+                  </h3>
+                </div>
               </a>
-              <div className="titulo-noticia">
-                <h3>
-                  <a
-                    href={noticia.link}
-                    className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
-                  >
-                    {noticia.title}
-                  </a>
-                </h3>
-              </div>
-            </figure>
-          </article>
+            </div>
+          </div>
         );
       })}
     </section>
