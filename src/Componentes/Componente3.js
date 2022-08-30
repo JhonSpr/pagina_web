@@ -50,6 +50,16 @@ export function Video({
                   </div>
 
                   <div className="column is-12-mobile is-4-tablet is-3-desktop">
+                    <div class="column is-12-mobile is-12-tablet is-12-desktop is-paddingless">
+                      <h5 class="has-text-light text-centered">Otros Animes</h5>
+                      <div class="columns is-mobile is-multiline is-variable is-1 otros-animes"></div>
+                      <AnimeRecommend1 />
+                      <AnimeRecommend2 />
+                      <AnimeRecommend3 />
+                      <AnimeRecommend4 />
+                      <AnimeRecommend5 />
+                      <AnimeRecommend6 />
+                    </div>
                     <div className="columns is-variable is-1 cont-opciones">
                       <div className={contAnteriorClass}>
                         <a
@@ -75,16 +85,6 @@ export function Video({
                         </a>
                       </div>
                     </div>
-                  </div>
-                  <div class="column is-12-mobile is-12-tablet is-12-desktop is-paddingless">
-                    <h5 class="has-text-light text-centered">Otros Animes</h5>
-                    <div class="columns is-mobile is-multiline is-variable is-1 otros-animes"></div>
-                    <AnimeRecommend1 />
-                    <AnimeRecommend2 />
-                    <AnimeRecommend3 />
-                    <AnimeRecommend4 />
-                    <AnimeRecommend5 />
-                    <AnimeRecommend6 />
                   </div>
                 </div>
 
