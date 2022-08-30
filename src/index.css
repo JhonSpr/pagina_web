@@ -250,6 +250,10 @@ a{
   justify-content: center;
   margin-left: 5px;
   border-bottom: 2px solid rgb(0, 0, 0);
+  cursor: pointer;
+}
+.perfil{
+  cursor:  pointer;
 }
 
 .nickname{

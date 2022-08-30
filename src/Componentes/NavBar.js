@@ -57,7 +57,7 @@ export default function Menubar(){
       
 
       <div className="dropdown filter-item">
-  <div className="dropdown-toggle navbar-item-menu-drop navbar-item"  data-bs-toggle="dropdown" aria-expanded="false">
+  <div className="dropdown-toggle navbar-item-menu-drop navbar-item perfil"  data-bs-toggle="dropdown" aria-expanded="false">
     Perfil
   </div>
   <ul className="dropdown-menu dropdown-menu-dark menu-drop">
