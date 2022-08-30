@@ -686,7 +686,9 @@ z-index: 99;
       
       /* Handle */
       ::-webkit-scrollbar-thumb {
-      background: rgba(60,60,60,.8); 
+      background: #00F4F8; 
+      border-radius: 20px;
+      
       }
   
       /* Handle on hover */
