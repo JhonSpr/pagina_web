@@ -111,8 +111,6 @@ a {
   }
   .noticia-card {
     width: 450px !important;
-    height: 200px;
-    justify-content: cover;
     display: flex;
   }
   .perfil-container-mobile {
