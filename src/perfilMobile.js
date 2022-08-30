@@ -20,9 +20,9 @@ const ProfileMobile = () => {
     isAuthenticated && (
       <li className="navbar-item perfil-container-mobile">
         <i className="fa-solid fa-user-large"></i>
-        <Link to={`/perfil/${user.nickname}`}>
+        <a href={`/perfil/${user.nickname}`}>
           <h2 className="nickname">{user.nickname}</h2>
-        </Link>
+        </a>
       </li>
     )
   );
