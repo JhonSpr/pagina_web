@@ -9,7 +9,7 @@ export function Noticia() {
               Noticia {noticia.Numero}
             </h1>
 
-            <figure className="image">
+            <figure className="image imagen-noticia">
               <a href={noticia.link}>
                 <img src={noticia.img} alt={noticia.title} />
               </a>

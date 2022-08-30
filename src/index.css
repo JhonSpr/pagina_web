@@ -111,6 +111,8 @@ a {
   }
   .noticia-card {
     width: 450px !important;
+    height: 420px;
+    justify-content: cover;
     display: flex;
   }
   .perfil-container-mobile {
@@ -181,6 +183,8 @@ a {
   }
   .noticia-card {
     width: 400px !important;
+    height: 400px !important;
+    justify-content: cover;
   }
   .perfil-container-mobile {
     display: block !important;
@@ -201,6 +205,9 @@ a {
     overflow: hidden;
     white-space: nowrap;
     width: 399px;
+  }
+  .imagen-noticia {
+    justify-content: cover;
   }
 }
 
