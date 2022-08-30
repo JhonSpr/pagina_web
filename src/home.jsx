@@ -642,16 +642,11 @@ function App () {
       genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
       hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
       sec2={"sec"} sec3={"sec"} sec1={"sec"}
-      li25={"li"} li26={"li"} li27={"li"} li28={"li"} li29={"li"} li30={"li"} li31={"li"} li32={"li"} li33={"li"} li34={"li"} li35={"li"} li36={"li"} li37={"li"} li38={"li"} li39={"li"} li40={"li"}
-      li41={"li"} li42={"li"} li43={"li"} li44={"li"} li45={"li"} li46={"li"} li47={"li"} li48={"li"} li49={"li"} li50={"li"} li51={"li"} li52={"li"} li53={"li"} li54={"li"} li55={"li"} li56={"li"}
-      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"} li65={"li"} li64={"li"} li63={"li"} li62={"li"} li61={"li"} li60={"li"} li59={"li"} li58={"li"} li57={"li"}
+      li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"}
       descripcion={''}
       imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
-      tipo={"TV"} numeroEpisodios={"24"} 
-      estado={"Finalizado"} numeroCapitulo1={"1"} numeroCapitulo2={"2"} numeroCapitulo3={"3"} numeroCapitulo4={"4"} numeroCapitulo5={"5"} numeroCapitulo6={"6"} 
-      numeroCapitulo7={"7"} numeroCapitulo8={"8"} numeroCapitulo9={"9"} numeroCapitulo10={"10"} numeroCapitulo11={"11"} numeroCapitulo12={"12"} 
-      numeroCapitulo13={"13"} numeroCapitulo14={"14"} numeroCapitulo15={"15"} numeroCapitulo16={"16"} numeroCapitulo17={"17"} numeroCapitulo18={"18"} 
-      numeroCapitulo19={"19"} numeroCapitulo20={"20"} numeroCapitulo21={"21"} numeroCapitulo22={"22"} numeroCapitulo23={"23"} numeroCapitulo24={"24"} 
+      tipo={"TV"} numeroEpisodios={"64"} 
+      estado={"Finalizado"} 
       anime={"Fullmetal Alchemist Brotherhood "} 
       capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
       capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
