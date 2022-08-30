@@ -1271,3 +1271,7 @@ textarea {
   color: rgb(230, 230, 230);
   border-bottom: 2px solid rgb(100, 100, 100);
 }
+
+.contenedor-otros {
+  margin-top: 60px;
+}

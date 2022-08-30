@@ -87,7 +87,7 @@ export function Video({
                     {anime}
                   </div>
                 </div>
-                <div className="column is-12-mobile is-12-tablet is-12-desktop is-paddingless">
+                <div className="column is-12-mobile is-12-tablet is-12-desktop is-paddingless contenedor-otros">
                   <div className="columns is-mobile is-multiline is-variable is-1 otros-animes">
                     <h5 className="title-otros">Otros Animes</h5>
                     <AnimeRecommend1 />
