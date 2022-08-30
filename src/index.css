@@ -1230,3 +1230,14 @@ textarea {
   padding: 10px;
   transition: all 0.5s;
 }
+.otros-animes-sub-div {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+.img-otros-animes {
+  max-width: 100%;
+  height: auto;
+}
+.otros-animes {
+  margin-top: 0.5rem;
+}
