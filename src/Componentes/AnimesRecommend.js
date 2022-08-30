@@ -1,7 +1,7 @@
 import Animes from "../Data.json";
 
 export function AnimeRecommend1() {
-  let RandomNumber = Math.floor(Math.random() * 51);
+  let RandomNumber = Math.floor(Math.random() * 51 + 1);
 
   return (
     <a
