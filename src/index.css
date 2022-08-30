@@ -126,6 +126,8 @@ a {
   .titulo-noticia {
     position: absolute;
     bottom: 10px;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: rgb(230, 230, 230);
   }
 }
 @media screen and (min-width: 999px) and (max-width: 1230px) {
