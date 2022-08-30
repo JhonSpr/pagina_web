@@ -24,66 +24,6 @@ export function AnimesRecommend() {
               />
             </a>
           </div>
-          <div class="column is-narrow is-3-mobile is-6-tablet is-6-desktop otros-animes-sub-div">
-            <a
-              href={Animes && Animes[RandomNumber2].link}
-              title={Animes && Animes[RandomNumber2].title}
-            >
-              <img
-                src={Animes && Animes[RandomNumber2].img}
-                alt={Animes && Animes[RandomNumber2].title}
-                className="img-otros-animes"
-              />
-            </a>
-          </div>
-          <div class="column is-narrow is-3-mobile is-6-tablet is-6-desktop otros-animes-sub-div">
-            <a
-              href={Animes && Animes[RandomNumber3].link}
-              title={Animes && Animes[RandomNumber3].title}
-            >
-              <img
-                src={Animes && Animes[RandomNumber3].img}
-                alt={Animes && Animes[RandomNumber3].title}
-                className="img-otros-animes"
-              />
-            </a>
-          </div>
-          <div class="column is-narrow is-3-mobile is-6-tablet is-6-desktop otros-animes-sub-div">
-            <a
-              href={Animes && Animes[RandomNumber4].link}
-              title={Animes && Animes[RandomNumber4].title}
-            >
-              <img
-                src={Animes && Animes[RandomNumber4].img}
-                alt={Animes && Animes[RandomNumber4].title}
-                className="img-otros-animes"
-              />
-            </a>
-          </div>
-          <div class="column is-narrow is-3-mobile is-6-tablet is-6-desktop otros-animes-sub-div">
-            <a
-              href={Animes && Animes[RandomNumber5].link}
-              title={Animes && Animes[RandomNumber5].title}
-            >
-              <img
-                src={Animes && Animes[RandomNumber5].img}
-                alt={Animes && Animes[RandomNumber5].title}
-                className="img-otros-animes"
-              />
-            </a>
-          </div>
-          <div class="column is-narrow is-3-mobile is-6-tablet is-6-desktop otros-animes-sub-div">
-            <a
-              href={Animes && Animes[RandomNumber6].link}
-              title={Animes && Animes[RandomNumber6].title}
-            >
-              <img
-                src={Animes && Animes[RandomNumber6].img}
-                alt={Animes && Animes[RandomNumber6].title}
-                className="img-otros-animes"
-              />
-            </a>
-          </div>
         </div>
       </div>
     </div>
