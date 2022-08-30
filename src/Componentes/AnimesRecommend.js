@@ -7,6 +7,7 @@ export function AnimesRecommend() {
       <a
         href={Animes && Animes[RandomNumber].link}
         title={Animes && Animes[RandomNumber].title}
+        key={Animes && Animes[RandomNumber].id}
       >
         <img
           src={Animes && Animes[RandomNumber].img}
