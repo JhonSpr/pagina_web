@@ -1,7 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 /* eslint-disable react/style-prop-object */
 
-import AnimesRecommend from "./AnimesRecommend";
 import { Disqus } from "./disqus";
 
 /* eslint-disable jsx-a11y/iframe-has-title */
@@ -35,7 +34,6 @@ export function Video({
       <div className="hero is-fullheightX">
         <section className="section">
           <div className="container">
-            <AnimesRecommend />
             <div className="columns is-multiline">
               <div className="column is-12-mobile is-8-tablet is-9-desktop">
                 <h1 className="title is-size-4 has-text-centeredX has-text-weight-semibold is-uppercaseX has-text-light">
