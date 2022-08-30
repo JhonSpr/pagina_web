@@ -6,6 +6,7 @@ import { Filter } from "./Componentes/DropDown";
 import { EnEmision } from "./Componentes/enEmision";
 import { Inicio } from "./Componentes/Inicio";
 import { PerfilPaginaMenu } from "./Componentes/perfil";
+import { Ver } from "./Componentes/Ver";
 
 
 function App () {
@@ -63,6 +64,8 @@ function App () {
      
       <Route path="/perfil/:user" element={<PerfilPaginaMenu/>}/>
 
+
+      <Route path="/ver" element={<Ver/>}/>
      {/* capitulos Animes */}
 
       <Route path="/akudama-drive" exact element={<Capitulos12 tituloAnime={"Akudama Drive"} 
