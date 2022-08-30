@@ -31,16 +31,6 @@ export function Video({
       <div className="hero is-fullheightX">
         <section className="section">
           <div className="container">
-            <div class="column is-12-mobile is-12-tablet is-12-desktop is-paddingless">
-              <h5 class="has-text-light text-centered">Otros Animes</h5>
-              <div class="columns is-mobile is-multiline is-variable is-1 otros-animes"></div>
-              <AnimeRecommend1 />
-              <AnimeRecommend2 />
-              <AnimeRecommend3 />
-              <AnimeRecommend4 />
-              <AnimeRecommend5 />
-              <AnimeRecommend6 />
-            </div>
             <div className="columns is-multiline">
               <div className="column is-12-mobile is-8-tablet is-9-desktop">
                 <h1 className="title is-size-4 has-text-centeredX has-text-weight-semibold is-uppercaseX has-text-light">
@@ -85,6 +75,16 @@ export function Video({
                         </a>
                       </div>
                     </div>
+                  </div>
+                  <div class="column is-12-mobile is-12-tablet is-12-desktop is-paddingless">
+                    <h5 class="has-text-light text-centered">Otros Animes</h5>
+                    <div class="columns is-mobile is-multiline is-variable is-1 otros-animes"></div>
+                    <AnimeRecommend1 />
+                    <AnimeRecommend2 />
+                    <AnimeRecommend3 />
+                    <AnimeRecommend4 />
+                    <AnimeRecommend5 />
+                    <AnimeRecommend6 />
                   </div>
                 </div>
 
