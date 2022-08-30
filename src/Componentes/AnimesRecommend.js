@@ -1,7 +1,7 @@
 import Animes from "../Data.json";
 
 export function AnimeRecommend1() {
-  let RandomNumber = Math.floor(Math.random() * 100);
+  let RandomNumber = Math.floor(Math.random() * 51);
 
   return (
     <div>
@@ -21,7 +21,7 @@ export function AnimeRecommend1() {
   );
 }
 export function AnimeRecommend2() {
-  let RandomNumber = Math.floor(Math.random() * 100);
+  let RandomNumber = Math.floor(Math.random() * 51);
 
   return (
     <div>
@@ -41,7 +41,7 @@ export function AnimeRecommend2() {
   );
 }
 export function AnimeRecommend3() {
-  let RandomNumber = Math.floor(Math.random() * 100);
+  let RandomNumber = Math.floor(Math.random() * 51);
 
   return (
     <div>
@@ -61,7 +61,7 @@ export function AnimeRecommend3() {
   );
 }
 export function AnimeRecommend4() {
-  let RandomNumber = Math.floor(Math.random() * 100);
+  let RandomNumber = Math.floor(Math.random() * 51);
 
   return (
     <div>
@@ -81,7 +81,7 @@ export function AnimeRecommend4() {
   );
 }
 export function AnimeRecommend5() {
-  let RandomNumber = Math.floor(Math.random() * 100);
+  let RandomNumber = Math.floor(Math.random() * 51);
 
   return (
     <div>
@@ -101,7 +101,7 @@ export function AnimeRecommend5() {
   );
 }
 export function AnimeRecommend6() {
-  let RandomNumber = Math.floor(Math.random() * 100);
+  let RandomNumber = Math.floor(Math.random() * 51);
 
   return (
     <div>
