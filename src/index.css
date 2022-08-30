@@ -1249,3 +1249,8 @@ textarea {
   display: grid !important;
   place-items: center !important;
 }
+
+.div-img {
+  display: inline-block;
+  margin: 5px;
+}
