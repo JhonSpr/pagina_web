@@ -16,7 +16,7 @@ function App () {
       {/* Inicio */}
 
      
-     <Route path="/" element={<Inicio
+     <Route path="/*" element={<Inicio
 
       img1="https://www.animefenix.com/cdn/animes/cover/61d5e31f8b785/gensou-sangokushi-tengen-reishinki.png" 
       img2="https://www.animefenix.com/cdn/animes/cover/5e444cd3919fa/tate-no-yuusha-no-nariagari.jpg" 
