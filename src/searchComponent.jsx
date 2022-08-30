@@ -3,7 +3,6 @@
 import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
 import Datas from "./Data.json"
-import link from "./Data.json"
 
 function SearchBar({ placeholder, data }) {
 
@@ -40,7 +39,7 @@ function SearchBar({ placeholder, data }) {
             autoCorrect="off"
             autoSave="off"
           /> 
-          <a href={link} className="fa-solid fa-search"></a>
+          <i className="fa-solid fa-search"></i>
         </li>
        
                         
