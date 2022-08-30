@@ -5,18 +5,16 @@ export function AnimeRecommend1() {
 
   return (
     <div>
-      <div class="column is-narrow is-4-mobile is-6-tablet is-3-desktop otros-animes-sub-div">
-        <a
-          href={Animes && Animes[RandomNumber].link}
-          title={Animes && Animes[RandomNumber].title}
-        >
-          <img
-            src={Animes && Animes[RandomNumber].img}
-            alt={Animes && Animes[RandomNumber].title}
-            className="img-otros-animes"
-          />
-        </a>
-      </div>
+      <a
+        href={Animes && Animes[RandomNumber].link}
+        title={Animes && Animes[RandomNumber].title}
+      >
+        <img
+          src={Animes && Animes[RandomNumber].img}
+          alt={Animes && Animes[RandomNumber].title}
+          className="img-otros-animes"
+        />
+      </a>
     </div>
   );
 }
@@ -25,18 +23,16 @@ export function AnimeRecommend2() {
 
   return (
     <div>
-      <div class="column is-narrow is-4-mobile is-6-tablet is-3-desktop otros-animes-sub-div">
-        <a
-          href={Animes && Animes[RandomNumber].link}
-          title={Animes && Animes[RandomNumber].title}
-        >
-          <img
-            src={Animes && Animes[RandomNumber].img}
-            alt={Animes && Animes[RandomNumber].title}
-            className="img-otros-animes"
-          />
-        </a>
-      </div>
+      <a
+        href={Animes && Animes[RandomNumber].link}
+        title={Animes && Animes[RandomNumber].title}
+      >
+        <img
+          src={Animes && Animes[RandomNumber].img}
+          alt={Animes && Animes[RandomNumber].title}
+          className="img-otros-animes"
+        />
+      </a>
     </div>
   );
 }
@@ -45,18 +41,16 @@ export function AnimeRecommend3() {
 
   return (
     <div>
-      <div class="column is-narrow is-4-mobile is-6-tablet is-3-desktop otros-animes-sub-div">
-        <a
-          href={Animes && Animes[RandomNumber].link}
-          title={Animes && Animes[RandomNumber].title}
-        >
-          <img
-            src={Animes && Animes[RandomNumber].img}
-            alt={Animes && Animes[RandomNumber].title}
-            className="img-otros-animes"
-          />
-        </a>
-      </div>
+      <a
+        href={Animes && Animes[RandomNumber].link}
+        title={Animes && Animes[RandomNumber].title}
+      >
+        <img
+          src={Animes && Animes[RandomNumber].img}
+          alt={Animes && Animes[RandomNumber].title}
+          className="img-otros-animes"
+        />
+      </a>
     </div>
   );
 }
@@ -65,18 +59,16 @@ export function AnimeRecommend4() {
 
   return (
     <div>
-      <div class="column is-narrow is-4-mobile is-6-tablet is-3-desktop otros-animes-sub-div">
-        <a
-          href={Animes && Animes[RandomNumber].link}
-          title={Animes && Animes[RandomNumber].title}
-        >
-          <img
-            src={Animes && Animes[RandomNumber].img}
-            alt={Animes && Animes[RandomNumber].title}
-            className="img-otros-animes"
-          />
-        </a>
-      </div>
+      <a
+        href={Animes && Animes[RandomNumber].link}
+        title={Animes && Animes[RandomNumber].title}
+      >
+        <img
+          src={Animes && Animes[RandomNumber].img}
+          alt={Animes && Animes[RandomNumber].title}
+          className="img-otros-animes"
+        />
+      </a>
     </div>
   );
 }
@@ -85,18 +77,16 @@ export function AnimeRecommend5() {
 
   return (
     <div>
-      <div class="column is-narrow is-4-mobile is-6-tablet is-3-desktop otros-animes-sub-div">
-        <a
-          href={Animes && Animes[RandomNumber].link}
-          title={Animes && Animes[RandomNumber].title}
-        >
-          <img
-            src={Animes && Animes[RandomNumber].img}
-            alt={Animes && Animes[RandomNumber].title}
-            className="img-otros-animes"
-          />
-        </a>
-      </div>
+      <a
+        href={Animes && Animes[RandomNumber].link}
+        title={Animes && Animes[RandomNumber].title}
+      >
+        <img
+          src={Animes && Animes[RandomNumber].img}
+          alt={Animes && Animes[RandomNumber].title}
+          className="img-otros-animes"
+        />
+      </a>
     </div>
   );
 }
@@ -105,18 +95,16 @@ export function AnimeRecommend6() {
 
   return (
     <div>
-      <div class="column is-narrow is-4-mobile is-6-tablet is-3-desktop otros-animes-sub-div">
-        <a
-          href={Animes && Animes[RandomNumber].link}
-          title={Animes && Animes[RandomNumber].title}
-        >
-          <img
-            src={Animes && Animes[RandomNumber].img}
-            alt={Animes && Animes[RandomNumber].title}
-            className="img-otros-animes"
-          />
-        </a>
-      </div>
+      <a
+        href={Animes && Animes[RandomNumber].link}
+        title={Animes && Animes[RandomNumber].title}
+      >
+        <img
+          src={Animes && Animes[RandomNumber].img}
+          alt={Animes && Animes[RandomNumber].title}
+          className="img-otros-animes"
+        />
+      </a>
     </div>
   );
 }
