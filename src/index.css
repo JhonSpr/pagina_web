@@ -1194,7 +1194,7 @@ textarea {
   }
 
   .noticias-grid > .item {
-    width: calc(45% - 0.1em);
+    width: calc(25% - 0.1em);
     margin: 0.05em;
   }
   .noticias-grid > .item:last-child {
@@ -1222,7 +1222,7 @@ textarea {
 .item {
   cursor: pointer;
   margin: 10px;
-  width: 267px;
+  width: 467px;
   height: auto;
   position: relative;
   left: 0px;
