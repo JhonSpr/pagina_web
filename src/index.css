@@ -622,23 +622,6 @@ z-index: 99;
   padding: 1rem 0.5rem;
   position:relative;
 }
-.popular {
-  transition: all  0.2s;
-  color: #444!important;
-}
-.popular:hover {
-  transition: all  0.2s;
-  color: #ff7d12!important;
-}
-
-
-.anime-page h1 {
-  margin-bottom: 0.5rem !important;
-}
-
-.anime-page i {
-  margin-right: .7rem;
-}
 
 .anime-page__next-episode {
   display: inline-block;
