@@ -17,17 +17,17 @@ export function Noticia() {
                   className="imagen-noticia"
                 />
               </a>
+              <div className="titulo-noticia">
+                <h3>
+                  <a
+                    href={noticia.link}
+                    className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
+                  >
+                    {noticia.title}
+                  </a>
+                </h3>
+              </div>
             </figure>
-            <div className="titulo-noticia">
-              <h3>
-                <a
-                  href={noticia.link}
-                  className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
-                >
-                  {noticia.title}
-                </a>
-              </h3>
-            </div>
           </article>
         );
       })}
