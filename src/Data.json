@@ -391,5 +391,12 @@
         "title": "Golden Time",
         "year": 2016
         
+      },
+      {
+        "id":"50",
+        "img":"https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg",
+        "link": "/fullmetal-alchemist-brotherhood",
+        "title": "Fullmetal Alchemist Brotherhood",
+        "year":2009
       }
   ]
