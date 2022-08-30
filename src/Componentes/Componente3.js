@@ -11,8 +11,6 @@ export function Video({tituloAnime, anime , capitulosVideo, siguienteVideo , num
     return(
         <div>
                 <title>{tituloAnime}</title>
-                <link rel="icon" href="../../../public/favicon-32x32.png" type="image/x-icon"/>
-                <link rel="shortcut icon" href="../../../public/favicon-32x32.png" type="image/x-icon" class="imagen-pagina"/>
 
              
 
