@@ -1262,11 +1262,12 @@ textarea {
 }
 
 .title-otros {
-  font-size: 3em;
+  font-size: 1em;
   font-weight: bold;
   padding: 10px auto;
   text-align: center;
   display: block;
   margin: 15px 0px 20px 0px;
   color: rgb(230, 230, 230);
+  border-bottom: 2px solid rgb(100, 100, 100);
 }
