@@ -129,7 +129,7 @@ a {
     text-align: center;
     text-overflow: ellipsis;
     overflow: hidden;
-    white-space: nowrap;
+    white-space: wrap;
     width: 449px;
   }
 }
