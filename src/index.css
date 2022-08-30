@@ -1211,6 +1211,7 @@ textarea {
   font-size: 13px;
   position: absolute;
   bottom: 0px;
+  top: 0px;
   -ms-text-overflow: ellipsis;
   text-overflow: ellipsis;
   left: 0;
