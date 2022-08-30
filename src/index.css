@@ -1217,3 +1217,15 @@ textarea {
   right: 0;
   overflow: visible;
 }
+
+.item {
+  cursor: pointer;
+  margin: 10px;
+  width: 267px;
+  height: auto;
+  position: relative;
+  left: 0px;
+  display: inline-block;
+  padding: 10px;
+  transition: all 0.5s;
+}
