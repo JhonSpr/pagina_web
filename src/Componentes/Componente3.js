@@ -20,20 +20,9 @@ export function Video({
   numero,
   contAnteriorClass,
   contSiguienteClass,
-  iconoAnterior,
   tituloPag,
-  iconoSiguiente,
   frame1,
-  frame2,
-  frame3,
   anteriorVideo,
-  classOpcionAnterior,
-  classOpcionCapitulos,
-  classOpcionSiguiente,
-  botonAnterior,
-  botonCapitulos,
-  botonSiguiente,
-  classOpciones,
 }) {
   return (
     <div>
@@ -90,7 +79,7 @@ export function Video({
                 </div>
 
                 <h1 className="title is-size-5 has-text-weight-light has-text-light">
-                  {tituloPag} Online HD{" "}
+                  {tituloPag} Online HD
                 </h1>
                 <div id="commentsContainer">
                   <div
