@@ -1,11 +1,11 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import './bulma.min.css';
-import { BrowserRouter } from 'react-router-dom';
-import App from './home';
-import Videos from './videos';
-import { Auth0Provider } from '@auth0/auth0-react'
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "./index.css";
+import "./bulma.min.css";
+import { BrowserRouter } from "react-router-dom";
+import App from "./home";
+import Videos from "./videos";
+import { Auth0Provider } from "@auth0/auth0-react";
 import AlertifyTest from "./alertifyTest";
 // import { Animes20 } from './Componentes/Componente20';
 // import { Animes19 } from './Componentes/Componente19';
@@ -22,14 +22,11 @@ import AlertifyTest from "./alertifyTest";
 // import { Animes8 } from './Componentes/Componente8';
 // import { Animes7 } from './Componentes/Componente7';
 // import { Animes6 } from './Componentes/componente6';
-import { Animes5 } from './Componentes/Componente5';
-import Menubar from './Componentes/NavBar';
+import { Animes5 } from "./Componentes/Componente5";
+import Menubar from "./Componentes/NavBar";
 // import Search from './searchComponent';
 
-
 export function Alertas() {
-
-
   return (
     <div className="App">
       <AlertifyTest />
@@ -37,26 +34,18 @@ export function Alertas() {
   );
 }
 
-
-
-
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-
   <BrowserRouter>
-  
-  <Auth0Provider domain='dev-xb-8m80m.us.auth0.com' clientId='3baeGoxny7190uFl6CQfn7b46tkiWaXy' redirectUri={window.location.origin}>
-  <Menubar/>
-  <App/>
-  <Videos/>
-  <Animes5/>
-  </Auth0Provider>
-  
-  
+    <Auth0Provider
+      domain="dev-xb-8m80m.us.auth0.com"
+      clientId="3baeGoxny7190uFl6CQfn7b46tkiWaXy"
+      redirectUri={window.location.origin}
+    >
+      <Menubar />
+      <App />
+      <Videos />
+      <Animes5 />
+    </Auth0Provider>
   </BrowserRouter>
-  
-  
 );
-
-
-
