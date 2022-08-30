@@ -640,31 +640,31 @@ function App () {
       genero1={"Comedia"} genero2={"Acción"} genero3={"Aventura"} genero4={"Fantasia"} genero5={"Magia"}
       genre1={"button is-small is-orange is-outlined is-roundedX"} genre2={"button is-small is-orange is-outlined is-roundedX"} 
       genre3={"button is-small is-orange is-outlined is-roundedX"} genre4={"button is-small is-orange is-outlined is-roundedX"} genre5={"button is-small is-orange is-outlined is-roundedX"}
-      hrefGenre1={""} hrefGenre2={""} hrefGenre3={""} hrefGenre4={""} hrefGenre5={""}
+      hrefGenre1={"/generos=comedia"} hrefGenre2={"/generos=accion"} hrefGenre3={"/generos=aventura"} hrefGenre4={"/generos=fantasia"} hrefGenre5={"/generos=magia"}
       sec2={"sec"} sec3={"sec"} sec1={"sec"}
       li70={"li"} li69={"li"} li68={"li"} li67={"li"} li66={"li"}
-      descripcion={''}
+      descripcion={'Los hermanos Elric emprenden un viaje tras haber perdido parte de su cuerpo mientras intentaban resucitar a su madre. Siendo ambos huérfanos de madre y con su padre en paradero desconocido, cuyo oscuro pasado es tan misterioso como él mismo, el hermano mayor, Edward Elric, decide convertirse en alquimista nacional para poder remediar el pecado que cometieron; pues la transmutación humana está vedada para los humanos y no hay perdón por aquellos que han visto "la puerta". "Si quieres obtener algo, debes sacrificar otra cosa que posea el mismo valor a cambio"; esta es la ley de los estados equivalentes, nada se gana sin ningún sacrificio.'}
       imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg" 
       tipo={"TV"} numeroEpisodios={"64"} 
       estado={"Finalizado"} 
       anime={"Fullmetal Alchemist Brotherhood "} 
-      capituloAnime1={"/ver/-1"} capituloAnime2={"/ver/-2"} capituloAnime3={"/ver/-3"} capituloAnime4={"/ver/-4"} 
-      capituloAnime5={"/ver/-5"} capituloAnime6={"/ver/-6"} capituloAnime7={"/ver/-7"} capituloAnime8={"/ver/-8"} 
-      capituloAnime9={"/ver/-9"} capituloAnime10={"/ver/-10"} capituloAnime11={"/ver/-11"} capituloAnime12={"/ver/-12"}
-      capituloAnime13={"/ver/-13"} capituloAnime14={"/ver/-14"} capituloAnime15={"/ver/-15"} capituloAnime16={"/ver/-16"} 
-      capituloAnime17={"/ver/-17"} capituloAnime18={"/ver/-18"} capituloAnime19={"/ver/-19"} capituloAnime20={"/ver/-20"} 
-      capituloAnime21={"/ver/-21"} capituloAnime22={"/ver/-22"} capituloAnime23={"/ver/-23"} capituloAnime24={"/ver/-24"}
-      capituloAnime26={"/ver/-26"} capituloAnime25={"/ver/-25"}
-      capituloAnime27={"/ver/-27"} capituloAnime28={"/ver/-28"} capituloAnime29={"/ver/-29"} capituloAnime30={"/ver/-30"} 
-      capituloAnime34={"/ver/-34"} capituloAnime33={"/ver/-33"} capituloAnime32={"/ver/-32"} capituloAnime31={"/ver/-31"}
-      capituloAnime35={"/ver/-35"} capituloAnime36={"/ver/-36"} capituloAnime37={"/ver/-37"} capituloAnime38={"/ver/-38"} 
-      capituloAnime42={"/ver/-42"} capituloAnime41={"/ver/-41"} capituloAnime40={"/ver/-40"} capituloAnime39={"/ver/-39"} 
-      capituloAnime43={"/ver/-43"} capituloAnime44={"/ver/-44"} capituloAnime45={"/ver/-45"} capituloAnime46={"/ver/-46"} 
-      capituloAnime50={"/ver/-50"} capituloAnime49={"/ver/-49"} capituloAnime48={"/ver/-48"} capituloAnime47={"/ver/-47"} 
-      capituloAnime51={"/ver/-51"} capituloAnime52={"/ver/-52"} capituloAnime53={"/ver/-53"} capituloAnime54={"/ver/-54"} 
-      capituloAnime55={"/ver/-55"} capituloAnime56={"/ver/-56"} capituloAnime57={"/ver/-57"} capituloAnime58={"/ver/-58"}
-      capituloAnime59={"/ver/-59"} capituloAnime60={"/ver/-60"} capituloAnime61={"/ver/-61"} capituloAnime62={"/ver/-62"} 
-      capituloAnime63={"/ver/-63"} capituloAnime64={"/ver/-64"}     
+      capituloAnime1={"/ver/fullmetal-alchemist-brotherhood-1"} capituloAnime2={"/ver/fullmetal-alchemist-brotherhood-2"} capituloAnime3={"/ver/fullmetal-alchemist-brotherhood-3"} capituloAnime4={"/ver/fullmetal-alchemist-brotherhood-4"} 
+      capituloAnime5={"/ver/fullmetal-alchemist-brotherhood-5"} capituloAnime6={"/ver/fullmetal-alchemist-brotherhood-6"} capituloAnime7={"/ver/fullmetal-alchemist-brotherhood-7"} capituloAnime8={"/ver/fullmetal-alchemist-brotherhood-8"} 
+      capituloAnime9={"/ver/fullmetal-alchemist-brotherhood-9"} capituloAnime10={"/ver/fullmetal-alchemist-brotherhood-10"} capituloAnime11={"/ver/fullmetal-alchemist-brotherhood-11"} capituloAnime12={"/ver/fullmetal-alchemist-brotherhood-12"}
+      capituloAnime13={"/ver/fullmetal-alchemist-brotherhood-13"} capituloAnime14={"/ver/fullmetal-alchemist-brotherhood-14"} capituloAnime15={"/ver/fullmetal-alchemist-brotherhood-15"} capituloAnime16={"/ver/fullmetal-alchemist-brotherhood-16"} 
+      capituloAnime17={"/ver/fullmetal-alchemist-brotherhood-17"} capituloAnime18={"/ver/fullmetal-alchemist-brotherhood-18"} capituloAnime19={"/ver/fullmetal-alchemist-brotherhood-19"} capituloAnime20={"/ver/fullmetal-alchemist-brotherhood-20"} 
+      capituloAnime21={"/ver/fullmetal-alchemist-brotherhood-21"} capituloAnime22={"/ver/fullmetal-alchemist-brotherhood-22"} capituloAnime23={"/ver/fullmetal-alchemist-brotherhood-23"} capituloAnime24={"/ver/fullmetal-alchemist-brotherhood-24"}
+      capituloAnime26={"/ver/fullmetal-alchemist-brotherhood-26"} capituloAnime25={"/ver/fullmetal-alchemist-brotherhood-25"}
+      capituloAnime27={"/ver/fullmetal-alchemist-brotherhood-27"} capituloAnime28={"/ver/fullmetal-alchemist-brotherhood-28"} capituloAnime29={"/ver/fullmetal-alchemist-brotherhood-29"} capituloAnime30={"/ver/fullmetal-alchemist-brotherhood-30"} 
+      capituloAnime34={"/ver/fullmetal-alchemist-brotherhood-34"} capituloAnime33={"/ver/fullmetal-alchemist-brotherhood-33"} capituloAnime32={"/ver/fullmetal-alchemist-brotherhood-32"} capituloAnime31={"/ver/fullmetal-alchemist-brotherhood-31"}
+      capituloAnime35={"/ver/fullmetal-alchemist-brotherhood-35"} capituloAnime36={"/ver/fullmetal-alchemist-brotherhood-36"} capituloAnime37={"/ver/fullmetal-alchemist-brotherhood-37"} capituloAnime38={"/ver/fullmetal-alchemist-brotherhood-38"} 
+      capituloAnime42={"/ver/fullmetal-alchemist-brotherhood-42"} capituloAnime41={"/ver/fullmetal-alchemist-brotherhood-41"} capituloAnime40={"/ver/fullmetal-alchemist-brotherhood-40"} capituloAnime39={"/ver/fullmetal-alchemist-brotherhood-39"} 
+      capituloAnime43={"/ver/fullmetal-alchemist-brotherhood-43"} capituloAnime44={"/ver/fullmetal-alchemist-brotherhood-44"} capituloAnime45={"/ver/fullmetal-alchemist-brotherhood-45"} capituloAnime46={"/ver/fullmetal-alchemist-brotherhood-46"} 
+      capituloAnime50={"/ver/fullmetal-alchemist-brotherhood-50"} capituloAnime49={"/ver/fullmetal-alchemist-brotherhood-49"} capituloAnime48={"/ver/fullmetal-alchemist-brotherhood-48"} capituloAnime47={"/ver/fullmetal-alchemist-brotherhood-47"} 
+      capituloAnime51={"/ver/fullmetal-alchemist-brotherhood-51"} capituloAnime52={"/ver/fullmetal-alchemist-brotherhood-52"} capituloAnime53={"/ver/fullmetal-alchemist-brotherhood-53"} capituloAnime54={"/ver/fullmetal-alchemist-brotherhood-54"} 
+      capituloAnime55={"/ver/fullmetal-alchemist-brotherhood-55"} capituloAnime56={"/ver/fullmetal-alchemist-brotherhood-56"} capituloAnime57={"/ver/fullmetal-alchemist-brotherhood-57"} capituloAnime58={"/ver/fullmetal-alchemist-brotherhood-58"}
+      capituloAnime59={"/ver/fullmetal-alchemist-brotherhood-59"} capituloAnime60={"/ver/fullmetal-alchemist-brotherhood-60"} capituloAnime61={"/ver/fullmetal-alchemist-brotherhood-61"} capituloAnime62={"/ver/fullmetal-alchemist-brotherhood-62"} 
+      capituloAnime63={"/ver/fullmetal-alchemist-brotherhood-63"} capituloAnime64={"/ver/fullmetal-alchemist-brotherhood-64"}     
       />}/>
 
 <Route path="" exact element={<Capitulos12 tituloAnime={"Fullmetal Alchemist Brotherhood"} 
