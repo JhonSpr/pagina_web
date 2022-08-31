@@ -2,7 +2,7 @@ import Animes from "../Data.json";
 
 export function AnimeRecommend1() {
   let end = 15;
-  let RandomNumber = Math.floor(Math.random() * end);
+  let RandomNumber = Math.floor(Math.random() * end + 1);
   console.log(RandomNumber);
 
   return (
@@ -21,7 +21,7 @@ export function AnimeRecommend1() {
 }
 export function AnimeRecommend2() {
   let end = 30;
-  let RandomNumber = Math.floor(Math.random() * end);
+  let RandomNumber = Math.floor(Math.random() * end + 1);
   console.log(RandomNumber);
   return (
     <a
@@ -39,7 +39,7 @@ export function AnimeRecommend2() {
 }
 export function AnimeRecommend3() {
   let end = 41;
-  let RandomNumber = Math.floor(Math.random() * end);
+  let RandomNumber = Math.floor(Math.random() * end + 1);
   console.log(RandomNumber);
   return (
     <a
