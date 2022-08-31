@@ -3407,29 +3407,30 @@ function App() {
           }
         />
         <Route
-          path=""
-          exact
+          path="/muhyo-to-rouji-no-mahouritsu-soudan-jimusho"
           element={
             <Capitulos12
-              tituloAnime={"Fullmetal Alchemist Brotherhood"}
-              genero1={"Comedia"}
-              genero2={"Acción"}
-              genero3={"Aventura"}
-              genero4={"Fantasia"}
-              genero5={"Magia"}
+              tituloAnime={"Muhyo to Rouji no Mahouritsu Soudan Jimusho"}
+              genero1={"Acción"}
+              genero2={"Comedia"}
+              genero3={"Misterio"}
+              genero4={"Shounen"}
+              genero5={"Sobrenatural"}
               genre1={"button is-small is-orange is-outlined is-roundedX"}
               genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
               genre4={"button is-small is-orange is-outlined is-roundedX"}
               genre5={"button is-small is-orange is-outlined is-roundedX"}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
-              hrefGenre4={""}
-              hrefGenre5={""}
+              hrefGenre1={"/generos=accion"}
+              hrefGenre2={"/generos=comedia"}
+              hrefGenre3={"/generos=misterio"}
+              hrefGenre4={"/generos=shounen"}
+              hrefGenre5={"/generos=sobrenatural"}
+              hrefSecuela={"/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-segunda-temporada"}
+              textoSecuela={"Secuela"}
+              nombreSecuela={"Muhyo to Roujii no Mahouritsu Soudan Jimusho Segunda Temporada"}
               sec2={"sec"}
               sec3={"sec"}
-              sec1={"sec"}
               li25={"li"}
               li26={"li"}
               li27={"li"}
@@ -3476,48 +3477,24 @@ function App() {
               li59={"li"}
               li58={"li"}
               li57={"li"}
-              descripcion={""}
-              imagenAnime="https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg"
+              descripcion={'¿Alguna vez fuiste víctima de una posesión espiritual? ¿Hay algún fantasma que quieras hacer desaparecer de tu casa... o hacerlo arder eternamente en el infierno? Si respondiste "sí" a cualquiera de estas preguntas o a cualquier otra similar, entonces necesitas a Muhyo y Roji, expertos en las leyes de lo sobrenatural. Hacer justicia con los espíritus es su especialidad.'}
+              imagenAnime="https://www.animefenix.com/cdn/animes/cover/5ef639192db7d/muhyo-to-rouji-no-mahouritsu-soudan-jimusho.jpg"
               tipo={"TV"}
-              numeroEpisodios={"24"}
-              estado={"Finalizado"}
-              numeroCapitulo1={"1"}
-              numeroCapitulo2={"2"}
-              numeroCapitulo3={"3"}
-              numeroCapitulo4={"4"}
-              numeroCapitulo5={"5"}
-              numeroCapitulo6={"6"}
-              numeroCapitulo7={"7"}
-              numeroCapitulo8={"8"}
-              numeroCapitulo9={"9"}
-              numeroCapitulo10={"10"}
-              numeroCapitulo11={"11"}
-              numeroCapitulo12={"12"}
-              numeroCapitulo13={"13"}
-              numeroCapitulo14={"14"}
-              numeroCapitulo15={"15"}
-              numeroCapitulo16={"16"}
-              numeroCapitulo17={"17"}
-              numeroCapitulo18={"18"}
-              numeroCapitulo19={"19"}
-              numeroCapitulo20={"20"}
-              numeroCapitulo21={"21"}
-              numeroCapitulo22={"22"}
-              numeroCapitulo23={"23"}
-              numeroCapitulo24={"24"}
-              anime={" "}
-              capituloAnime1={"/ver/-1"}
-              capituloAnime2={"/ver/-2"}
-              capituloAnime3={"/ver/-3"}
-              capituloAnime4={"/ver/-4"}
-              capituloAnime5={"/ver/-5"}
-              capituloAnime6={"/ver/-6"}
-              capituloAnime7={"/ver/-7"}
-              capituloAnime8={"/ver/-8"}
-              capituloAnime9={"/ver/-9"}
-              capituloAnime10={"/ver/-10"}
-              capituloAnime11={"/ver/-11"}
-              capituloAnime12={"/ver/-12"}
+              numeroEpisodios={"12"}
+              estado={"Finalizado"}  
+              anime={"Muhyo to Rouji no Mahouritsu Soudan Jimusho "}
+              capituloAnime1={"/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-1"}
+              capituloAnime2={"/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-2"}
+              capituloAnime3={"/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-3"}
+              capituloAnime4={"/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-4"}
+              capituloAnime5={"/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-5"}
+              capituloAnime6={"/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-6"}
+              capituloAnime7={"/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-7"}
+              capituloAnime8={"/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-8"}
+              capituloAnime9={"/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-9"}
+              capituloAnime10={"/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-10"}
+              capituloAnime11={"/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-11"}
+              capituloAnime12={"/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-12"}
               capituloAnime13={"/ver/-13"}
               capituloAnime14={"/ver/-14"}
               capituloAnime15={"/ver/-15"}
