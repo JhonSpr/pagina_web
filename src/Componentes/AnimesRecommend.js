@@ -1,7 +1,9 @@
 import Animes from "../Data.json";
 
 export function AnimeRecommend1() {
-  let RandomNumber = Math.floor(Math.random() * 51);
+  let start = 0;
+  let end = 15;
+  let RandomNumber = start + Math.floor(Math.random() * end);
 
   return (
     <a
@@ -18,7 +20,9 @@ export function AnimeRecommend1() {
   );
 }
 export function AnimeRecommend2() {
-  let RandomNumber = Math.floor(Math.random() * 51);
+  let start = 16;
+  let end = 30;
+  let RandomNumber = start + Math.floor(Math.random() * end);
 
   return (
     <a
@@ -35,7 +39,9 @@ export function AnimeRecommend2() {
   );
 }
 export function AnimeRecommend3() {
-  let RandomNumber = Math.floor(Math.random() * 51);
+  let start = 31;
+  let end = 41;
+  let RandomNumber = start + Math.floor(Math.random() * end);
 
   return (
     <a
@@ -52,7 +58,9 @@ export function AnimeRecommend3() {
   );
 }
 export function AnimeRecommend4() {
-  let RandomNumber = Math.floor(Math.random() * 51);
+  let start = 42;
+  let end = 50;
+  let RandomNumber = start + Math.floor(Math.random() * end);
 
   return (
     <a
