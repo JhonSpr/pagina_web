@@ -1271,4 +1271,6 @@ textarea {
 .titlo-otros_animes {
   text-align: center;
   padding-bottom: 10px;
+  margin-bottom: 3px;
+  border-bottom: rgb(100, 100, 100) solid 2px;
 }
