@@ -7,7 +7,7 @@ export function AnimeRecommend1() {
     <a
       href={Animes && Animes[RandomNumber].link}
       title={Animes && Animes[RandomNumber].title}
-      className="div-img column is-narrow is-3-mobile is-6-tablet is-6-desktop"
+      className="column is-narrow is-3-mobile is-6-tablet is-6-desktop"
     >
       <img
         src={Animes && Animes[RandomNumber].img}
@@ -24,7 +24,7 @@ export function AnimeRecommend2() {
     <a
       href={Animes && Animes[RandomNumber].link}
       title={Animes && Animes[RandomNumber].title}
-      className="div-img column is-narrow is-3-mobile is-6-tablet is-6-desktop"
+      className="column is-narrow is-3-mobile is-6-tablet is-6-desktop"
     >
       <img
         src={Animes && Animes[RandomNumber].img}
@@ -41,7 +41,7 @@ export function AnimeRecommend3() {
     <a
       href={Animes && Animes[RandomNumber].link}
       title={Animes && Animes[RandomNumber].title}
-      className="div-img column is-narrow is-3-mobile is-6-tablet is-6-desktop"
+      className="column is-narrow is-3-mobile is-6-tablet is-6-desktop"
     >
       <img
         src={Animes && Animes[RandomNumber].img}
@@ -58,7 +58,7 @@ export function AnimeRecommend4() {
     <a
       href={Animes && Animes[RandomNumber].link}
       title={Animes && Animes[RandomNumber].title}
-      className="div-img column is-narrow is-3-mobile is-6-tablet is-6-desktop"
+      className="column is-narrow is-3-mobile is-6-tablet is-6-desktop"
     >
       <img
         src={Animes && Animes[RandomNumber].img}
