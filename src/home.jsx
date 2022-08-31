@@ -201,14 +201,14 @@ function App() {
           element={
             <Capitulos12
               tituloAnime={"Akudama Drive"}
-              genero1={""}
-              genero2={""}
+              genero1={"Acción"}
+              genero2={"Sei-Fi"}
               genero3={""}
               genero4={""}
               genero5={""}
-              genre1={"disable"}
-              genre2={"disable"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"disable"}
               genre4={"disable"}
               genre5={"disable"}
               hrefGenre1={""}
@@ -308,21 +308,21 @@ function App() {
           element={
             <Capitulos12
               tituloAnime={"Hanyo no Yashahime ni no Shou"}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              genero4={""}
-              genero5={""}
-              genre1={"disable"}
-              genre2={"disable"}
+              genero1={"Acción"}
+              genero2={"Comedia"}
+              genero3={"Demonios"}
+              genero4={"Fantasia"}
+              genero5={"Historico"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
-              hrefGenre4={""}
-              hrefGenre5={""}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              genre5={"button is-small is-orange is-outlined is-roundedX"}
+              hrefGenre1={"/generos=?accion"}
+              hrefGenre2={"/generos=?comedia"}
+              hrefGenre3={"/generos=?demonios"}
+              hrefGenre4={"/generos=?fantasia"}
+              hrefGenre5={"/generos=?historico"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
