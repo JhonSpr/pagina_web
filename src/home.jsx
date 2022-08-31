@@ -1005,9 +1005,13 @@ function App() {
             <Capitulos12
               tituloAnime={"Castlevania Segunda Temporada"}
               descripcion={"Segunda temporada de Castlevania."}
-              sec2={"sec"}
               sec3={"sec"}
-              sec1={"sec"}
+              hrefSecuela={"/castlevania"}
+              hrefSecuela2={"/castlevania-tercera-temporada"}
+              textoSecuela={"Precuela"}
+              textoSecuela2={"Secuela"}
+              nombreSecuela={"Castlevania"}
+              nombreSecuela2={"Castlevania Tercera Temporada"}
               genero1={"Acción"}
               genero2={"Demonios"}
               genero3={"Fantasia"}
@@ -1226,7 +1230,7 @@ function App() {
               tituloAnime={"Ao no Exorcist Kyoto Fujouou Hen"}
               sec2={"sec"}
               sec3={"sec"}
-              sec1={"sec"}
+              textoSecuela={"Precuela"}
               nombreSecuela={"Ao no Exorcist"}
               hrefSecuela={"/ao-no-exorcist"}
               genero1={"Acción"}
@@ -1383,38 +1387,26 @@ function App() {
               imagenAnime={
                 "https://www.animefenix.com/cdn/animes/cover/5d9ad108f3780/fairy-gone.jpg"
               }
-              numeroCapitulo1={"1"}
-              numeroCapitulo2={"2"}
-              numeroCapitulo3={"3"}
-              numeroCapitulo4={"4"}
-              numeroCapitulo5={"5"}
-              numeroCapitulo6={"6"}
-              numeroCapitulo7={"7"}
-              numeroCapitulo8={"8"}
-              numeroCapitulo9={"9"}
-              numeroCapitulo10={"10"}
-              numeroCapitulo11={"11"}
-              numeroCapitulo12={"12"}
               textoSecuela={"Secuela"}
-              hrefSecuela={"/ver/fairy-gone-segunda-temporada"}
+              hrefSecuela={"/fairy-gone-segunda-temporada"}
               nombreSecuela={"Fairy Gone Segunda Temporada"}
               sec2={"sec"}
               sec3={"sec"}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              genero4={""}
-              genero5={""}
-              genre1={"disable"}
-              genre2={"disable"}
+              genero1={"Acción"}
+              genero2={"Demonios"}
+              genero3={"Fantasia"}
+              genero4={"Magia"}
+              genero5={"Sobrenatural"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
-              hrefGenre4={""}
-              hrefGenre5={""}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              genre5={"button is-small is-orange is-outlined is-roundedX"}
+              hrefGenre1={"/generos=accion"}
+              hrefGenre2={"/generos=demonios"}
+              hrefGenre3={"/generos=fantasia"}
+              hrefGenre4={"/generos=magia"}
+              hrefGenre5={"/generos=sobrenatural"}
               capituloAnime1={"/ver/fairy-gone-1"}
               capituloAnime2={"/ver/fairy-gone-2"}
               capituloAnime3={"/ver/fairy-gone-3"}
@@ -1447,19 +1439,19 @@ function App() {
               textoSecuela={"Secuela"}
               sec2={"sec"}
               sec3={"sec"}
-              genero1={""}
-              genero2={""}
-              genero3={""}
+              genero1={"Aventura"}
+              genero2={"Sei-Fi"}
+              genero3={"Shounen"}
               genero4={""}
               genero5={""}
-              genre1={"disable"}
-              genre2={"disable"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
               genre4={"disable"}
               genre5={"disable"}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
+              hrefGenre1={"/generos=aventura"}
+              hrefGenre2={"/generos=sei-fi"}
+              hrefGenre3={"/generos=shounen"}
               hrefGenre4={""}
               hrefGenre5={""}
               imagenAnime={
@@ -1845,7 +1837,7 @@ function App() {
               estado={"Finalizado"}
               sec2={"sec"}
               sec3={"sec"}
-              hrefSecuela={"/ver/fairy-gone"}
+              hrefSecuela={"/fairy-gone"}
               textoSecuela={"Precuela"}
               nombreSecuela={"Fairy Gone"}
               imagenAnime={
@@ -1921,21 +1913,20 @@ function App() {
               li59={"li"}
               li58={"li"}
               li57={"li"}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              genero4={""}
+              genero1={"Acción"}
+              genero2={"Demonios"}
+              genero3={"Fantasia"}
+              genero4={"Magia"}
               genero5={""}
-              genre1={"disable"}
-              genre2={"disable"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
               genre5={"disable"}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
-              hrefGenre4={""}
-              hrefGenre5={""}
+              hrefGenre1={"/generos=accion"}
+              hrefGenre2={"/generos=demonios"}
+              hrefGenre3={"/generos=fantasia"}
+              hrefGenre4={"/generos=magia"}
               capituloAnime1={"/ver/fairy-gone-segunda-temporada-1"}
               capituloAnime2={"/ver/fairy-gone-segunda-temporada-2"}
               capituloAnime3={"/ver/fairy-gone-segunda-temporada-3"}
@@ -1947,7 +1938,7 @@ function App() {
               capituloAnime9={"/ver/fairy-gone-segunda-temporada-9"}
               capituloAnime10={"/ver/fairy-gone-segunda-temporada-10"}
               capituloAnime11={"/ver/fairy-gone-segunda-temporada-11"}
-              capituloAnime12={"/ver/-12"}
+              capituloAnime12={"/ver/fairy-gone-segunda-temporada-12"}
             />
           }
         />
