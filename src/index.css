@@ -779,6 +779,11 @@ textarea {
   margin-bottom: 45px;
 }
 
+.pag-text {
+  padding: 15px;
+  border-bottom: 2px rgb(100, 100, 100) solid;
+}
+
 .cont-anterior {
   display: flex;
 }
