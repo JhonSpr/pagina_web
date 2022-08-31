@@ -1377,6 +1377,36 @@ function App() {
               li38={"li"}
               li39={"li"}
               li40={"li"}
+              li41={"li"}
+              li42={"li"}
+              li43={"li"}
+              li44={"li"}
+              li45={"li"}
+              li46={"li"}
+              li47={"li"}
+              li48={"li"}
+              li49={"li"}
+              li50={"li"}
+              li51={"li"}
+              li52={"li"}
+              li53={"li"}
+              li54={"li"}
+              li55={"li"}
+              li56={"li"}
+              li70={"li"}
+              li69={"li"}
+              li68={"li"}
+              li67={"li"}
+              li66={"li"}
+              li65={"li"}
+              li64={"li"}
+              li63={"li"}
+              li62={"li"}
+              li61={"li"}
+              li60={"li"}
+              li59={"li"}
+              li58={"li"}
+              li57={"li"}
               descripcion={
                 "La historia nos trasladará a un mundo en el que las hadas poseen y residen en animales, proporcionándoles poderes especiales. Extrayendo quirúrgicamente los órganos a uno de estos animales e implantándoselos a un humano, los humanos pueden invocar parcialmente a las hadas y usarlas como armas. Estos humanos participarán en las guerras y serán conocidos como 'Soldados Hada'. Tras el fin de una larga guerra, estos Soldados Hada pierden su propósito y deben reintegrarse en la sociedad, aunque no todos tomarán el camino de la justicia. Nueve años después del fin de la guerra conocemos a Marlya, una nueva recluta en Dorothea, una organización dedicada a investigar y contrarrestar crímenes relacionados con hadas. Aun en tiempo de paz, la inestabilidad de la guerra todavía afecta al gobierno. Muchos criminales cargan con heridas de la guerra y los grupos terroristas buscan venganza por los actos de entonces. Una historia de soldados hada persiguiendo su propia justicia en un mundo caótico que intenta dejar atrás un conflicto."
               }
