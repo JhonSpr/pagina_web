@@ -318,11 +318,11 @@ function App() {
               genre3={"button is-small is-orange is-outlined is-roundedX"}
               genre4={"button is-small is-orange is-outlined is-roundedX"}
               genre5={"button is-small is-orange is-outlined is-roundedX"}
-              hrefGenre1={"/generos=?accion"}
-              hrefGenre2={"/generos=?comedia"}
-              hrefGenre3={"/generos=?demonios"}
-              hrefGenre4={"/generos=?fantasia"}
-              hrefGenre5={"/generos=?historico"}
+              hrefGenre1={"/generos=accion"}
+              hrefGenre2={"/generos=comedia"}
+              hrefGenre3={"/generos=demonios"}
+              hrefGenre4={"/generos=fantasia"}
+              hrefGenre5={"/generos=historico"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
@@ -48480,7 +48480,7 @@ function App() {
           }
         />
         <Route
-          path="/generos=?demonios"
+          path="/generos=demonios"
           element={
             <Componente1
               img1=""
