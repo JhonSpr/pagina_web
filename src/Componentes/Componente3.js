@@ -78,14 +78,6 @@ export function Video({
                 <h1 className="title is-size-5 has-text-weight-light has-text-light">
                   {tituloPag} Online HD
                 </h1>
-                <div id="commentsContainer">
-                  <div
-                    id="showComments"
-                    className="button is-fullwidth is-dark"
-                  >
-                    {anime}
-                  </div>
-                </div>
               </div>
               <div className="column is-12-mobile is-3-tablet is-3-deskop">
                 <div className="column is-12-mobile is-12-tablet is-12-desktop is-paddingless">
