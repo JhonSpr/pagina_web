@@ -211,8 +211,8 @@ function App() {
               genre3={"disable"}
               genre4={"disable"}
               genre5={"disable"}
-              hrefGenre1={""}
-              hrefGenre2={""}
+              hrefGenre1={"/generos=accion"}
+              hrefGenre2={"/generos=sei-fi"}
               hrefGenre3={""}
               hrefGenre4={""}
               hrefGenre5={""}
