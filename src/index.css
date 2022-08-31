@@ -776,6 +776,7 @@ textarea {
 
 .cont-opciones {
   display: flex;
+  margin-bottom: 45px;
 }
 
 .cont-anterior {
