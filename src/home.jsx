@@ -308,28 +308,22 @@ function App() {
           element={
             <Capitulos12
               tituloAnime={"Hanyo no Yashahime ni no Shou"}
-              genero1={"Acción"}
+              genero1={"Aventura"}
               genero2={"Comedia"}
-              genero3={"Demonios"}
-              genero4={"Fantasia"}
-              genero5={"Historico"}
+              genero3={"Fantasia"}
+              genero4={"Sobrenatural"}
               genre1={"button is-small is-orange is-outlined is-roundedX"}
               genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
               genre4={"button is-small is-orange is-outlined is-roundedX"}
-              genre5={"button is-small is-orange is-outlined is-roundedX"}
-              hrefGenre1={"/generos=accion"}
+              genre5={"disable"}
+              hrefGenre1={"/generos=aventura"}
               hrefGenre2={"/generos=comedia"}
-              hrefGenre3={"/generos=demonios"}
-              hrefGenre4={"/generos=fantasia"}
-              hrefGenre5={"/generos=historico"}
+              hrefGenre3={"/generos=fantasia"}
+              hrefGenre4={"/generos=sobrenatural"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
-              accion={""}
-              fantasia={""}
-              juegos={""}
-              terror={""}
               li25={"li"}
               li26={"li"}
               li27={"li"}
@@ -418,21 +412,21 @@ function App() {
           element={
             <Capitulos12
               tituloAnime={"Heion Sedai no Idaten Tachi"}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              genero4={""}
-              genero5={""}
-              genre1={"disable"}
-              genre2={"disable"}
+              genero1={"Acción"}
+              genero2={"Aventura"}
+              genero3={"Demonios"}
+              genero4={"Fantasia"}
+              genero5={"Seinen"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
-              hrefGenre4={""}
-              hrefGenre5={""}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              genre5={"button is-small is-orange is-outlined is-roundedX"}
+              hrefGenre1={"/generos=accion"}
+              hrefGenre2={"/generos=aventura"}
+              hrefGenre3={"/generos=demonios"}
+              hrefGenre4={"/generos=fantasia"}
+              hrefGenre5={"/generos=seinen"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
@@ -538,21 +532,21 @@ function App() {
                 "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2"
               }
               descripcion={"Segunda parte de la segunda temporada del slime"}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              genero4={""}
-              genero5={""}
-              genre1={"disable"}
-              genre2={"disable"}
+              genero1={"Acción"}
+              genero2={"Aventura"}
+              genero3={"Comedia"}
+              genero4={"Demonios"}
+              genero5={"Fantasia"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
-              hrefGenre4={""}
-              hrefGenre5={""}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              genre5={"button is-small is-orange is-outlined is-roundedX"}
+              hrefGenre1={"/generos=accion"}
+              hrefGenre2={"/generos=aventura"}
+              hrefGenre3={"/generos=comedia"}
+              hrefGenre4={"/generos=demonios"}
+              hrefGenre5={"/generos=fantasia"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
@@ -683,18 +677,18 @@ function App() {
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
-              genero1={""}
-              genero2={""}
+              genero1={"Fantasia"}
+              genero2={"Shounen"}
               genero3={""}
               genero4={""}
               genero5={""}
-              genre1={"disable"}
-              genre2={"disable"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"disable"}
               genre4={"disable"}
               genre5={"disable"}
-              hrefGenre1={""}
-              hrefGenre2={""}
+              hrefGenre1={"/generos=fantasia"}
+              hrefGenre2={"/generos=shounen"}
               hrefGenre3={""}
               hrefGenre4={""}
               hrefGenre5={""}
@@ -801,21 +795,21 @@ function App() {
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              genero4={""}
-              genero5={""}
-              genre1={"disable"}
-              genre2={"disable"}
+              genero1={"Acción"}
+              genero2={"Demonios"}
+              genero3={"Escolares"}
+              genero4={"Shounen"}
+              genero5={"Sobrenatural"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
-              hrefGenre4={""}
-              hrefGenre5={""}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              genre5={"button is-small is-orange is-outlined is-roundedX"}
+              hrefGenre1={"/generos=accion"}
+              hrefGenre2={"/generos=demonios"}
+              hrefGenre3={"/generos=escolares"}
+              hrefGenre4={"/generos=shounen"}
+              hrefGenre5={"/generos=sobrenatural"}
               li25={"li"}
               li26={"li"}
               li27={"li"}
@@ -907,21 +901,21 @@ function App() {
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              genero4={""}
-              genero5={""}
-              genre1={"disable"}
-              genre2={"disable"}
+              genero1={"Acción"}
+              genero2={"Aventura"}
+              genero3={"Demonios"}
+              genero4={"Fantasia"}
+              genero5={"Magia"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
-              hrefGenre4={""}
-              hrefGenre5={""}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              genre5={"button is-small is-orange is-outlined is-roundedX"}
+              hrefGenre1={"/generos=accion"}
+              hrefGenre2={"/generos=aventura"}
+              hrefGenre3={"/generos=demonios"}
+              hrefGenre4={"/generos=fantasia"}
+              hrefGenre5={"/generos=magia"}
               li25={"li"}
               li26={"li"}
               li27={"li"}
@@ -1009,26 +1003,26 @@ function App() {
           path="/castlevania-segunda-temporada"
           element={
             <Capitulos12
-              tituloAnime={""}
+              tituloAnime={"Castlevania Segunda Temporada"}
               descripcion={"Segunda temporada de Castlevania."}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              genero4={""}
-              genero5={""}
-              genre1={"disable"}
-              genre2={"disable"}
+              genero1={"Acción"}
+              genero2={"Demonios"}
+              genero3={"Fantasia"}
+              genero4={"Gore"}
+              genero5={"Horror"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
-              hrefGenre4={""}
-              hrefGenre5={""}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              genre5={"button is-small is-orange is-outlined is-roundedX"}
+              hrefGenre1={"/generos=accion"}
+              hrefGenre2={"/generos=demonios"}
+              hrefGenre3={"/generos=fantasia"}
+              hrefGenre4={"/generos=gore"}
+              hrefGenre5={"/generos=horror"}
               li9={"li"}
               li10={"li"}
               li11={"li"}
@@ -1121,25 +1115,29 @@ function App() {
           path="/overlord-III"
           element={
             <Capitulos12
+              nombreSecuela={"Overlord II"}
+              nombreSecuela2={"Overlord IV"}
+              hrefSecuela={"/overlord-I"}
+              hrefSecuela2={"/overlord-IV"}
               tituloAnime={"Overlord III"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              genero4={""}
-              genero5={""}
-              genre1={"disable"}
-              genre2={"disable"}
+              genero1={"Acción"}
+              genero2={"Aventura"}
+              genero3={"Demonios"}
+              genero4={"Fantasia"}
+              genero5={"Juegos"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
-              hrefGenre4={""}
-              hrefGenre5={""}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              genre5={"button is-small is-orange is-outlined is-roundedX"}
+              hrefGenre1={"/generos=accion"}
+              hrefGenre2={"/generos=aventura"}
+              hrefGenre3={"/generos=demonios"}
+              hrefGenre4={"/generos=fantasia"}
+              hrefGenre5={"/generos=juegos"}
               descripcion={"Tercera temporada de Overlord."}
               anime={"Overlord III"}
               tipo={"TV"}
@@ -1229,21 +1227,23 @@ function App() {
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              genero4={""}
-              genero5={""}
-              genre1={"disable"}
-              genre2={"disable"}
+              nombreSecuela={"Ao no Exorcist"}
+              hrefSecuela={"/ao-no-exorcist"}
+              genero1={"Acción"}
+              genero2={"Demonios"}
+              genero3={"Fantasia"}
+              genero4={"Shounen"}
+              genero5={"Sobrenatural"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
-              hrefGenre4={""}
-              hrefGenre5={""}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              genre5={"button is-small is-orange is-outlined is-roundedX"}
+              hrefGenre1={"/generos=accion"}
+              hrefGenre2={"/generos=demonios"}
+              hrefGenre3={"/generos=fantasia"}
+              hrefGenre4={"/generos=shounen"}
+              hrefGenre5={"/generos=sobrenatural"}
               li14={"li"}
               li15={"li"}
               li16={"li"}
