@@ -152,7 +152,7 @@ a {
     border-bottom: 0;
   }
   .titlo-otros_animes {
-    border-bottom: 0px;
+    border-bottom: none;
   }
   .fa-search {
     display: none !important;
