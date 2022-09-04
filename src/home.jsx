@@ -3498,6 +3498,16 @@ function App() {
           path="/tate-no-yuusha-no-naraigari"
           element={
             <Capitulos12
+              genero1={"Acción"}
+              genero2={"Aventura"}
+              genero3={"Drama"}
+              genero4={"Fantasia"}
+              genero5={"Harem"}
+              hrefGenre1={"/generos=accion"}
+              hrefGenre2={"/generos=aventura"}
+              hrefGenre3={"/generos=drama"}
+              hrefGenre4={"/generos=fantasia"}
+              hrefGenre5={"/generos=harem"}
               tituloAnime={"Tate no Yuusha no Naraigari"}
               sec2={"sec"}
               sec3={"sec"}
