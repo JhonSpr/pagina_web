@@ -3541,7 +3541,7 @@ function App() {
           }
         />
         <Route
-          path="/gensou-sangokushi"
+          path="/gensou-sangokushi-tengen-reishink"
           exact
           element={
             <Capitulos12
@@ -3607,7 +3607,8 @@ function App() {
               descripcion={
                 "La historia se sitúa en la antigua China durante la era de los Tres Reinos, cuando varios poderosos señores de la guerra comenzaron a maniobrar para conquistar los reinos conocidos. Después de que fuera aniquilada en circunstancias imprevistas, la 6ª Unidad se ha vuelto a reunir con miembros de pasados diversos y problemáticos: el líder y practicante del sello Ōki, el purificador de espíritus Shunkyō, Teiken y el cazador de demonios Shōrei."
               }
-              imagenAnime="https://www3.animeflv.net/uploads/animes/covers/3579.jpg"
+              imagenAnime="https://www.animefenix.com/cdn/animes/cover/61d5e31f8b785/gensou-sangokushi-tengen-reishinki.png"
+              
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
@@ -3692,7 +3693,7 @@ function App() {
               descripcion={
                 "Haru Shirogane es una persona de mente débil que es constantemente intimidada, mientras que Taiga ha viajado desde el otro lado del mar con la esperanza de convertirse en el hombre más fuerte del mundo. Una noche, los dos se encuentran con Shun Kamiya, el jugador más fuerte de XB (Extreme Baseball), y líder de la Tribu Minato. Cuando se encuentran, cada una de las tribus dispersas por Neo-Tokio está a punto de enfrentarse a una gran amenaza. Bajo las órdenes del Rey de Neo-Tokio, “Houtenshin”, el Chiyoda Try, dirigido por el misterioso Ojiro Otori, ha comenzado a tomar el control de todas las tribus del país. Sus malvadas garras están a punto de llegar a la Tribu Minato…"
               }
-              imagenAnime="https://www3.animeflv.net/uploads/animes/covers/3576.jpg"
+              imagenAnime="https://www.animefenix.com/cdn/animes/cover/61d5e15f2bb7b/tribe-nine.jpg"
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
