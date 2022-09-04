@@ -22,7 +22,6 @@ import AlertifyTest from "./alertifyTest";
 // import { Animes8 } from './Componentes/Componente8';
 // import { Animes7 } from './Componentes/Componente7';
 // import { Animes6 } from './Componentes/componente6';
-import { Animes5 } from "./Componentes/Componente5";
 import Menubar from "./Componentes/NavBar";
 // import Search from './searchComponent';
 
@@ -45,7 +44,6 @@ root.render(
       <Menubar />
       <App />
       <Videos />
-      <Animes5 />
     </Auth0Provider>
   </BrowserRouter>
 );
