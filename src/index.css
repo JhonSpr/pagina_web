@@ -1144,7 +1144,6 @@ textarea {
 }
 
 #disqus_thread {
-  border-top: 2px solid rgb(100, 100, 100);
   margin-top: 100px !important;
 }
 
@@ -1274,12 +1273,10 @@ textarea {
 
 .contenedor-otros {
   margin-top: 60px;
-  border-top: 2px solid rgb(100, 100, 100);
 }
 
 .titlo-otros_animes {
   text-align: center;
   padding-bottom: 10px;
   margin-bottom: 3px;
-  border-bottom: rgb(100, 100, 100) solid 2px;
 }
