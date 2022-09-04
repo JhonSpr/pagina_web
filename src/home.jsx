@@ -9568,7 +9568,7 @@ function App() {
           }
         />
         <Route
-          path="/generos=iyaoi"
+          path="/generos=yaoi"
           element={
             <Componente1
               img1=""
