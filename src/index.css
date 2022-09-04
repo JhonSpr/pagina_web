@@ -1098,7 +1098,7 @@ textarea {
   width: 40px;
   height: 40px;
   margin-left: 5px;
-  border-radius: 30px;
+  border-radius: 5px;
 }
 .dataResult .dataItem {
   width: 100%;
@@ -1144,7 +1144,8 @@ textarea {
 }
 
 #disqus_thread {
-  margin-top: 200px !important;
+  border-top: 2px solid rgb(100, 100, 100);
+  margin-top: 100px !important;
 }
 
 @media screen and (min-width: 1020px) and (max-width: 2560px) {
