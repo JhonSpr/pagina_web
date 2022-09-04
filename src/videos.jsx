@@ -9471,25 +9471,25 @@ function Videos() {
       />
       ---------------- ----------------
       <Route
-        path="/ver/gensou-sangokushi-1"
+        path="/ver/gensou-sangokushi-tengen-reishink-1"
         element={
           <Video
             frame1={"https://sbthe.com/e/288o4oewqa5q.html"}
             contAnteriorClass="disable"
-            tituloAnime={"Gensou Sangokushi Capitulo 1"}
+            tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 1"}
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
             tituloPag={"Animekun"}
-            anime={"Gensou Sangokushi "}
+            anime={"Gensou Sangokushi Tengen Reishink"}
             numero={"1"}
-            siguienteVideo={"/ver/gensou-sangokushi-2"}
-            capitulosVideo={"/gensou-sangokushi"}
+            siguienteVideo={"/ver/gensou-sangokushi-tengen-reishink-2"}
+            capitulosVideo={"/gensou-sangokushi-tengen-reishink"}
           />
         }
       />
       <Route
-        path="/ver/gensou-sangokushi-2"
+        path="/ver/gensou-sangokushi-tengen-reishink-2"
         element={
           <Video
             frame1={"https://sbthe.com/e/yjppmkx7jgpk.html"}
@@ -9497,18 +9497,18 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={"Gensou Sangokushi Capitulo 2"}
+            tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 2"}
             tituloPag={"Animekun"}
-            anime={"Gensou Sangokushi "}
+            anime={"Gensou Sangokushi Tengen Reishink "}
             numero={"2"}
-            siguienteVideo={"/ver/gensou-sangokushi-3"}
-            capitulosVideo={"/gensou-sangokushi"}
-            anteriorVideo={"/ver/gensou-sangokushi-1"}
+            siguienteVideo={"/ver/gensou-sangokushi-tengen-reishink-3"}
+            capitulosVideo={"/gensou-sangokushi-tengen-reishink"}
+            anteriorVideo={"/ver/gensou-sangokushi-tengen-reishink-1"}
           />
         }
       />
       <Route
-        path="/ver/gensou-sangokushi-3"
+        path="/ver/gensou-sangokushi-tengen-reishink-3"
         element={
           <Video
             frame1={"https://sbthe.com/e/icvg4elkeuhp.html"}
@@ -9516,18 +9516,18 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={"Gensou Sangokushi Capitulo 3"}
+            tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 3"}
             tituloPag={"Animekun"}
-            anime={"Gensou Sangokushi "}
+            anime={"Gensou Sangokushi Tengen Reishink "}
             numero={"3"}
-            siguienteVideo={"/ver/gensou-sangokushi-4"}
-            capitulosVideo={"/gensou-sangokushi"}
-            anteriorVideo={"/ver/gensou-sangokushi-2"}
+            siguienteVideo={"/ver/gensou-sangokushi-tengen-reishink-4"}
+            capitulosVideo={"/gensou-sangokushi-tengen-reishink"}
+            anteriorVideo={"/ver/gensou-sangokushi-tengen-reishink-2"}
           />
         }
       />
       <Route
-        path="/ver/gensou-sangokushi-4"
+        path="/ver/gensou-sangokushi-tengen-reishink-4"
         element={
           <Video
             frame1={"https://sbthe.com/e/un2o6o7njjn8.html"}
@@ -9535,18 +9535,18 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={"Gensou Sangokushi Capitulo 4"}
+            tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 4"}
             tituloPag={"Animekun"}
-            anime={"Gensou Sangokushi "}
+            anime={"Gensou Sangokushi Tengen Reishink "}
             numero={"4"}
-            siguienteVideo={"/ver/gensou-sangokushi-5"}
-            capitulosVideo={"/gensou-sangokushi"}
-            anteriorVideo={"/ver/gensou-sangokushi-3"}
+            siguienteVideo={"/ver/gensou-sangokushi-tengen-reishink-5"}
+            capitulosVideo={"/gensou-sangokushi-tengen-reishink"}
+            anteriorVideo={"/ver/gensou-sangokushi-tengen-reishink-3"}
           />
         }
       />
       <Route
-        path="/ver/gensou-sangokushi-5"
+        path="/ver/gensou-sangokushi-tengen-reishink-5"
         element={
           <Video
             frame1={"https://sbthe.com/e/54o0384gjcm0.html"}
@@ -9554,18 +9554,18 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={"Gensou Sangokushi Capitulo 5"}
+            tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 5"}
             tituloPag={"Animekun"}
-            anime={"Gensou Sangokushi "}
+            anime={"Gensou Sangokushi Tengen Reishink "}
             numero={"5"}
-            siguienteVideo={"/ver/gensou-sangokushi-6"}
-            capitulosVideo={"/gensou-sangokushi"}
-            anteriorVideo={"/ver/gensou-sangokushi-4"}
+            siguienteVideo={"/ver/gensou-sangokushi-tengen-reishink-6"}
+            capitulosVideo={"/gensou-sangokushi-tengen-reishink"}
+            anteriorVideo={"/ver/gensou-sangokushi-tengen-reishink-4"}
           />
         }
       />
       <Route
-        path="/ver/gensou-sangokushi-6"
+        path="/ver/gensou-sangokushi-tengen-reishink-6"
         element={
           <Video
             frame1={"https://sbthe.com/e/nqg8iz72ohwt.html"}
@@ -9573,18 +9573,18 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={"Gensou Sangokushi Capitulo 6"}
+            tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 6"}
             tituloPag={"Animekun"}
-            anime={"Gensou Sangokushi "}
+            anime={"Gensou Sangokushi Tengen Reishink "}
             numero={"6"}
-            siguienteVideo={"/ver/gensou-sangokushi-7"}
-            capitulosVideo={"/gensou-sangokushi"}
-            anteriorVideo={"/ver/gensou-sangokushi-5"}
+            siguienteVideo={"/ver/gensou-sangokushi-tengen-reishink-7"}
+            capitulosVideo={"/gensou-sangokushi-tengen-reishink"}
+            anteriorVideo={"/ver/gensou-sangokushi-tengen-reishink-5"}
           />
         }
       />
       <Route
-        path="/ver/gensou-sangokushi-7"
+        path="/ver/gensou-sangokushi-tengen-reishink-7"
         element={
           <Video
             frame1={"https://sbthe.com/e/vol89ymv96ut.html"}
@@ -9592,18 +9592,18 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={"Gensou Sangokushi Capitulo 7"}
+            tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 7"}
             tituloPag={"Animekun"}
-            anime={"Gensou Sangokushi "}
+            anime={"Gensou Sangokushi Tengen Reishink "}
             numero={"7"}
-            siguienteVideo={"/ver/gensou-sangokushi-8"}
-            capitulosVideo={"/gensou-sangokushi"}
-            anteriorVideo={"/ver/gensou-sangokushi-6"}
+            siguienteVideo={"/ver/gensou-sangokushi-tengen-reishink-8"}
+            capitulosVideo={"/gensou-sangokushi-tengen-reishink"}
+            anteriorVideo={"/ver/gensou-sangokushi-tengen-reishink-6"}
           />
         }
       />
       <Route
-        path="/ver/gensou-sangokushi-8"
+        path="/ver/gensou-sangokushi-tengen-reishink-8"
         element={
           <Video
             frame1={"https://sbthe.com/e/vn8jhllw67i5.html"}
@@ -9611,18 +9611,18 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={"Gensou Sangokushi Capitulo 8"}
+            tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 8"}
             tituloPag={"Animekun"}
-            anime={"Gensou Sangokushi "}
+            anime={"Gensou Sangokushi Tengen Reishink "}
             numero={"8"}
-            siguienteVideo={"/ver/gensou-sangokushi-9"}
-            capitulosVideo={"/gensou-sangokushi"}
-            anteriorVideo={"/ver/gensou-sangokushi-7"}
+            siguienteVideo={"/ver/gensou-sangokushi-tengen-reishink-9"}
+            capitulosVideo={"/gensou-sangokushi-tengen-reishink"}
+            anteriorVideo={"/ver/gensou-sangokushi-tengen-reishink-7"}
           />
         }
       />
       <Route
-        path="/ver/gensou-sangokushi-9"
+        path="/ver/gensou-sangokushi-tengen-reishink-9"
         element={
           <Video
             frame1={"https://sbthe.com/e/5q5623rjklk0.html"}
@@ -9630,18 +9630,18 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={"Gensou Sangokushi Capitulo 9"}
+            tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 9"}
             tituloPag={"Animekun"}
-            anime={"Gensou Sangokushi "}
+            anime={"Gensou Sangokushi Tengen Reishink "}
             numero={"9"}
-            siguienteVideo={"/ver/gensou-sangokushi-10"}
-            capitulosVideo={"/gensou-sangokushi"}
-            anteriorVideo={"/ver/gensou-sangokushi-8"}
+            siguienteVideo={"/ver/gensou-sangokushi-tengen-reishink-10"}
+            capitulosVideo={"/gensou-sangokushi-tengen-reishink"}
+            anteriorVideo={"/ver/gensou-sangokushi-tengen-reishink-8"}
           />
         }
       />
       <Route
-        path="/ver/gensou-sangokushi-10"
+        path="/ver/gensou-sangokushi-tengen-reishink-10"
         element={
           <Video
             frame1={"https://sbthe.com/e/g8ar3a1crj7s.html"}
@@ -9649,18 +9649,18 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={"Gensou Sangokushi Capitulo 10"}
+            tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 10"}
             tituloPag={"Animekun"}
-            anime={"Gensou Sangokushi "}
+            anime={"Gensou Sangokushi Tengen Reishink "}
             numero={"10"}
-            siguienteVideo={"/ver/gensou-sangokushi-11"}
-            capitulosVideo={"/gensou-sangokushi"}
-            anteriorVideo={"/ver/gensou-sangokushi-9"}
+            siguienteVideo={"/ver/gensou-sangokushi-tengen-reishink-11"}
+            capitulosVideo={"/gensou-sangokushi-tengen-reishink"}
+            anteriorVideo={"/ver/gensou-sangokushi-tengen-reishink-9"}
           />
         }
       />
       <Route
-        path="/ver/gensou-sangokushi-11"
+        path="/ver/gensou-sangokushi-tengen-reishink-11"
         element={
           <Video
             frame1={"https://sbthe.com/e/inq38pbdr3sh.html"}
@@ -9668,29 +9668,29 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={"Gensou Sangokushi Capitulo 11"}
+            tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 11"}
             tituloPag={"Animekun"}
-            anime={"Gensou Sangokushi "}
+            anime={"Gensou Sangokushi Tengen Reishink"}
             numero={"11"}
-            siguienteVideo={"/ver/gensou-sangokushi-12"}
-            capitulosVideo={"/gensou-sangokushi"}
-            anteriorVideo={"/ver/gensou-sangokushi-10"}
+            siguienteVideo={"/ver/gensou-sangokushi-tengen-reishink-12"}
+            capitulosVideo={"/gensou-sangokushi-tengen-reishink"}
+            anteriorVideo={"/ver/gensou-sangokushi-tengen-reishink-10"}
           />
         }
       />
       <Route
-        path="/ver/gensou-sangokushi-12"
+        path="/ver/gensou-sangokushi-tengen-reishink-12"
         element={
           <Video
             frame1={"https://sbthe.com/e/va5adqnokk5i.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
-            tituloAnime={"Gensou Sangokushi Capitulo 12"}
+            tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 12"}
             tituloPag={"Animekun"}
-            anime={"Gensou Sangokushi "}
+            anime={"Gensou Sangokushi Tengen Reishink "}
             numero={"12"}
-            capitulosVideo={"/gensou-sangokushi"}
-            anteriorVideo={"/ver/gensou-sangokushi-11"}
+            capitulosVideo={"/gensou-sangokushi-tengen-reishink"}
+            anteriorVideo={"/ver/gensou-sangokushi-tengen-reishink-11"}
           />
         }
       />
