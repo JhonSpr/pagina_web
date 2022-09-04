@@ -3882,7 +3882,7 @@ function App() {
               year22="2022"
               year23="2018"
               year24="2022"
-              href1="/gensou-sanokushi-tengen-reishink"
+              href1="/gensou-sangokushi-tengen-reishink"
               href2="/tate-no-yuusha-no-naraigari"
               href3="/tribe-nine"
               href4="/koroshi-ai"
