@@ -3495,6 +3495,99 @@ function App() {
           }
         />
         <Route
+          path="/tate-no-yuusha-no-naraigari"
+          element={
+            <Capitulos12
+              tituloAnime={"Tate no Yuusha no Naraigari"}
+              sec2={"sec"}
+              sec3={"sec"}
+              li26={"li"}
+              li27={"li"}
+              li28={"li"}
+              li29={"li"}
+              li30={"li"}
+              li31={"li"}
+              li32={"li"}
+              li33={"li"}
+              li34={"li"}
+              li35={"li"}
+              li36={"li"}
+              li37={"li"}
+              li38={"li"}
+              li39={"li"}
+              li40={"li"}
+              li41={"li"}
+              li42={"li"}
+              li43={"li"}
+              li44={"li"}
+              li45={"li"}
+              li46={"li"}
+              li47={"li"}
+              li48={"li"}
+              li49={"li"}
+              li50={"li"}
+              li51={"li"}
+              li52={"li"}
+              li53={"li"}
+              li54={"li"}
+              li55={"li"}
+              li56={"li"}
+              li70={"li"}
+              li69={"li"}
+              li68={"li"}
+              li67={"li"}
+              li66={"li"}
+              li65={"li"}
+              li64={"li"}
+              li63={"li"}
+              li62={"li"}
+              li61={"li"}
+              li60={"li"}
+              li59={"li"}
+              li58={"li"}
+              li57={"li"}
+              descripcion={
+                'Iwatani Naofumi fue invocado en un mundo paralelo junto a otras tres personas para convertirse en los héroes de ese mundo. Cada uno de los héroes fue equipado con su propia arma legendaria cuando fueron convocados. Naofumi recibió el Escudo, el único equipo defensivo, mientras que los otros recibieron armas capaces de atacar. Debido a la falta de carisma y experiencia, Naofumi terminó con una sola compañera de equipo. Desafortunadamente, en su segundo día, fue traicionado, asaltado y acusado falsamente de violación por dicha compañera. Al ser rechazado por todos, desde el rey hasta los campesinos, sus pensamientos se llenaron de odio y resentimiento. Así, comienza su destino en un mundo paralelo. Intenta subir de nivel, a pesar de sus débiles habilidades de ataque. Al conocer a un traficante de esclavos llamado Berocas, este le muestra a una niña llamada Raphtalia y decide comprarla. Y así Naofumi con ayuda de Raphtalia y otras compañeras con las que se topara en su camino, deberán enfrentar una serie de catástrofes llamadas "olas".'
+              }
+              anime={"Tate no Yuusha no Naraigari"}
+              tipo={"TV"}
+              numeroEpisodios={"25"}
+              estado={"Finalizado"}
+              imagenAnime={
+                "https://www.animefenix.com/cdn/animes/cover/5e444cd3919fa/tate-no-yuusha-no-nariagari.jpg"
+              }
+              capituloAnime1={"/ver/tate-no-yuusha-no-naraigari-1"}
+              capituloAnime2={"/ver/tate-no-yuusha-no-naraigari-2"}
+              capituloAnime3={"/ver/tate-no-yuusha-no-naraigari-3"}
+              capituloAnime4={"/ver/tate-no-yuusha-no-naraigari-4"}
+              capituloAnime5={"/ver/tate-no-yuusha-no-naraigari-5"}
+              capituloAnime6={"/ver/tate-no-yuusha-no-naraigari-6"}
+              capituloAnime7={"/ver/tate-no-yuusha-no-naraigari-7"}
+              capituloAnime8={"/ver/tate-no-yuusha-no-naraigari-8"}
+              capituloAnime9={"/ver/tate-no-yuusha-no-naraigari-9"}
+              capituloAnime10={"/ver/tate-no-yuusha-no-naraigari-10"}
+              capituloAnime11={"/ver/tate-no-yuusha-no-naraigari-11"}
+              capituloAnime12={"/ver/tate-no-yuusha-no-naraigari-12"}
+              capituloAnime13={"/ver/tate-no-yuusha-no-naraigari-13"}
+              capituloAnime14={"/ver/tate-no-yuusha-no-naraigari-14"}
+              capituloAnime15={"/ver/tate-no-yuusha-no-naraigari-15"}
+              capituloAnime16={"/ver/tate-no-yuusha-no-naraigari-16"}
+              capituloAnime17={"/ver/tate-no-yuusha-no-naraigari-17"}
+              capituloAnime18={"/ver/tate-no-yuusha-no-naraigari-18"}
+              capituloAnime19={"/ver/tate-no-yuusha-no-naraigari-19"}
+              capituloAnime20={"/ver/tate-no-yuusha-no-naraigari-20"}
+              capituloAnime21={"/ver/tate-no-yuusha-no-naraigari-21"}
+              capituloAnime22={"/ver/tate-no-yuusha-no-naraigari-22"}
+              capituloAnime23={"/ver/tate-no-yuusha-no-naraigari-23"}
+              capituloAnime24={"/ver/tate-no-yuusha-no-naraigari-24"}
+              capituloAnime25={"/ver/tate-no-yuusha-no-naraigari-25"}
+              hrefSecuela={"/tate-no-yuusha-no-naraigari-segunda-temporada"}
+              textoSecuela={"Precuela"}
+              nombreSecuela={"Tate no Yuusha no Naraigari Temporada 2"}
+            />
+          }
+        />
+        <Route
           path="/tribe-nine"
           exact
           element={
