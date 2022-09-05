@@ -3685,8 +3685,9 @@ function App() {
 
         {/*  */}
         {/* Animes */}
-        <Route path="/animes" element={<Componente1 />} />
         <Route path="/animes-20" element={<Page2 />} />
+
+        <Route path="/animes" element={<Componente1 />} />
 
         <Route
           path="/generos=demonios"
