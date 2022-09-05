@@ -1,7 +1,7 @@
 import React from "react";
 import Animes from "../Data.json";
 export default function AnimePage() {
-  return Animes.map((anime) => {
+  return Animes.slice(0, 23).map((anime) => {
     return (
       <article className="serie-card" title={anime.title}>
         <figure className="image overarchingdiv2">
