@@ -4,7 +4,7 @@ import { NavLink } from "react-router-dom";
 import AnimePage1 from "../pages/AnimePage";
 import AnimePage2 from "../pages/AnimePage";
 
-export function Componente1({
+export default function Componente1({
   year1,
   year2,
   year3,
@@ -527,7 +527,7 @@ export function Componente1({
   );
 }
 
-export default function Page2() {
+export function Page2() {
   return (
     <div>
       <title>Animes Gratis Online HD</title>
