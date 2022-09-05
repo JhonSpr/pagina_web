@@ -473,9 +473,7 @@ export function Componente1({
             </ul>
           </div>
         </section>
-        <div className="list-series">
-          <AnimePage />
-        </div>
+        <div className="list-series"></div>
       </section>
 
       <div className="paginacion-contenedor">
