@@ -1,5 +1,5 @@
 import { Route, Routes } from "react-router-dom";
-import { Componente1 } from "./Componentes/Componente1";
+import { Componente1, Page2 } from "./Componentes/Componente1";
 import { Capitulos12 } from "./Componentes/Componente2";
 // import { Filter } from "./Componentes/DropDown";
 // import { EnEmision } from "./Componentes/enEmision";
@@ -12,6 +12,7 @@ function App() {
   return (
     <div>
       <Routes>
+        <Route path="/animes-40" element={<Page2 />} />
         {/* Inicio */}
         <Route
           path="/"
