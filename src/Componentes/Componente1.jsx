@@ -3,7 +3,7 @@
 import { NavLink } from "react-router-dom";
 import AnimePage1 from "../pages/AnimePage";
 
-export default function Componente1() {
+export function Componente1() {
   return (
     <div>
       <title>Animes Gratis Online HD</title>
