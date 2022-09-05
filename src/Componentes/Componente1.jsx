@@ -527,7 +527,7 @@ export function Componente1({
   );
 }
 
-export function Page2() {
+export default function Page2() {
   return (
     <div>
       <title>Animes Gratis Online HD</title>
