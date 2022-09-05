@@ -527,167 +527,7 @@ export function Componente1({
   );
 }
 
-export function Page2({
-  year1,
-  year2,
-  year3,
-  year4,
-  year5,
-  year6,
-  year7,
-  year8,
-  year9,
-  year10,
-  year11,
-  year12,
-  year13,
-  year14,
-  year15,
-  year16,
-  year17,
-  year18,
-  year19,
-  year20,
-  year21,
-  year22,
-  year23,
-  year24,
-  classpag1,
-  classpag2,
-  classpag3,
-  classpag4,
-  classpag5,
-  classpag6,
-  classpag7,
-  classpag8,
-  classpag9,
-  classpag10,
-  img1,
-  img2,
-  img3,
-  img4,
-  img5,
-  img6,
-  img7,
-  img8,
-  img9,
-  img10,
-  img11,
-  img12,
-  img13,
-  img14,
-  img15,
-  img16,
-  img17,
-  img18,
-  img19,
-  img20,
-  img21,
-  img22,
-  img23,
-  img24,
-  anime1,
-  anime2,
-  anime3,
-  anime4,
-  anime5,
-  anime6,
-  anime7,
-  anime8,
-  anime9,
-  anime10,
-  anime11,
-  anime12,
-  anime13,
-  anime14,
-  anime15,
-  anime16,
-  anime17,
-  anime18,
-  anime19,
-  anime20,
-  anime21,
-  anime22,
-  anime23,
-  anime24,
-  primero,
-  segundo,
-  tercero,
-  cuarto,
-  quinto,
-  sexto,
-  septimo,
-  octavo,
-  noveno,
-  decimo,
-  onceavo,
-  classpag11,
-  tv,
-  emision,
-  pag1,
-  pag2,
-  pag3,
-  pag4,
-  pag5,
-  pag6,
-  pag7,
-  pag8,
-  pag9,
-  pag10,
-  pag11,
-  siguiente,
-  anterior,
-  classEmision1,
-  classEmision2,
-  classEmision3,
-  classEmision4,
-  classEmision5,
-  classEmision6,
-  classEmision7,
-  classEmision8,
-  classEmision9,
-  classEmision10,
-  classEmision11,
-  classEmision12,
-  classEmision13,
-  classEmision14,
-  classEmision15,
-  classEmision16,
-  classEmision17,
-  classEmision18,
-  classEmision19,
-  classEmision20,
-  classEmision21,
-  classEmision22,
-  classEmision23,
-  classEmision24,
-  href1,
-  href2,
-  href3,
-  href4,
-  href5,
-  href6,
-  href7,
-  href8,
-  href9,
-  href10,
-  href11,
-  href12,
-  href13,
-  href14,
-  href15,
-  href16,
-  href17,
-  href18,
-  href19,
-  href20,
-  href21,
-  href22,
-  href23,
-  href24,
-  pagAnterior,
-  pagSiguiente,
-}) {
+export function Page2() {
   return (
     <div>
       <title>Animes Gratis Online HD</title>
@@ -1004,45 +844,41 @@ export function Page2({
 
       <div className="paginacion-contenedor">
         <ul>
-          <a href={pagAnterior} className="anterior">
-            {anterior}
+          <a href="/animes" className="anterior">
+            Anterior
           </a>
-          <li className={classpag1}>
-            <a href={pag1}>{primero}</a>
+          <li className="paginacion">
+            <a href="/animes">1</a>
           </li>
-          <li className={classpag2}>
-            <a href={pag2}>{segundo}</a>
+          <li className="paginacion">
+            <a href="/animes-2">2</a>
           </li>
-          <li className={classpag3}>
-            <a href={pag3}>{tercero}</a>
+          <li className="paginacion">
+            <a href="/animes-3">3</a>
           </li>
-          <li className={classpag4}>
-            <a href={pag4}>{cuarto}</a>
+          <li className="paginacion">
+            <a href="/animes-4">4</a>
           </li>
-          <li className={classpag5}>
-            <a href={pag5}>{quinto}</a>
+          <li className="paginacion">
+            <a href="/animes-5">5</a>
           </li>
-          <li className={classpag6}>
-            <a href={pag6}>{sexto}</a>
+          <li className="paginacion">
+            <a href="/animes-6">6</a>
           </li>
-          <li className={classpag7}>
-            <a href={pag7}>{septimo}</a>
+          <li className="paginacion">
+            <a href="/animes-7">7</a>
           </li>
-          <li className={classpag8}>
-            <a href={pag8}>{octavo}</a>
+          <li className="paginacion">
+            <a href="/animes-8">8</a>
           </li>
-          <li className={classpag9}>
-            <a href={pag9}>{noveno}</a>
+          <li className="paginacion">
+            <a href="/animes-9">9</a>
           </li>
-          <li className={classpag10}>
-            <a href={pag10}>{decimo}</a>
+          <li className="paginacion">
+            <a href="/animes-10">10</a>
           </li>
-          <li className={classpag11}>
-            <a href={pag11}>{onceavo}</a>
-          </li>
-          <a href={pagSiguiente} className="siguiente">
-            {" "}
-            {siguiente}{" "}
+          <a href="/animes-3" className="siguiente">
+            Siguiente
           </a>
         </ul>
       </div>
