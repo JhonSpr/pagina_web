@@ -33,7 +33,7 @@ export function AnimePage1() {
 }
 
 export default function AnimePage2() {
-  return Animes.slice(24, 47).map((anime) => {
+  Animes.slice(24, 47).map((anime) => {
     return (
       <article className="serie-card" title={anime.title} key={anime.id}>
         <figure className="image overarchingdiv2">
