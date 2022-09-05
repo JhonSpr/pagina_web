@@ -1,7 +1,7 @@
 import React from "react";
 import Animes from "../Data.json";
 
-export default function AnimePage1() {
+export function AnimePage1() {
   return Animes.slice(0, 23).map((anime) => {
     return (
       <article className="serie-card" title={anime.title} key={anime.id}>
@@ -32,7 +32,7 @@ export default function AnimePage1() {
   });
 }
 
-export function AnimePage2() {
+export default function AnimePage2() {
   return Animes.slice(24, 47).map((anime) => {
     return (
       <article className="serie-card" title={anime.title} key={anime.id}>
