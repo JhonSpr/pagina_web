@@ -480,45 +480,41 @@ export default function Componente1({
 
       <div className="paginacion-contenedor">
         <ul>
-          <a href={pagAnterior} className="anterior">
-            {anterior}
+          <a href="/animes" className="anterior">
+            Anterior
           </a>
-          <li className={classpag1}>
-            <a href={pag1}>{primero}</a>
+          <li className="paginacion">
+            <a href="/animes">1</a>
           </li>
-          <li className={classpag2}>
-            <a href={pag2}>{segundo}</a>
+          <li className="paginacion">
+            <a href="/animes-2">2</a>
           </li>
-          <li className={classpag3}>
-            <a href={pag3}>{tercero}</a>
+          <li className="paginacion">
+            <a href="/animes-3">3</a>
           </li>
-          <li className={classpag4}>
-            <a href={pag4}>{cuarto}</a>
+          <li className="paginacion">
+            <a href="/animes-4">4</a>
           </li>
-          <li className={classpag5}>
-            <a href={pag5}>{quinto}</a>
+          <li className="paginacion">
+            <a href="/animes-5">5</a>
           </li>
-          <li className={classpag6}>
-            <a href={pag6}>{sexto}</a>
+          <li className="paginacion">
+            <a href="/animes-6">6</a>
           </li>
-          <li className={classpag7}>
-            <a href={pag7}>{septimo}</a>
+          <li className="paginacion">
+            <a href="/animes-7">7</a>
           </li>
-          <li className={classpag8}>
-            <a href={pag8}>{octavo}</a>
+          <li className="paginacion">
+            <a href="/animes-8">8</a>
           </li>
-          <li className={classpag9}>
-            <a href={pag9}>{noveno}</a>
+          <li className="paginacion">
+            <a href="/animes-9">9</a>
           </li>
-          <li className={classpag10}>
-            <a href={pag10}>{decimo}</a>
+          <li className="paginacion">
+            <a href="/animes-10">10</a>
           </li>
-          <li className={classpag11}>
-            <a href={pag11}>{onceavo}</a>
-          </li>
-          <a href={pagSiguiente} className="siguiente">
-            {" "}
-            {siguiente}{" "}
+          <a href="/animes-3" className="siguiente">
+            Siguiente
           </a>
         </ul>
       </div>
