@@ -32,7 +32,7 @@ export function AnimePage1() {
   });
 }
 
-export default function AnimePage2() {
+export function AnimePage2() {
   Animes.slice(24, 47).map((anime) => {
     return (
       <article className="serie-card" title={anime.title} key={anime.id}>
