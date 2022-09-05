@@ -3,7 +3,7 @@ import Animes from "../Data.json";
 export function AnimeRecommend1() {
   let end = 15;
   let start = 10;
-  let RandomNumber = Math.floor(Math.random() * (start - end + 1) + start);
+  let RandomNumber = Math.floor(Math.random() * (start - end));
   console.log(RandomNumber);
 
   return (
