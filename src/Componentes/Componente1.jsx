@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
-import { NavLink } from "react-router-dom";
+import { NavLink, Route, Routes } from "react-router-dom";
 import AnimePage from "../pages/AnimePage";
 
 export function Componente1({
@@ -474,7 +474,9 @@ export function Componente1({
           </div>
         </section>
         <div className="list-series">
-          <AnimePage />
+          <Routes>
+            <Route path="/animes" element={<AnimePage />} />
+          </Routes>
         </div>
       </section>
 
