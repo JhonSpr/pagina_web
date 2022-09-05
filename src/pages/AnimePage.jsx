@@ -4,7 +4,7 @@ import Animes from "../Data.json";
 export default function AnimePage1() {
   return Animes.slice(0, 23).map((anime) => {
     return (
-      <article className="serie-card" title={anime.title}>
+      <article className="serie-card" title={anime.title} key={anime.id}>
         <figure className="image overarchingdiv2">
           <a href={anime.link}>
             <img src={anime.img} alt={anime.title} />
@@ -35,7 +35,7 @@ export default function AnimePage1() {
 export function AnimePage2() {
   return Animes.slice(24, 47).map((anime) => {
     return (
-      <article className="serie-card" title={anime.title}>
+      <article className="serie-card" title={anime.title} key={anime.id}>
         <figure className="image overarchingdiv2">
           <a href={anime.link}>
             <img src={anime.img} alt={anime.title} />
