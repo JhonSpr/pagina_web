@@ -1,10 +1,11 @@
 import { Route, Routes } from "react-router-dom";
-import { Componente1, Page2 } from "./Componentes/Componente1";
+import { Componente1 } from "./Componentes/Componente1";
 import { Capitulos12 } from "./Componentes/Componente2";
 // import { Filter } from "./Componentes/DropDown";
 // import { EnEmision } from "./Componentes/enEmision";
 import { Inicio } from "./Componentes/Inicio";
 import { NoExiste } from "./Componentes/NoExiste";
+import { Page2 } from "./Componentes/Page2";
 import { PerfilPaginaMenu } from "./Componentes/perfil";
 import { Ver } from "./Componentes/Ver";
 
