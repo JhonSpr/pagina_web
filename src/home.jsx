@@ -1,5 +1,5 @@
 import { Route, Routes } from "react-router-dom";
-// import { Componente1 } from "./Componentes/Componente1";
+import { Page1 } from "./Componentes/Componente1";
 import { Capitulos12 } from "./Componentes/Componente2";
 // import { Filter } from "./Componentes/DropDown";
 // import { EnEmision } from "./Componentes/enEmision";
@@ -3685,7 +3685,9 @@ function App() {
         />
 
         {/*  */}
+
         {/* Animes */}
+        <Route path="/animes" element={<Page1 />} />
         <Route path="/animes-2" element={<Page2 />} />
 
         <Route path="*" element={<NoExiste />} />
