@@ -7,6 +7,7 @@ import { Inicio } from "./Componentes/Inicio";
 import { NoExiste } from "./Componentes/NoExiste";
 import { PerfilPaginaMenu } from "./Componentes/perfil";
 import { Ver } from "./Componentes/Ver";
+import AnimePage from "./pages/AnimePage";
 
 function App() {
   return (
@@ -15085,6 +15086,8 @@ function App() {
             />
           }
         />
+        <Route path="/animes" element={<AnimePage />} />
+
         <Route path="*" element={<NoExiste />} />
       </Routes>
     </div>
