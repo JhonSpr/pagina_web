@@ -12,39 +12,7 @@ function App() {
   return (
     <div>
       <Routes>
-        <Route
-          path="/animes-2"
-          element={
-            <Page2
-              classpag11="disable"
-              classpag2="active"
-              anterior={"Anterior"}
-              siguiente={"Siguiente"}
-              pagAnterior={"/animes"}
-              pagSiguiente={"/animes-3"}
-              pag1="/animes"
-              pag2="/animes-2"
-              pag3="/animes-3"
-              pag4="/animes-4"
-              pag5="/animes-5"
-              pag6="/animes-6"
-              pag7="/animes-7"
-              pag8="/animes-8"
-              pag9="/animes-9"
-              pag10="/animes-10"
-              primero="1"
-              segundo="2"
-              tercero="3"
-              cuarto="4"
-              quinto="5"
-              sexto="6"
-              septimo="7"
-              octavo="8"
-              noveno="9"
-              decimo="10"
-            />
-          }
-        />
+        <Route path="/animes-2" element={<Page2 />} />
         {/* Inicio */}
         <Route
           path="/"
