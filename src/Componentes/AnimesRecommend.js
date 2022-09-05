@@ -2,8 +2,8 @@ import Animes from "../Data.json";
 
 export function AnimeRecommend1() {
   let end = 15;
-  let start = 0;
-  let RandomNumber = Math.floor(Math.random(start) * end);
+  let start = 10;
+  let RandomNumber = Math.floor(Math.random() * (start - end + 1) + start);
   console.log(RandomNumber);
 
   return (
@@ -21,9 +21,8 @@ export function AnimeRecommend1() {
   );
 }
 export function AnimeRecommend2() {
-  let start = 29;
   let end = 30;
-  let RandomNumber = Math.floor(Math.random(start) * end);
+  let RandomNumber = Math.floor(Math.random() * end);
   console.log(RandomNumber);
   return (
     <a
