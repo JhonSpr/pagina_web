@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
 import { NavLink } from "react-router-dom";
-import AnimePage from "../pages/AnimePage";
+import AnimePage2 from "../pages/AnimePage";
 
 export function Componente1({
   year1,
@@ -1575,7 +1575,7 @@ export function Page2({
           </div>
         </section>
         <div className="list-series">
-          <AnimePage />
+          <AnimePage2 />
         </div>
       </section>
 

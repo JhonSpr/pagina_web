@@ -12,7 +12,39 @@ function App() {
   return (
     <div>
       <Routes>
-        <Route path="/animes-40" element={<Page2 />} />
+        <Route
+          path="/animes-2"
+          element={
+            <Page2
+              classpag11="disable"
+              classpag2="active"
+              anterior={"Anterior"}
+              siguiente={"Siguiente"}
+              pagAnterior={"/animes"}
+              pagSiguiente={"/animes-3"}
+              pag1="/animes"
+              pag2="/animes-2"
+              pag3="/animes-3"
+              pag4="/animes-4"
+              pag5="/animes-5"
+              pag6="/animes-6"
+              pag7="/animes-7"
+              pag8="/animes-8"
+              pag9="/animes-9"
+              pag10="/animes-10"
+              primero="1"
+              segundo="2"
+              tercero="3"
+              cuarto="4"
+              quinto="5"
+              sexto="6"
+              septimo="7"
+              octavo="8"
+              noveno="9"
+              decimo="10"
+            />
+          }
+        />
         {/* Inicio */}
         <Route
           path="/"
@@ -3839,185 +3871,7 @@ function App() {
             />
           }
         />
-        <Route
-          path="/animes-2"
-          element={
-            <Componente1
-              img1="https://www.animefenix.com/cdn/animes/cover/61d5e31f8b785/gensou-sangokushi-tengen-reishinki.png"
-              img2="https://www.animefenix.com/cdn/animes/cover/5e444cd3919fa/tate-no-yuusha-no-nariagari.jpg"
-              img3="https://www.animefenix.com/cdn/animes/cover/61d5e15f2bb7b/tribe-nine.jpg"
-              img4="https://www.animefenix.com/cdn/animes/cover/61d5e7d13b599/koroshi-ai.jpg"
-              img5="https://www.animefenix.com/cdn/animes/cover/61d5e2254d6c2/sabikui-bisco.jpg"
-              img6="https://www.animefenix.com/cdn/animes/cover/61d5e08d99019/sasaki-to-miyano.jpg"
-              img7="https://img1.ak.crunchyroll.com/i/spire4/3025f2a7a0017b257753a208b55068481514330222_main.jpg"
-              img8="https://www.animefenix.com/cdn/animes/cover/6205d3e32689f/toaru-majutsu-no-index.jpg"
-              img9="https://www.animefenix.com/cdn/animes/cover/61d5dd5629b71/dolls-frontline.jpg"
-              img10="https://www.animefenix.com/cdn/animes/cover/61be3b0f8c216/saiyuki-reload-zeroin.jpg"
-              img11="https://www.animefenix.com/cdn/animes/cover/5d69f2b45ac8a/violet-evergarden.jpg"
-              img12="https://www.animefenix.com/cdn/animes/cover/62b38fc442857/shadows-house-2nd-season.jpg"
-              img13="https://www.animefenix.com/cdn/animes/cover/62b392ddc06ee/orient-2nd-cour.jpg"
-              img14="https://www.animefenix.com/cdn/animes/cover/62b3883db4847/isekai-ojisan.jpg"
-              img15="https://www.animefenix.com/cdn/animes/cover/62b3854093b93/overlord-iv.jpg"
-              img16="https://www.animefenix.com/cdn/animes/cover/62b37fcac4bd9/tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete-sekai-saikyou-ni-narimashita.jpg"
-              img17="https://www.animefenix.com/cdn/animes/cover/628261b2c0949/vampire-in-the-garden.jpg"
-              img18="https://www.animefenix.com/cdn/animes/cover/627841868ee88/kuroshitsuji-book-of-murder.jpg"
-              img19="https://www.animefenix.com/cdn/animes/cover/624c70de1804b/zuihou-de-zhaohuan-shi-the-last-summoner.png"
-              img20="https://www.animefenix.com/cdn/animes/cover/62448993a5267/kingdom-4th-season.jpg"
-              img21="https://www.animefenix.com/cdn/animes/cover/624483a92e3a8/mahoutsukai-reimeiki.jpg"
-              img22="https://www.animefenix.com/cdn/animes/cover/6244848bdfdc6/tiger-and-bunny-2.jpg"
-              img23="https://www.animefenix.com/cdn/animes/cover/620ec001eb85a/toaru-majutsu-no-index-iii.jpg"
-              img24="https://www.animefenix.com/cdn/animes/cover/61be3c43e2252/shingeki-no-kyojin-the-final-season-part-2.jpg"
-              tv="TV"
-              emision="En Emision"
-              year1="2022"
-              year2="2019"
-              year3="2022"
-              year4="2022"
-              year5="2022"
-              year6="2022"
-              year7="2018"
-              year8="2008"
-              year9="2022"
-              year10="2022"
-              year11="2018"
-              year12="2022"
-              year13="2022"
-              year14="2022"
-              year15="2022"
-              year16="2022"
-              year17="2022"
-              year18="2015"
-              year19="2022"
-              year20="2022"
-              year21="2022"
-              year22="2022"
-              year23="2018"
-              year24="2022"
-              href1="/gensou-sangokushi-tengen-reishink"
-              href2="/tate-no-yuusha-no-naraigari"
-              href3="/tribe-nine"
-              href4="/koroshi-ai"
-              href5="/sabikui-bisco"
-              href6="/sasaki-to-miyano"
-              href7="/ito-junji:-collection"
-              href8="/toaru-majutsu-no-index"
-              href9="/dolls-frontline"
-              href10="/saiyoku-reload-zeroin"
-              href11="/violet-evergarden"
-              href12="/shadows-house-segunda-temporada"
-              href13="/orient-segunda-temporada"
-              href14="/isekai-ojisan"
-              href15="/overlord-IV"
-              href16="/tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete-sekai-saikyou-ni-narimashita"
-              href17="/vampire-in-the-garden"
-              href18="/kuroshitsuji-book-of-murder"
-              href19="/zuihou-de-zhaohuan-shi-the-last-summoner"
-              href20="/kingdom-cuarta-temporada"
-              href21="/mahoutsukai-reimeiki"
-              href22="/tiger-and-bunny-2"
-              href23="/toaru-majustu-no-index-III"
-              href24="/shingeki-no-kyojin-temporada-final-parte-2"
-              anime1="Gensou Sangokushi Tengen Reishink"
-              anime2="Tate no Yuusha no Naraigari"
-              anime3="Tribe Nine"
-              anime4="Koroshi Ai"
-              anime5="Sabikui Bisco"
-              anime6="Sasaki to Miyano"
-              anime7="Ito Junji: Collection"
-              anime8="Toaru majustu no Index"
-              anime9="Dolls Frontline"
-              anime10="Saiyoki Reload Zeroin"
-              anime11="Violet Evergarden"
-              anime12="Shadows House Temporada 2"
-              anime13="Orient Temporada 2"
-              anime14="Isekai Ojisan"
-              anime15="Overlord IV"
-              anime16="Tensei Kenja no Isekai Life ~Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita"
-              anime17="Vampire in the Garden"
-              anime18="Kuroshitsuji Book of Murder"
-              anime19="Ziuhou de Zhaohuan Shi the Last Summoner"
-              anime20="Kingdom Temporada 4"
-              anime21="Mahoutsukai Reimeiki"
-              anime22="Tiger and Bunny 2"
-              anime23="Toaru Majustu no Index III"
-              anime24="Shingeki no Kyojin Temporada Final Parte 2"
-              alt1="Gensou Sangokushi Tengen Reishink"
-              alt2="Tate no Yuusha no Naraigar"
-              alt3="Tribe Nine"
-              alt4="Koroshi Ai"
-              alt5="Sabikui Bisco"
-              alt6="Sasaki to Miyano"
-              alt7="Ito Junji: Collection"
-              alt8="Toaru majustu no Index"
-              alt9="Dolls Frontline"
-              alt10="Saiyoki Reload Zeroin"
-              alt11="Violet Evergarden"
-              alt12="Shadows House Temporada 2"
-              alt13="Orient Temporada 2"
-              alt14="Isekai Ojisan"
-              alt15="Overlord IV"
-              alt16="Tensei Kenja no Isekai Life ~Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita"
-              alt17="Vampire in the Garden"
-              alt18="Kuroshitsuji Book of Murder"
-              alt19="Ziuhou de Zhaohuan Shi the Last Summoner"
-              alt20="Kingdom Temporada 4"
-              alt21="Mahoutsukai Reimeik"
-              alt22="Tiger and Bunny 2"
-              alt23="Toaru Majustu no Index III"
-              alt24="Shingeki no Kyojin Temporada Final Parte 2"
-              classpag11="disable"
-              classpag2="active"
-              anterior={"Anterior"}
-              siguiente={"Siguiente"}
-              pagAnterior={"/animes"}
-              pagSiguiente={"/animes-3"}
-              pag1="/animes"
-              pag2="/animes-2"
-              pag3="/animes-3"
-              pag4="/animes-4"
-              pag5="/animes-5"
-              pag6="/animes-6"
-              pag7="/animes-7"
-              pag8="/animes-8"
-              pag9="/animes-9"
-              pag10="/animes-10"
-              primero="1"
-              segundo="2"
-              tercero="3"
-              cuarto="4"
-              quinto="5"
-              sexto="6"
-              septimo="7"
-              octavo="8"
-              noveno="9"
-              decimo="10"
-              classEmision1={"disable"}
-              classEmision2={"disable"}
-              classEmision3={"disable"}
-              classEmision4={"disable"}
-              classEmision5={"disable"}
-              classEmision6={"disable"}
-              classEmision7={"disable"}
-              classEmision8={"disable"}
-              classEmision9={"disable"}
-              classEmision10={"disable"}
-              classEmision11={"disable"}
-              classEmision12={"tag is-success airing"}
-              classEmision13={"disable"}
-              classEmision14={"tag is-success airing"}
-              classEmision15={"tag is-success airing"}
-              classEmision16={"tag is-success airing"}
-              classEmision17={"disable"}
-              classEmision18={"disable"}
-              classEmision19={"disable"}
-              classEmision20={"tag is-success airing"}
-              classEmision21={"disable"}
-              classEmision22={"tag is-success airing"}
-              classEmision23={"disable"}
-              classEmision24={"disable"}
-            />
-          }
-        />
+
         <Route
           path="/animes-3"
           element={
