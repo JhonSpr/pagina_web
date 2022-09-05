@@ -46,7 +46,7 @@ export function AnimePage2() {
           </a>
           <span className="tag year is-dark">{anime.year}</span>
           <span className="tag is-danger type">TV</span>
-          {/* <span className={classEmision10}>{anime.}</span> */}
+          <span className="tag is-success airing">Emision</span>
           <div className="title">
             <h3>
               <a
