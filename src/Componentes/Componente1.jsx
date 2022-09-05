@@ -474,9 +474,7 @@ export function Componente1({
           </div>
         </section>
         <div className="list-series">
-          <Routes>
-            <Route path="/animes" element={<AnimePage />} />
-          </Routes>
+          <AnimePage />
         </div>
       </section>
 
