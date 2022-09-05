@@ -12,7 +12,6 @@ function App() {
   return (
     <div>
       <Routes>
-        <Route path="/animes-2" element={<Page2 />} />
         {/* Inicio */}
         <Route
           path="/"
@@ -3839,6 +3838,8 @@ function App() {
             />
           }
         />
+        <Route path="/animes-2" element={<Page2 />} />
+
         <Route
           path="/generos=demonios"
           element={
