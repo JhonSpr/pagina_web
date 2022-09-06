@@ -1,4 +1,3 @@
-import { NavLink } from "react-router-dom";
 import AnimePage4 from "../pages/AnimePage4";
 
 export function Page4() {
@@ -24,160 +23,157 @@ export function Page4() {
             </div>
             <ul className="dropdown-menu dropdown-menu-dark contenedor-dropdown">
               <li>
-                <NavLink className="dropdown-item" to={"/generos=accion"}>
-                  Aacción
-                </NavLink>
+                <a className="dropdown-item" href={"/generos[]=accion"}>
+                  Acción
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to={"/generos=fantasia"}>
+                <a className="dropdown-item" href={"/generos[]=fantasia"}>
                   Fantasia
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to={"/generos=terror"}>
+                <a className="dropdown-item" href={"/generos[]=terror"}>
                   Terror
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/generos=juegos">
+                <a className="dropdown-item" href="/generos[]=juegos">
                   Juegos
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/generos=aventura">
+                <a className="dropdown-item" href="/generos[]=aventura">
                   Aventura
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/generos=drama">
+                <a className="dropdown-item" href="/generos[]=drama">
                   Drama
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/generos=harem">
+                <a className="dropdown-item" href="/generos[]=harem">
                   Harem
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/generos=seinen">
+                <a className="dropdown-item" href="/generos[]=seinen">
                   Seinen
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/generos=romance">
+                <a className="dropdown-item" href="/generos[]=romance">
                   Romance
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/generos=samurai">
+                <a className="dropdown-item" href="/generos[]=samurai">
                   Samurai
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink
-                  className="dropdown-item"
-                  to="/generos=ciencia-ficcion"
-                >
+                <a className="dropdown-item" href="/generos=ciencia-ficcion">
                   Ciencia Ficción
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/generos=deportes">
+                <a className="dropdown-item" href="/generos[]=deportes">
                   Deportes
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/generos=escolares">
+                <a className="dropdown-item" href="/generos[]=escolares">
                   Escolares
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/generos=misterio">
+                <a className="dropdown-item" href="/generos[]=misterio">
                   Misterio
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/generos=sei-fi">
+                <a className="dropdown-item" href="/generos[]=sei-fi">
                   Sei-Fi
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/generos=shounen">
+                <a className="dropdown-item" href="/generos[]=shounen">
                   Shounen
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/generos=ninjas">
+                <a className="dropdown-item" href="/generos[]=ninjas">
                   Ninjas
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/generos=dragones">
+                <a className="dropdown-item" href="/generos[]=dragones">
                   Dragones
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/generos=comedia">
+                <a className="dropdown-item" href="/generos[]=comedia">
                   Comedia
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/generos=vampiros">
+                <a className="dropdown-item" href="/generos[]=vampiros">
                   Vampiros
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/generos=yaoi">
+                <a className="dropdown-item" href="/generos[]=yaoi">
                   Yaoi
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/generos=shouju">
+                <a className="dropdown-item" href="/generos[]=shouju">
                   Shouju
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/generos=parodia">
+                <a className="dropdown-item" href="/generos[]=parodia">
                   Parodia
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/generos=gore">
+                <a className="dropdown-item" href="/generos[]=gore">
                   Gore
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to={"/generos=cyberpunk"}>
+                <a className="dropdown-item" href={"/generos[]=cyberpunk"}>
                   CyberPunk
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink
+                <a
                   className="dropdown-item"
-                  to={"/generos=artes-marciales"}
+                  href={"/generos[]=artes-marciales"}
                 >
                   Artes Marciales
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to={"/generos=militar"}>
+                <a className="dropdown-item" href={"/generos[]=militar"}>
                   Militar
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to={"/generos=isekai"}>
+                <a className="dropdown-item" href={"/generos[]=isekai"}>
                   Isekai
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to={"/generos=demonios"}>
+                <a className="dropdown-item" href={"/generos[]=demonios"}>
                   Demonios
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to={"/generos=magia"}>
+                <a className="dropdown-item" href={"/generos[]=magia"}>
                   Magia
-                </NavLink>
+                </a>
               </li>
             </ul>
           </div>
@@ -192,19 +188,19 @@ export function Page4() {
             </div>
             <ul className="dropdown-menu dropdown-menu-dark">
               <li>
-                <NavLink className="dropdown-item" to="estado=finalizado">
+                <a className="dropdown-item" href="/estado[]=finalizado">
                   FINALIZADO
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/en-emision">
+                <a className="dropdown-item" href="/en-emision">
                   EN EMISIÓN
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="estado=proximamente">
+                <a className="dropdown-item" href="/estado[]=proximamente">
                   PROXIMAMENTE
-                </NavLink>
+                </a>
               </li>
             </ul>
           </div>
@@ -218,19 +214,19 @@ export function Page4() {
             </div>
             <ul className="dropdown-menu dropdown-menu-dark">
               <li>
-                <NavLink className="dropdown-item active" to="/animes">
+                <a className="dropdown-item active" href="/animes">
                   TV ( Predeterminado )
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/animes/tipo=ova">
+                <a className="dropdown-item" href="/animes type[]=ova">
                   OVA
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/animes/tipo=pelicula">
+                <a className="dropdown-item" href="/animes type[]=pelicula">
                   PELICULA
-                </NavLink>
+                </a>
               </li>
             </ul>
           </div>
@@ -244,69 +240,69 @@ export function Page4() {
             </div>
             <ul className="dropdown-menu dropdown-menu-dark contenedor-años">
               <li>
-                <NavLink className="dropdown-item" to="/animes/year=2022">
+                <a className="dropdown-item" href="/animes year[]=2022">
                   2022
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/animes/year=2021">
+                <a className="dropdown-item" href="/animes year[]=2021">
                   2021
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/animes/year=2020">
+                <a className="dropdown-item" href="/animes year[]=2020">
                   2020
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/animes/year=2019">
+                <a className="dropdown-item" href="/animes year[]=2019">
                   2019
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/animes/year=2018">
+                <a className="dropdown-item" href="/animes year[]=2018">
                   2018
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/animes/year=2017">
+                <a className="dropdown-item" href="/animes year[]=2017">
                   2017
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/animes/year=2016">
+                <a className="dropdown-item" href="/animes year[]=2016">
                   2016
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/animes/year=2015">
+                <a className="dropdown-item" href="/animes year[]=2015">
                   2015
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/animes/year=2014">
+                <a className="dropdown-item" href="/animes year=2014">
                   2014
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/animes/year=2013">
+                <a className="dropdown-item" href="/animes year[]=2013">
                   2013
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/animes/year=2012">
+                <a className="dropdown-item" href="/animes year[]=2012">
                   2012
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/animes/year=2011">
+                <a className="dropdown-item" href="/animes year[]=2011">
                   2011
-                </NavLink>
+                </a>
               </li>
               <li>
-                <NavLink className="dropdown-item" to="/animes/year=2010">
+                <a className="dropdown-item" href="/animes year[]=2010">
                   2010
-                </NavLink>
+                </a>
               </li>
             </ul>
           </div>

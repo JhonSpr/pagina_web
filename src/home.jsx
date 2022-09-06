@@ -3693,7 +3693,7 @@ function App() {
         />
 
         {/*  */}
-        <Route path="/generos=accion" element={<Page10 />} />
+        <Route path="/generos[]=accion" element={<Page10 />} />
 
         {/* Animes */}
         <Route path="/animes-page=10" element={<Page10 />} />
