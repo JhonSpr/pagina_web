@@ -252,7 +252,9 @@
     "img": "https://www.animefenix.com/cdn/animes/cover/62b38fc442857/shadows-house-2nd-season.jpg",
     "link": "/shadows-house-segunda-temporada",
     "title": "Shadows House Temporada 2",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": "36",
@@ -266,7 +268,9 @@
     "img": "https://www.animefenix.com/cdn/animes/cover/62b3883db4847/isekai-ojisan.jpg",
     "link": "/isekai-ojisan",
     "title": "Isekai Ojisan",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": "38",
@@ -308,7 +312,9 @@
     "img": "https://www.animefenix.com/cdn/animes/cover/62448993a5267/kingdom-4th-season.jpg",
     "link": "/kingdom-cuarta-temporada",
     "title": "kingdom temporada 4",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": "44",
@@ -501,6 +507,342 @@
   },
   {
     "id": "71",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "48",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5ef639192db7d/muhyo-to-rouji-no-mahouritsu-soudan-jimusho.jpg",
+    "link": "/muhyo-to-rouji-no-mahouritsu-soudan-jimusho",
+    "title": "Muhyo to Rouji no Mahouritsu Soudan Jimusho",
+    "year": 2018
+  },
+  {
+    "id": "49",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5fd97249d303d/golden-time.jpg",
+    "link": "/golden-time",
+    "title": "Golden Time",
+    "year": 2016
+  },
+  {
+    "id": "50",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg",
+    "link": "/fullmetal-alchemist-brotherhood",
+    "title": "Fullmetal Alchemist Brotherhood",
+    "year": 2009
+  },
+  {
+    "id": "51",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "52",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "53",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "54",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "55",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "56",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "57",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "58",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "59",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "60",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "61",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "62",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "63",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "64",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "65",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "66",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "67",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "68",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "69",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "70",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "71",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "72",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2018
+  },
+  {
+    "id": "73",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2016
+  },
+  {
+    "id": "74",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2009
+  },
+  {
+    "id": "75",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "76",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "77",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "78",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "79",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "80",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "81",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "82",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "83",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "84",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "85",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "86",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "87",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "88",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "89",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "90",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "91",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "92",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "93",
     "img": "",
     "link": "",
     "title": "",
