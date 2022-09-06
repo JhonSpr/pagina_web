@@ -21,7 +21,7 @@ import { GenerosPage6 } from "./PageGeneros/Page6";
 import { GenerosPage5 } from "./PageGeneros/Page5";
 import { GenerosPage4 } from "./PageGeneros/Page4";
 import { GenerosPage3 } from "./PageGeneros/Page3";
-import { AccionPage1 } from "./pages/GeneroPage";
+import { AccionPageOne } from "./PageGeneros/AccionPage1";
 
 function App() {
   return (
@@ -3699,7 +3699,7 @@ function App() {
         />
 
         {/*  */}
-        <Route path="/generos[]=accion" element={<AccionPage1 />} />
+        <Route path="/generos[]=accion" element={<AccionPageOne />} />
         <Route path="/generos[]=accion&page=2" element={<GenerosPage2 />} />
         <Route path="/generos[]=accion&page=3" element={<GenerosPage3 />} />
         <Route path="/generos[]=accion&page=4" element={<GenerosPage4 />} />
