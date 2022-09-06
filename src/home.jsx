@@ -7,6 +7,7 @@ import { Inicio } from "./Componentes/Inicio";
 import { NoExiste } from "./Componentes/NoExiste";
 import { Page2 } from "./Componentes/Page2";
 import { Page3 } from "./Componentes/Page3";
+import { Page4 } from "./Componentes/Page4";
 import { PerfilPaginaMenu } from "./Componentes/perfil";
 import { Ver } from "./Componentes/Ver";
 
@@ -3688,6 +3689,7 @@ function App() {
         {/*  */}
 
         {/* Animes */}
+        <Route path="/animes-page=4" element={<Page4 />} />
         <Route path="/animes-page=3" element={<Page3 />} />
         <Route path="/animes-page=2" element={<Page2 />} />
         <Route path="/animes" element={<Page1 />} />
