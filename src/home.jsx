@@ -5,10 +5,10 @@ import { Capitulos12 } from "./Componentes/Componente2";
 // import { EnEmision } from "./Componentes/enEmision";
 import { Inicio } from "./Componentes/Inicio";
 import { NoExiste } from "./Componentes/NoExiste";
-import { Page2 } from "./Componentes/Page2";
-import { Page3 } from "./Componentes/Page3";
-import { Page4 } from "./Componentes/Page4";
-import { PerfilPaginaMenu } from "./Componentes/perfil";
+import { Page2 } from "./Page/Page2";
+import { Page3 } from "./Page/Page3";
+import { Page4 } from "./Page/Page4";
+import { PerfilPaginaMenu } from "./Perfil/perfil";
 import { Ver } from "./Componentes/Ver";
 
 function App() {
