@@ -318,7 +318,7 @@ export function GenerosPage2() {
             Anterior
           </a>
           <li className="paginacion">
-            <a href="/generos[]=accion&page=1">1</a>
+            <a href="/generos[]=accion">1</a>
           </li>
           <li className="active">
             <a href="/generos[]=accion&page=2">2</a>
