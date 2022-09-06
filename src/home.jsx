@@ -16,7 +16,7 @@ import { Page9 } from "./Page/Page9";
 import { Page8 } from "./Page/Page8";
 import { Page7 } from "./Page/Page7";
 import { Page6 } from "./Page/Page6";
-import GeneroPage1 from "./pages/GeneroPage";
+import { GenerosPage2 } from "./PageGeneros/Page2";
 
 function App() {
   return (
@@ -3694,7 +3694,7 @@ function App() {
         />
 
         {/*  */}
-        <Route path="/generos[]=accion" element={<GeneroPage1 />} />
+        <Route path="/generos[]=accion" element={<GenerosPage2 />} />
         <Route path="/animes%20year[]=2022&page=2" element={<Page10 />} />
         <Route path="/animes%20type[]=ova" element={<Page10 />} />
         {/* Animes */}
