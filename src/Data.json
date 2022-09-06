@@ -102,7 +102,9 @@
     "img": "https://www.animefenix.com/cdn/animes/cover/62b38b1fc1df2/isekai-meikyuu-de-harem-wo.jpg",
     "link": "/isekai-meiryuu-de-harem-wo",
     "title": "Isekai Meiryuu de Harem wo",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": "16",
