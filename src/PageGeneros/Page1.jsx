@@ -1,6 +1,6 @@
-import { GeneroPage3 } from "../pages/GeneroPage";
+import GeneroPage1 from "../pages/GeneroPage";
 
-export function Page3() {
+export function GenerosPage2() {
   return (
     <div>
       <title>Animes Gratis Online HD</title>
@@ -308,22 +308,19 @@ export function Page3() {
           </div>
         </section>
         <div className="list-series">
-          <GeneroPage3 />
+          <GeneroPage1 />
         </div>
       </section>
 
       <div className="paginacion-contenedor">
         <ul>
-          <a href="/animes-page=2" className="anterior">
-            Anterior
-          </a>
-          <li className="paginacion">
+          <li className="active">
             <a href="/generos[]=accion">1</a>
           </li>
-          <li className="paginacion">
+          <li>
             <a href="/generos[]=accion&page=2">2</a>
           </li>
-          <li className="active">
+          <li className="paginacion">
             <a href="/generos[]=accion&page=3">3</a>
           </li>
           <li className="paginacion">
@@ -347,7 +344,7 @@ export function Page3() {
           <li className="paginacion">
             <a href="/generos[]=accion&page=10">10</a>
           </li>
-          <a href="/generos[]=accion&page=4" className="siguiente">
+          <a href="/generos[]=accion&page=2" className="siguiente">
             Siguiente
           </a>
         </ul>

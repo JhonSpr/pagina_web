@@ -1,4 +1,4 @@
-import GeneroPage1 from "../pages/GeneroPage";
+import { GeneroPage2 } from "../pages/GeneroPage";
 
 export function GenerosPage2() {
   return (
@@ -308,13 +308,13 @@ export function GenerosPage2() {
           </div>
         </section>
         <div className="list-series">
-          <GeneroPage1 />
+          <GeneroPage2 />
         </div>
       </section>
 
       <div className="paginacion-contenedor">
         <ul>
-          <a href="/generos[]=accion&page=1" className="anterior">
+          <a href="/generos[]=accion" className="anterior">
             Anterior
           </a>
           <li className="paginacion">

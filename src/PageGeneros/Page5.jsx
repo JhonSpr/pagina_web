@@ -1,6 +1,6 @@
-import AnimePage5 from "../pages/AnimePage5";
+import { GeneroPage5 } from "../pages/GeneroPage";
 
-export function Page5() {
+export function GenerosPage5() {
   return (
     <div>
       <title>Animes Gratis Online HD</title>
@@ -308,7 +308,7 @@ export function Page5() {
           </div>
         </section>
         <div className="list-series">
-          <AnimePage5 />
+          <GeneroPage5 />
         </div>
       </section>
 
@@ -321,33 +321,33 @@ export function Page5() {
             <a href="/animes">1</a>
           </li>
           <li>
-            <a href="/animes page=2">2</a>
+            <a href="/generos[]=accion&page=2">2</a>
           </li>
           <li>
-            <a href="/animes page=3">3</a>
+            <a href="/generos[]=accion&page=3">3</a>
           </li>
           <li>
-            <a href="/animes page=4">4</a>
+            <a href="/generos[]=accion&page=4">4</a>
           </li>
           <li className="active">
-            <a href="/animes page=5">5</a>
+            <a href="/generos[]=accion&page=5">5</a>
           </li>
           <li>
-            <a href="/animes page=6">6</a>
+            <a href="/generos[]=accion&page=6">6</a>
           </li>
           <li>
-            <a href="/animes page=7">7</a>
+            <a href="/generos[]=accion&page=7">7</a>
           </li>
           <li>
-            <a href="/animes page=8">8</a>
+            <a href="/generos[]=accion&page=8">8</a>
           </li>
           <li>
-            <a href="/animes page=9">9</a>
+            <a href="/generos[]=accion&page=9">9</a>
           </li>
           <li>
-            <a href="/animes page=10">10</a>
+            <a href="/generos[]=accion&page=10">10</a>
           </li>
-          <a href="/animes-page=6" className="siguiente">
+          <a href="/generos[]=accion&page=6" className="siguiente">
             Siguiente
           </a>
         </ul>

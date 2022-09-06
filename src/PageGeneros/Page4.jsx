@@ -1,6 +1,4 @@
-import AnimePage4 from "../pages/AnimePage4";
-
-export function GenerosPage1() {
+export function GenerosPage4() {
   return (
     <div>
       <title>Animes Gratis Online HD</title>
@@ -308,7 +306,7 @@ export function GenerosPage1() {
           </div>
         </section>
         <div className="list-series">
-          <AnimePage4 />
+          <GenerosPage4 />
         </div>
       </section>
 
@@ -318,36 +316,36 @@ export function GenerosPage1() {
             Anterior
           </a>
           <li className="paginacion">
-            <a href="/animes">1</a>
+            <a href="/generos[]=accion">1</a>
           </li>
           <li className="paginacion">
-            <a href="/animes page=2">2</a>
+            <a href="/generos[]=accion&page=2">2</a>
           </li>
           <li className="">
-            <a href="/animes page=3">3</a>
+            <a href="/generos[]=accion&page=3">3</a>
           </li>
           <li className="active">
-            <a href="/animes page=4">4</a>
+            <a href="/generos[]=accion&page=4">4</a>
           </li>
           <li className="paginacion">
-            <a href="/animes page=5">5</a>
+            <a href="/generos[]=accion&page=5">5</a>
           </li>
           <li className="paginacion">
-            <a href="/animes page=6">6</a>
+            <a href="/generos[]=accion&page=6">6</a>
           </li>
           <li className="paginacion">
-            <a href="/animes page=7">7</a>
+            <a href="/generos[]=accion&page=7">7</a>
           </li>
           <li className="paginacion">
-            <a href="/animes page=8">8</a>
+            <a href="/generos[]=accion&page=8">8</a>
           </li>
           <li className="paginacion">
-            <a href="/animes page=9">9</a>
+            <a href="/generos[]=accion&page=9">9</a>
           </li>
           <li className="paginacion">
-            <a href="/animes page=10">10</a>
+            <a href="/generos[]=accion&page=10">10</a>
           </li>
-          <a href="/animes page=5" className="siguiente">
+          <a href="/generos[]=accion&page=5" className="siguiente">
             Siguiente
           </a>
         </ul>
