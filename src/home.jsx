@@ -3687,8 +3687,8 @@ function App() {
         {/*  */}
 
         {/* Animes */}
-        <Route path="/animes" element={<Page1 />} />
         <Route path="/animes-2" element={<Page2 />} />
+        <Route path="/animes" element={<Page1 />} />
 
         <Route path="*" element={<NoExiste />} />
       </Routes>
