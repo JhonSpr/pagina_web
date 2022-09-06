@@ -819,5 +819,75 @@
     "link": "/plunderer",
     "title": "Plunderer",
     "year": 2020
+  },
+  {
+    "id": "115",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5fd99b6a64d2e/maken-ki-two.jpg",
+    "link": "/maken-ki-two",
+    "title": "Maken-ki! Two",
+    "year": 2015
+  },
+  {
+    "id": "117",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5fdbf30ccd6b1/hortensia-saga.jpg",
+    "link": "/hortensia-saga",
+    "title": "Hortensia Saga",
+    "year": 2020
+  },
+  {
+    "id": "118",
+    "img": "https://www.animefenix.com/cdn/animes/cover/60cb4fec3046a/shuumatsu-no-valkyrie.jpg",
+    "link": "/shuumatsu-no-valkyrie",
+    "title": "Shuumatsu no Valkyrie",
+    "year": 2021
+  },
+  {
+    "id": "119",
+    "img": "https://www.animefenix.com/cdn/animes/cover/614e85b4ed1b7/86-eighty-six-2nd-cour.jpg",
+    "link": "/86-eighty-six-2nd-cour",
+    "title": "86 EIGHTY-SIX 2nd Cour",
+    "year": 2021
+  },
+  {
+    "id": "120",
+    "img": "https://www.animefenix.com/cdn/animes/cover/61e5cae52b85f/kimetsu-no-yaiba-yuukaku-hen.jpg",
+    "link": "/kimetsu-no-yaiba-yuukaku-hen",
+    "title": "Kimetsu no Yaiba: Yuukaku-hen",
+    "year": 2021
+  },
+  {
+    "id": "121",
+    "img": "https://www.animefenix.com/cdn/animes/cover/6157ab233f78d/tesla-note.jpg",
+    "link": "/tesla-note",
+    "title": "TESLA NOTE",
+    "year": 2021
+  },
+  {
+    "id": "122",
+    "img": "https://www.animefenix.com/cdn/animes/cover/620c51b3dd37f/toaru-majutsu-no-index-ii.jpg",
+    "link": "/toaru-majutsu-no-index-II",
+    "title": "Toaru Majutsu no Index II",
+    "year": 2010
+  },
+  {
+    "id": "123",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5db3b2831017c/date-a-live-iii.jpg",
+    "link": "/date-a-live-III",
+    "title": "Date a Live III",
+    "year": 2019
+  },
+  {
+    "id": "124",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5db25e7ca97fc/date-a-live-ii.jpg",
+    "link": "/date-a-live-II",
+    "title": "Date a Live II",
+    "year": 2014
+  },
+  {
+    "id": "125",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5db25dd3411e5/date-a-live.jpg",
+    "link": "/date-a-live",
+    "title": "Date A Live",
+    "year": 2013
   }
 ]
