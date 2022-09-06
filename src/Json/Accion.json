@@ -179,7 +179,174 @@
     "img": "https://www.animefenix.com/cdn/animes/cover/62310d4b77505/tiger-and-bunny.jpg",
     "link": "/tiger-and-bunny",
     "title": "Tiger & Bunny",
-    "genero": "accion",
     "year": 2011
+  },
+  {
+    "id": "26",
+    "img": "https://www.animefenix.com/cdn/animes/cover/620ec001eb85a/toaru-majutsu-no-index-iii.jpg",
+    "link": "/toaru-majutsu-no-index-III",
+    "title": "Toaru Majutsu no Index III",
+    "year": 2018
+  },
+  {
+    "id": "27",
+    "img": "https://www.animefenix.com/cdn/animes/cover/620c51b3dd37f/toaru-majutsu-no-index-ii.jpg",
+    "link": "/toaru-majutsu-no-index-II",
+    "title": "Toaru Majutsu no Index II",
+    "year": 2010
+  },
+  {
+    "id": "28",
+    "img": "https://www.animefenix.com/cdn/animes/cover/6205d3e32689f/toaru-majutsu-no-index.jpg",
+    "link": "/toaru-majutsu-no-index",
+    "title": "Toaru Majutsu no Index",
+    "year": 2008
+  },
+  {
+    "id": "29",
+    "img": "https://www.animefenix.com/cdn/animes/cover/61d5df8321315/sabiiro-no-armor-reimei.jpg",
+    "link": "/sabiiro-no-armor-reimei",
+    "title": "Sabiiro no Armor -Reimei",
+    "year": 2022
+  },
+  {
+    "id": "30",
+    "img": "https://www.animefenix.com/cdn/animes/cover/61d5dd5629b71/dolls-frontline.jpg",
+    "link": "/dolls-frontline",
+    "title": "Dolls Frontline",
+    "year": 2022
+  },
+  {
+    "id": "31",
+    "img": "https://www.animefenix.com/cdn/animes/cover/61be3d65f13d6/genjitsu-shugi-yuusha-no-oukoku-saikenki-part-2.jpg",
+    "link": "/genjitsu-shugi-yuusha-no-oukoku-saikenki-segunda-parte",
+    "title": "Genjitsu Shugi Yuusha no Oukoku Saikenki Parte 2",
+    "year": 2022
+  },
+  {
+    "id": "32",
+    "img": "https://www.animefenix.com/cdn/animes/cover/61be3c43e2252/shingeki-no-kyojin-the-final-season-part-2.jpg",
+    "link": "/shingeki-no-kyojin-temporada-final-segunda-parte",
+    "title": "Shingeki no Kyojin: Temporada Final Parte 2",
+    "year": 2022
+  },
+  {
+    "id": "33",
+    "img": "https://www.animefenix.com/cdn/animes/cover/61be3b0f8c216/saiyuki-reload-zeroin.jpg",
+    "link": "/saiyuki-reload-zeroin",
+    "title": "Saiyuki RELOAD -ZEROIN",
+    "year": 2022
+  },
+  {
+    "id": "34",
+    "img": "https://www.animefenix.com/cdn/animes/cover/61be2ec28d419/orient.jpg",
+    "link": "/orient",
+    "title": "Orient",
+    "year": 2022
+  },
+  {
+    "id": "35",
+    "img": "https://www.animefenix.com/cdn/animes/cover/6157ab233f78d/tesla-note.jpg",
+    "link": "/tesla-note",
+    "title": "TESLA NOTE",
+    "year": 2021
+  },
+  {
+    "id": "36",
+    "img": "https://www.animefenix.com/cdn/animes/cover/614f411ad2d2f/kimetsu-no-yaiba-mugen-ressha-hen-tv.jpg",
+    "link": "/kimetsu-no-yaiba-mugen-ressha-hen",
+    "title": "Kimetsu no Yaiba: Mugen Ressha-hen (TV)",
+    "year": 2021
+  },
+  {
+    "id": "37",
+    "img": "https://www.animefenix.com/cdn/animes/cover/61e5cae52b85f/kimetsu-no-yaiba-yuukaku-hen.jpg",
+    "link": "/kimetsu-no-yaiba-yuukaku-hen",
+    "title": "Kimetsu no Yaiba: Yuukaku-hen",
+    "year": 2021
+  },
+  {
+    "id": "38",
+    "img": "https://www.animefenix.com/cdn/animes/cover/614e85b4ed1b7/86-eighty-six-2nd-cour.jpg",
+    "link": "/86-eighty-six-2nd-cour",
+    "title": "86 EIGHTY-SIX 2nd Cour",
+    "year": 2021
+  },
+  {
+    "id": "39",
+    "img": "https://www.animefenix.com/cdn/animes/cover/614e84bf0253f/hanyo-no-yashahime-ni-no-shou.jpg",
+    "link": "/hanyo-no-yashahime-ni-no-shou",
+    "title": "Hanyo no Yashahime: Ni no Shou",
+    "year": 2021
+  },
+  {
+    "id": "40",
+    "img": "https://www.animefenix.com/cdn/animes/cover/60cb4fec3046a/shuumatsu-no-valkyrie.jpg",
+    "link": "/shuumatsu-no-valkyrie",
+    "title": "Shuumatsu no Valkyrie",
+    "year": 2021
+  },
+  {
+    "id": "41",
+    "img": "https://www.animefenix.com/cdn/animes/cover/60d7ea610da30/tensei-shitara-slime-datta-ken-2nd-season-part-2.jpg",
+    "link": "/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte",
+    "title": "Tensei Shitara Slime Datta Ken 2nd Temporada Parte 2",
+    "year": 2021
+  },
+  {
+    "id": "42",
+    "img": "https://www.animefenix.com/cdn/animes/cover/601f0f8d8cad7/accel-world.jpg",
+    "link": "/accel-world",
+    "title": "Accel World",
+    "year": 2012
+  },
+  {
+    "id": "43",
+    "img": "https://www.animefenix.com/cdn/animes/cover/6013465c00e65/megalo-box.jpg",
+    "link": "/megalo-box",
+    "title": "Megalo Box",
+    "year": 2018
+  },
+  {
+    "id": "44",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5ff9a830e5847/killing-bites.jpg",
+    "link": "/killing-bites",
+    "title": "Killing Bites",
+    "year": 2018
+  },
+  {
+    "id": "45",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5ff35777abcdb/ushio-to-tora.jpg",
+    "link": "/ushio-to-tora",
+    "title": "Ushio to Tora",
+    "year": 2015
+  },
+  {
+    "id": "46",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5fbe8883d564d/shingeki-no-kyojin-the-final-season.jpg",
+    "link": "/shingeki-no-kyojin-the-final-season",
+    "title": "Shingeki no Kyojin: Temporada Final",
+    "year": 2020
+  },
+  {
+    "id": "47",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "48",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "49",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
   }
 ]
