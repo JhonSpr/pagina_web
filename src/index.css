@@ -55,8 +55,8 @@ a {
   color: rgba(160, 160, 160, 0.8) !important;
 }
 .paginacion-contenedor ul li.active {
-  background-color: rgba(0, 0, 0, 0.8);
-  color: rgb(240, 240, 240);
+  background-color: #00f4f8;
+  color: rgb(0, 0, 0, 0.9);
 }
 
 .paginacion-contenedor ul li:hover {
