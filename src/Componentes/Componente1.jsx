@@ -26,9 +26,9 @@ export function Page1() {
             </div>
             <ul className="dropdown-menu dropdown-menu-dark contenedor-dropdown">
               <li>
-                <NavLink className="dropdown-item" to={"/generos=accion"}>
+                <a className="dropdown-item" href={"/generos[]=accion"}>
                   Aacción
-                </NavLink>
+                </a>
               </li>
               <li>
                 <NavLink className="dropdown-item" to={"/generos=fantasia"}>
