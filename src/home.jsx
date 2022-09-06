@@ -17,7 +17,7 @@ import { Page8 } from "./Page/Page8";
 import { Page7 } from "./Page/Page7";
 import { Page6 } from "./Page/Page6";
 import { AccionPageOne } from "./PageGeneros/AccionPage1";
-import { AccionPageTwo } from "./PageGeneros/Page1";
+import { AccionPageTwo } from "./PageGeneros/AccionPage2";
 
 function App() {
   return (
