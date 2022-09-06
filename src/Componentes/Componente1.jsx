@@ -26,8 +26,8 @@ export function Page1() {
             </div>
             <ul className="dropdown-menu dropdown-menu-dark contenedor-dropdown">
               <li>
-                <a className="dropdown-item" href={"/generos[]=accion"}>
-                  Aacción
+                <a className="dropdown-item" href={"/generos=accion"}>
+                  Acción
                 </a>
               </li>
               <li>
