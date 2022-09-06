@@ -1,5 +1,5 @@
-import AnimePage2 from "../pages/AnimePage";
 import { NavLink } from "react-router-dom";
+import AnimePage2 from "../pages/AnimePage";
 
 export function Page2() {
   return (

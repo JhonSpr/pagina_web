@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
 import { NavLink } from "react-router-dom";
-import AnimePage1 from "../pages/AnimePage";
+import AnimePage1 from "../pages/AnimePage1";
 
 export function Page1() {
   return (
