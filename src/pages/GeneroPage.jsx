@@ -1,6 +1,6 @@
 import React from "react";
 import Animes from "../Data.json";
-import accion from "../Generos.json";
+import accion from "../Json/Accion.json";
 
 export default function GeneroPage1() {
   return Animes.slice(200, 230).map((anime) => {
