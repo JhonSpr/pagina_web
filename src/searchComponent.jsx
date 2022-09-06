@@ -50,7 +50,7 @@ function SearchBar({ placeholder, data }) {
                   >
                     <img src={value.img} alt="**" className="icono-search" />
                     <span className="span-search">
-                      {value.title.toLowerCase()}{" "}
+                      {value.title.toLowerCase()}
                     </span>
                   </a>
                 );
