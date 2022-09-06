@@ -367,472 +367,458 @@
   },
   {
     "id": "51",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/5dd6166153948/overlord.jpg",
+    "link": "/overlord",
+    "title": "Overlord",
+    "year": 2015
   },
   {
     "id": "52",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
-  },
-  {
-    "id": "53",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
-  },
-  {
-    "id": "54",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
-  },
-  {
-    "id": "55",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
-  },
-  {
-    "id": "56",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
-  },
-  {
-    "id": "57",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
-  },
-  {
-    "id": "58",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
-  },
-  {
-    "id": "59",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
-  },
-  {
-    "id": "60",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
-  },
-  {
-    "id": "61",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
-  },
-  {
-    "id": "62",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
-  },
-  {
-    "id": "63",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
-  },
-  {
-    "id": "64",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
-  },
-  {
-    "id": "65",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
-  },
-  {
-    "id": "66",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
-  },
-  {
-    "id": "67",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
-  },
-  {
-    "id": "68",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
-  },
-  {
-    "id": "69",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
-  },
-  {
-    "id": "70",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
-  },
-  {
-    "id": "71",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
-  },
-  {
-    "id": "72",
-    "img": "",
-    "link": "",
-    "title": "",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5dd7f6135b484/overlord-ii.jpg",
+    "link": "/overlord-II",
+    "title": "Overlord II",
     "year": 2018
   },
   {
-    "id": "73",
-    "img": "",
-    "link": "",
-    "title": "",
+    "id": "53",
+    "img": "https://www.animefenix.com/cdn/animes/cover/62d225191f67d/aldnoah-zero-part-2.jpg",
+    "link": "/aldnoah-zero-segunda-parte",
+    "title": "Aldnoah Zero Parte 2",
+    "year": 2015
+  },
+  {
+    "id": "54",
+    "img": "https://www.animefenix.com/cdn/animes/cover/63100c1a59f5e/yama-no-susume-third-season.jpg",
+    "link": "/yama-no-susume-third-season",
+    "title": "Yama no Susume Temporada 3",
+    "year": 2018
+  },
+  {
+    "id": "55",
+    "img": "https://www.animefenix.com/cdn/animes/cover/614f411ad2d2f/kimetsu-no-yaiba-mugen-ressha-hen-tv.jpg",
+    "link": "/kimetsu-no-yaiba-mugen-ressha-hen",
+    "title": "Kimetsu no Yaiba: Mugen Ressha-hen",
+    "year": 2021
+  },
+  {
+    "id": "56",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5ff35777abcdb/ushio-to-tora.jpg",
+    "link": "/ushio-to-tora",
+    "title": "Ushio to Tora",
+    "year": 2015
+  },
+  {
+    "id": "57",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5f9610663688c/shingeki-no-bahamut-genesis.jpg",
+    "link": "/shingeki-no-bahamut-genesis",
+    "title": "Shingeki no Bahamut Genesis",
+    "year": 2014
+  },
+  {
+    "id": "58",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5eb8202704395/ao-no-exorcist.jpg",
+    "link": "/ao-no-exorcist",
+    "title": "Ao no Exorcist",
+    "year": 2011
+  },
+  {
+    "id": "59",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5d32704a99e57/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note.jpg",
+    "link": "/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note",
+    "title": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
+    "year": 2019
+  },
+  {
+    "id": "60",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e14d769b2042/majutsushi-orphen-hagure-tabi.jpg",
+    "link": "/majutsushi-orphen-hagure-tabi",
+    "title": "Majutsushi Orphen Hagure Tabi",
+    "year": 2020
+  },
+  {
+    "id": "61",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e61921e7c575/castlevania-3.png",
+    "link": "/castlevania-3",
+    "title": "Castlevania 3",
+    "year": 2020
+  },
+  {
+    "id": "62",
+    "img": "https://www.animefenix.com/cdn/animes/cover/61be3ce57de0b/arifureta-shokugyou-de-sekai-saikyou-2nd-season.jpg",
+    "link": "/arifureta-shokugyou-de-sekai-saikyou-segunda-temporada",
+    "title": "Arifureta Shokugyou de Sekai Saikyou Segunda Temporada",
+    "year": 2022
+  },
+  {
+    "id": "63",
+    "img": "https://www.animefenix.com/cdn/animes/cover/614e8d5cb2e59/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei.jpg",
+    "link": "/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei",
+    "title": "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
+    "year": 2021
+  },
+  {
+    "id": "64",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5d916a21db9ea/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru.jpg",
+    "link": "/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru",
+    "title": "Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru",
+    "year": 2019
+  },
+  {
+    "id": "65",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5d9547a591d47/sword-art-online.jpg",
+    "link": "/sword-art-online",
+    "title": "Sword Art Online",
+    "year": 2012
+  },
+  {
+    "id": "66",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e89147f3b53c/shachou-battle-no-jikan-desu.jpg",
+    "link": "/shachou-battle-no-jikan-desu",
+    "title": "Shachou, Battle no Jikan desu!",
+    "year": 2020
+  },
+  {
+    "id": "67",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e96f265c5f81/drifters.jpg",
+    "link": "/drifters",
+    "title": "Drifters",
     "year": 2016
   },
   {
-    "id": "74",
-    "img": "",
-    "link": "",
-    "title": "",
+    "id": "68",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5ef785510e30a/saint-seiya-the-lost-canvas.jpg",
+    "link": "/saint-seiya-the-lost-canvas",
+    "title": "Saint Seiya: The Lost Canvas",
     "year": 2009
   },
   {
-    "id": "75",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "id": "69",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5eb000e4a8f8d/kekkai-sensen-and-beyond.jpg",
+    "link": "/kekkai-sensen-and-beyond",
+    "title": "Kekkai Sensen & Beyond",
+    "year": 2017
   },
   {
-    "id": "",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "id": "70",
+    "img": "https://www.animefenix.com/cdn/animes/cover/624483a92e3a8/mahoutsukai-reimeiki.jpg",
+    "link": "/mahoutsukai-reimeiki",
+    "title": "Mahoutsukai Reimeiki",
+    "year": 2022
+  },
+  {
+    "id": "71",
+    "img": "https://www.animefenix.com/cdn/animes/cover/624482e980ad6/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu.jpg",
+    "link": "/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu",
+    "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
+    "year": 2022
+  },
+  {
+    "id": "72",
+    "img": "https://www.animefenix.com/cdn/animes/cover/62ed4a234bb91/totsukuni-no-shoujo.jpg",
+    "link": "/totsukuni-no-shoujo",
+    "title": "Totsukuni no Shoujo",
+    "year": 2022
+  },
+  {
+    "id": "73",
+    "img": "https://www.animefenix.com/cdn/animes/cover/624489d1b522a/kunoichi-tsubaki-no-mune-no-uchi.jpg",
+    "link": "/kunoichi-tsubaki-no-mune-no-uchi",
+    "title": "Kunoichi Tsubaki no Mune no Uchi",
+    "year": 2022
+  },
+  {
+    "id": "74",
+    "img": "https://www.animefenix.com/cdn/animes/cover/6243d9f013407/shijou-saikyou-no-daimaou-murabito-a-ni-tensei-suru.jpg",
+    "link": "/shijou-saikyou-no-daimaou-murabito-a-ni-tensei-suru",
+    "title": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
+    "year": 2022
+  },
+  {
+    "id": "75",
+    "img": "https://www.animefenix.com/cdn/animes/cover/6243d95fbf6b3/yuusha-yamemasu.jpg",
+    "link": "/yuusha-yamemasu",
+    "title": "Yuusha, Yamemasu",
+    "year": 2022
   },
   {
     "id": "76",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
-  },
-  {
-    "id": "",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/623bd5bf0a122/estab-life-great-escape.jpg",
+    "link": "/estab-life-great-escape",
+    "title": "ESTAB LIFE: Great Escape",
+    "year": 2022
   },
   {
     "id": "77",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/61d5e8373f7ca/vanitas-no-carte-2nd-cour.jpg",
+    "link": "/vanitas-no-carte-2nd-cour",
+    "title": "Vanitas no Carte 2nd Cour",
+    "year": 2022
   },
   {
     "id": "78",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/61d5e8c5e0f38/rymans-club.jpg",
+    "link": "/rymans-club",
+    "title": "Ryman's Club",
+    "year": 2022
   },
   {
     "id": "79",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/61d5e3c40a9bd/tensai-ouji-no-akaji-kokka-saisei-jutsu.jpg",
+    "link": "/tensai-ouji-no-akaji-kokka-saisei-jutsu",
+    "title": "Tensai Ouji no Akaji Kokka Saisei Jutsu",
+    "year": 2022
   },
   {
     "id": "80",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/61d5df8321315/sabiiro-no-armor-reimei.jpg",
+    "link": "/sabiiro-no-armor-reimei",
+    "title": "Sabiiro no Armor -Reimei",
+    "year": 2022
   },
   {
     "id": "81",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/61be2ec28d419/orient.jpg",
+    "link": "/orient",
+    "title": "Orient",
+    "year": 2022
   },
   {
     "id": "82",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/61be3d65f13d6/genjitsu-shugi-yuusha-no-oukoku-saikenki-part-2.jpg",
+    "link": "/genjitsu-shugi-yuusha-no-oukoku-saikenki-part-2",
+    "title": "Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2",
+    "year": 2022
   },
   {
     "id": "83",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/61be2f6eb85f0/tokyo-24-ku.jpg",
+    "link": "/tokyo-24-ku",
+    "title": "Tokyo 24-ku",
+    "year": 2022
   },
   {
     "id": "84",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/61d5dcf8f2af5/cue.jpg",
+    "link": "/cue",
+    "title": "CUE!",
+    "year": 2022
   },
   {
     "id": "85",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/61d5df2b5586d/kaijin-kaihatsu-bu-no-kuroitsu-san.jpg",
+    "link": "/kaijin-kaihatsu-bu-no-kuroitsu-san",
+    "title": "Kaijin Kaihatsu-bu no Kuroitsu-san",
+    "year": 2022
   },
   {
     "id": "86",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/6244850ecf47d/koi-wa-sekai-seifuku-no-ato-de.jpg",
+    "link": "/koi-wa-sekai-seifuku-no-ato-de",
+    "title": "Koi wa Sekai Seifuku no Ato de",
+    "year": 2022
   },
   {
     "id": "87",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/6013465c00e65/megalo-box.jpg",
+    "link": "/megalo-box",
+    "title": "Megalo Box",
+    "year": 2018
   },
   {
     "id": "88",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/5ff9a830e5847/killing-bites.jpg",
+    "link": "/killing-bites",
+    "title": "Killing Bites",
+    "year": 2018
   },
   {
     "id": "89",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/601f0f8d8cad7/accel-world.jpg",
+    "link": "/accel-world",
+    "title": "Accel World",
+    "year": 2012
   },
   {
     "id": "90",
-    "img": "",
-    "link": "",
-    "title": "",
+    "img": "https://www.animefenix.com/cdn/animes/cover/6262163f80da7/utawarerumono.jpg",
+    "link": "/utawarerumono",
+    "title": "Utawarerumono",
     "year": 20
   },
   {
     "id": "91",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/60b3e02b7b9e1/eden.jpg",
+    "link": "/eden",
+    "title": "Eden",
+    "year": 2021
   },
   {
     "id": "92",
-    "img": "",
-    "link": "",
-    "title": "",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e820a2e9bcce/altered-carbon-resleeved.jpg",
+    "link": "/altered-carbon-resleeved",
+    "title": "Altered Carbon: Resleeved",
     "year": 20
   },
   {
     "id": "93",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/5fdbec7480d99/re-zero-kara-hajimeru-isekai-seikatsu-2nd-season-part-2.jpg",
+    "link": "/re-zero-kara-hajimeru-isekai-seikatsu-segunda-temporada-parte-2",
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu Segunda Temporada Parte 2",
+    "year": 2020
   },
   {
     "id": "94",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/5fdbf6187d43f/kumo-desu-ga-nani-ka.jpg",
+    "link": "/kumo-desu-ga-nani-ka",
+    "title": "Kumo desu ga, Nani ka?",
+    "year": 2020
   },
   {
     "id": "95",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/5fbe8883d564d/shingeki-no-kyojin-the-final-season.jpg",
+    "link": "/shingeki-no-kyojin-the-final-season",
+    "title": "Shingeki no Kyojin: Temporada Final",
+    "year": 2020
   },
   {
     "id": "96",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/5f7c81655f48e/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen.jpg",
+    "link": "/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen",
+    "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
+    "year": 2020
   },
   {
     "id": "97",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/5f73af6ce4a9f/hanyo-no-yashahime.jpg",
+    "link": "/hanyo-no-yashahime",
+    "title": "Hanyo no Yashahime",
+    "year": 2020
   },
   {
     "id": "98",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/5f73ac6d9c851/majo-no-tabitabi.jpg",
+    "link": "/majo-no-tabitabi",
+    "title": "Majo no Tabitabi",
+    "year": 2020
   },
   {
     "id": "99",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e84ca04d425e/mob-psycho-100.jpg",
+    "link": "/mob-psycho-100",
+    "title": "Mob Psycho 100",
+    "year": 2016
   },
   {
     "id": "100",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/5d8ad7558a7fb/mob-psycho-100-ii.png",
+    "link": "/mob-psycho-100-ii",
+    "title": "Mob Psycho 100 II",
+    "year": 2019
   },
   {
     "id": "101",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/6243d8c0de877/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu.jpg",
+    "link": "/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu",
+    "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
+    "year": 2022
   },
   {
     "id": "102",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/5f73b0bbf14a3/senyoku-no-sigrdrifa.jpg",
+    "link": "/senyoku-no-sigrdrifa",
+    "title": "Senyoku no Sigrdrifa",
+    "year": 2020
   },
   {
     "id": "103",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/5f73814b36d4e/kings-raid-ishi-wo-tsugumono-tachi.jpg",
+    "link": "/kings-raid-ishi-wo-tsugumono-tachi",
+    "title": "King's Raid: Ishi wo Tsugumono-tachi",
+    "year": 2020
   },
   {
     "id": "104",
     "img": "",
     "link": "",
-    "title": "",
-    "year": 20
+    "title": "Danmachi III",
+    "year": 2020
   },
   {
     "id": "105",
-    "img": "",
-    "link": "",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5f737f660317d/danmachi-iii.jpg",
+    "link": "/danmachi-iii",
     "title": "",
     "year": 20
   },
   {
     "id": "106",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/5efbe11a58b84/sword-art-online-alicization-war-of-underworld-part-2.jpg",
+    "link": "/sword-art-online-alicization-war-of-underworld-part-2",
+    "title": "Sword Art Online: Alicization - War of Underworld Parte 2",
+    "year": 2020
   },
   {
     "id": "107",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/5efba33e5a2fa/re-zero-kara-hajimeru-isekai-seikatsu-2nd-season-part-1.jpg",
+    "link": "/re-zero-kara-hajimeru-isekai-seikatsu-2nd-temporada-parte-1",
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Temporada Parte 1",
+    "year": 2020
   },
   {
     "id": "108",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e7e896a342fe/hachi-nan-tte-sore-wa-nai-deshou.png",
+    "link": "/hachi-nan-tte-sore-wa-nai-deshou",
+    "title": "Hachi-nan tte, Sore wa Nai deshou!",
+    "year": 2020
   },
   {
     "id": "109",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/5efbe1a438a4c/monster-musume-no-oisha-san.jpg",
+    "link": "/monster-musume-no-oisha-san",
+    "title": "Monster Musume no Oisha-san",
+    "year": 2020
   },
   {
     "id": "110",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e89147f3b53c/shachou-battle-no-jikan-desu.jpg",
+    "link": "/shachou-battle-no-jikan-desu",
+    "title": "Shachou, Battle no Jikan desu!",
+    "year": 2020
   },
   {
     "id": "111",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/5eaa49ea25f04/bungo-to-alchemist-shinpan-no-haguruma.jpg",
+    "link": "/bungo-to-alchemist-shinpan-no-haguruma",
+    "title": "Bungo to Alchemist: Shinpan no Haguruma",
+    "year": 2020
   },
   {
     "id": "112",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e1bbcc440f7f/dorohedoro.png",
+    "link": "/dorohedoro",
+    "title": "Dorohedoro",
+    "year": 2020
   },
   {
     "id": "113",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e0d0f3c09b5a/ishuzoku-reviewers.jpg",
+    "link": "/ishuzoku-reviewers",
+    "title": "Ishuzoku Reviewers",
+    "year": 2020
   },
   {
     "id": "114",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e0e4fcde34f9/somali-to-mori-no-kamisama.jpg",
+    "link": "/somali-to-mori-no-kamisama",
+    "title": "Somali to Mori no Kamisama",
+    "year": 2020
   },
   {
     "id": "115",
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 20
+    "img": "https://www.animefenix.com/cdn/animes/cover/5dee710c876fe/plunderer.jpg",
+    "link": "/plunderer",
+    "title": "Plunderer",
+    "year": 2020
   },
   {
     "id": "116",
