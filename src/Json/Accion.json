@@ -344,6 +344,265 @@
   },
   {
     "id": "49",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5f9610663688c/shingeki-no-bahamut-genesis.jpg",
+    "link": "/shingeki-no-bahamut-genesis",
+    "title": "Shingeki no Bahamut: Genesis",
+    "year": 2014
+  },
+  {
+    "id": "50",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5f737f660317d/danmachi-iii.jpg",
+    "link": "/danmachi-III",
+    "title": "Danmachi III",
+    "year": 2020
+  },
+  {
+    "id": "51",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5efa5b3d9cd25/muhyo-to-roujii-no-mahouritsu-soudan-jimusho-2nd-season.jpg",
+    "link": "/muhyo-to-roujii-no-mahouritsu-soudan-jimusho-2nd-season",
+    "title": "Muhyo to Roujii no Mahouritsu Soudan Jimusho 2nd Season",
+    "year": 2020
+  },
+  {
+    "id": "52",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5ef7b4e90d4bd/enn-enn-no-shouboutai-2.jpg",
+    "link": "/enn-enn-no-shouboutai-ni-no-shou",
+    "title": "Enn Enn no Shouboutai: Ni no Shou",
+    "year": 2020
+  },
+  {
+    "id": "53",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5ef785510e30a/saint-seiya-the-lost-canvas.jpg",
+    "link": "/saint-seiya-the-lost-canvas",
+    "title": "Saint Seiya: The Lost Canvas",
+    "year": 2009
+  },
+  {
+    "id": "54",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5ef41130438ef/bungou-stray-dogs-3.png",
+    "link": "/bungou-stray-dogs-3",
+    "title": "Bungou Stray Dogs 3",
+    "year": 2019
+  },
+  {
+    "id": "55",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5ef3c1d67a6ff/bungou-stray-dogs-2.jpg",
+    "link": "/bungou-stray-dogs-2",
+    "title": "Bungou Stray Dogs 2",
+    "year": 2016
+  },
+  {
+    "id": "56",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5ef25b87b40a3/bungou-stray-dogs.jpg",
+    "link": "/bungou-stray-dogs",
+    "title": "Bungou Stray Dogs",
+    "year": 2016
+  },
+  {
+    "id": "57",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5ee1574ab96ae/kiseijuu-sei-no-kakuritsu-parasyte.jpg",
+    "link": "/kiseijuu-sei-no-kakuritsu-parasyte",
+    "title": "Kiseijuu: Sei no Kakuritsu (Parasyte)",
+    "year": 2014
+  },
+  {
+    "id": "58",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5ee108ffac728/blood-c.jpg",
+    "link": "/blood-c",
+    "title": "Blood-C",
+    "year": 2011
+  },
+  {
+    "id": "59",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5ec738e47c767/dororo.jpg",
+    "link": "/dororo",
+    "title": "Dororo",
+    "year": 2019
+  },
+  {
+    "id": "60",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5eb953b86effa/world-trigger.jpg",
+    "link": "/world-trigger",
+    "title": "World Trigger",
+    "year": 2014
+  },
+  {
+    "id": "61",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e96f265c5f81/drifters.jpg",
+    "link": "/drifters",
+    "title": "Drifters",
+    "year": 2016
+  },
+  {
+    "id": "62",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e89140e8bdda/gleipnir.jpg",
+    "link": "/gleipnir",
+    "title": "Gleipnir",
+    "year": 2020
+  },
+  {
+    "id": "63",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e894d305e0d1/noragami-aragoto.jpg",
+    "link": "/noragami-aragoto",
+    "title": "Noragami Aragoto",
+    "year": 2015
+  },
+  {
+    "id": "64",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e891df087477/noragami.jpg",
+    "link": "/noragami",
+    "title": "Noragami",
+    "year": 2014
+  },
+  {
+    "id": "65",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg",
+    "link": "/fullmetal-alchemist-brotherhood",
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "year": 2009
+  },
+  {
+    "id": "66",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e87b52c301f9/tokyo-ghoul-re-2.jpg",
+    "link": "/tokyo-ghoul-re-2",
+    "title": "Tokyo Ghoul: re 2",
+    "year": 2018
+  },
+  {
+    "id": "67",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e87b459d6114/tokyo-ghoul-re.jpg",
+    "link": "/tokyo-ghoul-re",
+    "title": "Tokyo Ghoul: re",
+    "year": 2018
+  },
+  {
+    "id": "68",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e41abe61fb2d/goblin-slayer.jpg",
+    "link": "/goblin-slayer",
+    "title": "Goblin Slayer",
+    "year": 2018
+  },
+  {
+    "id": "69",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e409e9410903/knights-and-magic.jpg",
+    "link": "/knights-and-magic",
+    "title": "Knight's & Magic",
+    "year": 2017
+  },
+  {
+    "id": "70",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e3f23b7dc6b4/tokyo-ghoul-radic-a.jpg",
+    "link": "/tokyo-ghoul-radic-a",
+    "title": "Tokyo Ghoul √A",
+    "year": 2015
+  },
+  {
+    "id": "71",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e3887f3a9136/tokyo-ghoul.jpg",
+    "link": "/tokyo-ghoul",
+    "title": "Tokyo Ghoul",
+    "year": 2014
+  },
+  {
+    "id": "72",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e14d769b2042/majutsushi-orphen-hagure-tabi.jpg",
+    "link": "/majutsushi-orphen-hagure-tabi",
+    "title": "Majutsushi Orphen Hagure Tabi",
+    "year": 2020
+  },
+  {
+    "id": "73",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e1bbcc440f7f/dorohedoro.png",
+    "link": "/dorohedoro",
+    "title": "Dorohedoro",
+    "year": 2020
+  },
+  {
+    "id": "74",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5df7f261f2cf3/id-invaded.jpg",
+    "link": "/id-invaded",
+    "title": "ID:INVADED",
+    "year": 2020
+  },
+  {
+    "id": "75",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5de094323f28d/levius.png",
+    "link": "/levius",
+    "title": "Levius",
+    "year": 2019
+  },
+  {
+    "id": "76",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "77",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "78",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "79",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "80",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "81",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "82",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "83",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "84",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "85",
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 20
+  },
+  {
+    "id": "86",
     "img": "",
     "link": "",
     "title": "",

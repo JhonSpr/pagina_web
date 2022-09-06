@@ -889,5 +889,187 @@
     "link": "/date-a-live",
     "title": "Date A Live",
     "year": 2013
+  },
+  {
+    "id": "126",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5ef7b4e90d4bd/enn-enn-no-shouboutai-2.jpg",
+    "link": "/enn-enn-no-shouboutai-ni-no-shou",
+    "title": "Enn Enn no Shouboutai: Ni no Shou",
+    "year": 2020
+  },
+  {
+    "id": "127",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5ef41130438ef/bungou-stray-dogs-3.png",
+    "link": "/bungou-stray-dogs-3",
+    "title": "Bungou Stray Dogs 3",
+    "year": 2019
+  },
+  {
+    "id": "128",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5ef3c1d67a6ff/bungou-stray-dogs-2.jpg",
+    "link": "/bungou-stray-dogs-2",
+    "title": "Bungou Stray Dogs 2",
+    "year": 2016
+  },
+  {
+    "id": "129",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5ef25b87b40a3/bungou-stray-dogs.jpg",
+    "link": "/bungou-stray-dogs",
+    "title": "Bungou Stray Dogs",
+    "year": 2016
+  },
+  {
+    "id": "130",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5ee1574ab96ae/kiseijuu-sei-no-kakuritsu-parasyte.jpg",
+    "link": "/kiseijuu-sei-no-kakuritsu-parasyte",
+    "title": "Kiseijuu: Sei no Kakuritsu (Parasyte)",
+    "year": 2014
+  },
+  {
+    "id": "131",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5ee108ffac728/blood-c.jpg",
+    "link": "/blood-c",
+    "title": "Blood-C",
+    "year": 2011
+  },
+  {
+    "id": "132",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5ec738e47c767/dororo.jpg",
+    "link": "/dororo",
+    "title": "Dororo",
+    "year": 2019
+  },
+  {
+    "id": "133",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5eb953b86effa/world-trigger.jpg",
+    "link": "/world-trigger",
+    "title": "World Trigger",
+    "year": 2014
+  },
+  {
+    "id": "134",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e96f265c5f81/drifters.jpg",
+    "link": "/drifters",
+    "title": "Drifters",
+    "year": 2016
+  },
+  {
+    "id": "135",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e89140e8bdda/gleipnir.jpg",
+    "link": "/gleipnir",
+    "title": "Gleipnir",
+    "year": 2020
+  },
+  {
+    "id": "136",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e894d305e0d1/noragami-aragoto.jpg",
+    "link": "/noragami-aragoto",
+    "title": "Noragami Aragoto",
+    "year": 2015
+  },
+  {
+    "id": "137",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e891df087477/noragami.jpg",
+    "link": "/noragami",
+    "title": "Noragami",
+    "year": 2014
+  },
+  {
+    "id": "138",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg",
+    "link": "/fullmetal-alchemist-brotherhood",
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "year": 2009
+  },
+  {
+    "id": "139",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e87b52c301f9/tokyo-ghoul-re-2.jpg",
+    "link": "/tokyo-ghoul-re-2",
+    "title": "Tokyo Ghoul: re 2",
+    "year": 2018
+  },
+  {
+    "id": "140",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e87b459d6114/tokyo-ghoul-re.jpg",
+    "link": "/tokyo-ghoul-re",
+    "title": "Tokyo Ghoul: re",
+    "year": 2018
+  },
+  {
+    "id": "141",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e84ca04d425e/mob-psycho-100.jpg",
+    "link": "/mob-psycho-100",
+    "title": "Mob Psycho 100",
+    "year": 2016
+  },
+  {
+    "id": "141",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e7e896a342fe/hachi-nan-tte-sore-wa-nai-deshou.png",
+    "link": "/hachi-nan-tte-sore-wa-nai-deshou",
+    "title": "Hachi-nan tte, Sore wa Nai deshou!",
+    "year": 2020
+  },
+  {
+    "id": "142",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e444cd3919fa/tate-no-yuusha-no-nariagari.jpg",
+    "link": "/tate-no-yuusha-no-nariagari",
+    "title": "Tate no Yuusha no Nariagari",
+    "year": 2019
+  },
+  {
+    "id": "143",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e41abe61fb2d/goblin-slayer.jpg",
+    "link": "/goblin-slayer",
+    "title": "Goblin Slayer",
+    "year": 2018
+  },
+  {
+    "id": "144",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e409e9410903/knights-and-magic.jpg",
+    "link": "/knights-and-magic",
+    "title": "Knight's & Magic",
+    "year": 2017
+  },
+  {
+    "id": "145",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e3f23b7dc6b4/tokyo-ghoul-radic-a.jpg",
+    "link": "/tokyo-ghoul-radic-a",
+    "title": "Tokyo Ghoul √A",
+    "year": 2015
+  },
+  {
+    "id": "146",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e3887f3a9136/tokyo-ghoul.jpg",
+    "link": "/tokyo-ghoul",
+    "title": "Tokyo Ghoul",
+    "year": 2014
+  },
+  {
+    "id": "147",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e14d769b2042/majutsushi-orphen-hagure-tabi.jpg",
+    "link": "/majutsushi-orphen-hagure-tabi",
+    "title": "Majutsushi Orphen Hagure Tabi",
+    "year": 2020
+  },
+  {
+    "id": "148",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e1bbcc440f7f/dorohedoro.png",
+    "link": "/dorohedoro",
+    "title": "Dorohedoro",
+    "year": 2020
+  },
+  {
+    "id": "149",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5df7f261f2cf3/id-invaded.jpg",
+    "link": "/id-invaded",
+    "title": "ID:INVADED",
+    "year": 2020
+  },
+  {
+    "id": "150",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5de094323f28d/levius.png",
+    "link": "/levius",
+    "title": "Levius",
+    "year": 2019
   }
 ]
