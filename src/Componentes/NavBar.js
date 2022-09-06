@@ -10,7 +10,7 @@ import Profile from "../Perfil/perfil";
 import { useAuth0 } from "@auth0/auth0-react";
 import { LoginButtonMobile } from "../LoginMobile";
 import LogoutButtonMobile from "../LogoutMobile";
-import ProfileMobile from "../perfil/perfilMobile";
+import ProfileMobile from "../Perfil/perfilMobile";
 
 export default function Menubar() {
   const { isAuthenticated } = useAuth0();
