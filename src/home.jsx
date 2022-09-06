@@ -21,7 +21,6 @@ import { GenerosPage6 } from "./PageGeneros/Page6";
 import { GenerosPage5 } from "./PageGeneros/Page5";
 import { GenerosPage4 } from "./PageGeneros/Page4";
 import { GenerosPage3 } from "./PageGeneros/Page3";
-import { GenerosPage1 } from "./PageGeneros/Page1";
 import { AccionPage1 } from "./pages/GeneroPage";
 
 function App() {
