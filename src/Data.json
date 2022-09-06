@@ -166,7 +166,9 @@
     "img": "https://www.animefenix.com/cdn/animes/cover/62c5b68624724/extreme-hearts.jpg",
     "link": "/extreme-hearts",
     "title": "Extreme Hearts",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": "24",
