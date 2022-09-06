@@ -183,7 +183,7 @@ export function GeneroPage6() {
   });
 }
 export function AccionPage1() {
-  return accion.slice(0, 23).map((genAccion) => {
+  return accion.slice(0, 24).map((genAccion) => {
     return (
       <article
         className="serie-card"
