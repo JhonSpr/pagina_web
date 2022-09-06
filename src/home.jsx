@@ -3693,7 +3693,7 @@ function App() {
         />
 
         {/*  */}
-        <Route path="/animes%20year[]=2022" element={<Page10 />} />
+        <Route path="/animes%20year[]=2022&page=2" element={<Page10 />} />
         <Route path="/animes%20type[]=ova" element={<Page10 />} />
         <Route path="/generos[]=accion" element={<Page10 />} />
 
