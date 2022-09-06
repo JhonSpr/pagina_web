@@ -42,6 +42,7 @@ a {
 .paginacion-contenedor ul li a {
   padding: 10px;
   font-size: 1.2em;
+  color: #000;
 }
 .paginacion-contenedor ul .anterior,
 .siguiente {
