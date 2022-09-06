@@ -1,6 +1,6 @@
-import GeneroPage1 from "../pages/GeneroPage";
+import { AccionPage2 } from "../pages/GeneroPage";
 
-export function GenerosPage1() {
+export function GenerosPageTwo() {
   return (
     <div>
       <title>Animes Gratis Online HD</title>
@@ -308,7 +308,7 @@ export function GenerosPage1() {
           </div>
         </section>
         <div className="list-series">
-          <GeneroPage1 />
+          <AccionPage2 />
         </div>
       </section>
 
