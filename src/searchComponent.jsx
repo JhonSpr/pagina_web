@@ -1,25 +1,17 @@
 /* eslint-disable jsx-a11y/anchor-has-content */
 /* eslint-disable eqeqeq */
 import React, { useState } from "react";
-import Loading from "./Componentes/loading";
 import Datas from "./Data.json";
 
 function SearchBar({ placeholder, data }) {
   const [filteredData, setFilteredData] = useState([]);
   const [wordEntered, setWordEntered] = useState("");
-  let loading = useState(false);
   const handleFilter = (event) => {
     const searchWord = event.target.value;
     setWordEntered(searchWord);
     const newFilter = data.filter((value) => {
       return value.title.toLowerCase().includes(searchWord.toLowerCase());
     });
-    if (loading) {
-      loading = true;
-      return <Loading />;
-    } else {
-      loading = false;
-    }
     if (searchWord === "") {
       setFilteredData([]);
     } else {
