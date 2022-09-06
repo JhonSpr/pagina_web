@@ -1,3 +1,5 @@
+import { GeneroPage4 } from "../pages/GeneroPage";
+
 export function GenerosPage4() {
   return (
     <div>
@@ -306,7 +308,7 @@ export function GenerosPage4() {
           </div>
         </section>
         <div className="list-series">
-          <GenerosPage4 />
+          <GeneroPage4 />
         </div>
       </section>
 
