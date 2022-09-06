@@ -5,7 +5,7 @@ import BookData from "../Data.json";
 import { Alertas } from "../index";
 import { LoginButton } from "../login";
 import LogoutButton from "../logout";
-import Profile from "../perfil";
+import Profile from "../Perfil/perfil";
 import SearchBar from "../searchComponent";
 export function Filter({
   finalizado,
