@@ -738,17 +738,17 @@
   },
   {
     "id": "104",
-    "img": "",
-    "link": "",
+    "img": "https://www.animefenix.com/cdn/animes/cover/5f737f660317d/danmachi-iii.jpg",
+    "link": "/danmachi-III",
     "title": "Danmachi III",
     "year": 2020
   },
   {
     "id": "105",
     "img": "https://www.animefenix.com/cdn/animes/cover/5f737f660317d/danmachi-iii.jpg",
-    "link": "/danmachi-iii",
-    "title": "",
-    "year": 20
+    "link": "/danmachi-II",
+    "title": "DanMachi II",
+    "year": 2019
   },
   {
     "id": "106",
