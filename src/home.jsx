@@ -17,7 +17,7 @@ import { Page8 } from "./Page/Page8";
 import { Page7 } from "./Page/Page7";
 import { Page6 } from "./Page/Page6";
 import { AccionPageOne } from "./PageGeneros/AccionPage1";
-import { AccionPage2 } from "./pages/GeneroPage";
+import { AccionPageTwo } from "./PageGeneros/Page1";
 
 function App() {
   return (
@@ -3696,7 +3696,7 @@ function App() {
 
         {/*  */}
         <Route path="/generos[]=accion" element={<AccionPageOne />} />
-        <Route path="/generos[]=accion&page=2" element={<AccionPage2 />} />
+        <Route path="/generos[]=accion&page=2" element={<AccionPageTwo />} />
         {/* <Route path="/generos[]=accion&page=3" element={</>} /> */}
         {/* <Route path="/generos[]=accion&page=4" element={< />} /> */}
         {/* <Route path="/generos[]=accion&page=5" element={< />} /> */}
