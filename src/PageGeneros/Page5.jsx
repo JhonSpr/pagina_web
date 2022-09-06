@@ -318,7 +318,7 @@ export function GenerosPage5() {
             Anterior
           </a>
           <li>
-            <a href="/animes">1</a>
+            <a href="/generos[]=accion">1</a>
           </li>
           <li>
             <a href="/generos[]=accion&page=2">2</a>

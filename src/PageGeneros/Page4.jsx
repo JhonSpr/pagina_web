@@ -312,7 +312,7 @@ export function GenerosPage4() {
 
       <div className="paginacion-contenedor">
         <ul>
-          <a href="/animes-page=3" className="anterior">
+          <a href="/generos[]=accion&page=3" className="anterior">
             Anterior
           </a>
           <li className="paginacion">
