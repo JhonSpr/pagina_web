@@ -3698,15 +3698,15 @@ function App() {
         <Route path="/generos[]=accion" element={<Page10 />} />
 
         {/* Animes */}
-        <Route path="/animes-page=10" element={<Page10 />} />
-        <Route path="/animes-page=9" element={<Page9 />} />
-        <Route path="/animes-page=8" element={<Page8 />} />
-        <Route path="/animes-page=7" element={<Page7 />} />
-        <Route path="/animes-page=6" element={<Page6 />} />
-        <Route path="/animes-page=5" element={<Page5 />} />
-        <Route path="/animes-page=4" element={<Page4 />} />
-        <Route path="/animes-page=3" element={<Page3 />} />
-        <Route path="/animes-page=2" element={<Page2 />} />
+        <Route path="/animes%20page=10" element={<Page10 />} />
+        <Route path="/animes%20page=9" element={<Page9 />} />
+        <Route path="/animes%20page=8" element={<Page8 />} />
+        <Route path="/animes%20page=7" element={<Page7 />} />
+        <Route path="/animes%20page=6" element={<Page6 />} />
+        <Route path="/animes%20page=5" element={<Page5 />} />
+        <Route path="/animes%20page=4" element={<Page4 />} />
+        <Route path="/animes%20page=3" element={<Page3 />} />
+        <Route path="/animes%20page=2" element={<Page2 />} />
         <Route path="/animes" element={<Page1 />} />
 
         <Route path="*" element={<NoExiste />} />
