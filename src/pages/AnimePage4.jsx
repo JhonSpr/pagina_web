@@ -2,7 +2,7 @@ import React from "react";
 import Animes from "../Data.json";
 
 export default function AnimePage4() {
-  return Animes.slice(69, 92).map((anime) => {
+  return Animes.slice(72, 96).map((anime) => {
     return (
       <article className="serie-card" title={anime.title} key={anime.id}>
         <figure className="image overarchingdiv2">

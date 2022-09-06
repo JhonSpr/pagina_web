@@ -1,4 +1,4 @@
-import AnimePage2 from "../pages/AnimePage";
+import AnimePage2 from "../pages/AnimePage2";
 
 export function Page2() {
   return (
