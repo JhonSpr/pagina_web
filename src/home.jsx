@@ -3693,6 +3693,7 @@ function App() {
         />
 
         {/*  */}
+        <Route path="/animes type[]=ova" element={<Page10 />} />
         <Route path="/generos[]=accion" element={<Page10 />} />
 
         {/* Animes */}
