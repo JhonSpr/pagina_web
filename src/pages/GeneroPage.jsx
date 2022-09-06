@@ -92,7 +92,7 @@ export function GeneroPage3() {
   });
 }
 export function GeneroPage4() {
-  return Animes.slice(200, 230).map((anime) => {
+  return Animes.slice(0, 23).map((anime) => {
     return (
       <article className="serie-card" title={anime.title} key={anime.id}>
         <figure className="image overarchingdiv2">
