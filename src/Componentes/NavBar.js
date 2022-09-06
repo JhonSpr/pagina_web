@@ -6,11 +6,11 @@ import { Alertas } from "../index";
 import SearchBar from "../searchComponent";
 import { LoginButton } from "../login";
 import LogoutButton from "../logout";
-import Profile from "../perfil";
+import Profile from "../Perfil/perfil";
 import { useAuth0 } from "@auth0/auth0-react";
 import { LoginButtonMobile } from "../LoginMobile";
 import LogoutButtonMobile from "../LogoutMobile";
-import ProfileMobile from "../perfilMobile";
+import ProfileMobile from "../perfil/perfilMobile";
 
 export default function Menubar() {
   const { isAuthenticated } = useAuth0();
