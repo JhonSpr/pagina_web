@@ -8,7 +8,7 @@ import { NoExiste } from "./Componentes/NoExiste";
 import { Page2 } from "./Page/Page2";
 import { Page3 } from "./Page/Page3";
 import { Page4 } from "./Page/Page4";
-import { PerfilPaginaMenu } from "./Perfil/perfil";
+import { PerfilPaginaMenu } from "./Perfil/perfil.jsx";
 import { Ver } from "./Componentes/Ver";
 
 function App() {
