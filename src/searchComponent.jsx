@@ -9,6 +9,8 @@ function SearchBar({ placeholder, data }) {
   const handleFilter = (event) => {
     const searchWord = event.target.value;
     setWordEntered(searchWord);
+    const noexiste = <div>Resultado No Encontrado</div>;
+    const AnimeName = data.title;
     const newFilter = data.filter((value) => {
       return value.title.toLowerCase().includes(searchWord.toLowerCase());
     });
@@ -16,6 +18,9 @@ function SearchBar({ placeholder, data }) {
       setFilteredData([]);
     } else {
       setFilteredData(newFilter);
+    }
+    if (newFilter != AnimeName) {
+      setFilteredData(noexiste);
     }
   };
 
