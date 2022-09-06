@@ -17,6 +17,11 @@ import { Page8 } from "./Page/Page8";
 import { Page7 } from "./Page/Page7";
 import { Page6 } from "./Page/Page6";
 import { GenerosPage2 } from "./PageGeneros/Page2";
+import { GenerosPage6 } from "./PageGeneros/Page6";
+import { GenerosPage5 } from "./PageGeneros/Page5";
+import { GenerosPage4 } from "./PageGeneros/Page4";
+import { GenerosPage3 } from "./PageGeneros/Page3";
+import { GenerosPage1 } from "./PageGeneros/Page1";
 
 function App() {
   return (
@@ -3694,7 +3699,12 @@ function App() {
         />
 
         {/*  */}
-        <Route path="/generos[]=accion" element={<GenerosPage2 />} />
+        <Route path="/generos[]=accion" element={<GenerosPage1 />} />
+        <Route path="/generos[]=accion&page=2" element={<GenerosPage2 />} />
+        <Route path="/generos[]=accion&page=3" element={<GenerosPage3 />} />
+        <Route path="/generos[]=accion&page=4" element={<GenerosPage4 />} />
+        <Route path="/generos[]=accion&page=5" element={<GenerosPage5 />} />
+        <Route path="/generos[]=accion&page=6" element={<GenerosPage6 />} />
         <Route path="/animes%20year[]=2022&page=2" element={<Page10 />} />
         <Route path="/animes%20type[]=ova" element={<Page10 />} />
         {/* Animes */}

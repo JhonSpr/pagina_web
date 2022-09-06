@@ -1,6 +1,6 @@
 import AnimePage6 from "../pages/AnimePage6";
 
-export function Page6() {
+export function GenerosPage6() {
   return (
     <div>
       <title>Animes Gratis Online HD</title>

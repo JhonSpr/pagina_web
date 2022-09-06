@@ -1,6 +1,6 @@
 import GeneroPage1 from "../pages/GeneroPage";
 
-export function GenerosPage2() {
+export function GenerosPage1() {
   return (
     <div>
       <title>Animes Gratis Online HD</title>
