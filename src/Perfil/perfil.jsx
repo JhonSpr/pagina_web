@@ -1,5 +1,5 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
-import PerfilPag from "../perfilPagina";
+import PerfilPag from "./perfilPagina";
 
 export function PerfilPaginaMenu() {
   return (
