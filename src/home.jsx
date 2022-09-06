@@ -10,6 +10,12 @@ import { Page3 } from "./Page/Page3";
 import { Page4 } from "./Page/Page4";
 import { PerfilPaginaMenu } from "./Perfil/perfil.jsx";
 import { Ver } from "./Componentes/Ver";
+import { Page5 } from "./Page/Page5";
+import { Page10 } from "./Page/Page10";
+import { Page9 } from "./Page/Page9";
+import { Page8 } from "./Page/Page8";
+import { Page7 } from "./Page/Page7";
+import { Page6 } from "./Page/Page6";
 
 function App() {
   return (
@@ -3689,6 +3695,12 @@ function App() {
         {/*  */}
 
         {/* Animes */}
+        <Route path="/animes-page=10" element={<Page10 />} />
+        <Route path="/animes-page=9" element={<Page9 />} />
+        <Route path="/animes-page=8" element={<Page8 />} />
+        <Route path="/animes-page=7" element={<Page7 />} />
+        <Route path="/animes-page=6" element={<Page6 />} />
+        <Route path="/animes-page=5" element={<Page5 />} />
         <Route path="/animes-page=4" element={<Page4 />} />
         <Route path="/animes-page=3" element={<Page3 />} />
         <Route path="/animes-page=2" element={<Page2 />} />
