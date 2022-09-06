@@ -3,11 +3,11 @@
     "accion": [
       {
         "id": "1",
-        "img": "",
-        "link": "",
-        "title": "",
+        "img": "https://www.animefenix.com/cdn/animes/cover/5f7e65dc3eb65/akudama-drive.jpg",
+        "link": "/akudama-drive",
+        "title": "Akudama Drive",
         "genero": "accion",
-        "year": 20
+        "year": 2020
       },
       {
         "id": "2",
