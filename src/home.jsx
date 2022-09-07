@@ -18,6 +18,7 @@ import { Page7 } from "./Page/Page7";
 import { Page6 } from "./Page/Page6";
 import { AccionPageOne } from "./PageGeneros/AccionPage1";
 import { AccionPageTwo } from "./PageGeneros/AccionPage2";
+import { Numero12 } from "./Componentes/Capitulos12";
 
 function App() {
   return (
@@ -206,6 +207,103 @@ function App() {
         <Route path="/perfil/:user" element={<PerfilPaginaMenu />} />
         <Route path="/ver/*" element={<Ver />} />
         {/* capitulos Animes */}
+        <Route
+          path="/sasaki-to-miyano"
+          exact
+          element={
+            <Capitulos12
+              genero1={"Escolares"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"disable"}
+              genre4={"disable"}
+              genre5={"disable"}
+              hrefGenre1={"/generos[]=escolares"}
+              sec2={"sec"}
+              sec3={"sec"}
+              sec1={"sec"}
+              li13={"li"}
+              li14={"li"}
+              li15={"li"}
+              li16={"li"}
+              li17={"li"}
+              li18={"li"}
+              li19={"li"}
+              li20={"li"}
+              li21={"li"}
+              li22={"li"}
+              li23={"li"}
+              li24={"li"}
+              li25={"li"}
+              li26={"li"}
+              li27={"li"}
+              li28={"li"}
+              li29={"li"}
+              li30={"li"}
+              li31={"li"}
+              li32={"li"}
+              li33={"li"}
+              li34={"li"}
+              li35={"li"}
+              li36={"li"}
+              li37={"li"}
+              li38={"li"}
+              li39={"li"}
+              li40={"li"}
+              li41={"li"}
+              li42={"li"}
+              li43={"li"}
+              li44={"li"}
+              li45={"li"}
+              li46={"li"}
+              li47={"li"}
+              li48={"li"}
+              li49={"li"}
+              li50={"li"}
+              li51={"li"}
+              li52={"li"}
+              li53={"li"}
+              li54={"li"}
+              li55={"li"}
+              li56={"li"}
+              li70={"li"}
+              li69={"li"}
+              li68={"li"}
+              li67={"li"}
+              li66={"li"}
+              li65={"li"}
+              li64={"li"}
+              li63={"li"}
+              li62={"li"}
+              li61={"li"}
+              li60={"li"}
+              li59={"li"}
+              li58={"li"}
+              li57={"li"}
+              descripcion={
+                "Todo comenzó como la típica trama de amor de los chicos de la vieja escuela: el chico malo de último año se encuentra con un estudiante de secundaria adorablemente torpe, uno de ellos se enamora, y así sucesivamente. Pero aunque Miyano es un autoproclamado experto en el amor de los niños, no se ha dado cuenta... él mismo está en uno. ¡Lo que significa que depende de Sasaki asegurarse de que su historia tenga un feliz para siempre...!"
+              }
+              imagenAnime="https://www.animefenix.com/cdn/animes/cover/61d5e08d99019/sasaki-to-miyano.jpg"
+              tipo={"TV"}
+              numeroEpisodios={"13"}
+              estado={"Finalizado"}
+              anime={"Sasaki to Miyano "}
+              capituloAnime1={"/sasaki-to-miyano-1"}
+              capituloAnime2={"/sasaki-to-miyano-2"}
+              capituloAnime3={"/sasaki-to-miyano-3"}
+              capituloAnime4={"/sasaki-to-miyano-4"}
+              capituloAnime5={"/sasaki-to-miyano-5"}
+              capituloAnime6={"/sasaki-to-miyano-6"}
+              capituloAnime7={"/sasaki-to-miyano-7"}
+              capituloAnime8={"/sasaki-to-miyano-8"}
+              capituloAnime9={"/sasaki-to-miyano-9"}
+              capituloAnime10={"/sasaki-to-miyano-10"}
+              capituloAnime11={"/sasaki-to-miyano-11"}
+              capituloAnime12={"/sasaki-to-miyano-12"}
+              capituloAnime13={"/sasaki-to-miyano-13"}
+            />
+          }
+        />
+
         <Route
           path="/akudama-drive"
           exact
@@ -3690,6 +3788,669 @@ function App() {
               capituloAnime10={"/ver/tribe-nine-10"}
               capituloAnime11={"/ver/tribe-nine-11"}
               capituloAnime12={"/ver/tribe-nine-12"}
+            />
+          }
+        />
+
+        <Route
+          path="/sabikui-bisco"
+          element={
+            <Numero12
+              anime={"Sabikui Bisco"}
+              tipo={"TV"}
+              estado={"Finalizado"}
+              numeroEpisodios={"12"}
+              descripcion={
+                'Su poderoso arco perfora el óxido de la destrucción para salvar a las personas que ama. Una emocionante historia de acción y aventuras. Ambientado en un futuro Japón, donde todo se ha oxidado y el "Viento Óxido" amenaza con acabar con la humanidad. El mundo entero es ahora un desierto, y el protagonista, Bisco Akaboshi, usa su arco y hongos especiales como un "protector de hongos", un noble ladrón que causa el caos en todo Japón. Para salvar a su maestro moribundo, Bisco emprende un viaje en busca de un hongo curativo especial llamado "Rust Eater". En Imihama conoce a Milo Nekoyanagi, su nuevo compañero, y se embarca en una loca aventura. El Desierto de Hierro de Saitama se interpone en su camino, junto con una ciudad hecha con los restos de una de las armas que destruyeron la civilización, y una línea de metro abandonada donde viven pulpos gigantes ... Con el genio de Milo y las flechas de Bisco, están listos para enfrentar cualquier peligro! Pero luego se enfrentan a los malvados planes de un malvado gobernador de prefectura...'
+              }
+              imagenAnime={
+                "https://www.animefenix.com/cdn/animes/cover/61d5e2254d6c2/sabikui-bisco.jpg"
+              }
+              genero1={"Acción"}
+              genero2={"Aventura"}
+              genero3={"Fantasia"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=aventura"}
+              hrefGenre3={"/generos[]=fantasia"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              capituloAnime1={"/sabikui-bisco-1"}
+              capituloAnime2={"/sabikui-bisco-2"}
+              capituloAnime3={"/sabikui-bisco-3"}
+              capituloAnime4={"/sabikui-bisco-4"}
+              capituloAnime5={"/sabikui-bisco-5"}
+              capituloAnime6={"/sabikui-bisco-6"}
+              capituloAnime7={"/sabikui-bisco-7"}
+              capituloAnime8={"/sabikui-bisco-8"}
+              capituloAnime9={"/sabikui-bisco-9"}
+              capituloAnime10={"/sabikui-bisco-10"}
+              capituloAnime11={"/sabikui-bisco-11"}
+              capituloAnime12={"/sabikui-bisco-12"}
+            />
+          }
+        />
+
+        <Route
+          path="/koroshi-ai"
+          element={
+            <Numero12
+              anime={"Koroshi Ai"}
+              tipo={"TV"}
+              estado={"Finalizado"}
+              numeroEpisodios={"12"}
+              descripcion={
+                'Dos asesinos se enfrentan en un determinado "lugar de trabajo". El genial cazarrecompensas Chateau y el misterioso y poderoso Ryang-Ha. Chateau y Ryang-Ha se vuelven enemigos después de esta pelea, al menos, deberían haberlo hecho, pero por alguna razón Ryang-Ha toma simpatía por Chateau y comienza a seguirla. Poco a poco, Chateau desarrolla una asociación cooperativa con Ryang-Ha, que la atrapa en la lucha contra las organizaciones que lo persiguen. Además, esa batalla también está relacionada con su pasado. ¿Por qué Ryang-Ha se acercó a Chateau? ¿Cuál es el pasado secreto de Chateau? Dos asesinos que no coinciden tejen un thriller retorcido "Assassin X Assassin". Los extraños engranajes del destino comienzan a moverse.'
+              }
+              imagenAnime={
+                "https://www.animefenix.com/cdn/animes/cover/61d5e7d13b599/koroshi-ai.jpg"
+              }
+              genero1={"Acción"}
+              genero2={"Romance"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=romance"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              capituloAnime1={"/koroshi-ai-1"}
+              capituloAnime2={"/koroshi-ai-2"}
+              capituloAnime3={"/koroshi-ai-3"}
+              capituloAnime4={"/koroshi-ai-4"}
+              capituloAnime5={"/koroshi-ai-5"}
+              capituloAnime6={"/koroshi-ai-6"}
+              capituloAnime7={"/koroshi-ai-7"}
+              capituloAnime8={"/koroshi-ai-8"}
+              capituloAnime9={"/koroshi-ai-9"}
+              capituloAnime10={"/koroshi-ai-10"}
+              capituloAnime11={"/koroshi-ai-11"}
+              capituloAnime12={"/koroshi-ai-12"}
+            />
+          }
+        />
+        <Route
+          path="/ito-junji:-collection"
+          element={
+            <Numero12
+              anime={"Ito Junji: Collection"}
+              tipo={"TV"}
+              estado={"Finalizado"}
+              numeroEpisodios={"12"}
+              descripcion={
+                "Las obras de uno de los más famosos maestros japoneses del terror, Junji Ito, finalmente dan el salto al anime. Una recopilación de historias donde cada episodio tendrá su propio protagonista y que adaptarán varias de las obras cortas del autor para hacernos sentir escalofríos y hacernos mirar a nuestro alrededor temerosos de que la oscuridad que nos rodea nos engulla."
+              }
+              imagenAnime={
+                "https://img1.ak.crunchyroll.com/i/spire4/3025f2a7a0017b257753a208b55068481514330222_main.jpg"
+              }
+              genero1={"Drama"}
+              genero2={"Misterio"}
+              genero3={"Sobrenatural"}
+              genero4={"Terror"}
+              hrefGenre1={"/generos[]=drama"}
+              hrefGenre2={"/generos[]=misterio"}
+              hrefGenre3={"/generos[]=sobrenatural"}
+              hrefGenre4={"/generos[]=terror"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              capituloAnime1={"/ito-junji:-collection-1"}
+              capituloAnime2={"/ito-junji:-collection-2"}
+              capituloAnime3={"/ito-junji:-collection-3"}
+              capituloAnime4={"/ito-junji:-collection-4"}
+              capituloAnime5={"/ito-junji:-collection-5"}
+              capituloAnime6={"/ito-junji:-collection-6"}
+              capituloAnime7={"/ito-junji:-collection-7"}
+              capituloAnime8={"/ito-junji:-collection-8"}
+              capituloAnime9={"/ito-junji:-collection-9"}
+              capituloAnime10={"/ito-junji:-collection-10"}
+              capituloAnime11={"/ito-junji:-collection-11"}
+              capituloAnime12={"/ito-junji:-collection-12"}
+            />
+          }
+        />
+        <Route
+          path="/dolls-frontline"
+          element={
+            <Numero12
+              anime={"Dolls Frontline"}
+              tipo={"TV"}
+              estado={"Finalizado"}
+              numeroEpisodios={"12"}
+              descripcion={
+                "La historia del juego se desarrolla en una línea de tiempo alternativa en el futuro cercano de la Tierra en la década de 2060. Las secuelas de un accidente militar que resultó en una enfermedad generalizada, así como la reciente conclusión de una guerra nuclear descuidada, despoblaron masivamente el planeta, hicieron inhabitable gran parte de la superficie y redujeron a las naciones que alguna vez fueron grandes a sombras de lo que eran antes. Los androides utilizados para el trabajo y el combate se han convertido en una faceta importante de la vida, y los androides fácilmente replicables y desechables conocidos como Tactical Dolls (T-Dolls) son utilizados por compañías militares privadas en la primera línea de numerosas guerras de incendios forestales. En el juego, el jugador asume el papel de un nuevo comandante en un PMC, ordenando a los T-Dolls que luchen contra una nueva amenaza de IA."
+              }
+              imagenAnime={
+                "https://www.animefenix.com/cdn/animes/cover/61d5dd5629b71/dolls-frontline.jpg"
+              }
+              genero1={"Acción"}
+              genero2={"Drama"}
+              genero3={"Militar"}
+              genero4={"Sei-Fi"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=drama"}
+              hrefGenre3={"/generos[]=militar"}
+              hrefGenre4={"/generos[]=sei-fi"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              capituloAnime1={"/dolls-frontline-1"}
+              capituloAnime2={"/dolls-frontline-2"}
+              capituloAnime3={"/dolls-frontline-3"}
+              capituloAnime4={"/dolls-frontline-4"}
+              capituloAnime5={"/dolls-frontline-5"}
+              capituloAnime6={"/dolls-frontline-6"}
+              capituloAnime7={"/dolls-frontline-7"}
+              capituloAnime8={"/dolls-frontline-8"}
+              capituloAnime9={"/dolls-frontline-9"}
+              capituloAnime10={"/dolls-frontline-10"}
+              capituloAnime11={"/dolls-frontline-11"}
+              capituloAnime12={"/dolls-frontline-12"}
+            />
+          }
+        />
+        <Route
+          path="/zuihou-de-zhaohuan-shi-the-last-summoner"
+          element={
+            <Numero12
+              anime={"Zuihou de Zhaohuan Shi The Last Summoner"}
+              tipo={"TV"}
+              estado={"Finalizado"}
+              numeroEpisodios={"12"}
+              descripcion={
+                "Todo tiene su propio espíritu, y aquellos que pueden invocar esos espíritus son los Invocadores. Pueden invocar a la tierra, a los muertos, las estrellas, a las almas... Las leyendas de los Invocadores siempre han formado parte de la cara oculta de la historia. A lo largo de los años se han librado innumerables guerras entre los Invocadores humanos por el origen de los espíritus de todos los seres: la diosa Pandora. Con el tiempo, los Invocadores se han dividido en dos facciones: los Guardianes y los Destructores. Incapaces de ver a los humanos perecer en un baño de sangre, los líderes de ambos bandos sellaron a Pandora y pusieron fin a la edad de oro de los Invocadores... Varios siglos después, Ah Jie, quien se esfuerza por convertirse en el rey del ramen, convoca sin querer a la diosa Dora y de repente se ve inmerso en el mundo de los Invocadores. Durante su viaje se encuentra con otros Invocadores y unen fuerzas con los Guardianes para enfrentarse a sus mayores enemigos: los Destructores."
+              }
+              imagenAnime={
+                "https://www.animefenix.com/cdn/animes/cover/624c70de1804b/zuihou-de-zhaohuan-shi-the-last-summoner.png"
+              }
+              genero1={"Acción"}
+              genero2={"Aventura"}
+              genero3={"Drama"}
+              genero4={"Fantasia"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=aventura"}
+              hrefGenre3={"/generos[]=drama"}
+              hrefGenre4={"/generos[]=fantasia"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              capituloAnime1={"/zuihou-de-zhaohuan-shi-the-last-summoner-1"}
+              capituloAnime2={"/zuihou-de-zhaohuan-shi-the-last-summoner-2"}
+              capituloAnime3={"/zuihou-de-zhaohuan-shi-the-last-summoner-3"}
+              capituloAnime4={"/zuihou-de-zhaohuan-shi-the-last-summoner-4"}
+              capituloAnime5={"/zuihou-de-zhaohuan-shi-the-last-summoner-5"}
+              capituloAnime6={"/zuihou-de-zhaohuan-shi-the-last-summoner-6"}
+              capituloAnime7={"/zuihou-de-zhaohuan-shi-the-last-summoner-7"}
+              capituloAnime8={"/zuihou-de-zhaohuan-shi-the-last-summoner-8"}
+              capituloAnime9={"/zuihou-de-zhaohuan-shi-the-last-summoner-9"}
+              capituloAnime10={"/zuihou-de-zhaohuan-shi-the-last-summoner-10"}
+              capituloAnime11={"/zuihou-de-zhaohuan-shi-the-last-summoner-11"}
+              capituloAnime12={"/zuihou-de-zhaohuan-shi-the-last-summoner-12"}
+            />
+          }
+        />
+        <Route
+          path="/mahoutsukai-reimeiki"
+          element={
+            <Numero12
+              anime={"Mahoutsukai Reimeiki"}
+              tipo={"TV"}
+              estado={"Finalizado"}
+              numeroEpisodios={"12"}
+              descripcion={
+                'no puedo recordar ¿Quién soy? ¿Qué soy yo? Sevilla es un estudiante de una academia de magia que no recuerda nada de antes de unirse a la escuela. Sin entender por qué está allí, el tiempo que pasa en la academia se siente hueco y vacío. Y como no sabe trabajar duro, sus notas son siempre las más bajas de su año. Entonces, un día, el director de la escuela, Albus, ordena a Sevilla que participe en un peligroso entrenamiento especial. "Quiero que difundas el uso de la magia en un área donde se realizan cacerías de brujas". Solo han pasado unos años desde que terminó la guerra entre la iglesia y las brujas; el mundo aún no ha aceptado completamente a las brujas y su magia. Este es el amanecer de la era de la bruja. Esta es la historia de cómo un joven, un chico que no es nadie especial, y sus compañeros, todos con heridas en el corazón, parten y terminan encontrándose a sí mismos.'
+              }
+              imagenAnime={
+                "https://www.animefenix.com/cdn/animes/cover/624483a92e3a8/mahoutsukai-reimeiki.jpg"
+              }
+              genero1={"Acción"}
+              genero2={"Aventura"}
+              genero3={"Comedia"}
+              genero4={"Fantasia"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=aventura"}
+              hrefGenre3={"/generos[]=comedia"}
+              hrefGenre4={"/generos[]=fantasia"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              capituloAnime1={"/mahoutsukai-reimeiki-1"}
+              capituloAnime2={"/mahoutsukai-reimeiki-2"}
+              capituloAnime3={"/mahoutsukai-reimeiki-3"}
+              capituloAnime4={"/mahoutsukai-reimeiki-4"}
+              capituloAnime5={"/mahoutsukai-reimeiki-5"}
+              capituloAnime6={"/mahoutsukai-reimeiki-6"}
+              capituloAnime7={"/mahoutsukai-reimeiki-7"}
+              capituloAnime8={"/mahoutsukai-reimeiki-8"}
+              capituloAnime9={"/mahoutsukai-reimeiki-9"}
+              capituloAnime10={"/mahoutsukai-reimeiki-10"}
+              capituloAnime11={"/mahoutsukai-reimeiki-11"}
+              capituloAnime12={"/mahoutsukai-reimeiki-12"}
+            />
+          }
+        />
+        <Route
+          path="/shingeki-no-kyojin-temporada-final-parte-2"
+          element={
+            <Numero12
+              anime={"shingeki no kyojin temporada final parte 2"}
+              tipo={"TV"}
+              estado={"Finalizado"}
+              numeroEpisodios={"12"}
+              descripcion={"Temporada final de SNK"}
+              imagenAnime={
+                "https://www.animefenix.com/cdn/animes/cover/61be3c43e2252/shingeki-no-kyojin-the-final-season-part-2.jpg"
+              }
+              genero1={"Acción"}
+              genero2={"Drama"}
+              genero3={"Fantasia"}
+              genero4={"Militar"}
+              genero5={"Misterio"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=drama"}
+              hrefGenre3={"/generos[]=fantasia"}
+              hrefGenre4={"/generos[]=militar"}
+              hrefGenre5={"/generos[]=misterio"}
+              hrefSecuela={"/shingeki-no-kyojin:-temporada-final"}
+              nombreSecuela={"Shingeki no Kyojin: Temporada Final"}
+              textoSecuela={"Precuela"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              genre5={"button is-small is-orange is-outlined is-roundedX"}
+              capituloAnime1={"/shingeki-no-kyojin-temporada-final-parte-2-1"}
+              capituloAnime2={"/shingeki-no-kyojin-temporada-final-parte-2-2"}
+              capituloAnime3={"/shingeki-no-kyojin-temporada-final-parte-2-3"}
+              capituloAnime4={"/shingeki-no-kyojin-temporada-final-parte-2-4"}
+              capituloAnime5={"/shingeki-no-kyojin-temporada-final-parte-2-5"}
+              capituloAnime6={"/shingeki-no-kyojin-temporada-final-parte-2-6"}
+              capituloAnime7={"/shingeki-no-kyojin-temporada-final-parte-2-7"}
+              capituloAnime8={"/shingeki-no-kyojin-temporada-final-parte-2-8"}
+              capituloAnime9={"/shingeki-no-kyojin-temporada-final-parte-2-9"}
+              capituloAnime10={"/shingeki-no-kyojin-temporada-final-parte-2-10"}
+              capituloAnime11={"/shingeki-no-kyojin-temporada-final-parte-2-11"}
+              capituloAnime12={"/shingeki-no-kyojin-temporada-final-parte-2-12"}
+            />
+          }
+        />
+        <Route
+          path="/aldnoah-zero-segunda-parte"
+          element={
+            <Numero12
+              anime={"Aldnoah.Zero Part 2"}
+              tipo={"TV"}
+              estado={"Finalizado"}
+              numeroEpisodios={"12"}
+              descripcion={
+                'La guerra entre los Terrans y el Vers Empire of Mars ha terminado, lo que permite a la humanidad disfrutar felizmente de sus vidas en un momento de paz. Sin embargo, diecinueve meses después, la princesa Vers hace una impactante declaración pública: "los terranos son una raza tonta que codicia los recursos, destruye la naturaleza y se dedica a la búsqueda del placer". Y así, para proteger su preciosa Tierra, llama a sus caballeros a tomar las armas, y la furiosa batalla entre las dos civilizaciones vuelve a encenderse.'
+              }
+              imagenAnime={
+                "https://www.animefenix.com/cdn/animes/cover/62d225191f67d/aldnoah-zero-part-2.jpg"
+              }
+              genero1={"Acción"}
+              genero2={"Ciencia Ficción"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=ciencia-ficcion"}
+              nombreSecuela={"Aldnoah Zero"}
+              textoSecuela={"Precuela"}
+              hrefSecuela={"/aldnoah-zero"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              capituloAnime1={"/aldnoah-zero-segunda-parte-1"}
+              capituloAnime2={"/aldnoah-zero-segunda-parte-2"}
+              capituloAnime3={"/aldnoah-zero-segunda-parte-3"}
+              capituloAnime4={"/aldnoah-zero-segunda-parte-4"}
+              capituloAnime5={"/aldnoah-zero-segunda-parte-5"}
+              capituloAnime6={"/aldnoah-zero-segunda-parte-6"}
+              capituloAnime7={"/aldnoah-zero-segunda-parte-7"}
+              capituloAnime8={"/aldnoah-zero-segunda-parte-8"}
+              capituloAnime9={"/aldnoah-zero-segunda-parte-9"}
+              capituloAnime10={"/aldnoah-zero-segunda-parte-10"}
+              capituloAnime11={"/aldnoah-zero-segunda-parte-11"}
+              capituloAnime12={"/aldnoah-zero-segunda-parte-12"}
+            />
+          }
+        />
+        <Route
+          path="/shingeki-no-bahamut-genesis"
+          element={
+            <Numero12
+              anime={"Shingeki no Bahamut: Genesis"}
+              tipo={"TV"}
+              estado={"Finalizado"}
+              numeroEpisodios={"12"}
+              descripcion={
+                "Mistarcia es un mundo mágico donde humanos, dioses y demonios conviven juntos. En el pasado el lugar fue amenazado y casi destruido por un legendario dragón llamado Bahamut, fue cuando tanto dioses como humanos y demonios unieron fuerzas y sellaron el poder del dragón."
+              }
+              imagenAnime={
+                "https://www.animefenix.com/cdn/animes/cover/5f9610663688c/shingeki-no-bahamut-genesis.jpg"
+              }
+              genero1={"Acción"}
+              genero2={"Aventura"}
+              genero3={"Demonios"}
+              genero4={"Fantasia"}
+              genero5={"Magia"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=aventura"}
+              hrefGenre3={"/generos[]=demonios"}
+              hrefGenre4={"/generos[]=fantasia"}
+              hrefGenre5={"/generos[]=magia"}
+              nombreSecuela={"Shingeki no Bahamut: Virgin Soul"}
+              textoSecuela={"Secuela"}
+              hrefSecuela={"/shingeki-no-bahamut:-virgin-soul"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              genre5={"button is-small is-orange is-outlined is-roundedX"}
+              capituloAnime1={"/shingeki-no-bahamut-genesis-1"}
+              capituloAnime2={"/shingeki-no-bahamut-genesis-2"}
+              capituloAnime3={"/shingeki-no-bahamut-genesis-3"}
+              capituloAnime4={"/shingeki-no-bahamut-genesis-4"}
+              capituloAnime5={"/shingeki-no-bahamut-genesis-5"}
+              capituloAnime6={"/shingeki-no-bahamut-genesis-6"}
+              capituloAnime7={"/shingeki-no-bahamut-genesis-7"}
+              capituloAnime8={"/shingeki-no-bahamut-genesis-8"}
+              capituloAnime9={"/shingeki-no-bahamut-genesis-9"}
+              capituloAnime10={"/shingeki-no-bahamut-genesis-10"}
+              capituloAnime11={"/shingeki-no-bahamut-genesis-11"}
+              capituloAnime12={"/shingeki-no-bahamut-genesis-12"}
+            />
+          }
+        />
+        <Route
+          path="/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei"
+          element={
+            <Numero12
+              anime={"Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei"}
+              tipo={"TV"}
+              estado={"Finalizado"}
+              numeroEpisodios={"12"}
+              descripcion={
+                'Seiichi Hiiragi es un joven desafortunado que es despreciado por sus compañeros porque lo consideran hogareño, regordete y maloliente. La suerte de Seiichi va de mal en peor cuando su clase es transportada a otro mundo, pero se encuentra solo en el desierto y perseguido por una gorila amorosa llamada Saria. Las desastrosas vidas de la improbable pareja toman un giro positivo después de ingerir el legendario "fruto de la evolución", y se produce una transformación inesperada ..'
+              }
+              imagenAnime={
+                "https://www.animefenix.com/cdn/animes/cover/614e8d5cb2e59/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei.jpg"
+              }
+              genero1={"Aventura"}
+              genero2={"Fantasia"}
+              genero3={"Isekai"}
+              genero4={"Romance"}
+              hrefGenre1={"/generos[]=aventura"}
+              hrefGenre2={"/generos[]=fantasia"}
+              hrefGenre3={"/generos[]=isekai"}
+              hrefGenre4={"/generos[]=romance"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              capituloAnime1={
+                "/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei-1"
+              }
+              capituloAnime2={
+                "/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei-2"
+              }
+              capituloAnime3={
+                "/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei-3"
+              }
+              capituloAnime4={
+                "/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei-4"
+              }
+              capituloAnime5={
+                "/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei-5"
+              }
+              capituloAnime6={
+                "/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei-6"
+              }
+              capituloAnime7={
+                "/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei-7"
+              }
+              capituloAnime8={
+                "/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei-8"
+              }
+              capituloAnime9={
+                "/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei-9"
+              }
+              capituloAnime10={
+                "/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei-10"
+              }
+              capituloAnime11={
+                "/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei-11"
+              }
+              capituloAnime12={
+                "/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei-12"
+              }
+            />
+          }
+        />
+        <Route
+          path="/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru"
+          element={
+            <Numero12
+              anime={"Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru"}
+              tipo={"TV"}
+              estado={"Finalizado"}
+              numeroEpisodios={"12"}
+              descripcion={
+                "La historia comienza cuando la diosa Rista convoca a un héroe para ayudarla en su modo de juego de videojuegos. El héroe, Seiya Ryuuguuin, tiene el estatus de tramposo, pero es ridículamente cauteloso. Él hace cosas como comprar tres juegos de armadura (uno para usar, uno de repuesto y otro mas de repuesto). Más allá de mantener una cantidad absurda de existencias de artículos, permanece en su habitación para el entrenamiento muscular hasta que alcanza el nivel máximo y lucha contra slimes a toda potencia solo para mantenerse en el lado seguro."
+              }
+              imagenAnime={
+                "https://www.animefenix.com/cdn/animes/cover/5d916a21db9ea/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru.jpg"
+              }
+              genero1={"Acción"}
+              genero2={"Aventura"}
+              genero3={"Fantasia"}
+              genero4={"Isekai"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=aventura"}
+              hrefGenre3={"/generos[]=fantasia"}
+              hrefGenre4={"/generos[]=isekai"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              capituloAnime1={
+                "/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru-1"
+              }
+              capituloAnime2={
+                "/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru-2"
+              }
+              capituloAnime3={
+                "/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru-3"
+              }
+              capituloAnime4={
+                "/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru-4"
+              }
+              capituloAnime5={
+                "/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru-5"
+              }
+              capituloAnime6={
+                "/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru-6"
+              }
+              capituloAnime7={
+                "/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru-7"
+              }
+              capituloAnime8={
+                "/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru-8"
+              }
+              capituloAnime9={
+                "/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru-9"
+              }
+              capituloAnime10={
+                "/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru-10"
+              }
+              capituloAnime11={
+                "/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru-11"
+              }
+              capituloAnime12={
+                "/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru-12"
+              }
+            />
+          }
+        />
+        <Route
+          path="/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu"
+          element={
+            <Numero12
+              anime={"Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu"}
+              tipo={"TV"}
+              estado={"Finalizado"}
+              numeroEpisodios={"12"}
+              descripcion={
+                "Cuando Arc despierta, descubre que ha sido transportado a otro mundo en el cuerpo del personaje que interpretaba en un MMO. Pareciendo una armadura por fuera y un esqueleto por dentro, es el Caballero Esqueleto. Si se descubre su identidad, podría ser confundido con un monstruo y convertirse en un objetivo. Arc decide pasar su tiempo como mercenario para no llamar la atención. Sin embargo, él no es el tipo de hombre que puede quedarse de brazos cruzados cuando es testigo de actos malvados frente a sus ojos. ¡Esta serie de fantasía isekai sobre la búsqueda involuntaria de Skeleton Knight para hacer del mundo un lugar mejor ha llegado!"
+              }
+              imagenAnime={
+                "https://www.animefenix.com/cdn/animes/cover/624482e980ad6/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu.jpg"
+              }
+              genero1={"Acción"}
+              genero2={"Fantasia"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=fantasia"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              capituloAnime1={
+                "/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-1"
+              }
+              capituloAnime2={
+                "/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2"
+              }
+              capituloAnime3={
+                "/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-3"
+              }
+              capituloAnime4={
+                "/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-4"
+              }
+              capituloAnime5={
+                "/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-5"
+              }
+              capituloAnime6={
+                "/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-6"
+              }
+              capituloAnime7={
+                "/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-7"
+              }
+              capituloAnime8={
+                "/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-8"
+              }
+              capituloAnime9={
+                "/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-9"
+              }
+              capituloAnime10={
+                "/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-10"
+              }
+              capituloAnime11={
+                "/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-11"
+              }
+              capituloAnime12={
+                "/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-12"
+              }
+            />
+          }
+        />
+        <Route
+          path=""
+          element={
+            <Numero12
+              anime={""}
+              tipo={"TV"}
+              estado={""}
+              numeroEpisodios={"12"}
+              descripcion={""}
+              imagenAnime={""}
+              genero1={""}
+              genero2={""}
+              genero3={""}
+              hrefGenre1={""}
+              hrefGenre2={""}
+              hrefGenre3={""}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              capituloAnime1={""}
+              capituloAnime2={""}
+              capituloAnime3={""}
+              capituloAnime4={""}
+              capituloAnime5={""}
+              capituloAnime6={""}
+              capituloAnime7={""}
+              capituloAnime8={""}
+              capituloAnime9={""}
+              capituloAnime10={""}
+              capituloAnime11={""}
+              capituloAnime12={""}
+            />
+          }
+        />
+        <Route
+          path=""
+          element={
+            <Numero12
+              anime={""}
+              tipo={"TV"}
+              estado={""}
+              numeroEpisodios={"12"}
+              descripcion={""}
+              imagenAnime={""}
+              genero1={""}
+              genero2={""}
+              genero3={""}
+              hrefGenre1={""}
+              hrefGenre2={""}
+              hrefGenre3={""}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              capituloAnime1={""}
+              capituloAnime2={""}
+              capituloAnime3={""}
+              capituloAnime4={""}
+              capituloAnime5={""}
+              capituloAnime6={""}
+              capituloAnime7={""}
+              capituloAnime8={""}
+              capituloAnime9={""}
+              capituloAnime10={""}
+              capituloAnime11={""}
+              capituloAnime12={""}
+            />
+          }
+        />
+        <Route
+          path=""
+          element={
+            <Numero12
+              anime={""}
+              tipo={"TV"}
+              estado={""}
+              numeroEpisodios={"12"}
+              descripcion={""}
+              imagenAnime={""}
+              genero1={""}
+              genero2={""}
+              genero3={""}
+              hrefGenre1={""}
+              hrefGenre2={""}
+              hrefGenre3={""}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              capituloAnime1={""}
+              capituloAnime2={""}
+              capituloAnime3={""}
+              capituloAnime4={""}
+              capituloAnime5={""}
+              capituloAnime6={""}
+              capituloAnime7={""}
+              capituloAnime8={""}
+              capituloAnime9={""}
+              capituloAnime10={""}
+              capituloAnime11={""}
+              capituloAnime12={""}
             />
           }
         />

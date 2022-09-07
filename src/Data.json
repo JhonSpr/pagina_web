@@ -261,7 +261,9 @@
     "img": "https://www.animefenix.com/cdn/animes/cover/62b392ddc06ee/orient-2nd-cour.jpg",
     "link": "/orient-segunda-temporada",
     "title": "Orient Temporada 2",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": "37",
@@ -277,14 +279,18 @@
     "img": "https://www.animefenix.com/cdn/animes/cover/62b3854093b93/overlord-iv.jpg",
     "link": "/overlord-IV",
     "title": "Overlord IV",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": "39",
     "img": "https://www.animefenix.com/cdn/animes/cover/62b37fcac4bd9/tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete-sekai-saikyou-ni-narimashita.jpg",
     "link": "/tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete-sekai-saikyou-ni-narimashita",
     "title": "Tensei kenja no Isekai life dai 2 no shokugyou wo ete sekai saikyou ni narimashita",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": "40",

@@ -1,6 +1,6 @@
 import { Disqus } from "./disqus";
 
-export function Capitulos12({
+export function Numero12({
   hrefGenre1,
   hrefGenre2,
   hrefGenre3,
@@ -50,7 +50,7 @@ export function Capitulos12({
 }) {
   return (
     <section>
-      <title>{tituloAnime}</title>
+      <title>{anime} Online</title>
 
       <section className="section">
         <div className="container">
