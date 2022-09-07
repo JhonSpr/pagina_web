@@ -3809,9 +3809,14 @@ function App() {
               genero1={"Acción"}
               genero2={"Aventura"}
               genero3={"Fantasia"}
+              sec1="disable"
+              sec2="disable"
+              sec3="disable"
               hrefGenre1={"/generos[]=accion"}
               hrefGenre2={"/generos[]=aventura"}
               hrefGenre3={"/generos[]=fantasia"}
+              genre4="disable"
+              genre5={"disable"}
               genre1={"button is-small is-orange is-outlined is-roundedX"}
               genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
@@ -3849,6 +3854,12 @@ function App() {
               genero2={"Romance"}
               hrefGenre1={"/generos[]=accion"}
               hrefGenre2={"/generos[]=romance"}
+              sec1="disable"
+              sec2="disable"
+              sec3="disable"
+              genre3={"disable"}
+              genre4="disable"
+              genre5={"disable"}
               genre1={"button is-small is-orange is-outlined is-roundedX"}
               genre2={"button is-small is-orange is-outlined is-roundedX"}
               capituloAnime1={"/koroshi-ai-1"}
@@ -3888,6 +3899,9 @@ function App() {
               hrefGenre2={"/generos[]=misterio"}
               hrefGenre3={"/generos[]=sobrenatural"}
               hrefGenre4={"/generos[]=terror"}
+              sec1="disable"
+              sec2="disable"
+              sec3="disable"
               genre1={"button is-small is-orange is-outlined is-roundedX"}
               genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
@@ -3925,6 +3939,9 @@ function App() {
               genero2={"Drama"}
               genero3={"Militar"}
               genero4={"Sei-Fi"}
+              sec1="disable"
+              sec2="disable"
+              sec3="disable"
               hrefGenre1={"/generos[]=accion"}
               hrefGenre2={"/generos[]=drama"}
               hrefGenre3={"/generos[]=militar"}
@@ -3966,6 +3983,9 @@ function App() {
               genero2={"Aventura"}
               genero3={"Drama"}
               genero4={"Fantasia"}
+              sec1="disable"
+              sec2="disable"
+              sec3="disable"
               hrefGenre1={"/generos[]=accion"}
               hrefGenre2={"/generos[]=aventura"}
               hrefGenre3={"/generos[]=drama"}
@@ -4007,6 +4027,9 @@ function App() {
               genero2={"Aventura"}
               genero3={"Comedia"}
               genero4={"Fantasia"}
+              sec1="disable"
+              sec2="disable"
+              sec3="disable"
               hrefGenre1={"/generos[]=accion"}
               hrefGenre2={"/generos[]=aventura"}
               hrefGenre3={"/generos[]=comedia"}
@@ -4052,6 +4075,8 @@ function App() {
               hrefGenre3={"/generos[]=fantasia"}
               hrefGenre4={"/generos[]=militar"}
               hrefGenre5={"/generos[]=misterio"}
+              sec2="disable"
+              sec3="disable"
               hrefSecuela={"/shingeki-no-kyojin:-temporada-final"}
               nombreSecuela={"Shingeki no Kyojin: Temporada Final"}
               textoSecuela={"Precuela"}
@@ -4093,6 +4118,8 @@ function App() {
               genero2={"Ciencia Ficción"}
               hrefGenre1={"/generos[]=accion"}
               hrefGenre2={"/generos[]=ciencia-ficcion"}
+              sec2="disable"
+              sec3="disable"
               nombreSecuela={"Aldnoah Zero"}
               textoSecuela={"Precuela"}
               hrefSecuela={"/aldnoah-zero"}
@@ -4137,6 +4164,8 @@ function App() {
               hrefGenre3={"/generos[]=demonios"}
               hrefGenre4={"/generos[]=fantasia"}
               hrefGenre5={"/generos[]=magia"}
+              sec2="disable"
+              sec3="disable"
               nombreSecuela={"Shingeki no Bahamut: Virgin Soul"}
               textoSecuela={"Secuela"}
               hrefSecuela={"/shingeki-no-bahamut:-virgin-soul"}
@@ -4182,6 +4211,9 @@ function App() {
               hrefGenre2={"/generos[]=fantasia"}
               hrefGenre3={"/generos[]=isekai"}
               hrefGenre4={"/generos[]=romance"}
+              sec1="disable"
+              sec2="disable"
+              sec3="disable"
               genre1={"button is-small is-orange is-outlined is-roundedX"}
               genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
@@ -4243,6 +4275,9 @@ function App() {
               genero2={"Aventura"}
               genero3={"Fantasia"}
               genero4={"Isekai"}
+              sec1="disable"
+              sec2="disable"
+              sec3="disable"
               hrefGenre1={"/generos[]=accion"}
               hrefGenre2={"/generos[]=aventura"}
               hrefGenre3={"/generos[]=fantasia"}
@@ -4306,10 +4341,15 @@ function App() {
               }
               genero1={"Acción"}
               genero2={"Fantasia"}
+              sec1="disable"
+              sec2="disable"
+              sec3="disable"
               hrefGenre1={"/generos[]=accion"}
               hrefGenre2={"/generos[]=fantasia"}
               genre1={"button is-small is-orange is-outlined is-roundedX"}
               genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3="disable"
+              genre4="disable"
               capituloAnime1={
                 "/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-1"
               }
