@@ -3902,6 +3902,7 @@ function App() {
               sec1="disable"
               sec2="disable"
               sec3="disable"
+              genre5="disable"
               genre1={"button is-small is-orange is-outlined is-roundedX"}
               genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
@@ -3946,6 +3947,7 @@ function App() {
               hrefGenre2={"/generos[]=drama"}
               hrefGenre3={"/generos[]=militar"}
               hrefGenre4={"/generos[]=sei-fi"}
+              genre5="disable"
               genre1={"button is-small is-orange is-outlined is-roundedX"}
               genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
@@ -3990,6 +3992,7 @@ function App() {
               hrefGenre2={"/generos[]=aventura"}
               hrefGenre3={"/generos[]=drama"}
               hrefGenre4={"/generos[]=fantasia"}
+              genre5="disable"
               genre1={"button is-small is-orange is-outlined is-roundedX"}
               genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
@@ -4034,6 +4037,7 @@ function App() {
               hrefGenre2={"/generos[]=aventura"}
               hrefGenre3={"/generos[]=comedia"}
               hrefGenre4={"/generos[]=fantasia"}
+              genre5="disable"
               genre1={"button is-small is-orange is-outlined is-roundedX"}
               genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
@@ -4123,6 +4127,9 @@ function App() {
               nombreSecuela={"Aldnoah Zero"}
               textoSecuela={"Precuela"}
               hrefSecuela={"/aldnoah-zero"}
+              genre3="disable"
+              genre4="disable"
+              genre5="disable"
               genre1={"button is-small is-orange is-outlined is-roundedX"}
               genre2={"button is-small is-orange is-outlined is-roundedX"}
               capituloAnime1={"/aldnoah-zero-segunda-parte-1"}
@@ -4214,6 +4221,7 @@ function App() {
               sec1="disable"
               sec2="disable"
               sec3="disable"
+              genre5={"disable"}
               genre1={"button is-small is-orange is-outlined is-roundedX"}
               genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
@@ -4282,6 +4290,7 @@ function App() {
               hrefGenre2={"/generos[]=aventura"}
               hrefGenre3={"/generos[]=fantasia"}
               hrefGenre4={"/generos[]=isekai"}
+              genre5="disable"
               genre1={"button is-small is-orange is-outlined is-roundedX"}
               genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
@@ -4350,6 +4359,7 @@ function App() {
               genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3="disable"
               genre4="disable"
+              genre5={"disable"}
               capituloAnime1={
                 "/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-1"
               }
