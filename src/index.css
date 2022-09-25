@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: rgb(10, 10, 10);
+  background-color: rgb(0, 0, 0);
 }
 
 span {
@@ -89,13 +89,13 @@ a {
   .navbar-item-menu-drop {
     color: rgb(230, 230, 230) !important;
     margin: auto 10px;
-    background-color: rgba(0, 0, 0, 0.22);
+    background-color: rgba(160, 160, 160);
     width: 120px !important;
     justify-content: center;
     text-align: center;
     align-items: center;
     height: 40px !important;
-    border-radius: 20px;
+    border-radius: 7px;
   }
 
   .input-mobile {
@@ -449,7 +449,9 @@ input {
   right: 5px;
   bottom: 2rem;
 }
-
+.navbar {
+  background-color: rgb(20, 20, 20) !important;
+}
 .serie-card .title {
   position: absolute;
   bottom: 0;
