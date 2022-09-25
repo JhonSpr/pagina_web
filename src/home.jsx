@@ -1021,11 +1021,11 @@ function App() {
               genre3={"button is-small is-orange is-outlined is-roundedX"}
               genre4={"button is-small is-orange is-outlined is-roundedX"}
               genre5={"button is-small is-orange is-outlined is-roundedX"}
-              hrefGenre1={"/generos=accion"}
-              hrefGenre2={"/generos=aventura"}
-              hrefGenre3={"/generos=demonios"}
-              hrefGenre4={"/generos=fantasia"}
-              hrefGenre5={"/generos=magia"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=aventura"}
+              hrefGenre3={"/generos[]=demonios"}
+              hrefGenre4={"/generos[]=fantasia"}
+              hrefGenre5={"/generos[]=magia"}
               li25={"li"}
               li26={"li"}
               li27={"li"}
@@ -1132,11 +1132,11 @@ function App() {
               genre3={"button is-small is-orange is-outlined is-roundedX"}
               genre4={"button is-small is-orange is-outlined is-roundedX"}
               genre5={"button is-small is-orange is-outlined is-roundedX"}
-              hrefGenre1={"/generos=accion"}
-              hrefGenre2={"/generos=demonios"}
-              hrefGenre3={"/generos=fantasia"}
-              hrefGenre4={"/generos=gore"}
-              hrefGenre5={"/generos=horror"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=demonios"}
+              hrefGenre3={"/generos[]=fantasia"}
+              hrefGenre4={"/generos[]=gore"}
+              hrefGenre5={"/generos[]=horror"}
               li9={"li"}
               li10={"li"}
               li11={"li"}
@@ -1247,11 +1247,11 @@ function App() {
               genre3={"button is-small is-orange is-outlined is-roundedX"}
               genre4={"button is-small is-orange is-outlined is-roundedX"}
               genre5={"button is-small is-orange is-outlined is-roundedX"}
-              hrefGenre1={"/generos=accion"}
-              hrefGenre2={"/generos=aventura"}
-              hrefGenre3={"/generos=demonios"}
-              hrefGenre4={"/generos=fantasia"}
-              hrefGenre5={"/generos=juegos"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=aventura"}
+              hrefGenre3={"/generos[]=demonios"}
+              hrefGenre4={"/generos[]=fantasia"}
+              hrefGenre5={"/generos[]=juegos"}
               descripcion={"Tercera temporada de Overlord."}
               anime={"Overlord III"}
               tipo={"TV"}
@@ -1353,11 +1353,11 @@ function App() {
               genre3={"button is-small is-orange is-outlined is-roundedX"}
               genre4={"button is-small is-orange is-outlined is-roundedX"}
               genre5={"button is-small is-orange is-outlined is-roundedX"}
-              hrefGenre1={"/generos=accion"}
-              hrefGenre2={"/generos=demonios"}
-              hrefGenre3={"/generos=fantasia"}
-              hrefGenre4={"/generos=shounen"}
-              hrefGenre5={"/generos=sobrenatural"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=demonios"}
+              hrefGenre3={"/generos[]=fantasia"}
+              hrefGenre4={"/generos[]=shounen"}
+              hrefGenre5={"/generos[]=sobrenatural"}
               li14={"li"}
               li15={"li"}
               li16={"li"}
@@ -1542,11 +1542,11 @@ function App() {
               genre3={"button is-small is-orange is-outlined is-roundedX"}
               genre4={"button is-small is-orange is-outlined is-roundedX"}
               genre5={"button is-small is-orange is-outlined is-roundedX"}
-              hrefGenre1={"/generos=accion"}
-              hrefGenre2={"/generos=demonios"}
-              hrefGenre3={"/generos=fantasia"}
-              hrefGenre4={"/generos=magia"}
-              hrefGenre5={"/generos=sobrenatural"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=demonios"}
+              hrefGenre3={"/generos[]=fantasia"}
+              hrefGenre4={"/generos[]=magia"}
+              hrefGenre5={"/generos[]=sobrenatural"}
               capituloAnime1={"/ver/fairy-gone-1"}
               capituloAnime2={"/ver/fairy-gone-2"}
               capituloAnime3={"/ver/fairy-gone-3"}
@@ -1582,18 +1582,14 @@ function App() {
               genero1={"Aventura"}
               genero2={"Sei-Fi"}
               genero3={"Shounen"}
-              genero4={""}
-              genero5={""}
               genre1={"button is-small is-orange is-outlined is-roundedX"}
               genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
               genre4={"disable"}
               genre5={"disable"}
-              hrefGenre1={"/generos=aventura"}
-              hrefGenre2={"/generos=sei-fi"}
-              hrefGenre3={"/generos=shounen"}
-              hrefGenre4={""}
-              hrefGenre5={""}
+              hrefGenre1={"/generos[]=aventura"}
+              hrefGenre2={"/generos[]=sei-fi"}
+              hrefGenre3={"/generos[]=shounen"}
               imagenAnime={
                 "https://www.animefenix.com/cdn/animes/cover/62b391c6e1119/dr-stone-ryusui.png"
               }
@@ -1681,53 +1677,23 @@ function App() {
               }
               anime={"Isekai Yakkyoku"}
               tipo={"TV"}
-              numeroEpisodios={"7"}
-              estado={"En Emision"}
+              numeroEpisodios={"12"}
+              estado={"Finalizado"}
               sec1={"sec"}
               sec2={"sec"}
               sec3={"sec"}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              genero4={""}
-              genero5={""}
-              genre1={"disable"}
-              genre2={"disable"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genero1={"Fantasia"}
+              genero2={"Isekai"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"disable"}
               genre4={"disable"}
               genre5={"disable"}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
-              hrefGenre4={""}
-              hrefGenre5={""}
+              hrefGenre1={"/generos[]=fantasia"}
+              hrefGenre2={"/generos[]=isekai"}
               imagenAnime={
                 "https://www.animefenix.com/cdn/animes/cover/62b39151eb430/isekai-yakkyoku.jpg"
               }
-              numeroCapitulo1={"1"}
-              numeroCapitulo2={"2"}
-              numeroCapitulo3={"3"}
-              numeroCapitulo4={"4"}
-              numeroCapitulo5={"5"}
-              numeroCapitulo6={"6"}
-              numeroCapitulo7={"7"}
-              numeroCapitulo8={"8"}
-              numeroCapitulo9={"9"}
-              numeroCapitulo10={"10"}
-              numeroCapitulo11={"11"}
-              numeroCapitulo12={"12"}
-              numeroCapitulo13={"13"}
-              numeroCapitulo14={"14"}
-              numeroCapitulo15={"15"}
-              numeroCapitulo16={"16"}
-              numeroCapitulo17={"17"}
-              numeroCapitulo18={"18"}
-              numeroCapitulo19={"19"}
-              numeroCapitulo20={"20"}
-              numeroCapitulo21={"21"}
-              numeroCapitulo22={"22"}
-              numeroCapitulo23={"23"}
-              numeroCapitulo24={"24"}
               capituloAnime1={"/ver/isekai-yakkyoku-1"}
               capituloAnime2={"/ver/isekai-yakkyoku-2"}
               capituloAnime3={"/ver/isekai-yakkyoku-3"}
@@ -1740,23 +1706,6 @@ function App() {
               capituloAnime10={"/ver/isekai-yakkyoku-10"}
               capituloAnime11={"/ver/isekai-yakkyoku-11"}
               capituloAnime12={"/ver/isekai-yakkyoku-12"}
-              capituloAnime13={"/ver/isekai-yakkyoku-13"}
-              capituloAnime14={"/ver/isekai-yakkyoku-14"}
-              capituloAnime15={"/ver/isekai-yakkyoku-15"}
-              capituloAnime16={"/ver/isekai-yakkyoku-16"}
-              capituloAnime17={"/ver/isekai-yakkyoku-17"}
-              capituloAnime18={"/ver/isekai-yakkyoku-18"}
-              capituloAnime19={"/ver/isekai-yakkyoku-19"}
-              capituloAnime20={"/ver/isekai-yakkyoku-20"}
-              capituloAnime21={"/ver/isekai-yakkyoku-21"}
-              capituloAnime22={"/ver/isekai-yakkyoku-22"}
-              capituloAnime23={"/ver/isekai-yakkyoku-23"}
-              capituloAnime24={"/ver/isekai-yakkyoku-24"}
-              li8={"li"}
-              li9={"li"}
-              li10={"li"}
-              li11={"li"}
-              li12={"li"}
               li13={"li"}
               li14={"li"}
               li15={"li"}
@@ -4573,6 +4522,727 @@ function App() {
               capituloAnime11={"/ver/isekai-ojisan-11"}
               capituloAnime12={"/ver/isekai-ojisan-12"}
               capituloAnime13={"/ver/isekai-ojisan-13"}
+              li8={"disable"}
+              li9={"disable"}
+              li10={"disable"}
+              li11={"disable"}
+              li12={"disable"}
+              li13={"disable"}
+            />
+          }
+        />
+        <Route
+          path=""
+          element={
+            <Emision12
+              descripcion={""}
+              anime={""}
+              imagenAnime={""}
+              tituloAnime={""}
+              genero1={""}
+              genero2={""}
+              genero3={""}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
+              hrefGenre1={"/generos[]="}
+              hrefGenre2={"/generos[]="}
+              hrefGenre3={"/generos[]="}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"disable"}
+              genre5={"disable"}
+              tipo={"TV"}
+              estado={"En Emisión"}
+              numeroEpisodios={""}
+              Fecha={""}
+              capituloAnime1={"/ver/-1"}
+              capituloAnime2={"/ver/-2"}
+              capituloAnime3={"/ver/-3"}
+              capituloAnime4={"/ver/-4"}
+              capituloAnime5={"/ver/-5"}
+              capituloAnime6={"/ver/-6"}
+              capituloAnime7={"/ver/-7"}
+              capituloAnime8={"/ver/-8"}
+              capituloAnime9={"/ver/-9"}
+              capituloAnime10={"/ver/-10"}
+              capituloAnime11={"/ver/-11"}
+              capituloAnime12={"/ver/-12"}
+              capituloAnime13={"/ver/-13"}
+              li8={"disable"}
+              li9={"disable"}
+              li10={"disable"}
+              li11={"disable"}
+              li12={"disable"}
+              li13={"disable"}
+            />
+          }
+        />
+        <Route
+          path=""
+          element={
+            <Emision12
+              descripcion={""}
+              anime={""}
+              imagenAnime={""}
+              tituloAnime={""}
+              genero1={""}
+              genero2={""}
+              genero3={""}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
+              hrefGenre1={"/generos[]="}
+              hrefGenre2={"/generos[]="}
+              hrefGenre3={"/generos[]="}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"disable"}
+              genre5={"disable"}
+              tipo={"TV"}
+              estado={"En Emisión"}
+              numeroEpisodios={""}
+              Fecha={""}
+              capituloAnime1={"/ver/-1"}
+              capituloAnime2={"/ver/-2"}
+              capituloAnime3={"/ver/-3"}
+              capituloAnime4={"/ver/-4"}
+              capituloAnime5={"/ver/-5"}
+              capituloAnime6={"/ver/-6"}
+              capituloAnime7={"/ver/-7"}
+              capituloAnime8={"/ver/-8"}
+              capituloAnime9={"/ver/-9"}
+              capituloAnime10={"/ver/-10"}
+              capituloAnime11={"/ver/-11"}
+              capituloAnime12={"/ver/-12"}
+              capituloAnime13={"/ver/-13"}
+              li8={"disable"}
+              li9={"disable"}
+              li10={"disable"}
+              li11={"disable"}
+              li12={"disable"}
+              li13={"disable"}
+            />
+          }
+        />
+        <Route
+          path=""
+          element={
+            <Emision12
+              descripcion={""}
+              anime={""}
+              imagenAnime={""}
+              tituloAnime={""}
+              genero1={""}
+              genero2={""}
+              genero3={""}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
+              hrefGenre1={"/generos[]="}
+              hrefGenre2={"/generos[]="}
+              hrefGenre3={"/generos[]="}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"disable"}
+              genre5={"disable"}
+              tipo={"TV"}
+              estado={"En Emisión"}
+              numeroEpisodios={""}
+              Fecha={""}
+              capituloAnime1={"/ver/-1"}
+              capituloAnime2={"/ver/-2"}
+              capituloAnime3={"/ver/-3"}
+              capituloAnime4={"/ver/-4"}
+              capituloAnime5={"/ver/-5"}
+              capituloAnime6={"/ver/-6"}
+              capituloAnime7={"/ver/-7"}
+              capituloAnime8={"/ver/-8"}
+              capituloAnime9={"/ver/-9"}
+              capituloAnime10={"/ver/-10"}
+              capituloAnime11={"/ver/-11"}
+              capituloAnime12={"/ver/-12"}
+              capituloAnime13={"/ver/-13"}
+              li8={"disable"}
+              li9={"disable"}
+              li10={"disable"}
+              li11={"disable"}
+              li12={"disable"}
+              li13={"disable"}
+            />
+          }
+        />
+        <Route
+          path=""
+          element={
+            <Emision12
+              descripcion={""}
+              anime={""}
+              imagenAnime={""}
+              tituloAnime={""}
+              genero1={""}
+              genero2={""}
+              genero3={""}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
+              hrefGenre1={"/generos[]="}
+              hrefGenre2={"/generos[]="}
+              hrefGenre3={"/generos[]="}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"disable"}
+              genre5={"disable"}
+              tipo={"TV"}
+              estado={"En Emisión"}
+              numeroEpisodios={""}
+              Fecha={""}
+              capituloAnime1={"/ver/-1"}
+              capituloAnime2={"/ver/-2"}
+              capituloAnime3={"/ver/-3"}
+              capituloAnime4={"/ver/-4"}
+              capituloAnime5={"/ver/-5"}
+              capituloAnime6={"/ver/-6"}
+              capituloAnime7={"/ver/-7"}
+              capituloAnime8={"/ver/-8"}
+              capituloAnime9={"/ver/-9"}
+              capituloAnime10={"/ver/-10"}
+              capituloAnime11={"/ver/-11"}
+              capituloAnime12={"/ver/-12"}
+              capituloAnime13={"/ver/-13"}
+              li8={"disable"}
+              li9={"disable"}
+              li10={"disable"}
+              li11={"disable"}
+              li12={"disable"}
+              li13={"disable"}
+            />
+          }
+        />
+
+        <Route
+          path=""
+          element={
+            <Emision12
+              descripcion={""}
+              anime={""}
+              imagenAnime={""}
+              tituloAnime={""}
+              genero1={""}
+              genero2={""}
+              genero3={""}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
+              hrefGenre1={"/generos[]="}
+              hrefGenre2={"/generos[]="}
+              hrefGenre3={"/generos[]="}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"disable"}
+              genre5={"disable"}
+              tipo={"TV"}
+              estado={"En Emisión"}
+              numeroEpisodios={""}
+              Fecha={""}
+              capituloAnime1={"/ver/-1"}
+              capituloAnime2={"/ver/-2"}
+              capituloAnime3={"/ver/-3"}
+              capituloAnime4={"/ver/-4"}
+              capituloAnime5={"/ver/-5"}
+              capituloAnime6={"/ver/-6"}
+              capituloAnime7={"/ver/-7"}
+              capituloAnime8={"/ver/-8"}
+              capituloAnime9={"/ver/-9"}
+              capituloAnime10={"/ver/-10"}
+              capituloAnime11={"/ver/-11"}
+              capituloAnime12={"/ver/-12"}
+              capituloAnime13={"/ver/-13"}
+              li8={"disable"}
+              li9={"disable"}
+              li10={"disable"}
+              li11={"disable"}
+              li12={"disable"}
+              li13={"disable"}
+            />
+          }
+        />
+        <Route
+          path=""
+          element={
+            <Emision12
+              descripcion={""}
+              anime={""}
+              imagenAnime={""}
+              tituloAnime={""}
+              genero1={""}
+              genero2={""}
+              genero3={""}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
+              hrefGenre1={"/generos[]="}
+              hrefGenre2={"/generos[]="}
+              hrefGenre3={"/generos[]="}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"disable"}
+              genre5={"disable"}
+              tipo={"TV"}
+              estado={"En Emisión"}
+              numeroEpisodios={""}
+              Fecha={""}
+              capituloAnime1={"/ver/-1"}
+              capituloAnime2={"/ver/-2"}
+              capituloAnime3={"/ver/-3"}
+              capituloAnime4={"/ver/-4"}
+              capituloAnime5={"/ver/-5"}
+              capituloAnime6={"/ver/-6"}
+              capituloAnime7={"/ver/-7"}
+              capituloAnime8={"/ver/-8"}
+              capituloAnime9={"/ver/-9"}
+              capituloAnime10={"/ver/-10"}
+              capituloAnime11={"/ver/-11"}
+              capituloAnime12={"/ver/-12"}
+              capituloAnime13={"/ver/-13"}
+              li8={"disable"}
+              li9={"disable"}
+              li10={"disable"}
+              li11={"disable"}
+              li12={"disable"}
+              li13={"disable"}
+            />
+          }
+        />
+        <Route
+          path=""
+          element={
+            <Emision12
+              descripcion={""}
+              anime={""}
+              imagenAnime={""}
+              tituloAnime={""}
+              genero1={""}
+              genero2={""}
+              genero3={""}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
+              hrefGenre1={"/generos[]="}
+              hrefGenre2={"/generos[]="}
+              hrefGenre3={"/generos[]="}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"disable"}
+              genre5={"disable"}
+              tipo={"TV"}
+              estado={"En Emisión"}
+              numeroEpisodios={""}
+              Fecha={""}
+              capituloAnime1={"/ver/-1"}
+              capituloAnime2={"/ver/-2"}
+              capituloAnime3={"/ver/-3"}
+              capituloAnime4={"/ver/-4"}
+              capituloAnime5={"/ver/-5"}
+              capituloAnime6={"/ver/-6"}
+              capituloAnime7={"/ver/-7"}
+              capituloAnime8={"/ver/-8"}
+              capituloAnime9={"/ver/-9"}
+              capituloAnime10={"/ver/-10"}
+              capituloAnime11={"/ver/-11"}
+              capituloAnime12={"/ver/-12"}
+              capituloAnime13={"/ver/-13"}
+              li8={"disable"}
+              li9={"disable"}
+              li10={"disable"}
+              li11={"disable"}
+              li12={"disable"}
+              li13={"disable"}
+            />
+          }
+        />
+        <Route
+          path=""
+          element={
+            <Emision12
+              descripcion={""}
+              anime={""}
+              imagenAnime={""}
+              tituloAnime={""}
+              genero1={""}
+              genero2={""}
+              genero3={""}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
+              hrefGenre1={"/generos[]="}
+              hrefGenre2={"/generos[]="}
+              hrefGenre3={"/generos[]="}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"disable"}
+              genre5={"disable"}
+              tipo={"TV"}
+              estado={"En Emisión"}
+              numeroEpisodios={""}
+              Fecha={""}
+              capituloAnime1={"/ver/-1"}
+              capituloAnime2={"/ver/-2"}
+              capituloAnime3={"/ver/-3"}
+              capituloAnime4={"/ver/-4"}
+              capituloAnime5={"/ver/-5"}
+              capituloAnime6={"/ver/-6"}
+              capituloAnime7={"/ver/-7"}
+              capituloAnime8={"/ver/-8"}
+              capituloAnime9={"/ver/-9"}
+              capituloAnime10={"/ver/-10"}
+              capituloAnime11={"/ver/-11"}
+              capituloAnime12={"/ver/-12"}
+              capituloAnime13={"/ver/-13"}
+              li8={"disable"}
+              li9={"disable"}
+              li10={"disable"}
+              li11={"disable"}
+              li12={"disable"}
+              li13={"disable"}
+            />
+          }
+        />
+        <Route
+          path=""
+          element={
+            <Emision12
+              descripcion={""}
+              anime={""}
+              imagenAnime={""}
+              tituloAnime={""}
+              genero1={""}
+              genero2={""}
+              genero3={""}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
+              hrefGenre1={"/generos[]="}
+              hrefGenre2={"/generos[]="}
+              hrefGenre3={"/generos[]="}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"disable"}
+              genre5={"disable"}
+              tipo={"TV"}
+              estado={"En Emisión"}
+              numeroEpisodios={""}
+              Fecha={""}
+              capituloAnime1={"/ver/-1"}
+              capituloAnime2={"/ver/-2"}
+              capituloAnime3={"/ver/-3"}
+              capituloAnime4={"/ver/-4"}
+              capituloAnime5={"/ver/-5"}
+              capituloAnime6={"/ver/-6"}
+              capituloAnime7={"/ver/-7"}
+              capituloAnime8={"/ver/-8"}
+              capituloAnime9={"/ver/-9"}
+              capituloAnime10={"/ver/-10"}
+              capituloAnime11={"/ver/-11"}
+              capituloAnime12={"/ver/-12"}
+              capituloAnime13={"/ver/-13"}
+              li8={"disable"}
+              li9={"disable"}
+              li10={"disable"}
+              li11={"disable"}
+              li12={"disable"}
+              li13={"disable"}
+            />
+          }
+        />
+        <Route
+          path=""
+          element={
+            <Emision12
+              descripcion={""}
+              anime={""}
+              imagenAnime={""}
+              tituloAnime={""}
+              genero1={""}
+              genero2={""}
+              genero3={""}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
+              hrefGenre1={"/generos[]="}
+              hrefGenre2={"/generos[]="}
+              hrefGenre3={"/generos[]="}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"disable"}
+              genre5={"disable"}
+              tipo={"TV"}
+              estado={"En Emisión"}
+              numeroEpisodios={""}
+              Fecha={""}
+              capituloAnime1={"/ver/-1"}
+              capituloAnime2={"/ver/-2"}
+              capituloAnime3={"/ver/-3"}
+              capituloAnime4={"/ver/-4"}
+              capituloAnime5={"/ver/-5"}
+              capituloAnime6={"/ver/-6"}
+              capituloAnime7={"/ver/-7"}
+              capituloAnime8={"/ver/-8"}
+              capituloAnime9={"/ver/-9"}
+              capituloAnime10={"/ver/-10"}
+              capituloAnime11={"/ver/-11"}
+              capituloAnime12={"/ver/-12"}
+              capituloAnime13={"/ver/-13"}
+              li8={"disable"}
+              li9={"disable"}
+              li10={"disable"}
+              li11={"disable"}
+              li12={"disable"}
+              li13={"disable"}
+            />
+          }
+        />
+        <Route
+          path=""
+          element={
+            <Emision12
+              descripcion={""}
+              anime={""}
+              imagenAnime={""}
+              tituloAnime={""}
+              genero1={""}
+              genero2={""}
+              genero3={""}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
+              hrefGenre1={"/generos[]="}
+              hrefGenre2={"/generos[]="}
+              hrefGenre3={"/generos[]="}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"disable"}
+              genre5={"disable"}
+              tipo={"TV"}
+              estado={"En Emisión"}
+              numeroEpisodios={""}
+              Fecha={""}
+              capituloAnime1={"/ver/-1"}
+              capituloAnime2={"/ver/-2"}
+              capituloAnime3={"/ver/-3"}
+              capituloAnime4={"/ver/-4"}
+              capituloAnime5={"/ver/-5"}
+              capituloAnime6={"/ver/-6"}
+              capituloAnime7={"/ver/-7"}
+              capituloAnime8={"/ver/-8"}
+              capituloAnime9={"/ver/-9"}
+              capituloAnime10={"/ver/-10"}
+              capituloAnime11={"/ver/-11"}
+              capituloAnime12={"/ver/-12"}
+              capituloAnime13={"/ver/-13"}
+              li8={"disable"}
+              li9={"disable"}
+              li10={"disable"}
+              li11={"disable"}
+              li12={"disable"}
+              li13={"disable"}
+            />
+          }
+        />
+        <Route
+          path=""
+          element={
+            <Emision12
+              descripcion={""}
+              anime={""}
+              imagenAnime={""}
+              tituloAnime={""}
+              genero1={""}
+              genero2={""}
+              genero3={""}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
+              hrefGenre1={"/generos[]="}
+              hrefGenre2={"/generos[]="}
+              hrefGenre3={"/generos[]="}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"disable"}
+              genre5={"disable"}
+              tipo={"TV"}
+              estado={"En Emisión"}
+              numeroEpisodios={""}
+              Fecha={""}
+              capituloAnime1={"/ver/-1"}
+              capituloAnime2={"/ver/-2"}
+              capituloAnime3={"/ver/-3"}
+              capituloAnime4={"/ver/-4"}
+              capituloAnime5={"/ver/-5"}
+              capituloAnime6={"/ver/-6"}
+              capituloAnime7={"/ver/-7"}
+              capituloAnime8={"/ver/-8"}
+              capituloAnime9={"/ver/-9"}
+              capituloAnime10={"/ver/-10"}
+              capituloAnime11={"/ver/-11"}
+              capituloAnime12={"/ver/-12"}
+              capituloAnime13={"/ver/-13"}
+              li8={"disable"}
+              li9={"disable"}
+              li10={"disable"}
+              li11={"disable"}
+              li12={"disable"}
+              li13={"disable"}
+            />
+          }
+        />
+        <Route
+          path=""
+          element={
+            <Emision12
+              descripcion={""}
+              anime={""}
+              imagenAnime={""}
+              tituloAnime={""}
+              genero1={""}
+              genero2={""}
+              genero3={""}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
+              hrefGenre1={"/generos[]="}
+              hrefGenre2={"/generos[]="}
+              hrefGenre3={"/generos[]="}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"disable"}
+              genre5={"disable"}
+              tipo={"TV"}
+              estado={"En Emisión"}
+              numeroEpisodios={""}
+              Fecha={""}
+              capituloAnime1={"/ver/-1"}
+              capituloAnime2={"/ver/-2"}
+              capituloAnime3={"/ver/-3"}
+              capituloAnime4={"/ver/-4"}
+              capituloAnime5={"/ver/-5"}
+              capituloAnime6={"/ver/-6"}
+              capituloAnime7={"/ver/-7"}
+              capituloAnime8={"/ver/-8"}
+              capituloAnime9={"/ver/-9"}
+              capituloAnime10={"/ver/-10"}
+              capituloAnime11={"/ver/-11"}
+              capituloAnime12={"/ver/-12"}
+              capituloAnime13={"/ver/-13"}
+              li8={"disable"}
+              li9={"disable"}
+              li10={"disable"}
+              li11={"disable"}
+              li12={"disable"}
+              li13={"disable"}
+            />
+          }
+        />
+        <Route
+          path=""
+          element={
+            <Emision12
+              descripcion={""}
+              anime={""}
+              imagenAnime={""}
+              tituloAnime={""}
+              genero1={""}
+              genero2={""}
+              genero3={""}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
+              hrefGenre1={"/generos[]="}
+              hrefGenre2={"/generos[]="}
+              hrefGenre3={"/generos[]="}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"disable"}
+              genre5={"disable"}
+              tipo={"TV"}
+              estado={"En Emisión"}
+              numeroEpisodios={""}
+              Fecha={""}
+              capituloAnime1={"/ver/-1"}
+              capituloAnime2={"/ver/-2"}
+              capituloAnime3={"/ver/-3"}
+              capituloAnime4={"/ver/-4"}
+              capituloAnime5={"/ver/-5"}
+              capituloAnime6={"/ver/-6"}
+              capituloAnime7={"/ver/-7"}
+              capituloAnime8={"/ver/-8"}
+              capituloAnime9={"/ver/-9"}
+              capituloAnime10={"/ver/-10"}
+              capituloAnime11={"/ver/-11"}
+              capituloAnime12={"/ver/-12"}
+              capituloAnime13={"/ver/-13"}
+              li8={"disable"}
+              li9={"disable"}
+              li10={"disable"}
+              li11={"disable"}
+              li12={"disable"}
+              li13={"disable"}
+            />
+          }
+        />
+        <Route
+          path=""
+          element={
+            <Emision12
+              descripcion={""}
+              anime={""}
+              imagenAnime={""}
+              tituloAnime={""}
+              genero1={""}
+              genero2={""}
+              genero3={""}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
+              hrefGenre1={"/generos[]="}
+              hrefGenre2={"/generos[]="}
+              hrefGenre3={"/generos[]="}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"disable"}
+              genre5={"disable"}
+              tipo={"TV"}
+              estado={"En Emisión"}
+              numeroEpisodios={""}
+              Fecha={""}
+              capituloAnime1={"/ver/-1"}
+              capituloAnime2={"/ver/-2"}
+              capituloAnime3={"/ver/-3"}
+              capituloAnime4={"/ver/-4"}
+              capituloAnime5={"/ver/-5"}
+              capituloAnime6={"/ver/-6"}
+              capituloAnime7={"/ver/-7"}
+              capituloAnime8={"/ver/-8"}
+              capituloAnime9={"/ver/-9"}
+              capituloAnime10={"/ver/-10"}
+              capituloAnime11={"/ver/-11"}
+              capituloAnime12={"/ver/-12"}
+              capituloAnime13={"/ver/-13"}
               li8={"disable"}
               li9={"disable"}
               li10={"disable"}
