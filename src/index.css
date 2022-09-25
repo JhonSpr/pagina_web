@@ -270,9 +270,6 @@ a {
   color: rgb(230, 230, 230);
   padding: 7px;
 }
-.navbar-burger {
-  background-color: transparent !important;
-}
 
 .button.is-orange.is-outlined {
   background-color: transparent !important;
@@ -453,6 +450,9 @@ input {
   bottom: 2rem;
 }
 .navbar {
+  background-color: rgb(20, 20, 20) !important;
+}
+.navbar-burger.burger {
   background-color: rgb(20, 20, 20) !important;
 }
 .serie-card .title {
