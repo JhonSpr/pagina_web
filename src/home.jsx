@@ -4529,7 +4529,7 @@ function App() {
         <Route path="/animes%20page=2" element={<Page2 />} />
         <Route path="/animes" element={<Page1 />} />
 
-        {/* EN EMISION 12 CAPITULOS*/}
+        {/* EN EMISION CAPITULOS*/}
         <Route
           path="/isekai-ojisan"
           element={
@@ -4545,7 +4545,7 @@ function App() {
               genero1={"Comedia"}
               genero2={"Fantasia"}
               genero3={"Isekai"}
-              sec={"disable"}
+              sec1={"disable"}
               sec2={"disable"}
               sec3={"disable"}
               hrefGenre1={"/generos[]=comedia"}
