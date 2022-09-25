@@ -285,7 +285,7 @@ a {
 
 .input.is-orange,
 .textarea.is-orange {
-  border-color: rgb(100, 100, 100);
+  border: rgb(230, 230, 230) 2px solid !important;
 }
 
 input::-webkit-input-placeholder {
