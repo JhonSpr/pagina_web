@@ -62,12 +62,6 @@ export default function Menubar() {
               </li>
 
               <Alertas />
-              <li className="navbar-item item-nav">
-                <a href={"/ovas"} className="nav-link item-nav">
-                  Ovas
-                </a>
-              </li>
-
               <ProfileMobile />
             </ul>
 

@@ -10,13 +10,8 @@ import React from "react";
 import alertify from "alertifyjs";
 
 class AlertifyTest extends React.Component {
-  constructor(
-    props 
-  ) {
-    super(
-      props
-     
-    );
+  constructor(props) {
+    super(props);
 
     this.state = {};
   }
@@ -86,7 +81,7 @@ class AlertifyTest extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <li className="navbar-item item-nav">
+        <li className="navbar-item item-nav" style={{ display: "block" }}>
           <a className="nav-link item-nav" onClick={this.handleError}>
             Peliculas
           </a>
