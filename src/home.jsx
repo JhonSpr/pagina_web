@@ -4537,8 +4537,43 @@ function App() {
                 'Otoño 2017... Atropellado por un camión cuando tenía 17 años, el tío de Takafumi despierta repentinamente de un coma que duró 17 años. Cuando Takafumi lo visita en el hospital, ve a su tío murmurando tonterías y declarando que ha regresado de otro mundo llamado "GRAN-BAHAMAL". ...Claramente, su tío se ha vuelto loco. Takafumi no tiene palabras, pero su tío demuestra sus afirmaciones de estar en otra dimensión usando algo de magia. Decidiendo usar los poderes de su tío para ganarse la vida, y sin otros parientes a los que llamar, Takafumi lo acoge y comienzan a compartir un apartamento juntos. Mientras vive con su tío, Takafumi se entera de sus fantásticas aventuras y su amor ilimitado por los videojuegos de SEGA. Pero a veces, las experiencias solitarias y crueles de su tío llenan a Takafumi de alegría y tristeza. ¡Dos hombres de diferentes generaciones trabajan arduamente para ser creadores de contenido de video en esta nueva y emocionante comedia de otro mundo ambientada en un rincón de un complejo de apartamentos!'
               }
               anime={"Isekai Ojisan"}
-              imagenAnime={"./Covers/isekai-ojisan.jpg"}
+              imagenAnime={
+                "https://www.animefenix.com/cdn/animes/cover/62b3883db4847/isekai-ojisan.jpg"
+              }
               tituloAnime={"Isekai Ojisan"}
+              genero1={""}
+              genero2={""}
+              genero3={""}
+              hrefGenre1={""}
+              hrefGenre2={""}
+              hrefGenre3={""}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"disable"}
+              genre5={"disable"}
+              tipo={"TV"}
+              estado={"En Emisión"}
+              numeroEpisodios={"7"}
+              capituloAnime1={"/ver/isekai-ojisan-1"}
+              capituloAnime2={"/ver/isekai-ojisan-2"}
+              capituloAnime3={"/ver/isekai-ojisan-3"}
+              capituloAnime4={"/ver/isekai-ojisan-4"}
+              capituloAnime5={"/ver/isekai-ojisan-5"}
+              capituloAnime6={"/ver/isekai-ojisan-6"}
+              capituloAnime7={"/ver/isekai-ojisan-7"}
+              capituloAnime8={"/ver/isekai-ojisan-8"}
+              capituloAnime9={"/ver/isekai-ojisan-9"}
+              capituloAnime10={"/ver/isekai-ojisan-10"}
+              capituloAnime11={"/ver/isekai-ojisan-11"}
+              capituloAnime12={"/ver/isekai-ojisan-12"}
+              capituloAnime13={"/ver/isekai-ojisan-13"}
+              li8={"disable"}
+              li9={"disable"}
+              li10={"disable"}
+              li11={"disable"}
+              li12={"disable"}
+              li13={"disable"}
             />
           }
         />

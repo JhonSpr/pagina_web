@@ -2,6 +2,8 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Capitulos12({
+  nextCapi,
+  Fecha,
   hrefGenre1,
   hrefGenre2,
   hrefGenre3,
@@ -48,6 +50,7 @@ export function Capitulos12({
   li10,
   li11,
   li12,
+  li13,
   capituloAnime1,
   capituloAnime2,
   capituloAnime3,
@@ -60,6 +63,7 @@ export function Capitulos12({
   capituloAnime10,
   capituloAnime11,
   capituloAnime12,
+  capituloAnime13,
 }) {
   return (
     <section>
@@ -148,6 +152,11 @@ export function Capitulos12({
                     {textoSecuela3}:
                   </span>
                   <a href={hrefSecuela3}>{nombreSecuela3}</a>
+                </li>
+                <li className={nextCapi}>
+                  <span className="has-text-weight-semibold has-text-grey is-uppercase">
+                    Proximo Capitulo: {Fecha}
+                  </span>
                 </li>
               </ul>
             </div>
@@ -259,6 +268,14 @@ export function Capitulos12({
                     href={capituloAnime12}
                   >
                     {anime} <span> Episodio 12</span>
+                  </a>
+                </li>
+                <li className={li13}>
+                  <a
+                    className="fa-play-circle d-inline-flex align-items-center is-rounded "
+                    href={capituloAnime13}
+                  >
+                    {anime} <span> Episodio 13</span>
                   </a>
                 </li>
               </ul>
