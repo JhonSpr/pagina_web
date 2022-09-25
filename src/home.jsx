@@ -313,19 +313,13 @@ function App() {
               tituloAnime={"Akudama Drive"}
               genero1={"Acción"}
               genero2={"Sei-Fi"}
-              genero3={""}
-              genero4={""}
-              genero5={""}
               genre1={"button is-small is-orange is-outlined is-roundedX"}
               genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"disable"}
               genre4={"disable"}
               genre5={"disable"}
-              hrefGenre1={"/generos=accion"}
-              hrefGenre2={"/generos=sei-fi"}
-              hrefGenre3={""}
-              hrefGenre4={""}
-              hrefGenre5={""}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=sei-fi"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
@@ -427,10 +421,10 @@ function App() {
               genre3={"button is-small is-orange is-outlined is-roundedX"}
               genre4={"button is-small is-orange is-outlined is-roundedX"}
               genre5={"disable"}
-              hrefGenre1={"/generos=aventura"}
-              hrefGenre2={"/generos=comedia"}
-              hrefGenre3={"/generos=fantasia"}
-              hrefGenre4={"/generos=sobrenatural"}
+              hrefGenre1={"/generos[]=aventura"}
+              hrefGenre2={"/generos[]=comedia"}
+              hrefGenre3={"/generos[]=fantasia"}
+              hrefGenre4={"/generos[]=sobrenatural"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
@@ -532,11 +526,11 @@ function App() {
               genre3={"button is-small is-orange is-outlined is-roundedX"}
               genre4={"button is-small is-orange is-outlined is-roundedX"}
               genre5={"button is-small is-orange is-outlined is-roundedX"}
-              hrefGenre1={"/generos=accion"}
-              hrefGenre2={"/generos=aventura"}
-              hrefGenre3={"/generos=demonios"}
-              hrefGenre4={"/generos=fantasia"}
-              hrefGenre5={"/generos=seinen"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=aventura"}
+              hrefGenre3={"/generos[]=demonios"}
+              hrefGenre4={"/generos[]=fantasia"}
+              hrefGenre5={"/generos[]=seinen"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
@@ -652,11 +646,11 @@ function App() {
               genre3={"button is-small is-orange is-outlined is-roundedX"}
               genre4={"button is-small is-orange is-outlined is-roundedX"}
               genre5={"button is-small is-orange is-outlined is-roundedX"}
-              hrefGenre1={"/generos=accion"}
-              hrefGenre2={"/generos=aventura"}
-              hrefGenre3={"/generos=comedia"}
-              hrefGenre4={"/generos=demonios"}
-              hrefGenre5={"/generos=fantasia"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=aventura"}
+              hrefGenre3={"/generos[]=comedia"}
+              hrefGenre4={"/generos[]=demonios"}
+              hrefGenre5={"/generos[]=fantasia"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
@@ -724,19 +718,6 @@ function App() {
               imagenAnime={
                 "https://www.animefenix.com/cdn/animes/cover/60d7ea610da30/tensei-shitara-slime-datta-ken-2nd-season-part-2.jpg"
               }
-              numeroCapitulo1={"1"}
-              numeroCapitulo2={"2"}
-              numeroCapitulo3={"3"}
-              numeroCapitulo4={"4"}
-              numeroCapitulo5={"5"}
-              numeroCapitulo6={"6"}
-              numeroCapitulo7={"7"}
-              numeroCapitulo8={"8"}
-              numeroCapitulo9={"9"}
-              numeroCapitulo10={"10"}
-              numeroCapitulo11={"11"}
-              numeroCapitulo12={"12"}
-              numeroCapitulo13={"13"}
               capituloAnime1={
                 "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-parte-2-1"
               }
@@ -789,9 +770,6 @@ function App() {
               sec1={"sec"}
               genero1={"Fantasia"}
               genero2={"Shounen"}
-              genero3={""}
-              genero4={""}
-              genero5={""}
               genre1={"button is-small is-orange is-outlined is-roundedX"}
               genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"disable"}
@@ -799,9 +777,6 @@ function App() {
               genre5={"disable"}
               hrefGenre1={"/generos=fantasia"}
               hrefGenre2={"/generos=shounen"}
-              hrefGenre3={""}
-              hrefGenre4={""}
-              hrefGenre5={""}
               li13={"li"}
               li14={"li"}
               li15={"li"}
@@ -870,18 +845,6 @@ function App() {
               imagenAnime={
                 "https://www.animefenix.com/cdn/animes/cover/60d7d39e29e28/peach-boy-riverside.jpg"
               }
-              numeroCapitulo1={"1"}
-              numeroCapitulo2={"2"}
-              numeroCapitulo3={"3"}
-              numeroCapitulo4={"4"}
-              numeroCapitulo5={"5"}
-              numeroCapitulo6={"6"}
-              numeroCapitulo7={"7"}
-              numeroCapitulo8={"8"}
-              numeroCapitulo9={"9"}
-              numeroCapitulo10={"10"}
-              numeroCapitulo11={"11"}
-              numeroCapitulo12={"12"}
               capituloAnime1={"/ver/peach-boy-riverside-1"}
               capituloAnime2={"/ver/peach-boy-riverside-2"}
               capituloAnime3={"/ver/peach-boy-riverside-3"}
@@ -915,11 +878,11 @@ function App() {
               genre3={"button is-small is-orange is-outlined is-roundedX"}
               genre4={"button is-small is-orange is-outlined is-roundedX"}
               genre5={"button is-small is-orange is-outlined is-roundedX"}
-              hrefGenre1={"/generos=accion"}
-              hrefGenre2={"/generos=demonios"}
-              hrefGenre3={"/generos=escolares"}
-              hrefGenre4={"/generos=shounen"}
-              hrefGenre5={"/generos=sobrenatural"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=demonios"}
+              hrefGenre3={"/generos[]=escolares"}
+              hrefGenre4={"/generos[]=shounen"}
+              hrefGenre5={"/generos[]=sobrenatural"}
               li25={"li"}
               li26={"li"}
               li27={"li"}
@@ -3394,11 +3357,11 @@ function App() {
               genero3={"Drama"}
               genero4={"Fantasia"}
               genero5={"Harem"}
-              hrefGenre1={"/generos=accion"}
-              hrefGenre2={"/generos=aventura"}
-              hrefGenre3={"/generos=drama"}
-              hrefGenre4={"/generos=fantasia"}
-              hrefGenre5={"/generos=harem"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=aventura"}
+              hrefGenre3={"/generos[]=drama"}
+              hrefGenre4={"/generos[]=fantasia"}
+              hrefGenre5={"/generos[]=harem"}
               tituloAnime={"Tate no Yuusha no Naraigari"}
               sec2={"sec"}
               sec3={"sec"}
@@ -3500,7 +3463,7 @@ function App() {
               genre3={"disable"}
               genre4={"disable"}
               genre5={"disable"}
-              hrefGenre1={"/generos=deportes"}
+              hrefGenre1={"/generos[]=deportes"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
