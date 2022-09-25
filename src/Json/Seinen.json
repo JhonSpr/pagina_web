@@ -1,33 +1,31 @@
 [
   {
     "id": 1,
-    "img": "https://www.animefenix.com/cdn/animes/cover/62b3883db4847/isekai-ojisan.jpg",
-    "link": "/isekai-ojisan",
-    "title": "Isekai Ojisan",
-    "year": 2022,
-    "estado": "En Emision",
-    "classEstado": "tag is-success airing"
-  },
-  {
-    "id": 2,
     "img": "https://www.animefenix.com/cdn/animes/cover/6244890fb1517/spy-x-family.jpg",
     "link": "/spy-x-family",
     "title": "Spy x Family",
     "year": 2022
   },
   {
+    "id": 2,
+    "img": "https://www.animefenix.com/cdn/animes/cover/62447f98a25d4/tate-no-yuusha-no-nariagari-season-2.jpg",
+    "link": "/tate-no-yuusha-no-naraigari-segunda-temporada",
+    "title": "Tate no Yuusha no Naraigari Segunda Temporada",
+    "year": 2022
+  },
+  {
     "id": 3,
-    "img": "https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg",
-    "link": "/fullmetal-alchemist-brotherhood",
-    "title": "Fullmetal Alchemist: Brotherhood",
-    "year": 2009
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
   },
   {
     "id": 4,
-    "img": "https://www.animefenix.com/cdn/animes/cover/5efa5b3d9cd25/muhyo-to-roujii-no-mahouritsu-soudan-jimusho-2nd-season.jpg",
-    "link": "/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-segunda-temporada",
-    "title": "Muhyo to Roujii no Mahouritsu Soudan Jimusho Segunda Temporada",
-    "year": 2020
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
   },
   {
     "id": 5,

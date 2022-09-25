@@ -1777,53 +1777,23 @@ function App() {
               }
               anime={"Kuro no Shoukanshi"}
               tipo={"TV"}
-              numeroEpisodios={"7"}
-              estado={"En Emision"}
+              numeroEpisodios={"12"}
+              estado={"Finalizado"}
               sec1={"sec"}
               sec2={"sec"}
               sec3={"sec"}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              genero4={""}
-              genero5={""}
-              genre1={"disable"}
-              genre2={"disable"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genero1={"Acción"}
+              genero2={"Fantasia"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"disable"}
               genre4={"disable"}
               genre5={"disable"}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
-              hrefGenre4={""}
-              hrefGenre5={""}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=fantasia"}
               imagenAnime={
                 "https://www.animefenix.com/cdn/animes/cover/62b390dacca80/kuro-no-shoukanshi.jpg"
               }
-              numeroCapitulo1={"1"}
-              numeroCapitulo2={"2"}
-              numeroCapitulo3={"3"}
-              numeroCapitulo4={"4"}
-              numeroCapitulo5={"5"}
-              numeroCapitulo6={"6"}
-              numeroCapitulo7={"7"}
-              numeroCapitulo8={"8"}
-              numeroCapitulo9={"9"}
-              numeroCapitulo10={"10"}
-              numeroCapitulo11={"11"}
-              numeroCapitulo12={"12"}
-              numeroCapitulo13={"13"}
-              numeroCapitulo14={"14"}
-              numeroCapitulo15={"15"}
-              numeroCapitulo16={"16"}
-              numeroCapitulo17={"17"}
-              numeroCapitulo18={"18"}
-              numeroCapitulo19={"19"}
-              numeroCapitulo20={"20"}
-              numeroCapitulo21={"21"}
-              numeroCapitulo22={"22"}
-              numeroCapitulo23={"23"}
-              numeroCapitulo24={"24"}
               capituloAnime1={"/ver/kuro-no-shoukanshi-1"}
               capituloAnime2={"/ver/kuro-no-shoukanshi-2"}
               capituloAnime3={"/ver/kuro-no-shoukanshi-3"}
@@ -1836,23 +1806,6 @@ function App() {
               capituloAnime10={"/ver/kuro-no-shoukanshi-10"}
               capituloAnime11={"/ver/kuro-no-shoukanshi-11"}
               capituloAnime12={"/ver/kuro-no-shoukanshi-12"}
-              capituloAnime13={"/ver/kuro-no-shoukanshi-13"}
-              capituloAnime14={"/ver/kuro-no-shoukanshi-14"}
-              capituloAnime15={"/ver/kuro-no-shoukanshi-15"}
-              capituloAnime16={"/ver/kuro-no-shoukanshi-16"}
-              capituloAnime17={"/ver/kuro-no-shoukanshi-17"}
-              capituloAnime18={"/ver/kuro-no-shoukanshi-18"}
-              capituloAnime19={"/ver/-19"}
-              capituloAnime20={"/ver/-20"}
-              capituloAnime21={"/ver/kuro-no-shoukanshi-21"}
-              capituloAnime22={"/ver/kuro-no-shoukanshi-22"}
-              capituloAnime23={"/ver/kuro-no-shoukanshi-23"}
-              capituloAnime24={"/ver/kuro-no-shoukanshi-24"}
-              li8={"li"}
-              li9={"li"}
-              li10={"li"}
-              li11={"li"}
-              li12={"li"}
               li13={"li"}
               li14={"li"}
               li15={"li"}
@@ -2032,38 +1985,38 @@ function App() {
           }
         />
         <Route
-          path="/isekai-meiryuu-de-harem-wo"
+          path="/isekai-meikyuu-de-harem-wo"
           element={
             <Capitulos12
-              tituloAnime={"Isekai Meiryuu de Harem wo"}
+              tituloAnime={"Isekai Meikyuu de Harem wo"}
               descripcion={
                 " Luchando con la vida y la sociedad, el estudiante de secundaria Michio Kaga deambula por Internet y aterriza en un sitio web extraño. El sitio web, que presenta una serie de preguntas y un sistema basado en puntos, permite crear habilidades y destrezas para un personaje. Al completar su personaje, Kaga fue transportado a un mundo de fantasía similar a un juego y renació como un hombre fuerte que puede reclamar chicas de nivel ídolo. ¡Así comienza la leyenda del engaño y el harén de un hombre renacido!"
               }
-              anime={"Isekai Meiryuu de Harem wo"}
+              anime={"Isekai Meikyuu de Harem wo"}
               tipo={"TV"}
-              numeroEpisodios={"7"}
-              estado={"En Emision"}
+              numeroEpisodios={"12"}
+              estado={"Finalizado"}
               imagenAnime={
                 "https://www.animefenix.com/cdn/animes/cover/62b38b1fc1df2/isekai-meikyuu-de-harem-wo.jpg"
               }
               sec1={"sec"}
               sec2={"sec"}
               sec3={"sec"}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              genero4={""}
-              genero5={""}
-              genre1={"disable"}
-              genre2={"disable"}
+              genero1={"Acción"}
+              genero2={"Aventura"}
+              genero3={"Romance"}
+              genero4={"Fantasia"}
+              genero5={"Harem"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
-              hrefGenre4={""}
-              hrefGenre5={""}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              genre5={"button is-small is-orange is-outlined is-roundedX"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=aventura"}
+              hrefGenre3={"/generos[]=romance"}
+              hrefGenre4={"/generos[]=fantasia"}
+              hrefGenre5={"/generos[]=harem"}
               capituloAnime1={"/ver/isekai-meiryuu-de-harem-wo-1"}
               capituloAnime2={"/ver/isekai-meiryuu-de-harem-wo-2"}
               capituloAnime3={"/ver/isekai-meiryuu-de-harem-wo-3"}
@@ -2076,23 +2029,6 @@ function App() {
               capituloAnime10={"/ver/isekai-meiryuu-de-harem-wo-10"}
               capituloAnime11={"/ver/isekai-meiryuu-de-harem-wo-11"}
               capituloAnime12={"/ver/isekai-meiryuu-de-harem-wo-12"}
-              capituloAnime13={"/ver/isekai-meiryuu-de-harem-wo-13"}
-              capituloAnime14={"/ver/isekai-meiryuu-de-harem-wo-14"}
-              capituloAnime15={"/ver/isekai-meiryuu-de-harem-wo-15"}
-              capituloAnime16={"/ver/isekai-meiryuu-de-harem-wo-16"}
-              capituloAnime17={"/ver/isekai-meiryuu-de-harem-wo-17"}
-              capituloAnime18={"/ver/isekai-meiryuu-de-harem-wo-18"}
-              capituloAnime19={"/ver/isekai-meiryuu-de-harem-wo-19"}
-              capituloAnime20={"/ver/isekai-meiryuu-de-harem-wo-20"}
-              capituloAnime21={"/ver/isekai-meiryuu-de-harem-wo-21"}
-              capituloAnime22={"/ver/isekai-meiryuu-de-harem-wo-22"}
-              capituloAnime23={"/ver/isekai-meiryuu-de-harem-wo-23"}
-              capituloAnime24={"/ver/isekai-meiryuu-de-harem-wo-24"}
-              li8={"li"}
-              li9={"li"}
-              li10={"li"}
-              li11={"li"}
-              li12={"li"}
               li13={"li"}
               li14={"li"}
               li15={"li"}
@@ -2138,7 +2074,7 @@ function App() {
                 "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Temporada 2"
               }
               tipo={"TV"}
-              numeroEpisodios={"8"}
+              numeroEpisodios={"12"}
               estado={"En Emision"}
               imagenAnime={
                 "https://www.animefenix.com/cdn/animes/cover/62b9c44a32f53/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2nd-season.jpg"
@@ -2179,42 +2115,6 @@ function App() {
               capituloAnime12={
                 "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-12"
               }
-              capituloAnime13={
-                "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-13"
-              }
-              capituloAnime14={
-                "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-14"
-              }
-              capituloAnime15={
-                "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-15"
-              }
-              capituloAnime16={
-                "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-16"
-              }
-              capituloAnime17={
-                "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-17"
-              }
-              capituloAnime18={
-                "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-18"
-              }
-              capituloAnime19={
-                "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-19"
-              }
-              capituloAnime20={
-                "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-20"
-              }
-              capituloAnime21={
-                "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-21"
-              }
-              capituloAnime22={
-                "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-22"
-              }
-              capituloAnime23={
-                "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-23"
-              }
-              capituloAnime24={
-                "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-24"
-              }
               sec2={"sec"}
               sec3={"sec"}
               hrefSecuela={"youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e"}
@@ -2225,21 +2125,15 @@ function App() {
               li10={"li"}
               li11={"li"}
               li12={"li"}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              genero4={""}
-              genero5={""}
-              genre1={"disable"}
-              genre2={"disable"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genero1={"Drama"}
+              genero2={"Escolares"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"disable"}
               genre4={"disable"}
               genre5={"disable"}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
-              hrefGenre4={""}
-              hrefGenre5={""}
+              hrefGenre1={"/generos[]=drama"}
+              hrefGenre2={"/generos[]=escolares"}
               li13={"li"}
               li14={"li"}
               li15={"li"}
@@ -2316,24 +2210,22 @@ function App() {
               imagenAnime={
                 "https://www.animefenix.com/cdn/animes/cover/6244890fb1517/spy-x-family.jpg"
               }
-              sec1={"sec"}
+              nombreSecuela={"Spy x Family Temporada 2"}
+              hrefSecuela={"/spy-x-family-2nd-temporada"}
+              textoSecuela={"Secuela"}
               sec2={"sec"}
               sec3={"sec"}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              genero4={""}
-              genero5={""}
-              genre1={"disable"}
-              genre2={"disable"}
+              genero1={"Acción"}
+              genero2={"Comedia"}
+              genero3={"Seinen"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
               genre4={"disable"}
               genre5={"disable"}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
-              hrefGenre4={""}
-              hrefGenre5={""}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=drama"}
+              hrefGenre3={"/generos[]=seinen"}
               capituloAnime1={"/ver/spy-x-family-1"}
               capituloAnime2={"/ver/spy-x-family-2"}
               capituloAnime3={"/ver/spy-x-family-3"}
@@ -2420,18 +2312,6 @@ function App() {
               imagenAnime={
                 "https://www.animefenix.com/cdn/animes/cover/6244857fc1e27/date-a-live-iv.jpg"
               }
-              numeroCapitulo1={"1"}
-              numeroCapitulo2={"2"}
-              numeroCapitulo3={"3"}
-              numeroCapitulo4={"4"}
-              numeroCapitulo5={"5"}
-              numeroCapitulo6={"6"}
-              numeroCapitulo7={"7"}
-              numeroCapitulo8={"8"}
-              numeroCapitulo9={"9"}
-              numeroCapitulo10={"10"}
-              numeroCapitulo11={"11"}
-              numeroCapitulo12={"12"}
               capituloAnime1={"/ver/date-a-live-IV-1"}
               capituloAnime2={"/ver/date-a-live-IV-2"}
               capituloAnime3={"/ver/date-a-live-IV-3"}
@@ -2444,24 +2324,26 @@ function App() {
               capituloAnime10={"/ver/date-a-live-IV-10"}
               capituloAnime11={"/ver/date-a-live-IV-11"}
               capituloAnime12={"/ver/date-a-live-IV-12"}
-              sec1={"sec"}
+              textoSecuela={"Precuela"}
+              nombreSecuela={"Date A Live III"}
+              hrefSecuela={"/date-a-live-III"}
               sec2={"sec"}
               sec3={"sec"}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              genero4={""}
-              genero5={""}
-              genre1={"disable"}
-              genre2={"disable"}
+              genero1={"Acción"}
+              genero2={"Escolares"}
+              genero3={"Fantasia"}
+              genero4={"Romance"}
+              genero5={"Harem"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
-              hrefGenre4={""}
-              hrefGenre5={""}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              genre5={"button is-small is-orange is-outlined is-roundedX"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=escolares"}
+              hrefGenre3={"/generos[]=fantasia"}
+              hrefGenre4={"/generos[]=romance"}
+              hrefGenre5={"/generos[]=harem"}
               li13={"li"}
               li14={"li"}
               li15={"li"}
@@ -2582,21 +2464,21 @@ function App() {
               hrefSecuela={"/tate-no-yuusha-no-naraigari"}
               sec2={"sec"}
               sec3={"sec"}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              genero4={""}
-              genero5={""}
-              genre1={"disable"}
-              genre2={"disable"}
+              genero1={"Acción"}
+              genero2={"Drama"}
+              genero3={"Fantasia"}
+              genero4={"Seinen"}
+              genero5={"Isekai"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
-              hrefGenre4={""}
-              hrefGenre5={""}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              genre5={"button is-small is-orange is-outlined is-roundedX"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=drama"}
+              hrefGenre3={"/generos[]=fantasia"}
+              hrefGenre4={"/generos[]=seinen"}
+              hrefGenre5={"/generos[]=isekai"}
               li13={"li"}
               li14={"li"}
               li15={"li"}
@@ -2688,21 +2570,13 @@ function App() {
               sec1={"sec"}
               sec2={"sec"}
               sec3={"sec"}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              genero4={""}
-              genero5={""}
-              genre1={"disable"}
+              genero1={"Psicológico"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
               genre2={"disable"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"disable"}
               genre4={"disable"}
               genre5={"disable"}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
-              hrefGenre4={""}
-              hrefGenre5={""}
+              hrefGenre1={"/generos[]=psicologico"}
               li13={"li"}
               li14={"li"}
               li15={"li"}
@@ -2782,21 +2656,19 @@ function App() {
               sec1={"sec"}
               sec2={"sec"}
               sec3={"sec"}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              genero4={""}
-              genero5={""}
-              genre1={"disable"}
-              genre2={"disable"}
+              genero1={"Accipon"}
+              genero2={"Drama"}
+              genero3={"Shoujo"}
+              genero4={"Histórico"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
               genre5={"disable"}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
-              hrefGenre4={""}
-              hrefGenre5={""}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=drama"}
+              hrefGenre3={"/generos[]=shoujo"}
+              hrefGenre4={"/generos[]=historico"}
               capituloAnime1={"/ver/baraou-no-souretsu-1"}
               capituloAnime2={"/ver/baraou-no-souretsu-2"}
               capituloAnime3={"/ver/baraou-no-souretsu-3"}
@@ -2958,21 +2830,21 @@ function App() {
               sec1={"sec"}
               sec2={"sec"}
               sec3={"sec"}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              genero4={""}
-              genero5={""}
-              genre1={"disable"}
-              genre2={"disable"}
+              genero1={"Acción"}
+              genero2={"Drama"}
+              genero3={"Aventura"}
+              genero4={"Shounen"}
+              genero5={"Misterio"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
-              hrefGenre4={""}
-              hrefGenre5={""}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              genre5={"button is-small is-orange is-outlined is-roundedX"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=drama"}
+              hrefGenre3={"/generos[]=aventura"}
+              hrefGenre4={"/generos[]=shounen"}
+              hrefGenre5={"/generos[]=misterio"}
             />
           }
         />
@@ -2984,26 +2856,15 @@ function App() {
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              genero4={""}
-              genero5={""}
-              genre1={"disable"}
-              genre2={"disable"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genero1={"Música"}
+              genero2={"Spoken"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"disable"}
               genre4={"disable"}
               genre5={"disable"}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
-              hrefGenre4={""}
-              hrefGenre5={""}
-              li8={"li"}
-              li9={"li"}
-              li10={"li"}
-              li11={"li"}
-              li12={"li"}
+              hrefGenre1={"/generos[]=musica"}
+              hrefGenre2={"/generos[]=spoken"}
               li13={"li"}
               li14={"li"}
               li15={"li"}
@@ -3067,8 +2928,8 @@ function App() {
               }
               anime={"Extreme Hearts"}
               tipo={"TV"}
-              numeroEpisodios={"7"}
-              estado={"En Emision"}
+              numeroEpisodios={"12"}
+              estado={"Finalizado"}
               imagenAnime={
                 "https://www.animefenix.com/cdn/animes/cover/62c5b68624724/extreme-hearts.jpg"
               }
@@ -3084,18 +2945,6 @@ function App() {
               capituloAnime10={"/ver/extreme-hearts-10"}
               capituloAnime11={"/ver/extreme-hearts-11"}
               capituloAnime12={"/ver/extreme-hearts-12"}
-              capituloAnime13={"/ver/extreme-hearts-13"}
-              capituloAnime14={"/ver/extreme-hearts-14"}
-              capituloAnime15={"/ver/extreme-hearts-15"}
-              capituloAnime16={"/ver/extreme-hearts-16"}
-              capituloAnime17={"/ver/extreme-hearts-17"}
-              capituloAnime18={"/ver/extreme-hearts-18"}
-              capituloAnime19={"/ver/extreme-hearts-19"}
-              capituloAnime20={"/ver/extreme-hearts-20"}
-              capituloAnime21={"/ver/extreme-hearts-21"}
-              capituloAnime22={"/ver/extreme-hearts-22"}
-              capituloAnime23={"/ver/extreme-hearts-23"}
-              capituloAnime24={"/ver/extreme-hearts-24"}
             />
           }
         />
@@ -3108,18 +2957,14 @@ function App() {
               genero1={"Comedia"}
               genero2={"Romance"}
               genero3={"Seinen"}
-              genero4={""}
-              genero5={""}
               genre1={"button is-small is-orange is-outlined is-roundedX"}
               genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
               genre4={"disable"}
               genre5={"disable"}
-              hrefGenre1={"/generos=comedia"}
-              hrefGenre2={"/generos=romance"}
-              hrefGenre3={"/generos=seinen"}
-              hrefGenre4={""}
-              hrefGenre5={""}
+              hrefGenre1={"/generos[]=comedia"}
+              hrefGenre2={"/generos[]=romance"}
+              hrefGenre3={"/generos[]=seinen"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
@@ -3176,30 +3021,6 @@ function App() {
               tipo={"TV"}
               numeroEpisodios={"24"}
               estado={"Finalizado"}
-              numeroCapitulo1={"1"}
-              numeroCapitulo2={"2"}
-              numeroCapitulo3={"3"}
-              numeroCapitulo4={"4"}
-              numeroCapitulo5={"5"}
-              numeroCapitulo6={"6"}
-              numeroCapitulo7={"7"}
-              numeroCapitulo8={"8"}
-              numeroCapitulo9={"9"}
-              numeroCapitulo10={"10"}
-              numeroCapitulo11={"11"}
-              numeroCapitulo12={"12"}
-              numeroCapitulo13={"13"}
-              numeroCapitulo14={"14"}
-              numeroCapitulo15={"15"}
-              numeroCapitulo16={"16"}
-              numeroCapitulo17={"17"}
-              numeroCapitulo18={"18"}
-              numeroCapitulo19={"19"}
-              numeroCapitulo20={"20"}
-              numeroCapitulo21={"21"}
-              numeroCapitulo22={"22"}
-              numeroCapitulo23={"23"}
-              numeroCapitulo24={"24"}
               anime={"Golden Time "}
               capituloAnime1={"/ver/golden-time-1"}
               capituloAnime2={"/ver/golden-time-2"}
@@ -3244,11 +3065,11 @@ function App() {
               genre3={"button is-small is-orange is-outlined is-roundedX"}
               genre4={"button is-small is-orange is-outlined is-roundedX"}
               genre5={"button is-small is-orange is-outlined is-roundedX"}
-              hrefGenre1={"/generos=comedia"}
-              hrefGenre2={"/generos=accion"}
-              hrefGenre3={"/generos=aventura"}
-              hrefGenre4={"/generos=fantasia"}
-              hrefGenre5={"/generos=magia"}
+              hrefGenre1={"/generos[]=comedia"}
+              hrefGenre2={"/generos[]=accion"}
+              hrefGenre3={"/generos[]=aventura"}
+              hrefGenre4={"/generos[]=fantasia"}
+              hrefGenre5={"/generos[]=magia"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
@@ -3347,11 +3168,11 @@ function App() {
               genre3={"button is-small is-orange is-outlined is-roundedX"}
               genre4={"button is-small is-orange is-outlined is-roundedX"}
               genre5={"button is-small is-orange is-outlined is-roundedX"}
-              hrefGenre1={"/generos=accion"}
-              hrefGenre2={"/generos=comedia"}
-              hrefGenre3={"/generos=misterio"}
-              hrefGenre4={"/generos=shounen"}
-              hrefGenre5={"/generos=sobrenatural"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=comedia"}
+              hrefGenre3={"/generos[]=misterio"}
+              hrefGenre4={"/generos[]=shounen"}
+              hrefGenre5={"/generos[]=sobrenatural"}
               hrefSecuela={
                 "/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-segunda-temporada"
               }
@@ -3467,8 +3288,7 @@ function App() {
           }
         />
         <Route
-          path="/gensou-sangokushi-tengen-reishink"
-          exact
+          path="/gensou-sangokushi-tenge-reishink"
           element={
             <Capitulos12
               tituloAnime={"Gensou Sangokushi Tengen Reishink"}
@@ -3479,11 +3299,23 @@ function App() {
               genre3={"disable"}
               genre4={"disable"}
               genre5={"disable"}
-              hrefGenre1={"/generos=fantasia"}
-              hrefGenre2={"/generos=historico"}
+              hrefGenre1={"/generos[]=fantasia"}
+              hrefGenre2={"/generos[]=historico"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
+              li13={"li"}
+              li14={"li"}
+              li15={"li"}
+              li16={"li"}
+              li17={"li"}
+              li18={"li"}
+              li19={"li"}
+              li20={"li"}
+              li21={"li"}
+              li22={"li"}
+              li23={"li"}
+              li24={"li"}
               li25={"li"}
               li26={"li"}
               li27={"li"}

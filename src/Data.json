@@ -88,9 +88,7 @@
     "img": "https://www.animefenix.com/cdn/animes/cover/62b390dacca80/kuro-no-shoukanshi.jpg",
     "link": "/kuro-no-shoukanshi",
     "title": "Kuro no Shoukanshi",
-    "year": 2022,
-    "estado": "En Emision",
-    "classEstado": "tag is-success airing"
+    "year": 2022
   },
   {
     "id": "14",
@@ -102,20 +100,16 @@
   {
     "id": "15",
     "img": "https://www.animefenix.com/cdn/animes/cover/62b38b1fc1df2/isekai-meikyuu-de-harem-wo.jpg",
-    "link": "/isekai-meiryuu-de-harem-wo",
-    "title": "Isekai Meiryuu de Harem wo",
-    "year": 2022,
-    "estado": "En Emision",
-    "classEstado": "tag is-success airing"
+    "link": "/isekai-meikyuu-de-harem-wo",
+    "title": "Isekai Meikyuu de Harem wo",
+    "year": 2022
   },
   {
     "id": "16",
     "img": "https://www.animefenix.com/cdn/animes/cover/62b9c44a32f53/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2nd-season.jpg",
     "link": "/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada",
     "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Temporada 2",
-    "year": 2022,
-    "estado": "En Emision",
-    "classEstado": "tag is-success airing"
+    "year": 2022
   },
   {
     "id": "17",
