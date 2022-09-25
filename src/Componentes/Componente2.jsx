@@ -33,7 +33,6 @@ export function Capitulos12({
   textoSecuela,
   nombreSecuela,
   tituloAnime,
-  videoTrailer,
   imagenAnime,
   descripcion,
   anime,

@@ -4514,7 +4514,9 @@ function App() {
         {/* <Route path="/generos[]=accion&page=6" element={< />} /> */}
         <Route path="/animes%20year[]=2022&page=2" element={<Page10 />} />
         <Route path="/animes%20type[]=ova" element={<Page10 />} />
+
         {/* Animes */}
+
         <Route path="/animes%20page=10" element={<Page10 />} />
         <Route path="/animes%20page=9" element={<Page9 />} />
         <Route path="/animes%20page=8" element={<Page8 />} />
@@ -4525,6 +4527,9 @@ function App() {
         <Route path="/animes%20page=3" element={<Page3 />} />
         <Route path="/animes%20page=2" element={<Page2 />} />
         <Route path="/animes" element={<Page1 />} />
+
+        {/* EN EMISION 12 CAPITULOS*/}
+        <Route path="/isekai-ojisan" element={<Capitulos12 />} />
 
         <Route path="*" element={<NoExiste />} />
       </Routes>
