@@ -4545,9 +4545,9 @@ function App() {
               genero1={"Comedia"}
               genero2={"Fantasia"}
               genero3={"Isekai"}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
+              hrefGenre1={"/generos[]=comedia"}
+              hrefGenre2={"/generos[]=fantasia"}
+              hrefGenre3={"/generos[]=isekai"}
               genre1={"button is-small is-orange is-outlined is-roundedX"}
               genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
@@ -4556,6 +4556,7 @@ function App() {
               tipo={"TV"}
               estado={"En Emisión"}
               numeroEpisodios={"7"}
+              Fecha={"Jueves 22 de Noviembre"}
               capituloAnime1={"/ver/isekai-ojisan-1"}
               capituloAnime2={"/ver/isekai-ojisan-2"}
               capituloAnime3={"/ver/isekai-ojisan-3"}
