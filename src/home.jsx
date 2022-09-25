@@ -3357,6 +3357,11 @@ function App() {
               genero3={"Drama"}
               genero4={"Fantasia"}
               genero5={"Harem"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              genre5={"button is-small is-orange is-outlined is-roundedX"}
               hrefGenre1={"/generos[]=accion"}
               hrefGenre2={"/generos[]=aventura"}
               hrefGenre3={"/generos[]=drama"}
