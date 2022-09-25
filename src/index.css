@@ -270,6 +270,9 @@ a {
   color: rgb(230, 230, 230);
   padding: 7px;
 }
+.navbar-burger {
+  background-color: transparent !important;
+}
 
 .button.is-orange.is-outlined {
   background-color: transparent !important;
