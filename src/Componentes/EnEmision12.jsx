@@ -155,7 +155,10 @@ export function Emision12({
                 </li>
                 <li className={nextCapi}>
                   <span className="has-text-weight-semibold has-text-grey is-uppercase">
-                    Proximo Capitulo: {Fecha}
+                    Proximo Capitulo:
+                  </span>
+                  <span className="is-uppercase has-text-weight-semibold">
+                    {Fecha}
                   </span>
                 </li>
               </ul>
