@@ -4538,6 +4538,7 @@ function App() {
               }
               anime={"Isekai Ojisan"}
               imagenAnime={"./Covers/isekai-ojisan.jpg"}
+              tituloAnime={"Isekai Ojisan"}
             />
           }
         />
