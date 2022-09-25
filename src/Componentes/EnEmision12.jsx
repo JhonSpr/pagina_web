@@ -2,7 +2,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Emision12({
-  nextCapi,
   Fecha,
   hrefGenre1,
   hrefGenre2,
@@ -153,7 +152,7 @@ export function Emision12({
                   </span>
                   <a href={hrefSecuela3}>{nombreSecuela3}</a>
                 </li>
-                <li className={nextCapi}>
+                <li>
                   <span className="has-text-weight-semibold has-text-grey is-uppercase">
                     Proximo Capitulo:
                   </span>
