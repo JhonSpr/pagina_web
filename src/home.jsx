@@ -19,6 +19,7 @@ import { Page6 } from "./Page/Page6";
 import { AccionPageOne } from "./PageGeneros/AccionPage1";
 import { AccionPageTwo } from "./PageGeneros/AccionPage2";
 import { Numero12 } from "./Componentes/Capitulos12";
+import { Emision12 } from "./Componentes/EnEmision12";
 
 function App() {
   return (
@@ -4532,7 +4533,7 @@ function App() {
         <Route
           path="/isekai-ojisan"
           element={
-            <Capitulos12
+            <Emision12
               descripcion={
                 'Otoño 2017... Atropellado por un camión cuando tenía 17 años, el tío de Takafumi despierta repentinamente de un coma que duró 17 años. Cuando Takafumi lo visita en el hospital, ve a su tío murmurando tonterías y declarando que ha regresado de otro mundo llamado "GRAN-BAHAMAL". ...Claramente, su tío se ha vuelto loco. Takafumi no tiene palabras, pero su tío demuestra sus afirmaciones de estar en otra dimensión usando algo de magia. Decidiendo usar los poderes de su tío para ganarse la vida, y sin otros parientes a los que llamar, Takafumi lo acoge y comienzan a compartir un apartamento juntos. Mientras vive con su tío, Takafumi se entera de sus fantásticas aventuras y su amor ilimitado por los videojuegos de SEGA. Pero a veces, las experiencias solitarias y crueles de su tío llenan a Takafumi de alegría y tristeza. ¡Dos hombres de diferentes generaciones trabajan arduamente para ser creadores de contenido de video en esta nueva y emocionante comedia de otro mundo ambientada en un rincón de un complejo de apartamentos!'
               }

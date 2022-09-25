@@ -1,7 +1,7 @@
 /* eslint-disable react/style-prop-object */
 /* eslint-disable jsx-a11y/anchor-is-valid */
 /* eslint-disable jsx-a11y/iframe-has-title */
-export function Capitulos12({
+export function Emision12({
   nextCapi,
   Fecha,
   hrefGenre1,
