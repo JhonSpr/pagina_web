@@ -4545,6 +4545,9 @@ function App() {
               genero1={"Comedia"}
               genero2={"Fantasia"}
               genero3={"Isekai"}
+              sec={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
               hrefGenre1={"/generos[]=comedia"}
               hrefGenre2={"/generos[]=fantasia"}
               hrefGenre3={"/generos[]=isekai"}
