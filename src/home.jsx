@@ -4542,9 +4542,9 @@ function App() {
                 "https://www.animefenix.com/cdn/animes/cover/62b3883db4847/isekai-ojisan.jpg"
               }
               tituloAnime={"Isekai Ojisan"}
-              genero1={""}
-              genero2={""}
-              genero3={""}
+              genero1={"Comedia"}
+              genero2={"Fantasia"}
+              genero3={"Isekai"}
               hrefGenre1={""}
               hrefGenre2={""}
               hrefGenre3={""}

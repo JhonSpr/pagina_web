@@ -1,0 +1,144 @@
+[
+  {
+    "id": 1,
+    "img": "https://www.animefenix.com/cdn/animes/cover/62b3883db4847/isekai-ojisan.jpg",
+    "link": "/isekai-ojisan",
+    "title": "Isekai Ojisan",
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
+  },
+  {
+    "id": 2,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 3,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 4,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 5,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 6,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 7,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 8,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 9,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 10,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 11,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 12,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 13,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 14,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 15,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 16,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 17,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 18,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 19,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 20,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  }
+]
