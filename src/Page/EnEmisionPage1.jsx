@@ -314,16 +314,12 @@ export function EnEmisionPage1() {
 
       <div className="paginacion-contenedor">
         <ul>
-          <a href="/en-emision" className="anterior">
-            Anterior
-          </a>
           <li className="active">
             <a href="/en-emision">1</a>
           </li>
           <li>
             <a href="/en-emision page=2">2</a>
           </li>
-
           <a href="/en-emision page=3" className="siguiente">
             Siguiente
           </a>
