@@ -1060,34 +1060,44 @@
     "img": "https://www.animefenix.com/cdn/animes/cover/632a6622b8f6b/chainsaw-man.jpg",
     "link": "/chainsaw-man",
     "title": "Chainsaw Man",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 151,
     "img": "https://www.animefenix.com/cdn/animes/cover/632a6488f00ed/peter-grill-to-kenja-no-jikan-super-extra.jpg",
     "link": "/peter-grill-to-kenja-no-jikan-super-extra",
     "title": "Peter Grill to Kenja no Jikan Super Extra",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 152,
     "img": "https://www.animefenix.com/cdn/animes/cover/632a5d297e994/mob-psycho-100-iii.jpg",
     "link": "/mob-psycho-100-III",
     "title": "Mob Psycho 100 III",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 153,
     "img": "https://www.animefenix.com/cdn/animes/cover/62b394d8973bb/danmachi-iv.jpg",
     "link": "/danmachi-IV",
     "title": "Danmachi IV",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 154,
     "img": "https://www.animefenix.com/cdn/animes/cover/632a65c207e92/bleach-sennen-kessen-hen.jpg",
     "link": "/bleach-sennen-kessen-hen",
     "title": "BLEACH: Sennen Kessen-hen",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   }
 ]
