@@ -253,7 +253,7 @@ export function AccionPage2() {
 }
 
 export function EmisionPage1() {
-  return emision.slice(0, 24).map((emision) => {
+  return emision.slice(0, 25).map((emision) => {
     return (
       <article className="serie-card" title={emision.title} key={emision.id}>
         <figure className="image overarchingdiv2">
