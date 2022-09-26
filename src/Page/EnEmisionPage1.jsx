@@ -323,30 +323,7 @@ export function EnEmisionPage1() {
           <li>
             <a href="/en-emision page=2">2</a>
           </li>
-          <li>
-            <a href="/en-emision page=3">3</a>
-          </li>
-          <li className="paginacion">
-            <a href="/en-emision page=4">4</a>
-          </li>
-          <li className="paginacion">
-            <a href="/en-emision page=5">5</a>
-          </li>
-          <li className="paginacion">
-            <a href="/en-emision page=6">6</a>
-          </li>
-          <li className="paginacion">
-            <a href="/en-emision page=7">7</a>
-          </li>
-          <li className="paginacion">
-            <a href="/en-emision page=8">8</a>
-          </li>
-          <li className="paginacion">
-            <a href="/en-emision page=9">9</a>
-          </li>
-          <li className="paginacion">
-            <a href="/en-emision page=10">10</a>
-          </li>
+
           <a href="/en-emision page=3" className="siguiente">
             Siguiente
           </a>
