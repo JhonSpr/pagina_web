@@ -92,139 +92,179 @@
     "img": "https://www.animefenix.com/cdn/animes/cover/632b3929eccb5/berserk-ougon-jidai-hen-memorial-edition.jpg",
     "link": "/berserk-ougon-jidai-hen-memorial-edition",
     "title": "Berserk: Ougon Jidai-hen - MEMORIAL EDITION",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 12,
     "img": "https://www.animefenix.com/cdn/animes/cover/632b3cf77171f/ginga-eiyuu-densetsu-die-neue-these-sakubou.png",
     "link": "/ginga-eiyuu-densetsu-die-neue-these-sakubou",
     "title": "Ginga Eiyuu Densetsu: Die Neue These - Sakubou",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 13,
     "img": "https://www.animefenix.com/cdn/animes/cover/632b3e36745b7/vazzrock-the-animation.jpg",
     "link": "/vazzrock-the-animation",
     "title": "VAZZROCK THE ANIMATION",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 14,
     "img": "https://www.animefenix.com/cdn/animes/cover/632b430b489af/fumetsu-no-anata-e-season-2.jpg",
     "link": "/fumetsu-no-anata-e-2nd-temporada",
     "title": "Fumetsu no Anata e Temporada 2",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 15,
     "img": "https://www.animefenix.com/cdn/animes/cover/632a63aa79eb4/fuufu-ijou-koibito-miman.jpg",
     "link": "/fuufu-ijou-koibito-miman",
     "title": "Fuufu Ijou, Koibito Miman",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 16,
     "img": "https://www.animefenix.com/cdn/animes/cover/632a631f7a9ed/bluelock.png",
     "link": "/bluelock",
     "title": "BLUELOCK",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 17,
     "img": "https://www.animefenix.com/cdn/animes/cover/632a622ad645a/yowamushi-pedal-limit-break.jpg",
     "link": "/yowamushi-pedal-limit-break",
     "title": "Yowamushi Pedal Limit Break",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 18,
     "img": "",
     "link": "",
     "title": "",
-    "year": 2
+    "year": 2,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 19,
     "img": "",
     "link": "",
     "title": "",
-    "year": 2
+    "year": 2,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 20,
     "img": "",
     "link": "",
     "title": "",
-    "year": 2
+    "year": 2,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 21,
     "img": "",
     "link": "",
     "title": "",
-    "year": 2
+    "year": 2,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 22,
     "img": "",
     "link": "",
     "title": "",
-    "year": 2
+    "year": 2,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 23,
     "img": "",
     "link": "",
     "title": "",
-    "year": 2
+    "year": 2,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 24,
     "img": "",
     "link": "",
     "title": "",
-    "year": 2
+    "year": 2,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 25,
     "img": "",
     "link": "",
     "title": "",
-    "year": 2
+    "year": 2,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 26,
     "img": "",
     "link": "",
     "title": "",
-    "year": 2
+    "year": 2,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 27,
     "img": "",
     "link": "",
     "title": "",
-    "year": 2
+    "year": 2,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 28,
     "img": "",
     "link": "",
     "title": "",
-    "year": 2
+    "year": 2,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 29,
     "img": "",
     "link": "",
     "title": "",
-    "year": 2
+    "year": 2,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 30,
     "img": "",
     "link": "",
     "title": "",
-    "year": 2
+    "year": 2,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   }
 ]

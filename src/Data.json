@@ -1105,48 +1105,62 @@
     "img": "https://www.animefenix.com/cdn/animes/cover/632a622ad645a/yowamushi-pedal-limit-break.jpg",
     "link": "/yowamushi-pedal-limit-break",
     "title": "Yowamushi Pedal Limit Break",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 156,
     "img": "https://www.animefenix.com/cdn/animes/cover/632a631f7a9ed/bluelock.png",
     "link": "/bluelock",
     "title": "BLUELOCK",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 157,
     "img": "https://www.animefenix.com/cdn/animes/cover/632a63aa79eb4/fuufu-ijou-koibito-miman.jpg",
     "link": "/fuufu-ijou-koibito-miman",
     "title": "Fuufu Ijou, Koibito Miman",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 158,
     "img": "https://www.animefenix.com/cdn/animes/cover/632b430b489af/fumetsu-no-anata-e-season-2.jpg",
     "link": "/fumetsu-no-anata-e-2nd-temporada",
     "title": "Fumetsu no Anata e Temporada 2",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 159,
     "img": "https://www.animefenix.com/cdn/animes/cover/632b3e36745b7/vazzrock-the-animation.jpg",
     "link": "/vazzrock-the-animation",
     "title": "VAZZROCK THE ANIMATION",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 160,
     "img": "https://www.animefenix.com/cdn/animes/cover/632b3cf77171f/ginga-eiyuu-densetsu-die-neue-these-sakubou.png",
     "link": "/ginga-eiyuu-densetsu-die-neue-these-sakubou",
     "title": "Ginga Eiyuu Densetsu: Die Neue These - Sakubou",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 161,
     "img": "https://www.animefenix.com/cdn/animes/cover/632b3929eccb5/berserk-ougon-jidai-hen-memorial-edition.jpg",
     "link": "/berserk-ougon-jidai-hen-memorial-edition",
     "title": "Berserk: Ougon Jidai-hen - MEMORIAL EDITION",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   }
 ]
