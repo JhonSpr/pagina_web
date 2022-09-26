@@ -267,18 +267,14 @@
     "img": "https://www.animefenix.com/cdn/animes/cover/62b3854093b93/overlord-iv.jpg",
     "link": "/overlord-IV",
     "title": "Overlord IV",
-    "year": 2022,
-    "estado": "En Emision",
-    "classEstado": "tag is-success airing"
+    "year": 2022
   },
   {
     "id": "39",
     "img": "https://www.animefenix.com/cdn/animes/cover/62b37fcac4bd9/tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete-sekai-saikyou-ni-narimashita.jpg",
     "link": "/tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete-sekai-saikyou-ni-narimashita",
     "title": "Tensei kenja no Isekai life dai 2 no shokugyou wo ete sekai saikyou ni narimashita",
-    "year": 2022,
-    "estado": "En Emision",
-    "classEstado": "tag is-success airing"
+    "year": 2022
   },
   {
     "id": "40",
@@ -970,10 +966,10 @@
   },
   {
     "id": "138",
-    "img": "https://www.animefenix.com/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg",
-    "link": "/fullmetal-alchemist-brotherhood",
-    "title": "Fullmetal Alchemist: Brotherhood",
-    "year": 2009
+    "img": "https://www.animefenix.com/cdn/animes/cover/6327cc4e05841/spy-x-family-cour-2.jpg",
+    "link": "/spy-x-family-2nd-temporada",
+    "title": "SPY x FAMILY Temporada 2",
+    "year": 2022
   },
   {
     "id": "139",
@@ -1058,5 +1054,40 @@
     "link": "/levius",
     "title": "Levius",
     "year": 2019
+  },
+  {
+    "id": 150,
+    "img": "https://www.animefenix.com/cdn/animes/cover/632a6622b8f6b/chainsaw-man.jpg",
+    "link": "/chainsaw-man",
+    "title": "Chainsaw Man",
+    "year": 2022
+  },
+  {
+    "id": 151,
+    "img": "https://www.animefenix.com/cdn/animes/cover/632a6488f00ed/peter-grill-to-kenja-no-jikan-super-extra.jpg",
+    "link": "/peter-grill-to-kenja-no-jikan-super-extra",
+    "title": "Peter Grill to Kenja no Jikan Super Extra",
+    "year": 2022
+  },
+  {
+    "id": 152,
+    "img": "https://www.animefenix.com/cdn/animes/cover/632a5d297e994/mob-psycho-100-iii.jpg",
+    "link": "/mob-psycho-100-III",
+    "title": "Mob Psycho 100 III",
+    "year": 2022
+  },
+  {
+    "id": 153,
+    "img": "https://www.animefenix.com/cdn/animes/cover/62b394d8973bb/danmachi-iv.jpg",
+    "link": "/danmachi-IV",
+    "title": "Danmachi IV",
+    "year": 2022
+  },
+  {
+    "id": 154,
+    "img": "https://www.animefenix.com/cdn/animes/cover/632a65c207e92/bleach-sennen-kessen-hen.jpg",
+    "link": "/bleach-sennen-kessen-hen",
+    "title": "BLEACH: Sennen Kessen-hen",
+    "year": 2022
   }
 ]
