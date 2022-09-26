@@ -85,7 +85,9 @@
     "img": "https://www.animefenix.com/cdn/animes/cover/632a66bee05b6/urusei-yatsura-2022.jpg",
     "link": "/urusei-yatsura",
     "title": "Urusei Yatsura",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 11,
