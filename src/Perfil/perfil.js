@@ -1,6 +1,5 @@
 import React from "react";
 import { useAuth0 } from "@auth0/auth0-react";
-import { Link } from "react-router-dom";
 
 const Profile = () => {
   const { user, isAuthenticated, isLoading } = useAuth0();
@@ -21,9 +20,9 @@ const Profile = () => {
       <li className="navbar-item perfil-container">
         <img src={user.picture} alt={user.nickname} />
 
-        <Link to={`/perfil/${user.nickname}`}>
+        <a href={`/perfil/${user.nickname}`}>
           <h2 className="nickname">{user.nickname}</h2>
-        </Link>
+        </a>
       </li>
     )
   );
