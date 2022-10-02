@@ -87,9 +87,9 @@ export function Inicio({
                 <Noticia />
               </div>
             </div>
+            <Disqus />
           </section>
         </div>
-        <Disqus />
       </div>
     </section>
   );
