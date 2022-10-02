@@ -4534,41 +4534,50 @@ function App() {
           path=""
           element={
             <Emision12
-              descripcion={""}
-              anime={""}
-              imagenAnime={""}
-              tituloAnime={""}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              sec1={"disable"}
+              descripcion={"Tercera temporada de Mob Psycho 100"}
+              anime={"Mob Psycho 100 III"}
+              imagenAnime={
+                "https://www.animefenix.com/cdn/animes/cover/632a5d297e994/mob-psycho-100-iii.jpg"
+              }
+              tituloAnime={"Mob Psycho 100 III"}
+              genero1={"Acción"}
+              genero2={"Comedia"}
+              nombreSecuela={"Mob Psycho 100 II"}
+              hrefSecuela={"/mob-psycho-100-II"}
+              textoSecuela={"Precuela"}
+              sec1={"button is-small is-orange is-outlined is-roundedX"}
               sec2={"disable"}
               sec3={"disable"}
-              hrefGenre1={"/generos[]="}
-              hrefGenre2={"/generos[]="}
-              hrefGenre3={"/generos[]="}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=comedia"}
               genre1={"button is-small is-orange is-outlined is-roundedX"}
               genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"disable"}
               genre4={"disable"}
               genre5={"disable"}
               tipo={"TV"}
               estado={"En Emisión"}
-              numeroEpisodios={""}
-              Fecha={""}
-              capituloAnime1={"/ver/-1"}
-              capituloAnime2={"/ver/-2"}
-              capituloAnime3={"/ver/-3"}
-              capituloAnime4={"/ver/-4"}
-              capituloAnime5={"/ver/-5"}
-              capituloAnime6={"/ver/-6"}
-              capituloAnime7={"/ver/-7"}
-              capituloAnime8={"/ver/-8"}
-              capituloAnime9={"/ver/-9"}
-              capituloAnime10={"/ver/-10"}
-              capituloAnime11={"/ver/-11"}
-              capituloAnime12={"/ver/-12"}
-              capituloAnime13={"/ver/-13"}
+              numeroEpisodios={"0"}
+              Fecha={"Miercoles 5 de octubre 2022"}
+              capituloAnime1={"/ver/mob-psycho-100-III-1"}
+              capituloAnime2={"/ver/mob-psycho-100-III-2"}
+              capituloAnime3={"/ver/mob-psycho-100-III-3"}
+              capituloAnime4={"/ver/mob-psycho-100-III-4"}
+              capituloAnime5={"/ver/mob-psycho-100-III-5"}
+              capituloAnime6={"/ver/mob-psycho-100-III-6"}
+              capituloAnime7={"/ver/mob-psycho-100-III-7"}
+              capituloAnime8={"/ver/mob-psycho-100-III-8"}
+              capituloAnime9={"/ver/mob-psycho-100-III-9"}
+              capituloAnime10={"/ver/mob-psycho-100-III-10"}
+              capituloAnime11={"/ver/mob-psycho-100-III-11"}
+              capituloAnime12={"/ver/mob-psycho-100-III-12"}
+              li1={"disable"}
+              li2={"disable"}
+              li3={"disable"}
+              li4={"disable"}
+              li5={"disable"}
+              li6={"disable"}
+              li7={"disable"}
               li8={"disable"}
               li9={"disable"}
               li10={"disable"}

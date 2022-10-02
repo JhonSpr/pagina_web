@@ -40,10 +40,12 @@
   },
   {
     "id": 6,
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 2
+    "img": "https://www.animefenix.com/cdn/animes/cover/632a5d297e994/mob-psycho-100-iii.jpg",
+    "link": "/mob-psycho-100-III",
+    "title": "Mob Psycho 100 III",
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 7,

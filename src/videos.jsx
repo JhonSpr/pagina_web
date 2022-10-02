@@ -9728,7 +9728,6 @@ function Videos() {
             is-2-mobile
             cont-siguiente
             tituloAnime={"Spy x Family 2nd Temporada Capitulo 2"}
-            tituloPag={"Animekun"}
             anime={"Spy x Family 2nd Temporada "}
             numero={"2"}
             siguienteVideo={"/ver/spy-x-family-2nd-temporada-3"}
@@ -9738,116 +9737,101 @@ function Videos() {
         }
       />
       <Route
-        path="/ver/-3"
+        path="/ver/spy-x-family-2nd-temporada-3"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
+            contSiguienteClass={"disable"}
             tituloAnime={" Capitulo 3"}
-            tituloPag={"Animekun"}
             anime={" "}
             numero={"3"}
-            siguienteVideo={"/ver/-4"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-2"}
+            siguienteVideo={"/ver/spy-x-family-2nd-temporada-4"}
+            capitulosVideo={"/spy-x-family-2nd-temporada"}
+            anteriorVideo={"/ver/spy-x-family-2nd-temporada-2"}
           />
         }
       />
       <Route
-        path="/ver/-4"
+        path="/ver/spy-x-family-2nd-temporada-4"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
+            contSiguienteClass={"disable"}
             tituloAnime={" Capitulo 4"}
             tituloPag={"Animekun"}
             anime={" "}
             numero={"4"}
-            siguienteVideo={"/ver/-5"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-3"}
+            siguienteVideo={"/ver/spy-x-family-2nd-temporada-5"}
+            capitulosVideo={"/spy-x-family-2nd-temporada"}
+            anteriorVideo={"/ver/spy-x-family-2nd-temporada-3"}
           />
         }
       />
       <Route
-        path="/ver/-5"
+        path="/ver/spy-x-family-2nd-temporada-5"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
+            contSiguienteClass={"disable"}
             tituloAnime={" Capitulo 5"}
             tituloPag={"Animekun"}
             anime={" "}
             numero={"5"}
-            siguienteVideo={"/ver/-6"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-4"}
+            siguienteVideo={"/ver/spy-x-family-2nd-temporada-6"}
+            capitulosVideo={"/spy-x-family-2nd-temporada"}
+            anteriorVideo={"/ver/spy-x-family-2nd-temporada-4"}
           />
         }
       />
       <Route
-        path="/ver/-6"
+        path="/ver/spy-x-family-2nd-temporada-6"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
+            contSiguienteClass={"disable"}
             tituloAnime={" Capitulo 6"}
             tituloPag={"Animekun"}
             anime={" "}
             numero={"6"}
-            siguienteVideo={"/ver/-7"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-5"}
+            siguienteVideo={"/ver/spy-x-family-2nd-temporada-7"}
+            capitulosVideo={"/spy-x-family-2nd-temporada"}
+            anteriorVideo={"/ver/spy-x-family-2nd-temporada-5"}
           />
         }
       />
       <Route
-        path="/ver/-7"
+        path="/ver/spy-x-family-2nd-temporada-7"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
+            contSiguienteClass={"disable"}
             tituloAnime={" Capitulo 7"}
-            tituloPag={"Animekun"}
             anime={" "}
             numero={"7"}
-            siguienteVideo={"/ver/-8"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-6"}
+            siguienteVideo={"/ver/spy-x-family-2nd-temporada-8"}
+            capitulosVideo={"/spy-x-family-2nd-temporada"}
+            anteriorVideo={"/ver/spy-x-family-2nd-temporada-6"}
           />
         }
       />
       <Route
-        path="/ver/-8"
+        path="/ver/spy-x-family-2nd-temporada-8"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
+            contSiguienteClass={"disable"}
             tituloAnime={" Capitulo 8"}
-            tituloPag={"Animekun"}
             anime={" "}
             numero={"8"}
-            siguienteVideo={"/ver/-9"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-7"}
+            siguienteVideo={"/ver/spy-x-family-2nd-temporada-9"}
+            capitulosVideo={"/spy-x-family-2nd-temporada"}
+            anteriorVideo={"/ver/spy-x-family-2nd-temporada-7"}
           />
         }
       />
@@ -9926,58 +9910,49 @@ function Videos() {
       />
       ---------------- ----------------
       <Route
-        path="/ver/-1"
+        path="/ver/mob-psycho-100-III-1"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
             contAnteriorClass="disable"
             tituloAnime={" 1"}
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
-            tituloPag={"Animekun"}
-            anime={"Akudama Drive"}
+            contSiguienteClass={"disable"}
+            anime={"Mob Psycho 100 III"}
             numero={"1"}
-            siguienteVideo={"/ver/-2"}
-            capitulosVideo={"/"}
+            siguienteVideo={"/ver/mob-psycho-100-III-2"}
+            capitulosVideo={"/mob-psycho-100-III"}
           />
         }
       />
       <Route
-        path="/ver/-2"
+        path="/ver/mob-psycho-100-III-2"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
+            contSiguienteClass={"disable"}
             tituloAnime={" Capitulo 2"}
-            tituloPag={"Animekun"}
             anime={" "}
             numero={"2"}
-            siguienteVideo={"/ver/-3"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/1"}
+            siguienteVideo={"/ver/mob-psycho-100-III-3"}
+            capitulosVideo={"/mob-psycho-100-III"}
+            anteriorVideo={"/ver/mob-psycho-100-III-1"}
           />
         }
       />
       <Route
-        path="/ver/-3"
+        path="/ver/mob-psycho-100-III-3"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
+            contSiguienteClass={"disable"}
             tituloAnime={" Capitulo 3"}
-            tituloPag={"Animekun"}
             anime={" "}
             numero={"3"}
-            siguienteVideo={"/ver/-4"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-2"}
+            siguienteVideo={"/ver/mob-psycho-100-III-4"}
+            capitulosVideo={"/mob-psycho-100-III"}
+            anteriorVideo={"/ver/mob-psycho-100-III-2"}
           />
         }
       />
