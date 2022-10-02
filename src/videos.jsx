@@ -9696,39 +9696,44 @@ function Videos() {
       />
       ----------------
       <Route
-        path="/ver/-1"
+        path="/ver/spy-x-family-2nd-temporada-1"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblanh.com/e/m4kppghr5mpf.html"}
             contAnteriorClass="disable"
-            tituloAnime={" 1"}
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
+            column
+            is-3-desktop
+            is-2-tablet
+            is-2-mobile
+            tituloAnime={"Spy x Family 2nd temporada Capitulo 1"}
+            contSiguienteClass={"disable"}
             tituloPag={"Animekun"}
-            anime={"Akudama Drive"}
+            anime={"Spy x Family 2nd Temporada"}
             numero={"1"}
-            siguienteVideo={"/ver/-2"}
-            capitulosVideo={"/"}
+            siguienteVideo={"/ver/spy-x-family-2nd-temporada-2"}
+            capitulosVideo={"/spy-x-family-2nd-temporada"}
           />
         }
       />
       <Route
-        path="/ver/-2"
+        path="/ver/spy-x-family-2nd-temporada-2"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={""}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
-            tituloAnime={" Capitulo 2"}
+            contSiguienteClass={"disable"}
+            column
+            is-3-desktop
+            is-2-tablet
+            is-2-mobile
+            cont-siguiente
+            tituloAnime={"Spy x Family 2nd Temporada Capitulo 2"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Spy x Family 2nd Temporada "}
             numero={"2"}
-            siguienteVideo={"/ver/-3"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/1"}
+            siguienteVideo={"/ver/spy-x-family-2nd-temporada-3"}
+            capitulosVideo={"/spy-x-family-2nd-temporada"}
+            anteriorVideo={"/ver/spy-x-family-2nd-temporada-1"}
           />
         }
       />
