@@ -92,7 +92,7 @@ export function Video({
                 </div>
               </div>
             </div>
-            <Disqus />
+            <Disqus className={"Comentarios"} />
           </div>
         </section>
       </div>
