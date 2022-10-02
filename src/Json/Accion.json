@@ -543,7 +543,9 @@
     "img": "https://www.animefenix.com/cdn/animes/cover/6327cc4e05841/spy-x-family-cour-2.jpg",
     "link": "/spy-x-family-2nd-temporada",
     "title": "Spy x Family 2nd Temporada",
-    "year": 2022
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": "78",
