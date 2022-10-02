@@ -1295,3 +1295,9 @@ textarea {
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
 }
+.container_comment {
+  display: block;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
