@@ -4545,7 +4545,6 @@ function App() {
               nombreSecuela={"Mob Psycho 100 II"}
               hrefSecuela={"/mob-psycho-100-II"}
               textoSecuela={"Precuela"}
-              sec1={"button is-small is-orange is-outlined is-roundedX"}
               sec2={"disable"}
               sec3={"disable"}
               hrefGenre1={"/generos[]=accion"}
