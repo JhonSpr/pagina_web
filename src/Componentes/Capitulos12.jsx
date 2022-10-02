@@ -250,7 +250,10 @@ export function Numero12({
                 </li>
               </ul>
             </div>
-            <Disqus />
+            <div className="container_comment">
+              <h1 className="comment_text">¡DI ALGO!</h1>
+              <Disqus className={"Comentarios"} />
+            </div>
           </div>
         </div>
       </section>
