@@ -92,7 +92,9 @@ export function Video({
                 </div>
               </div>
             </div>
-            <h1 className="comment_text">¡DI ALGO!</h1>
+            <div className="container_comment">
+              <h1 className="comment_text">¡DI ALGO!</h1>
+            </div>
             <Disqus className={"Comentarios"} />
           </div>
         </section>
