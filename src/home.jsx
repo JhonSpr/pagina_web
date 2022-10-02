@@ -403,7 +403,7 @@ function App() {
               capituloAnime4={"/ver/akudama-drive-4"}
               capituloAnime5={"/ver/akudama-drive-5"}
               capituloAnime6={"/ver/akudama-drive-6"}
-              capituloAnime7={"/ver/akudama-drive-"}
+              capituloAnime7={"/ver/akudama-drive-7"}
               capituloAnime8={"/ver/akudama-drive-8"}
               capituloAnime9={"/ver/akudama-drive-9"}
               capituloAnime10={"/ver/akudama-drive-10"}
