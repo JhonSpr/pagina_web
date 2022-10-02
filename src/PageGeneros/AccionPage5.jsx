@@ -1,6 +1,6 @@
-import { AccionPage3 } from "../pages/GeneroPage";
+import { AccionPage5 } from "../pages/GeneroPage";
 
-export function AccionPageTres() {
+export function AccionPageQuinto() {
   return (
     <div>
       <title>Animes Gratis Online HD</title>
@@ -308,13 +308,13 @@ export function AccionPageTres() {
           </div>
         </section>
         <div className="list-series">
-          <AccionPage3 />
+          <AccionPage5 />
         </div>
       </section>
 
       <div className="paginacion-contenedor">
         <ul>
-          <a href="/generos[]=accion&page=2" className="anterior">
+          <a href="/generos[]=accion&page=3" className="anterior">
             Anterior
           </a>
           <li>
@@ -323,31 +323,31 @@ export function AccionPageTres() {
           <li>
             <a href="/generos[]=accion&page=2">2</a>
           </li>
-          <li className="active">
+          <li>
             <a href="/generos[]=accion&page=3">3</a>
           </li>
-          <li className="paginacion">
+          <li>
             <a href="/generos[]=accion&page=4">4</a>
           </li>
-          <li className="paginacion">
+          <li className="active">
             <a href="/generos[]=accion&page=5">5</a>
           </li>
-          <li className="paginacion">
+          <li>
             <a href="/generos[]=accion&page=6">6</a>
           </li>
-          <li className="paginacion">
+          <li>
             <a href="/generos[]=accion&page=7">7</a>
           </li>
-          <li className="paginacion">
+          <li>
             <a href="/generos[]=accion&page=8">8</a>
           </li>
-          <li className="paginacion">
+          <li>
             <a href="/generos[]=accion&page=9">9</a>
           </li>
-          <li className="paginacion">
+          <li>
             <a href="/generos[]=accion&page=10">10</a>
           </li>
-          <a href="/generos[]=accion&page=4" className="siguiente">
+          <a href="/generos[]=accion&page=6" className="siguiente">
             Siguiente
           </a>
         </ul>

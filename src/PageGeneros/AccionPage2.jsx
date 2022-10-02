@@ -315,7 +315,7 @@ export function AccionPageTwo() {
       <div className="paginacion-contenedor">
         <ul>
           <a href="/generos[]=accion&page=1" className="anterior">
-            anterior
+            Anterior
           </a>
           <li>
             <a href="/generos[]=accion">1</a>
@@ -347,7 +347,7 @@ export function AccionPageTwo() {
           <li className="paginacion">
             <a href="/generos[]=accion&page=10">10</a>
           </li>
-          <a href="/generos[]=accion&page=2" className="siguiente">
+          <a href="/generos[]=accion&page=3" className="siguiente">
             Siguiente
           </a>
         </ul>
