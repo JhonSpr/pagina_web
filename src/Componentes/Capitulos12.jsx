@@ -139,7 +139,6 @@ export function Numero12({
               </ul>
             </div>
           </div>
-          <Disqus />
         </div>
       </section>
 
@@ -252,6 +251,7 @@ export function Numero12({
               </ul>
             </div>
           </div>
+          <Disqus />
         </div>
       </section>
     </section>
