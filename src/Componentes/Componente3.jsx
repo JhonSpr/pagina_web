@@ -92,7 +92,6 @@ export function Video({
                 </div>
               </div>
             </div>
-            <a target={<Disqus />}>Comentarios</a>
             <Disqus />
           </div>
         </section>
