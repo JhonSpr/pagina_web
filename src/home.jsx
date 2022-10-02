@@ -5054,6 +5054,50 @@ function App() {
             />
           }
         />
+        <Route
+          path="/spy-x-family-2nd-temporada"
+          element={
+            <Emision12
+              imagenAnime={
+                "https://www.animefenix.com/cdn/animes/cover/6327cc4e05841/spy-x-family-cour-2.jpg"
+              }
+              descripcion={"Segunda Temporada de spy x family"}
+              anime={"Spy x Family 2nd Temporada"}
+              tipo={"TV"}
+              sec2={"disable"}
+              sec3={"disable"}
+              genero1={"Acción"}
+              genero2={"Comedia"}
+              genero3={"Escolares"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=comedia"}
+              hrefGenre3={"/generos[]=escolares"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"disable"}
+              genre5={"disable"}
+              estado={"En Emisión"}
+              numeroEpisodios={"1"}
+              hrefSecuela="/spy-x-family"
+              nombreSecuela={"SPY x FAMILY"}
+              textoSecuela={"Precuela"}
+              Fecha={"Sábado 8 de octubre 2022"}
+              li2={"disable"}
+              li3={"disable"}
+              li4={"disable"}
+              li5={"disable"}
+              li6={"disable"}
+              li7={"disable"}
+              li8={"disable"}
+              li9={"disable"}
+              li10={"disable"}
+              li11={"disable"}
+              li12={"disable"}
+              li13={"disable"}
+            />
+          }
+        />
 
         <Route path="*" element={<NoExiste />} />
       </Routes>
