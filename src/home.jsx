@@ -5095,6 +5095,7 @@ function App() {
               li11={"disable"}
               li12={"disable"}
               li13={"disable"}
+              capituloAnime1={"/ver/spy-x-family-2nd-temporada-1"}
             />
           }
         />
