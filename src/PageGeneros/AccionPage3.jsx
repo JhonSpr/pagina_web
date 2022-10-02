@@ -1,6 +1,6 @@
 import { AccionPage3 } from "../pages/GeneroPage";
 
-export function AccionPageTwo() {
+export function AccionPageTres() {
   return (
     <div>
       <title>Animes Gratis Online HD</title>
@@ -314,13 +314,16 @@ export function AccionPageTwo() {
 
       <div className="paginacion-contenedor">
         <ul>
+          <a href="/generos[]=accion&page=2" className="anterior">
+            anterior
+          </a>
           <li>
             <a href="/generos[]=accion">1</a>
           </li>
-          <li className="active">
+          <li>
             <a href="/generos[]=accion&page=2">2</a>
           </li>
-          <li className="paginacion">
+          <li className="active">
             <a href="/generos[]=accion&page=3">3</a>
           </li>
           <li className="paginacion">

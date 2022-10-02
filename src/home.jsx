@@ -21,6 +21,7 @@ import { AccionPageTwo } from "./PageGeneros/AccionPage2";
 import { Numero12 } from "./Componentes/Capitulos12";
 import { Emision12 } from "./Componentes/EnEmision12";
 import { EnEmisionPage1 } from "./Page/EnEmisionPage1";
+import { AccionPageTres } from "./PageGeneros/AccionPage3";
 
 function App() {
   return (
@@ -4260,7 +4261,7 @@ function App() {
         <Route path="/en-emision" element={<EnEmisionPage1 />} />
         <Route path="/generos[]=accion" element={<AccionPageOne />} />
         <Route path="/generos[]=accion&page=2" element={<AccionPageTwo />} />
-        {/* <Route path="/generos[]=accion&page=3" element={</>} /> */}
+        <Route path="/generos[]=accion&page=3" element={<AccionPageTres />} />
         {/* <Route path="/generos[]=accion&page=4" element={< />} /> */}
         {/* <Route path="/generos[]=accion&page=5" element={< />} /> */}
         {/* <Route path="/generos[]=accion&page=6" element={< />} /> */}
