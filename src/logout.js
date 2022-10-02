@@ -6,11 +6,9 @@ const LogoutButton = () => {
   const { logout } = useAuth0();
 
   return (
-    <li className="navbar-item item-nav">
-      <a onClick={() => logout({ returnTo: window.location.origin })}>
-        Cerrar Session
-      </a>
-    </li>
+    <a href={() => logout({ returnTo: window.location.origin })}>
+      Cerrar Session
+    </a>
   );
 };
 
