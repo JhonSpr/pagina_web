@@ -250,8 +250,8 @@ export function Numero12({
                 </li>
               </ul>
             </div>
+            <Disqus />
           </div>
-          <Disqus />
         </div>
       </section>
     </section>
