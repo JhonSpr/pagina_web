@@ -4531,7 +4531,7 @@ function App() {
         />
 
         <Route
-          path=""
+          path="/mob-psycho-100-III"
           element={
             <Emision12
               descripcion={"Tercera temporada de Mob Psycho 100"}
