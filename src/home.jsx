@@ -4570,7 +4570,7 @@ function App() {
               capituloAnime10={"/ver/mob-psycho-100-III-10"}
               capituloAnime11={"/ver/mob-psycho-100-III-11"}
               capituloAnime12={"/ver/mob-psycho-100-III-12"}
-              li={"disable"}
+              li1={"disable"}
               li2={"disable"}
               li3={"disable"}
               li4={"disable"}
