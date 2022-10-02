@@ -20,7 +20,6 @@ export function Video({
   numero,
   contAnteriorClass,
   contSiguienteClass,
-  tituloPag,
   frame1,
 }) {
   return (
@@ -94,8 +93,8 @@ export function Video({
               </div>
             </div>
           </div>
+          <Disqus />
         </section>
-        <Disqus />
       </div>
     </div>
   );
