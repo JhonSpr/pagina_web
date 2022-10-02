@@ -22,6 +22,9 @@ import { Numero12 } from "./Componentes/Capitulos12";
 import { Emision12 } from "./Componentes/EnEmision12";
 import { EnEmisionPage1 } from "./Page/EnEmisionPage1";
 import { AccionPageTres } from "./PageGeneros/AccionPage3";
+import { AccionPageCuatro } from "./PageGeneros/AccionPage4";
+import { AccionPageQuinto } from "./PageGeneros/AccionPage5";
+import { AccionPageSexto } from "./PageGeneros/AccionPage6";
 
 function App() {
   return (
@@ -4262,9 +4265,9 @@ function App() {
         <Route path="/generos[]=accion" element={<AccionPageOne />} />
         <Route path="/generos[]=accion&page=2" element={<AccionPageTwo />} />
         <Route path="/generos[]=accion&page=3" element={<AccionPageTres />} />
-        {/* <Route path="/generos[]=accion&page=4" element={< />} /> */}
-        {/* <Route path="/generos[]=accion&page=5" element={< />} /> */}
-        {/* <Route path="/generos[]=accion&page=6" element={< />} /> */}
+        <Route path="/generos[]=accion&page=4" element={<AccionPageCuatro />} />
+        <Route path="/generos[]=accion&page=5" element={<AccionPageQuinto />} />
+        <Route path="/generos[]=accion&page=6" element={<AccionPageSexto />} />
         <Route path="/animes%20year[]=2022&page=2" element={<Page10 />} />
         <Route path="/animes%20type[]=ova" element={<Page10 />} />
 
