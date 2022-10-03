@@ -309,7 +309,6 @@ function App() {
             />
           }
         />
-
         <Route
           path="/akudama-drive"
           exact
@@ -3546,7 +3545,6 @@ function App() {
             />
           }
         />
-
         <Route
           path="/sabikui-bisco"
           element={
@@ -3590,7 +3588,6 @@ function App() {
             />
           }
         />
-
         <Route
           path="/koroshi-ai"
           element={
@@ -4155,37 +4152,51 @@ function App() {
           }
         />
         <Route
-          path=""
+          path="/tokyo-ghoul"
           element={
             <Numero12
-              anime={""}
-              tipo={"TV"}
-              estado={""}
+              anime={"Tokyo Ghoul"}
+              estado={"Finalizado"}
               numeroEpisodios={"12"}
-              descripcion={""}
-              imagenAnime={""}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
+              tipo={"TV"}
+              sec2={"disable"}
+              sec3={"disable"}
+              imagenAnime={
+                "https://www.animefenix.com/cdn/animes/cover/5e3887f3a9136/tokyo-ghoul.jpg"
+              }
+              descripcion={
+                "Extraños asesinatos se están sucediendo uno tras otro en Tokyo. Debido a las pruebas encontradas en las escenas, la policía concluye que los ataques son obra de ghouls que se comen a las personas. Kaneki y Hide, dos compañeros de clase, llegan a la conclusión de que si nadie ha visto nunca a esos necrófagos es porque toman la apariencia de seres humanos para ocultarse. Poco sabían entonces de que su teoría sería más cierta de lo que pensaban cuando Kaneki es herido de gravedad por un monstruo y comienza a atraerle cada vez más la carne humana…"
+              }
+              nombreSecuela={"Tokyo Ghoul √A"}
+              textoSecuela={"Secuela"}
+              hrefSecuela={"/tokyo-ghoul-2"}
+              genero1={"Acción"}
+              genero2={"Drama"}
+              genero3={"Misterio"}
+              genero4={"Psicológico"}
+              genero5={"Sobrenatural"}
               genre1={"button is-small is-orange is-outlined is-roundedX"}
               genre2={"button is-small is-orange is-outlined is-roundedX"}
               genre3={"button is-small is-orange is-outlined is-roundedX"}
               genre4={"button is-small is-orange is-outlined is-roundedX"}
-              capituloAnime1={""}
-              capituloAnime2={""}
-              capituloAnime3={""}
-              capituloAnime4={""}
-              capituloAnime5={""}
-              capituloAnime6={""}
-              capituloAnime7={""}
-              capituloAnime8={""}
-              capituloAnime9={""}
-              capituloAnime10={""}
-              capituloAnime11={""}
-              capituloAnime12={""}
+              genre5={"button is-small is-orange is-outlined is-roundedX"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=drama"}
+              hrefGenre3={"/generos[]=misterio"}
+              hrefGenre4={"/generos[]=psicologico"}
+              hrefGenre5={"/generos[]=sobrenatural"}
+              capituloAnime1={"/ver/tokyo-ghoul-1"}
+              capituloAnime2={"/ver/tokyo-ghoul-2"}
+              capituloAnime3={"/ver/tokyo-ghoul-3"}
+              capituloAnime4={"/ver/tokyo-ghoul-4"}
+              capituloAnime5={"/ver/tokyo-ghoul-5"}
+              capituloAnime6={"/ver/tokyo-ghoul-6"}
+              capituloAnime7={"/ver/tokyo-ghoul-7"}
+              capituloAnime8={"/ver/tokyo-ghoul-8"}
+              capituloAnime9={"/ver/tokyo-ghoul-9"}
+              capituloAnime10={"/ver/tokyo-ghoul-10"}
+              capituloAnime11={"/ver/tokyo-ghoul-11"}
+              capituloAnime12={"/ver/tokyo-ghoul-12"}
             />
           }
         />
@@ -4259,7 +4270,6 @@ function App() {
             />
           }
         />
-
         {/* Pages */}
         <Route path="/en-emision" element={<EnEmisionPage1 />} />
         <Route path="/generos[]=accion" element={<AccionPageOne />} />
@@ -4270,9 +4280,7 @@ function App() {
         <Route path="/generos[]=accion&page=6" element={<AccionPageSexto />} />
         <Route path="/animes%20year[]=2022&page=2" element={<Page10 />} />
         <Route path="/animes%20type[]=ova" element={<Page10 />} />
-
         {/* Animes */}
-
         <Route path="/animes%20page=10" element={<Page10 />} />
         <Route path="/animes%20page=9" element={<Page9 />} />
         <Route path="/animes%20page=8" element={<Page8 />} />
@@ -4283,7 +4291,6 @@ function App() {
         <Route path="/animes%20page=3" element={<Page3 />} />
         <Route path="/animes%20page=2" element={<Page2 />} />
         <Route path="/animes" element={<Page1 />} />
-
         {/* EN EMISION CAPITULOS*/}
         <Route
           path="/isekai-ojisan"
@@ -4529,7 +4536,6 @@ function App() {
             />
           }
         />
-
         <Route
           path="/mob-psycho-100-III"
           element={
@@ -5112,50 +5118,6 @@ function App() {
           }
         />
         <Route
-          path="/tokyo-ghoul"
-          element={<Numero12 anime={"Tokyo Ghoul"} estado={"Finalizado"} />}
-          numeroEpisodios={"12"}
-          tipo={"TV"}
-          sec2={"disable"}
-          sec3={"disable"}
-          imagenAnime={
-            "https://www.animefenix.com/cdn/animes/cover/5e3887f3a9136/tokyo-ghoul.jpg"
-          }
-          descripcion={
-            "Extraños asesinatos se están sucediendo uno tras otro en Tokyo. Debido a las pruebas encontradas en las escenas, la policía concluye que los ataques son obra de ghouls que se comen a las personas. Kaneki y Hide, dos compañeros de clase, llegan a la conclusión de que si nadie ha visto nunca a esos necrófagos es porque toman la apariencia de seres humanos para ocultarse. Poco sabían entonces de que su teoría sería más cierta de lo que pensaban cuando Kaneki es herido de gravedad por un monstruo y comienza a atraerle cada vez más la carne humana…"
-          }
-          nombreSecuela={"Tokyo Ghoul √A"}
-          textoSecuela={"Secuela"}
-          hrefSecuela={"/tokyo-ghoul-2"}
-          genero1={"Acción"}
-          genero2={"Drama"}
-          genero3={"Misterio"}
-          genero4={"Psicológico"}
-          genero5={"Sobrenatural"}
-          genre1={"button is-small is-orange is-outlined is-roundedX"}
-          genre2={"button is-small is-orange is-outlined is-roundedX"}
-          genre3={"button is-small is-orange is-outlined is-roundedX"}
-          genre4={"button is-small is-orange is-outlined is-roundedX"}
-          genre5={"button is-small is-orange is-outlined is-roundedX"}
-          hrefGenre1={"/generos[]=accion"}
-          hrefGenre2={"/generos[]=drama"}
-          hrefGenre3={"/generos[]=misterio"}
-          hrefGenre4={"/generos[]=psicologico"}
-          hrefGenre5={"/generos[]=sobrenatural"}
-          capituloAnime1={"/ver/tokyo-ghoul-1"}
-          capituloAnime2={"/ver/tokyo-ghoul-2"}
-          capituloAnime3={"/ver/tokyo-ghoul-3"}
-          capituloAnime4={"/ver/tokyo-ghoul-4"}
-          capituloAnime5={"/ver/tokyo-ghoul-5"}
-          capituloAnime6={"/ver/tokyo-ghoul-6"}
-          capituloAnime7={"/ver/tokyo-ghoul-7"}
-          capituloAnime8={"/ver/tokyo-ghoul-8"}
-          capituloAnime9={"/ver/tokyo-ghoul-9"}
-          capituloAnime10={"/ver/tokyo-ghoul-10"}
-          capituloAnime11={"/ver/tokyo-ghoul-11"}
-          capituloAnime12={"/ver/tokyo-ghoul-12"}
-        />
-        <Route
           path="/tokyo-ghoul-2"
           element={
             <Numero12
@@ -5200,7 +5162,6 @@ function App() {
             />
           }
         />
-
         <Route path="*" element={<NoExiste />} />
       </Routes>
     </div>
