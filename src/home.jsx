@@ -5118,11 +5118,11 @@ function App() {
           }
         />
         <Route
-          path="/tokyo-ghoul-2"
+          path="/tokyo-ghoul-radic-a"
           element={
             <Numero12
               anime={"Tokyo Ghoul √A"}
-              descripcion={"Segunda temporada de Tokyo Ghoul.          "}
+              descripcion={"Segunda temporada de Tokyo Ghoul."}
               nombreSecuela={"Tokyo Ghoul"}
               nombreSecuela2={"Tokyo Ghoul: Pinto"}
               nombreSecuela3={"Tokyo Ghoul:re"}
@@ -5147,18 +5147,18 @@ function App() {
               hrefGenre3={"/generos[]=misterio"}
               hrefGenre4={"/generos[]=psicologico"}
               hrefGenre5={"/generos[]=sobrenatural"}
-              capituloAnime1={"/ver/tokyo-ghoul-2-1"}
-              capituloAnime2={"/ver/tokyo-ghoul-2-2"}
-              capituloAnime3={"/ver/tokyo-ghoul-2-3"}
-              capituloAnime4={"/ver/tokyo-ghoul-2-4"}
-              capituloAnime5={"/ver/tokyo-ghoul-2-5"}
-              capituloAnime6={"/ver/tokyo-ghoul-2-6"}
-              capituloAnime7={"/ver/tokyo-ghoul-2-7"}
-              capituloAnime8={"/ver/tokyo-ghoul-2-8"}
-              capituloAnime9={"/ver/tokyo-ghoul-2-9"}
-              capituloAnime10={"/ver/tokyo-ghoul-2-10"}
-              capituloAnime11={"/ver/tokyo-ghoul-2-11"}
-              capituloAnime12={"/ver/tokyo-ghoul-2-12"}
+              capituloAnime1={"/ver/tokyo-ghoul-radic-a-1"}
+              capituloAnime2={"/ver/tokyo-ghoul-radic-a-2"}
+              capituloAnime3={"/ver/tokyo-ghoul-radic-a-3"}
+              capituloAnime4={"/ver/tokyo-ghoul-radic-a-4"}
+              capituloAnime5={"/ver/tokyo-ghoul-radic-a-5"}
+              capituloAnime6={"/ver/tokyo-ghoul-radic-a-6"}
+              capituloAnime7={"/ver/tokyo-ghoul-radic-a-7"}
+              capituloAnime8={"/ver/tokyo-ghoul-radic-a-8"}
+              capituloAnime9={"/ver/tokyo-ghoul-radic-a-9"}
+              capituloAnime10={"/ver/tokyo-ghoul-radic-a-10"}
+              capituloAnime11={"/ver/tokyo-ghoul-radic-a-11"}
+              capituloAnime12={"/ver/tokyo-ghoul-radic-a-12"}
             />
           }
         />
