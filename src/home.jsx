@@ -5259,6 +5259,202 @@ function App() {
             />
           }
         />
+        <Route
+          path="/overlord-II"
+          element={
+            <Animes13
+              imagenAnime={
+                "https://www.animefenix.com/cdn/animes/cover/5dd7f6135b484/overlord-ii.jpg"
+              }
+              descripcion={"Segunda Temporada de Overlord."}
+              anime={"Overlord"}
+              tipo={"TV"}
+              sec2={"disable"}
+              sec3={"disable"}
+              genero1={"Acción"}
+              genero2={"Aventura"}
+              genero3={"Fantasia"}
+              genero4={"Sobrenatural"}
+              genero5={"Isekai"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=aventura"}
+              hrefGenre3={"/generos[]=fantasia"}
+              hrefGenre4={"/generos[]=sobrenatural"}
+              hrefGenre5={"/generos[]=isekai"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              genre5={"button is-small is-orange is-outlined is-roundedX"}
+              estado={"Finalizado"}
+              numeroEpisodios={"13"}
+              hrefSecuela="/overlord-II"
+              nombreSecuela={"Overlord II"}
+              textoSecuela={"Secuela"}
+              capituloAnime1={"/ver/overlord-1"}
+              capituloAnime2={"/ver/overlord-2"}
+              capituloAnime3={"/ver/overlord-3"}
+              capituloAnime4={"/ver/overlord-4"}
+              capituloAnime5={"/ver/overlord-5"}
+              capituloAnime6={"/ver/overlord-6"}
+              capituloAnime7={"/ver/overlord-7"}
+              capituloAnime8={"/ver/overlord-8"}
+              capituloAnime9={"/ver/overlord-9"}
+              capituloAnime10={"/ver/overlord-10"}
+              capituloAnime11={"/ver/overlord-11"}
+              capituloAnime12={"/ver/overlord-12"}
+              capituloAnime13={"/ver/overlord-13"}
+            />
+          }
+        />
+        <Route
+          path="/overlord-II"
+          element={
+            <Animes13
+              imagenAnime={
+                "https://www.animefenix.com/cdn/animes/cover/5dd6166153948/overlord.jpg"
+              }
+              descripcion={
+                "La historia da comienzo cuando Yggdrasil, un popular juego online, es cerrado un día sin previo aviso. Sin embargo, el protagonista, Momonga, decide no salir del juego. Momonga así se transforma y se convierte en “el mago más poderoso”. El mundo sigue cambiando con él dentro, y los NPCs comienzan a sentir emociones. Sin familia, amigos ni lugar en la sociedad, Momonga tendrá que luchar por adaptarse al nuevo mundo en el que se ha convertido el juego."
+              }
+              anime={"Overlord II"}
+              tipo={"TV"}
+              sec3={"disable"}
+              genero1={"Acción"}
+              genero2={"Aventura"}
+              genero3={"Fantasia"}
+              genero4={"Sobrenatural"}
+              genero5={"Isekai"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=aventura"}
+              hrefGenre3={"/generos[]=fantasia"}
+              hrefGenre4={"/generos[]=sobrenatural"}
+              hrefGenre5={"/generos[]=isekai"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              genre5={"button is-small is-orange is-outlined is-roundedX"}
+              estado={"Finalizado"}
+              numeroEpisodios={"13"}
+              hrefSecuela="/overlord"
+              hrefSecuela2={"/overlord-III"}
+              nombreSecuela={"Overlord"}
+              nombreSecuela2="Overlord III"
+              textoSecuela={"Precuela"}
+              textoSecuela2={"Secuela"}
+              capituloAnime1={"/ver/overlord-II-1"}
+              capituloAnime2={"/ver/overlord-II-2"}
+              capituloAnime3={"/ver/overlord-II-3"}
+              capituloAnime4={"/ver/overlord-II-4"}
+              capituloAnime5={"/ver/overlord-II-5"}
+              capituloAnime6={"/ver/overlord-II-6"}
+              capituloAnime7={"/ver/overlord-II-7"}
+              capituloAnime8={"/ver/overlord-II-8"}
+              capituloAnime9={"/ver/overlord-II-9"}
+              capituloAnime10={"/ver/overlord-II-10"}
+              capituloAnime11={"/ver/overlord-II-11"}
+              capituloAnime12={"/ver/overlord-II-12"}
+              capituloAnime13={"/ver/overlord-II-13"}
+            />
+          }
+        />
+        <Route
+          path="/overlord-III"
+          element={
+            <Animes13
+              imagenAnime={
+                "https://www.animefenix.com/cdn/animes/cover/5de4438a79aa5/overlord-iii.jpg"
+              }
+              descripcion={"Tercera temporada de Overlord."}
+              anime={"Overlord III"}
+              tipo={"TV"}
+              sec3={"disable"}
+              genero1={"Acción"}
+              genero2={"Aventura"}
+              genero3={"Fantasia"}
+              genero4={"Sobrenatural"}
+              genero5={"Isekai"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=aventura"}
+              hrefGenre3={"/generos[]=fantasia"}
+              hrefGenre4={"/generos[]=sobrenatural"}
+              hrefGenre5={"/generos[]=isekai"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              genre5={"button is-small is-orange is-outlined is-roundedX"}
+              estado={"Finalizado"}
+              numeroEpisodios={"13"}
+              hrefSecuela="/overlord-II"
+              hrefSecuela2={"/overlord-IV"}
+              nombreSecuela={"Overlord II"}
+              nombreSecuela2="Overlord IV"
+              textoSecuela={"Precuela"}
+              textoSecuela2={"Secuela"}
+              capituloAnime1={"/ver/overlord-III-1"}
+              capituloAnime2={"/ver/overlord-III-2"}
+              capituloAnime3={"/ver/overlord-III-3"}
+              capituloAnime4={"/ver/overlord-III-4"}
+              capituloAnime5={"/ver/overlord-III-5"}
+              capituloAnime6={"/ver/overlord-III-6"}
+              capituloAnime7={"/ver/overlord-III-7"}
+              capituloAnime8={"/ver/overlord-III-8"}
+              capituloAnime9={"/ver/overlord-III-9"}
+              capituloAnime10={"/ver/overlord-III-10"}
+              capituloAnime11={"/ver/overlord-III-11"}
+              capituloAnime12={"/ver/overlord-III-12"}
+              capituloAnime13={"/ver/overlord-III-13"}
+            />
+          }
+        />
+        <Route
+          path="/overlord-IV"
+          element={
+            <Animes13
+              imagenAnime={
+                "https://www.animefenix.com/cdn/animes/cover/62b3854093b93/overlord-iv.jpg"
+              }
+              descripcion={"Cuarta temporada de Overlord."}
+              anime={"Overlord IV"}
+              tipo={"TV"}
+              sec2="disable"
+              sec3={"disable"}
+              genero1={"Acción"}
+              genero2={"Aventura"}
+              genero3={"Fantasia"}
+              genero5={"Isekai"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=aventura"}
+              hrefGenre3={"/generos[]=fantasia"}
+              hrefGenre5={"/generos[]=isekai"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"disable"}
+              genre5={"button is-small is-orange is-outlined is-roundedX"}
+              estado={"Finalizado"}
+              numeroEpisodios={"13"}
+              hrefSecuela="/overlord-III"
+              nombreSecuela={"Overlord II"}
+              textoSecuela={"Precuela"}
+              capituloAnime1={"/ver/overlord-IV-1"}
+              capituloAnime2={"/ver/overlord-IV-2"}
+              capituloAnime3={"/ver/overlord-IV-3"}
+              capituloAnime4={"/ver/overlord-IV-4"}
+              capituloAnime5={"/ver/overlord-IV-5"}
+              capituloAnime6={"/ver/overlord-IV-6"}
+              capituloAnime7={"/ver/overlord-IV-7"}
+              capituloAnime8={"/ver/overlord-IV-8"}
+              capituloAnime9={"/ver/overlord-IV-9"}
+              capituloAnime10={"/ver/overlord-IV-10"}
+              capituloAnime11={"/ver/overlord-IV-11"}
+              capituloAnime12={"/ver/overlord-IV-12"}
+              capituloAnime13={"/ver/overlord-IV-13"}
+            />
+          }
+        />
 
         <Route path="*" element={<NoExiste />} />
       </Routes>
