@@ -5960,13 +5960,13 @@ function Videos() {
         path="/ver/karakuri-circus-1"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/u9x04cimut2j.html"}
             contAnteriorClass="disable"
             tituloAnime={"Karakuri Circus Capitulo 1"}
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloPag={"Animekun Gratis"}
+            tituloPag={"Animekun"}
             anime={"Karakuri Circus"}
             numero={"1"}
             siguienteVideo={"/ver/karakuri-circus-2"}
@@ -5978,7 +5978,7 @@ function Videos() {
         path="/ver/karakuri-circus-2"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/5ket8q9eukei.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -5998,7 +5998,7 @@ function Videos() {
         path="/ver/karakuri-circus-3"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/pgoeu85fe5l8.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6017,7 +6017,7 @@ function Videos() {
         path="/ver/karakuri-circus-4"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/o8pwsqygzwb4.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6036,7 +6036,7 @@ function Videos() {
         path="/ver/karakuri-circus-5"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/0xqgwg86mplp.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6055,7 +6055,7 @@ function Videos() {
         path="/ver/karakuri-circus-6"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/hrcqd033euua.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6074,7 +6074,7 @@ function Videos() {
         path="/ver/karakuri-circus-7"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/fdwvdpzsd3pl.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6093,7 +6093,7 @@ function Videos() {
         path="/ver/karakuri-circus-8"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/34pi5tu0aq76.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6112,7 +6112,7 @@ function Videos() {
         path="/ver/karakuri-circus-9"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/2ekwlel86k5o	.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6131,7 +6131,7 @@ function Videos() {
         path="/ver/karakuri-circus-10"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/04k2ts8q8q3y.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6150,7 +6150,7 @@ function Videos() {
         path="/ver/karakuri-circus-11"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/79n4nhdd08v2.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6169,7 +6169,7 @@ function Videos() {
         path="/ver/karakuri-circus-12"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/4147gox0bh23.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6188,7 +6188,7 @@ function Videos() {
         path="/ver/karakuri-circus-13"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/j1o1te7a5quj.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6207,7 +6207,7 @@ function Videos() {
         path="/ver/karakuri-circus-14"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/mhzikfy9jjfk.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6226,7 +6226,7 @@ function Videos() {
         path="/ver/karakuri-circus-15"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/sy9ncctax111.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6245,7 +6245,7 @@ function Videos() {
         path="/ver/karakuri-circus-16"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/tfqfdz8intuc.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6264,7 +6264,7 @@ function Videos() {
         path="/ver/karakuri-circus-17"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/aitb2gatz9l2.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6283,7 +6283,7 @@ function Videos() {
         path="/ver/karakuri-circus-18"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/6ucz9nya70qf.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6302,7 +6302,7 @@ function Videos() {
         path="/ver/karakuri-circus-19"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/lalnosa0icwm.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6321,7 +6321,7 @@ function Videos() {
         path="/ver/karakuri-circus-20"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/d76e0yurmqgn.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6340,7 +6340,7 @@ function Videos() {
         path="/ver/karakuri-circus-21"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/rcvf3ggfakit.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6359,7 +6359,7 @@ function Videos() {
         path="/ver/karakuri-circus-22"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/lpwh9yftwih6.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6378,7 +6378,7 @@ function Videos() {
         path="/ver/karakuri-circus-23"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/90oabk5csckp.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6397,7 +6397,7 @@ function Videos() {
         path="/ver/karakuri-circus-24"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/2naj6wc33y9j.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6416,7 +6416,7 @@ function Videos() {
         path="/ver/karakuri-circus-25"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/iwz5teenhf2w.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6435,7 +6435,7 @@ function Videos() {
         path="/ver/karakuri-circus-26"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/aae27dvebnzl.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6454,7 +6454,7 @@ function Videos() {
         path="/ver/karakuri-circus-27"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/qkzb5exn9mw9.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6473,7 +6473,7 @@ function Videos() {
         path="/ver/karakuri-circus-28"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/h6j9dc26bn5l.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6492,7 +6492,7 @@ function Videos() {
         path="/ver/karakuri-circus-29"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/3btjmt3xr80m.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6511,7 +6511,7 @@ function Videos() {
         path="/ver/karakuri-circus-30"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/2wqsl4i0tqji.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6530,7 +6530,7 @@ function Videos() {
         path="/ver/karakuri-circus-31"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/0lje6uxcjcad.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6549,7 +6549,7 @@ function Videos() {
         path="/ver/karakuri-circus-32"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/jnem5sa7hodf.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6568,7 +6568,7 @@ function Videos() {
         path="/ver/karakuri-circus-33"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/e28bl46fj2es.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6587,7 +6587,7 @@ function Videos() {
         path="/ver/karakuri-circus-34"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/hb8785re4ea4.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6606,7 +6606,7 @@ function Videos() {
         path="/ver/karakuri-circus-35"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/ip2fap6rivlr.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6625,7 +6625,7 @@ function Videos() {
         path="/ver/karakuri-circus-36"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/1lmcrau8saib.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
             tituloAnime={"Karakuri Circus Capitulo 36"}
@@ -6638,7 +6638,6 @@ function Videos() {
         }
       />
       ----------------
-      <Route path="/ver/extreme-hearts-1" element={<Video />} />
       <Route
         path="/ver/extreme-hearts-1"
         element={
