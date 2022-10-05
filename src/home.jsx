@@ -5212,7 +5212,7 @@ function App() {
           }
         />
         <Route
-          path="/mob-psycho-100-II"
+          path="/mob-psycho-100"
           element={
             <Animes13
               imagenAnime={
