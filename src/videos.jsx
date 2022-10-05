@@ -9913,9 +9913,9 @@ function Videos() {
         path="/ver/mob-psycho-100-III-1"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/ic8ejf60urls.html"}
             contAnteriorClass="disable"
-            tituloAnime={" 1"}
+            tituloAnime={"Mob Pyscho 100 III Capitulo 1"}
             contSiguienteClass={"disable"}
             anime={"Mob Psycho 100 III"}
             numero={"1"}

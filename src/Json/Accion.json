@@ -555,5 +555,19 @@
     "year": 2022,
     "estado": "En Emision",
     "classEstado": "tag is-success airing"
+  },
+  {
+    "id": 79,
+    "img": "https://www.animefenix.com/cdn/animes/cover/5d8ad7558a7fb/mob-psycho-100-ii.png",
+    "link": "/mob-psycho-100-II",
+    "title": "Mob Psycho 100 II",
+    "year": 2019
+  },
+  {
+    "id": 80,
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e84ca04d425e/mob-psycho-100.jpg",
+    "link": "/mob-psycho-100",
+    "title": "Mob Psycho 100",
+    "year": 2016
   }
 ]

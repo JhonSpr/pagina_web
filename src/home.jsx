@@ -5223,6 +5223,7 @@ function App() {
               }
               anime={"Mob Psycho 100"}
               tipo={"TV"}
+              sec2={"disable"}
               sec3={"disable"}
               genero1={"Acción"}
               genero2={"Comedia"}
