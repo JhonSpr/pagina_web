@@ -1288,6 +1288,7 @@ textarea {
 }
 .comentarios {
   margin-top: 0;
+  display: block;
 }
 .comment_text {
   font-size: 25px;
