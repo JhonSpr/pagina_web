@@ -25,6 +25,7 @@ import { AccionPageTres } from "./PageGeneros/AccionPage3";
 import { AccionPageCuatro } from "./PageGeneros/AccionPage4";
 import { AccionPageQuinto } from "./PageGeneros/AccionPage5";
 import { AccionPageSexto } from "./PageGeneros/AccionPage6";
+import { Animes13 } from "./Componentes/AnimesPort";
 
 function App() {
   return (
@@ -5162,6 +5163,102 @@ function App() {
             />
           }
         />
+        <Route
+          path="/mob-psycho-100-II"
+          element={
+            <Animes13
+              imagenAnime={
+                "https://www.animefenix.com/cdn/animes/cover/5d8ad7558a7fb/mob-psycho-100-ii.png"
+              }
+              descripcion={"Segunda Temporada de Mob Psycho 100"}
+              anime={"Mob Psycho 100 II"}
+              tipo={"TV"}
+              sec3={"disable"}
+              genero1={"Acción"}
+              genero2={"Comedia"}
+              genero3={"Fantasia"}
+              genero4={"Sobrenatural"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=comedia"}
+              hrefGenre3={"/generos[]=fantasia"}
+              hrefGenre4={"/generos[]=sobrenatural"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              genre5={"disable"}
+              estado={"Finalizado"}
+              numeroEpisodios={"13"}
+              hrefSecuela="/mob-psycho-100"
+              hrefSecuela2={"/mob-psycho-100-III"}
+              nombreSecuela={"Mob Psycho 100"}
+              nombreSecuela2={"Mob Psycho 100 III"}
+              textoSecuela2={"Secuela"}
+              textoSecuela={"Precuela"}
+              capituloAnime1={"/ver/mob-psycho-100-II-1"}
+              capituloAnime2={"/ver/mob-psycho-100-II-2"}
+              capituloAnime3={"/ver/mob-psycho-100-II-3"}
+              capituloAnime4={"/ver/mob-psycho-100-II-4"}
+              capituloAnime5={"/ver/mob-psycho-100-II-5"}
+              capituloAnime6={"/ver/mob-psycho-100-II-6"}
+              capituloAnime7={"/ver/mob-psycho-100-II-7"}
+              capituloAnime8={"/ver/mob-psycho-100-II-8"}
+              capituloAnime9={"/ver/mob-psycho-100-II-9"}
+              capituloAnime10={"/ver/mob-psycho-100-II-10"}
+              capituloAnime11={"/ver/mob-psycho-100-II-11"}
+              capituloAnime12={"/ver/mob-psycho-100-II-12"}
+              capituloAnime13={"/ver/mob-psycho-100-II-13"}
+            />
+          }
+        />
+        <Route
+          path="/mob-psycho-100-II"
+          element={
+            <Animes13
+              imagenAnime={
+                "https://www.animefenix.com/cdn/animes/cover/5e84ca04d425e/mob-psycho-100.jpg"
+              }
+              descripcion={
+                "Cuenta la historia de “Mob”, un chico con poderes psíquicos que explota si su capacidad emocional alcanza el 100%. Recibió el apodo de “Mob” porque no destaca entre la gente, y trata de reprimir sus poderes para poder llevar una vida normal."
+              }
+              anime={"Mob Psycho 100"}
+              tipo={"TV"}
+              sec3={"disable"}
+              genero1={"Acción"}
+              genero2={"Comedia"}
+              genero3={"Fantasia"}
+              genero4={"Sobrenatural"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=comedia"}
+              hrefGenre3={"/generos[]=fantasia"}
+              hrefGenre4={"/generos[]=sobrenatural"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"button is-small is-orange is-outlined is-roundedX"}
+              genre5={"disable"}
+              estado={"Finalizado"}
+              numeroEpisodios={"13"}
+              hrefSecuela="/mob-psycho-100-II"
+              nombreSecuela={"Mob Psycho 100 II"}
+              textoSecuela={"Secuela"}
+              capituloAnime1={"/ver/mob-psycho-100-1"}
+              capituloAnime2={"/ver/mob-psycho-100-2"}
+              capituloAnime3={"/ver/mob-psycho-100-3"}
+              capituloAnime4={"/ver/mob-psycho-100-4"}
+              capituloAnime5={"/ver/mob-psycho-100-5"}
+              capituloAnime6={"/ver/mob-psycho-100-6"}
+              capituloAnime7={"/ver/mob-psycho-100-7"}
+              capituloAnime8={"/ver/mob-psycho-100-8"}
+              capituloAnime9={"/ver/mob-psycho-100-9"}
+              capituloAnime10={"/ver/mob-psycho-100-10"}
+              capituloAnime11={"/ver/mob-psycho-100-11"}
+              capituloAnime12={"/ver/mob-psycho-100-12"}
+              capituloAnime13={"/ver/mob-psycho-100-13-ova"}
+            />
+          }
+        />
+
         <Route path="*" element={<NoExiste />} />
       </Routes>
     </div>

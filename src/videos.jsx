@@ -10126,451 +10126,488 @@ function Videos() {
       />
       ----------------
       <Route
-        path="/ver/-1"
+        path="/ver/mob-psycho-100-1"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblanh.com/e/0f1z1eipuw37.html"}
             contAnteriorClass="disable"
-            tituloAnime={" 1"}
+            tituloAnime={"Mob Psycho 100 Capitulo 1"}
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
             tituloPag={"Animekun"}
-            anime={"Akudama Drive"}
+            anime={"Mob Psycho 100"}
             numero={"1"}
-            siguienteVideo={"/ver/-2"}
-            capitulosVideo={"/"}
+            siguienteVideo={"/ver/mob-psycho-100-2"}
+            capitulosVideo={"/mob-psycho-100"}
           />
         }
       />
       <Route
-        path="/ver/-2"
+        path="/ver/mob-psycho-100-2"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblanh.com/e/ya29nv0eu855.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 2"}
+            tituloAnime={"Mob Psycho 100 Capitulo 2"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Mob Psycho 100 "}
             numero={"2"}
-            siguienteVideo={"/ver/-3"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/1"}
+            siguienteVideo={"/ver/mob-psycho-100-3"}
+            capitulosVideo={"/mob-psycho-100"}
+            anteriorVideo={"/ver/mob-psycho-100-1"}
           />
         }
       />
       <Route
-        path="/ver/-3"
+        path="/ver/mob-psycho-100-3"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblanh.com/e/4msglpf3ul82.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 3"}
+            tituloAnime={"Mob Psycho 100 Capitulo 3"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Mob Psycho 100 "}
             numero={"3"}
-            siguienteVideo={"/ver/-4"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-2"}
+            siguienteVideo={"/ver/mob-psycho-100-4"}
+            capitulosVideo={"/mob-psycho-100"}
+            anteriorVideo={"/ver/mob-psycho-100-2"}
           />
         }
       />
       <Route
-        path="/ver/-4"
+        path="/ver/mob-psycho-100-4"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblanh.com/e/0s0r9lyh2h91.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 4"}
+            tituloAnime={"Mob Psycho 100 Capitulo 4"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Mob Psycho 100 "}
             numero={"4"}
-            siguienteVideo={"/ver/-5"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-3"}
+            siguienteVideo={"/ver/mob-psycho-100-5"}
+            capitulosVideo={"/mob-psycho-100"}
+            anteriorVideo={"/ver/mob-psycho-100-3"}
           />
         }
       />
       <Route
-        path="/ver/-5"
+        path="/ver/mob-psycho-100-5"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblanh.com/e/dbh6yj35qxjc.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 5"}
+            tituloAnime={"Mob Psycho 100 Capitulo 5"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Mob Psycho 100 "}
             numero={"5"}
-            siguienteVideo={"/ver/-6"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-4"}
+            siguienteVideo={"/ver/mob-psycho-100-6"}
+            capitulosVideo={"/mob-psycho-100"}
+            anteriorVideo={"/ver/mob-psycho-100-4"}
           />
         }
       />
       <Route
-        path="/ver/-6"
+        path="/ver/mob-psycho-100-6"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblanh.com/e/366lcbwomzi2.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 6"}
+            tituloAnime={"Mob Psycho 100 Capitulo 6"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Mob Psycho 100 "}
             numero={"6"}
-            siguienteVideo={"/ver/-7"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-5"}
+            siguienteVideo={"/ver/mob-psycho-100-7"}
+            capitulosVideo={"/mob-psycho-100"}
+            anteriorVideo={"/ver/mob-psycho-100-5"}
           />
         }
       />
       <Route
-        path="/ver/-7"
+        path="/ver/mob-psycho-100-7"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblanh.com/e/gre06u72cm1u.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 7"}
+            tituloAnime={"Mob Psycho 100 Capitulo 7"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Mob Psycho 100"}
             numero={"7"}
-            siguienteVideo={"/ver/-8"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-6"}
+            siguienteVideo={"/ver/mob-psycho-100-8"}
+            capitulosVideo={"/mob-psycho-100"}
+            anteriorVideo={"/ver/mob-psycho-100-6"}
           />
         }
       />
       <Route
-        path="/ver/-8"
+        path="/ver/mob-psycho-100-8"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblanh.com/e/bsvctp86as75.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 8"}
+            tituloAnime={"Mob Pyscho 100 Capitulo 8"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Mob Pyscho 100 "}
             numero={"8"}
-            siguienteVideo={"/ver/-9"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-7"}
+            siguienteVideo={"/ver/mob-psycho-100-9"}
+            capitulosVideo={"/mob-psycho-100"}
+            anteriorVideo={"/ver/mob-psycho-100-7"}
           />
         }
       />
       <Route
-        path="/ver/-9"
+        path="/ver/mob-psycho-100-9"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblanh.com/e/9qp8zygcmlab.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 9"}
+            tituloAnime={"Mob Pyscho 100 Capitulo 9"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Mob Pyscho 100 "}
             numero={"9"}
-            siguienteVideo={"/ver/-10"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-8"}
+            siguienteVideo={"/ver/mob-psycho-100-10"}
+            capitulosVideo={"/mob-psycho-100"}
+            anteriorVideo={"/ver/mob-psycho-100-8"}
           />
         }
       />
       <Route
-        path="/ver/-10"
+        path="/ver/mob-psycho-100-10"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblanh.com/e/e3tsti367j0c.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 10"}
+            tituloAnime={"Mob Pyscho 100 Capitulo 10"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Mob Pyscho 100 "}
             numero={"10"}
-            siguienteVideo={"/ver/-11"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-9"}
+            siguienteVideo={"/ver/mob-psycho-100-11"}
+            capitulosVideo={"/mob-psycho-100"}
+            anteriorVideo={"/ver/mob-psycho-100-9"}
           />
         }
       />
       <Route
-        path="/ver/-11"
+        path="/ver/mob-psycho-100-11"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblanh.com/e/m5zaws4q62kq.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 11"}
+            tituloAnime={"Mob Pyscho 100 Capitulo 11"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Mob Pyscho 100 "}
             numero={"11"}
-            siguienteVideo={"/ver/-12"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-10"}
+            siguienteVideo={"/ver/mob-psycho-100-12"}
+            capitulosVideo={"/mob-psycho-100"}
+            anteriorVideo={"/ver/mob-psycho-100-10"}
           />
         }
       />
       <Route
-        path="/ver/-12"
+        path="/ver/mob-psycho-100-12"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblanh.com/e/jo3ox1tgg4dd.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={"disable"}
-            tituloAnime={" Capitulo 12"}
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile con-siguiente"
+            }
+            tituloAnime={"Mob Pyscho 100 Capitulo 12"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Mob Pyscho 100 "}
             numero={"12"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-11"}
+            capitulosVideo={"/mob-psycho-100"}
+            anteriorVideo={"/ver/mob-psycho-100-11"}
+            siguienteVideo={"/mob-psycho-100-13-ova"}
+          />
+        }
+      />
+      <Route
+        path="/ver/mob-psycho-100-13-ova"
+        element={
+          <Video
+            frame1={"https://sblanh.com/e/xgr3n5wovop2.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            tituloAnime={"Mob Pyscho 100"}
+            tituloPag={"Animekun"}
+            anime={"Mob Pyscho 100 "}
+            numero={"OVA"}
+            capitulosVideo={"/mob-psycho-100"}
+            anteriorVideo={"/ver/mob-psycho-100-12"}
           />
         }
       />
       ---------------- ----------------
       <Route
-        path="/ver/-1"
+        path="/ver/mob-psycho-100-II-1"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblanh.com/e/207cerrmetul.html"}
             contAnteriorClass="disable"
-            tituloAnime={" 1"}
+            tituloAnime={"Mob Pyscho 100 II Capitulo 1"}
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
             tituloPag={"Animekun"}
-            anime={"Akudama Drive"}
+            anime={"Mob Pyscho 100 II"}
             numero={"1"}
-            siguienteVideo={"/ver/-2"}
-            capitulosVideo={"/"}
+            siguienteVideo={"/ver/mob-psycho-100-II-2"}
+            capitulosVideo={"/mob-psycho-100-II"}
           />
         }
       />
       <Route
-        path="/ver/-2"
+        path="/ver/mob-psycho-100-II-2"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblanh.com/e/q45r0i8hdqp7.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 2"}
+            tituloAnime={"Mob Pyscho 100 II Capitulo 2"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Mob Pyscho 100 II "}
             numero={"2"}
-            siguienteVideo={"/ver/-3"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/1"}
+            siguienteVideo={"/ver/mob-psycho-100-II-3"}
+            capitulosVideo={"/mob-psycho-100-II"}
+            anteriorVideo={"/ver/mob-psycho-100-II-1"}
           />
         }
       />
       <Route
-        path="/ver/-3"
+        path="/ver/mob-psycho-100-II-3"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblanh.com/e/ib35xdtnp5ya.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 3"}
+            tituloAnime={"Mob Pyscho 100 II Capitulo 3"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Mob Pyscho 100 II "}
             numero={"3"}
-            siguienteVideo={"/ver/-4"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-2"}
+            siguienteVideo={"/ver/mob-psycho-100-II-4"}
+            capitulosVideo={"/mob-psycho-100-II"}
+            anteriorVideo={"/ver/mob-psycho-100-II-2"}
           />
         }
       />
       <Route
-        path="/ver/-4"
+        path="/ver/mob-psycho-100-II-4"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblanh.com/e/15t1v22uvxt6.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 4"}
+            tituloAnime={"Mob Pyscho 100 II Capitulo 4"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Mob Pyscho 100 II "}
             numero={"4"}
-            siguienteVideo={"/ver/-5"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-3"}
+            siguienteVideo={"/ver/mob-psycho-100-II-5"}
+            capitulosVideo={"/mob-psycho-100-II"}
+            anteriorVideo={"/ver/mob-psycho-100-II-3"}
           />
         }
       />
       <Route
-        path="/ver/-5"
+        path="/ver/mob-psycho-100-II-5"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblanh.com/e/ejj70at2xkan.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 5"}
+            tituloAnime={"Mob Pyscho 100 II Capitulo 5"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Mob Pyscho 100 II "}
             numero={"5"}
-            siguienteVideo={"/ver/-6"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-4"}
+            siguienteVideo={"/ver/mob-psycho-100-II-6"}
+            capitulosVideo={"/mob-psycho-100-II"}
+            anteriorVideo={"/ver/mob-psycho-100-II-4"}
           />
         }
       />
       <Route
-        path="/ver/-6"
+        path="/ver/mob-psycho-100-II-6"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblanh.com/e/3gvuyurbpho8.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 6"}
+            tituloAnime={"Mob Pyscho 100 II Capitulo 6"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Mob Pyscho 100 II "}
             numero={"6"}
-            siguienteVideo={"/ver/-7"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-5"}
+            siguienteVideo={"/ver/mob-psycho-100-II-7"}
+            capitulosVideo={"/mob-psycho-100-II"}
+            anteriorVideo={"/ver/mob-psycho-100-II-5"}
           />
         }
       />
       <Route
-        path="/ver/-7"
+        path="/ver/mob-psycho-100-II-7"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbspeed.com/e/bf110bmh4pdb.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 7"}
+            tituloAnime={"Mob Pyscho 100 II Capitulo 7"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Mob Pyscho 100 II "}
             numero={"7"}
-            siguienteVideo={"/ver/-8"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-6"}
+            siguienteVideo={"/ver/mob-psycho-100-II-8"}
+            capitulosVideo={"/mob-psycho-100-II"}
+            anteriorVideo={"/ver/mob-psycho-100-II-6"}
           />
         }
       />
       <Route
-        path="/ver/-8"
+        path="/ver/mob-psycho-100-II-8"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbspeed.com/e/xwbhcg1mq7rv.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 8"}
+            tituloAnime={"Mob Pyscho 100 II Capitulo 8"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Mob Pyscho 100 II "}
             numero={"8"}
-            siguienteVideo={"/ver/-9"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-7"}
+            siguienteVideo={"/ver/mob-psycho-100-II-9"}
+            capitulosVideo={"/mob-psycho-100-II"}
+            anteriorVideo={"/ver/mob-psycho-100-II-7"}
           />
         }
       />
       <Route
-        path="/ver/-9"
+        path="/ver/mob-psycho-100-II-9"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbspeed.com/e/uymusukxy02b.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 9"}
+            tituloAnime={"Mob Pyscho 100 II Capitulo 9"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Mob Pyscho 100 II "}
             numero={"9"}
-            siguienteVideo={"/ver/-10"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-8"}
+            siguienteVideo={"/ver/mob-psycho-100-II-10"}
+            capitulosVideo={"/mob-psycho-100-II"}
+            anteriorVideo={"/ver/mob-psycho-100-II-8"}
           />
         }
       />
       <Route
-        path="/ver/-10"
+        path="/ver/mob-psycho-100-II-10"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbspeed.com/e/xicezama4954.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 10"}
+            tituloAnime={"Mob Pyscho 100 II Capitulo 10"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Mob Pyscho 100 II "}
             numero={"10"}
-            siguienteVideo={"/ver/-11"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-9"}
+            siguienteVideo={"/ver/mob-psycho-100-II-11"}
+            capitulosVideo={"/mob-psycho-100-II"}
+            anteriorVideo={"/ver/mob-psycho-100-II-9"}
           />
         }
       />
       <Route
-        path="/ver/-11"
+        path="/ver/mob-psycho-100-II-11"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbspeed.com/e/sxttvs4ipsfl.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 11"}
+            tituloAnime={"Mob Pyscho 100 II Capitulo 11"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Mob Pyscho 100 II "}
             numero={"11"}
-            siguienteVideo={"/ver/-12"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-10"}
+            siguienteVideo={"/ver/mob-psycho-100-II-12"}
+            capitulosVideo={"/mob-psycho-100-II"}
+            anteriorVideo={"/ver/mob-psycho-100-II-10"}
           />
         }
       />
       <Route
-        path="/ver/-12"
+        path="/ver/mob-psycho-100-II-12"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbspeed.com/e/q9md24d99efr.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Mob Pyscho 100 II Capitulo 12"}
+            tituloPag={"Animekun"}
+            anime={"Mob Pyscho 100 II "}
+            numero={"12"}
+            siguienteVideo={"/ver/mob-psycho-100-II-13"}
+            capitulosVideo={"/mob-psycho-100-II"}
+            anteriorVideo={"/ver/mob-psycho-100-II-11"}
+          />
+        }
+      />
+      <Route
+        path="/ver/mob-psycho-100-II-13"
+        element={
+          <Video
+            frame1={"https://sbspeed.com/e/rugg39r8frwn.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
-            tituloAnime={" Capitulo 12"}
+            tituloAnime={"Mob Pyscho 100 II Capitulo 13"}
             tituloPag={"Animekun"}
-            anime={" "}
-            numero={"12"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-11"}
+            anime={"Mob Pyscho 100 II "}
+            numero={"13"}
+            capitulosVideo={"/mob-psycho-100-II"}
+            anteriorVideo={"/ver/mob-psycho-100-II-12"}
           />
         }
       />

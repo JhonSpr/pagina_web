@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "img": "https://www.animefenix.com/cdn/animes/cover/632a5d297e994/mob-psycho-100-iii.jpg",
+    "link": "/mob-psycho-100-III",
+    "title": "Mob Psycho 100 III",
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
+  },
+  {
+    "id": 2,
+    "img": "https://www.animefenix.com/cdn/animes/cover/5d8ad7558a7fb/mob-psycho-100-ii.png",
+    "link": "/mob-psycho-100-II",
+    "title": "Mob Psycho 100 II",
+    "year": 2019
+  },
+  {
+    "id": 3,
+    "img": "https://www.animefenix.com/cdn/animes/cover/5e84ca04d425e/mob-psycho-100.jpg",
+    "link": "/mob-psycho-100",
+    "title": "Mob Psycho 100",
+    "year": 2016
+  },
+  {
+    "id": 4
+  },
+  {
+    "id": 5,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 6,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 7,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 8,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 9,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 10,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 11,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 12,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 13,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 14,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 15,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 16,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 17,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 18,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 19,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  },
+  {
+    "id": 20,
+    "img": "",
+    "link": "",
+    "title": "",
+    "year": 2
+  }
+]
