@@ -17812,226 +17812,245 @@ function Videos() {
       />
       ----------------
       <Route
-        path="/ver/-1"
+        path="/ver/overlord-1"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://vanfem.com/v/265jdt2j4pmdl50"}
             contAnteriorClass="disable"
-            tituloAnime={" 1"}
+            tituloAnime={"Overlord Capitulo 1"}
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
             tituloPag={"Animekun"}
-            anime={"Akudama Drive"}
+            anime={"Overlord"}
             numero={"1"}
-            siguienteVideo={"/ver/-2"}
-            capitulosVideo={"/"}
+            siguienteVideo={"/ver/overlord-2"}
+            capitulosVideo={"/overlord"}
           />
         }
       />
       <Route
-        path="/ver/-2"
+        path="/ver/overlord-2"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://vanfem.com/v/njwxdb2x5-n2jln"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 2"}
+            tituloAnime={"Overlord Capitulo 2"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Overlord "}
             numero={"2"}
-            siguienteVideo={"/ver/-3"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/1"}
+            siguienteVideo={"/ver/overlord-3"}
+            capitulosVideo={"/overlord"}
+            anteriorVideo={"/ver/overlord-1"}
           />
         }
       />
       <Route
-        path="/ver/-3"
+        path="/ver/overlord-3"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://vanfem.com/v/w125wunre-ymp6r"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 3"}
+            tituloAnime={"Overlord Capitulo 3"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Overlord "}
             numero={"3"}
-            siguienteVideo={"/ver/-4"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-2"}
+            siguienteVideo={"/ver/overlord-4"}
+            capitulosVideo={"/overlord"}
+            anteriorVideo={"/ver/overlord-2"}
           />
         }
       />
       <Route
-        path="/ver/-4"
+        path="/ver/overlord-4"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://vanfem.com/v/50ejztdx3wl4rnl"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 4"}
+            tituloAnime={"Overlord Capitulo 4"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Overlord "}
             numero={"4"}
-            siguienteVideo={"/ver/-5"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-3"}
+            siguienteVideo={"/ver/overlord-5"}
+            capitulosVideo={"/overlord"}
+            anteriorVideo={"/ver/overlord-3"}
           />
         }
       />
       <Route
-        path="/ver/-5"
+        path="/ver/overlord-5"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://vanfem.com/v/ejxnzb-4j1m1374"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 5"}
+            tituloAnime={"Overlord Capitulo 5"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Overlord "}
             numero={"5"}
-            siguienteVideo={"/ver/-6"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-4"}
+            siguienteVideo={"/ver/overlord-6"}
+            capitulosVideo={"/overlord"}
+            anteriorVideo={"/ver/overlord-4"}
           />
         }
       />
       <Route
-        path="/ver/-6"
+        path="/ver/overlord-6"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://vanfem.com/v/yz-56fe1yz8p1p0"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 6"}
+            tituloAnime={"Overlord Capitulo 6"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Overlord "}
             numero={"6"}
-            siguienteVideo={"/ver/-7"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-5"}
+            siguienteVideo={"/ver/overlord-7"}
+            capitulosVideo={"/overlord"}
+            anteriorVideo={"/ver/overlord-5"}
           />
         }
       />
       <Route
-        path="/ver/-7"
+        path="/ver/overlord-7"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://vanfem.com/v/njwxdb2x5-njqq1"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 7"}
+            tituloAnime={"Overlord Capitulo 7"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Overlord "}
             numero={"7"}
-            siguienteVideo={"/ver/-8"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-6"}
+            siguienteVideo={"/ver/overlord-8"}
+            capitulosVideo={"/overlord"}
+            anteriorVideo={"/ver/overlord-6"}
           />
         }
       />
       <Route
-        path="/ver/-8"
+        path="/ver/overlord-8"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://vanfem.com/v/8123yu87dr4k6q2"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 8"}
+            tituloAnime={"Overlord Capitulo 8"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Overlord "}
             numero={"8"}
-            siguienteVideo={"/ver/-9"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-7"}
+            siguienteVideo={"/ver/overlord-9"}
+            capitulosVideo={"/overlord"}
+            anteriorVideo={"/ver/overlord-7"}
           />
         }
       />
       <Route
-        path="/ver/-9"
+        path="/ver/overlord-9"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://vanfem.com/v/50ejztdx3wll-rj"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 9"}
+            tituloAnime={"Overlord Capitulo 9"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Overlord "}
             numero={"9"}
-            siguienteVideo={"/ver/-10"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-8"}
+            siguienteVideo={"/ver/overlord-10"}
+            capitulosVideo={"/overlord"}
+            anteriorVideo={"/ver/overlord-8"}
           />
         }
       />
       <Route
-        path="/ver/-10"
+        path="/ver/overlord-10"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://vanfem.com/v/r7exqce4qmnnw4j"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 10"}
+            tituloAnime={"Overlord Capitulo 10"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Overlord "}
             numero={"10"}
-            siguienteVideo={"/ver/-11"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-9"}
+            siguienteVideo={"/ver/overlord-11"}
+            capitulosVideo={"/overlord"}
+            anteriorVideo={"/ver/overlord-9"}
           />
         }
       />
       <Route
-        path="/ver/-11"
+        path="/ver/overlord-11"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://vanfem.com/v/8123yu87dr4d4x8"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 11"}
+            tituloAnime={"Overlord Capitulo 11"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Overlord "}
             numero={"11"}
-            siguienteVideo={"/ver/-12"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-10"}
+            siguienteVideo={"/ver/overlord-12"}
+            capitulosVideo={"/overlord"}
+            anteriorVideo={"/ver/overlord-10"}
           />
         }
       />
       <Route
-        path="/ver/-12"
+        path="/ver/overlord-12"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://vanfem.com/v/jjrxnbd5rkrn777"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Overlord Capitulo 12"}
+            tituloPag={"Animekun"}
+            anime={"Overlord "}
+            numero={"12"}
+            siguienteVideo={"/ver/overlord-13"}
+            capitulosVideo={"/overlord"}
+            anteriorVideo={"/ver/overlord-11"}
+          />
+        }
+      />
+      <Route
+        path="/ver/overlord-13"
+        element={
+          <Video
+            frame1={"https://vanfem.com/v/265jdt2j4p4nemj"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
-            tituloAnime={" Capitulo 12"}
+            tituloAnime={"Overlord Capitulo 13"}
             tituloPag={"Animekun"}
-            anime={" "}
-            numero={"12"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-11"}
+            anime={"Overlord "}
+            numero={"13"}
+            capitulosVideo={"/overlord"}
+            anteriorVideo={"/ver/-overlord-12"}
           />
         }
       />
