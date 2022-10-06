@@ -5317,8 +5317,9 @@ function App() {
               descripcion={
                 "La historia da comienzo cuando Yggdrasil, un popular juego online, es cerrado un día sin previo aviso. Sin embargo, el protagonista, Momonga, decide no salir del juego. Momonga así se transforma y se convierte en “el mago más poderoso”. El mundo sigue cambiando con él dentro, y los NPCs comienzan a sentir emociones. Sin familia, amigos ni lugar en la sociedad, Momonga tendrá que luchar por adaptarse al nuevo mundo en el que se ha convertido el juego."
               }
-              anime={"Overlord II"}
+              anime={"Overlord"}
               tipo={"TV"}
+              sec2="disable"
               sec3={"disable"}
               genero1={"Acción"}
               genero2={"Aventura"}
@@ -5337,25 +5338,22 @@ function App() {
               genre5={"button is-small is-orange is-outlined is-roundedX"}
               estado={"Finalizado"}
               numeroEpisodios={"13"}
-              hrefSecuela="/overlord"
-              hrefSecuela2={"/overlord-III"}
+              hrefSecuela="/overlord-II"
               nombreSecuela={"Overlord"}
-              nombreSecuela2="Overlord III"
-              textoSecuela={"Precuela"}
-              textoSecuela2={"Secuela"}
-              capituloAnime1={"/ver/overlord-II-1"}
-              capituloAnime2={"/ver/overlord-II-2"}
-              capituloAnime3={"/ver/overlord-II-3"}
-              capituloAnime4={"/ver/overlord-II-4"}
-              capituloAnime5={"/ver/overlord-II-5"}
-              capituloAnime6={"/ver/overlord-II-6"}
-              capituloAnime7={"/ver/overlord-II-7"}
-              capituloAnime8={"/ver/overlord-II-8"}
-              capituloAnime9={"/ver/overlord-II-9"}
-              capituloAnime10={"/ver/overlord-II-10"}
-              capituloAnime11={"/ver/overlord-II-11"}
-              capituloAnime12={"/ver/overlord-II-12"}
-              capituloAnime13={"/ver/overlord-II-13"}
+              textoSecuela={"Secuela"}
+              capituloAnime1={"/ver/overlord-1"}
+              capituloAnime2={"/ver/overlord-2"}
+              capituloAnime3={"/ver/overlord-3"}
+              capituloAnime4={"/ver/overlord-4"}
+              capituloAnime5={"/ver/overlord-5"}
+              capituloAnime6={"/ver/overlord-6"}
+              capituloAnime7={"/ver/overlord-7"}
+              capituloAnime8={"/ver/overlord-8"}
+              capituloAnime9={"/ver/overlord-9"}
+              capituloAnime10={"/ver/overlord-10"}
+              capituloAnime11={"/ver/overlord-11"}
+              capituloAnime12={"/ver/overlord-12"}
+              capituloAnime13={"/ver/overlord-13"}
             />
           }
         />
