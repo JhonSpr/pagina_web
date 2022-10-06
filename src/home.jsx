@@ -5288,8 +5288,11 @@ function App() {
               genre5={"button is-small is-orange is-outlined is-roundedX"}
               estado={"Finalizado"}
               numeroEpisodios={"13"}
-              hrefSecuela="/overlord-II"
-              nombreSecuela={"Overlord II"}
+              hrefSecuela2="overlord"
+              nombreSecuela2="Overlord"
+              textoSecuela2={"Precuela"}
+              hrefSecuela="/overlord-III"
+              nombreSecuela={"Overlord III"}
               textoSecuela={"Secuela"}
               capituloAnime1={"/ver/overlord-1"}
               capituloAnime2={"/ver/overlord-2"}
@@ -5339,7 +5342,7 @@ function App() {
               estado={"Finalizado"}
               numeroEpisodios={"13"}
               hrefSecuela="/overlord-II"
-              nombreSecuela={"Overlord"}
+              nombreSecuela={"Overlord II"}
               textoSecuela={"Secuela"}
               capituloAnime1={"/ver/overlord-1"}
               capituloAnime2={"/ver/overlord-2"}
