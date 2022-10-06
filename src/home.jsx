@@ -5294,19 +5294,19 @@ function App() {
               hrefSecuela="/overlord-III"
               nombreSecuela={"Overlord III"}
               textoSecuela={"Secuela"}
-              capituloAnime1={"/ver/overlord-1"}
-              capituloAnime2={"/ver/overlord-2"}
-              capituloAnime3={"/ver/overlord-3"}
-              capituloAnime4={"/ver/overlord-4"}
-              capituloAnime5={"/ver/overlord-5"}
-              capituloAnime6={"/ver/overlord-6"}
-              capituloAnime7={"/ver/overlord-7"}
-              capituloAnime8={"/ver/overlord-8"}
-              capituloAnime9={"/ver/overlord-9"}
-              capituloAnime10={"/ver/overlord-10"}
-              capituloAnime11={"/ver/overlord-11"}
-              capituloAnime12={"/ver/overlord-12"}
-              capituloAnime13={"/ver/overlord-13"}
+              capituloAnime1={"/ver/overlord-II-1"}
+              capituloAnime2={"/ver/overlord-II-2"}
+              capituloAnime3={"/ver/overlord-II-3"}
+              capituloAnime4={"/ver/overlord-II-4"}
+              capituloAnime5={"/ver/overlord-II-5"}
+              capituloAnime6={"/ver/overlord-II-6"}
+              capituloAnime7={"/ver/overlord-II-7"}
+              capituloAnime8={"/ver/overlord-II-8"}
+              capituloAnime9={"/ver/overlord-II-9"}
+              capituloAnime10={"/ver/overlord-II-10"}
+              capituloAnime11={"/ver/overlord-II-11"}
+              capituloAnime12={"/ver/overlord-II-12"}
+              capituloAnime13={"/ver/overlord-II-13"}
             />
           }
         />
