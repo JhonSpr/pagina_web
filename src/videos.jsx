@@ -6642,7 +6642,7 @@ function Videos() {
         path="/ver/extreme-hearts-1"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbthe.com/e/es3puvrsy8zq.html"}
             contAnteriorClass="disable"
             tituloAnime={"Extreme Heart Capitulo 1"}
             contSiguienteClass={
@@ -6660,7 +6660,7 @@ function Videos() {
         path="/ver/extreme-hearts-2"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbthe.com/e/wtn86nqtjc3t.htm"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6679,7 +6679,7 @@ function Videos() {
         path="/ver/extreme-hearts-3"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbthe.com/e/jp2l0fpvzjre.htm"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6698,7 +6698,7 @@ function Videos() {
         path="/ver/extreme-hearts-4"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbthe.com/e/0isigg8bjbgi.htm"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6717,7 +6717,7 @@ function Videos() {
         path="/ver/extreme-hearts-5"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbthe.com/e/d7mvf8ntx8uc.htm"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6736,7 +6736,7 @@ function Videos() {
         path="/ver/extreme-hearts-6"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbthe.com/e/.htm"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6755,7 +6755,7 @@ function Videos() {
         path="/ver/extreme-hearts-7"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbthe.com/e/.htm"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
             tituloAnime={"Extreme Heart Capitulo 7"}
@@ -6772,7 +6772,7 @@ function Videos() {
         path="/ver/extreme-hearts-8"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbthe.com/e/e12wefci2yhm.htm"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={""}
             tituloAnime={"Extreme Heart Capitulo 8"}
@@ -6789,7 +6789,7 @@ function Videos() {
         path="/ver/extreme-hearts-9"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbthe.com/e/23uol8qh4zeu.htm"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={""}
             tituloAnime={"Extreme Heart Capitulo 9"}
@@ -6806,7 +6806,7 @@ function Videos() {
         path="/ver/extreme-hearts-10"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbthe.com/e/rpmmao61kahg.htm"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={""}
             tituloAnime={"Extreme Heart Capitulo 10"}
@@ -6823,7 +6823,7 @@ function Videos() {
         path="/ver/extreme-hearts-11"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbthe.com/e/.htm"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={""}
             tituloAnime={"Extreme Heart Capitulo 11"}
@@ -6840,7 +6840,7 @@ function Videos() {
         path="/ver/extreme-hearts-12"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbthe.com/e/9jucieseh2rb.htm"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
             tituloAnime={"Extreme Heart Capitulo 12"}

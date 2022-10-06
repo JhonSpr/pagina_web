@@ -786,10 +786,9 @@ export function Capitulos12({
                 </li>
               </ul>
             </div>
-          </div>
-          <div className="container_comment">
-            <h1 className="comment_text">¡DI ALGO!</h1>
-            <Disqus className={"Comentarios"} />
+            <div className="container_comment">
+              <Disqus className={"Comentarios"} />
+            </div>
           </div>
         </div>
       </section>
