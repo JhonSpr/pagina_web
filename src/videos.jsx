@@ -6736,7 +6736,7 @@ function Videos() {
         path="/ver/extreme-hearts-6"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.htm"}
+            frame1={"https://sbthe.com/e/zqy9hu2qk7vb.htm"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -6755,7 +6755,7 @@ function Videos() {
         path="/ver/extreme-hearts-7"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.htm"}
+            frame1={"https://sbthe.com/e/391eupnkeb0t.htm"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
             tituloAnime={"Extreme Heart Capitulo 7"}
@@ -6823,7 +6823,7 @@ function Videos() {
         path="/ver/extreme-hearts-11"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.htm"}
+            frame1={"https://sbthe.com/e/q4qg1vcun2oe.htm"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={""}
             tituloAnime={"Extreme Heart Capitulo 11"}
