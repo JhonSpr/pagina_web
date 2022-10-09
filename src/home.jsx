@@ -5098,7 +5098,7 @@ function App() {
               genre4={"disable"}
               genre5={"disable"}
               estado={"En Emisión"}
-              numeroEpisodios={"1"}
+              numeroEpisodios={"2"}
               hrefSecuela="/spy-x-family"
               nombreSecuela={"SPY x FAMILY"}
               textoSecuela={"Precuela"}
