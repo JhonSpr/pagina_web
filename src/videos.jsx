@@ -11096,7 +11096,7 @@ function Videos() {
         path="/ver/overlord-IV-1"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbanh.com/e/858dew3ko0ks.html"}
             contAnteriorClass="disable"
             tituloAnime={"Overlord IV Capitulo 1"}
             contSiguienteClass={
@@ -11114,7 +11114,7 @@ function Videos() {
         path="/ver/overlord-IV-2"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbanh.com/e/djki7sivh8q2.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -11133,7 +11133,7 @@ function Videos() {
         path="/ver/overlord-IV-3"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbanh.com/e/zc0571u9zgzn.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -11152,7 +11152,7 @@ function Videos() {
         path="/ver/overlord-IV-4"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbanh.com/e/1br51b9qs69m.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -11171,7 +11171,7 @@ function Videos() {
         path="/ver/overlord-IV-5"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbanh.com/e/li9tiyp9b8w6.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -11190,7 +11190,7 @@ function Videos() {
         path="/ver/overlord-IV-6"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbanh.com/e/fxnilzhsaq52.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -11209,7 +11209,7 @@ function Videos() {
         path="/ver/overlord-IV-7"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbanh.com/e/h7fo6zy4wwb4.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -11228,7 +11228,7 @@ function Videos() {
         path="/ver/overlord-IV-8"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbanh.com/e/htxzsszc6eo3.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -11247,7 +11247,7 @@ function Videos() {
         path="/ver/overlord-IV-9"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbanh.com/e/e40di5a7yc9a.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -11266,7 +11266,7 @@ function Videos() {
         path="/ver/overlord-IV-10"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbanh.com/e/b651v7dihw25.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -11285,7 +11285,7 @@ function Videos() {
         path="/ver/overlord-IV-11"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbanh.com/e/zk3qozwl9hvh.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -11304,7 +11304,7 @@ function Videos() {
         path="/ver/overlord-IV-12"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbanh.com/e/tbpucviitlob.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -11323,7 +11323,7 @@ function Videos() {
         path="/ver/overlord-IV-13"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbanh.com/e/kqh9lrsz0zkq.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
             tituloAnime={"Overlord IV Capitulo 13"}
