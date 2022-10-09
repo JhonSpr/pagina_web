@@ -5427,7 +5427,6 @@ function App() {
               descripcion={"Cuarta temporada de Overlord."}
               anime={"Overlord IV"}
               tipo={"TV"}
-              sec2="disable"
               sec3={"disable"}
               genero1={"Acción"}
               genero2={"Aventura"}
@@ -5445,7 +5444,7 @@ function App() {
               estado={"Finalizado"}
               numeroEpisodios={"13"}
               hrefSecuela="/overlord-III"
-              nombreSecuela={"Overlord II"}
+              nombreSecuela={"Overlord III"}
               textoSecuela={"Precuela"}
               capituloAnime1={"/ver/overlord-IV-1"}
               capituloAnime2={"/ver/overlord-IV-2"}
