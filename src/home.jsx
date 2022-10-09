@@ -5267,9 +5267,8 @@ function App() {
                 "https://www.animefenix.com/cdn/animes/cover/5dd7f6135b484/overlord-ii.jpg"
               }
               descripcion={"Segunda Temporada de Overlord."}
-              anime={"Overlord"}
+              anime={"Overlord II"}
               tipo={"TV"}
-              sec2={"disable"}
               sec3={"disable"}
               genero1={"Acción"}
               genero2={"Aventura"}
