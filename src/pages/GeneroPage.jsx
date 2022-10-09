@@ -1,6 +1,7 @@
 import React from "react";
 import Animes from "../Data.json";
 import accion from "../Json/Accion.json";
+import fantasia from "../Json/Fantasia.json";
 import emision from "../Json/EnEmision.json";
 
 export default function GeneroPage1() {
@@ -355,6 +356,104 @@ export function AccionPage5() {
 }
 export function AccionPage6() {
   return accion.slice(120, 144).map((genAccion) => {
+    return (
+      <article
+        className="serie-card"
+        title={genAccion.title}
+        key={genAccion.id}
+      >
+        <figure className="image overarchingdiv2">
+          <a href={genAccion.link}>
+            <img src={genAccion.img} alt={genAccion.title} />
+            <div className="overlay-dark"></div>
+            <div className="hoveroverlay">
+              <i className="fas fa-play pgnav activehov"></i>
+            </div>
+          </a>
+          <span className="tag year is-dark">{genAccion.year}</span>
+          <span className="tag is-danger type">TV</span>
+          <span className={genAccion.classEstado}>{genAccion.estado}</span>
+          <div className="title">
+            <h3>
+              <a
+                href={genAccion.link}
+                className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
+              >
+                {genAccion.title}
+              </a>
+            </h3>
+          </div>
+        </figure>
+      </article>
+    );
+  });
+}
+export function FantasiaPage1() {
+  return fantasia.slice(0, 23).map((anime) => {
+    return (
+      <article className="serie-card" title={anime.title} key={anime.id}>
+        <figure className="image overarchingdiv2">
+          <a href={anime.link}>
+            <img src={anime.img} alt={anime.title} />
+            <div className="overlay-dark"></div>
+            <div className="hoveroverlay">
+              <i className="fas fa-play pgnav activehov"></i>
+            </div>
+          </a>
+          <span className="tag year is-dark">{anime.year}</span>
+          <span className="tag is-danger type">TV</span>
+          <span className={anime.classEstado}>{anime.estado}</span>
+          <div className="title">
+            <h3>
+              <a
+                href={anime.link}
+                className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
+              >
+                {anime.title}
+              </a>
+            </h3>
+          </div>
+        </figure>
+      </article>
+    );
+  });
+}
+export function FantasiaPage2() {
+  return fantasia.slice(24, 48).map((genAccion) => {
+    return (
+      <article
+        className="serie-card"
+        title={genAccion.title}
+        key={genAccion.id}
+      >
+        <figure className="image overarchingdiv2">
+          <a href={genAccion.link}>
+            <img src={genAccion.img} alt={genAccion.title} />
+            <div className="overlay-dark"></div>
+            <div className="hoveroverlay">
+              <i className="fas fa-play pgnav activehov"></i>
+            </div>
+          </a>
+          <span className="tag year is-dark">{genAccion.year}</span>
+          <span className="tag is-danger type">TV</span>
+          <span className={genAccion.classEstado}>{genAccion.estado}</span>
+          <div className="title">
+            <h3>
+              <a
+                href={genAccion.link}
+                className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
+              >
+                {genAccion.title}
+              </a>
+            </h3>
+          </div>
+        </figure>
+      </article>
+    );
+  });
+}
+export function FantasiaPage3() {
+  return fantasia.slice(48, 72).map((genAccion) => {
     return (
       <article
         className="serie-card"

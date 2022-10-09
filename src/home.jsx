@@ -26,6 +26,7 @@ import { AccionPageQuinto } from "./PageGeneros/AccionPage5";
 import { AccionPageSexto } from "./PageGeneros/AccionPage6";
 import { Animes13 } from "./Componentes/AnimesPort";
 import { Capitulos24 } from "./Componentes/Capitulos24";
+import { FantasiaPageOne } from "./PageGeneros/FantasiaPage1";
 
 function App() {
   return (
@@ -3981,27 +3982,7 @@ function App() {
             />
           }
         />
-        {/* Pages */}
-        <Route path="/en-emision" element={<EnEmisionPage1 />} />
-        <Route path="/generos[]=accion" element={<AccionPageOne />} />
-        <Route path="/generos[]=accion&page=2" element={<AccionPageTwo />} />
-        <Route path="/generos[]=accion&page=3" element={<AccionPageTres />} />
-        <Route path="/generos[]=accion&page=4" element={<AccionPageCuatro />} />
-        <Route path="/generos[]=accion&page=5" element={<AccionPageQuinto />} />
-        <Route path="/generos[]=accion&page=6" element={<AccionPageSexto />} />
-        <Route path="/animes%20year[]=2022&page=2" element={<Page10 />} />
-        <Route path="/animes%20type[]=ova" element={<Page10 />} />
-        {/* Animes */}
-        <Route path="/animes%20page=10" element={<Page10 />} />
-        <Route path="/animes%20page=9" element={<Page9 />} />
-        <Route path="/animes%20page=8" element={<Page8 />} />
-        <Route path="/animes%20page=7" element={<Page7 />} />
-        <Route path="/animes%20page=6" element={<Page6 />} />
-        <Route path="/animes%20page=5" element={<Page5 />} />
-        <Route path="/animes%20page=4" element={<Page4 />} />
-        <Route path="/animes%20page=3" element={<Page3 />} />
-        <Route path="/animes%20page=2" element={<Page2 />} />
-        <Route path="/animes" element={<Page1 />} />
+
         {/* EN EMISION CAPITULOS*/}
         <Route
           path="/isekai-ojisan"
@@ -5229,6 +5210,29 @@ function App() {
             />
           }
         />
+        {/* Pages */}
+        <Route path="/en-emision" element={<EnEmisionPage1 />} />
+        <Route path="/generos[]=accion" element={<AccionPageOne />} />
+        <Route path="/generos[]=accion&page=2" element={<AccionPageTwo />} />
+        <Route path="/generos[]=accion&page=3" element={<AccionPageTres />} />
+        <Route path="/generos[]=accion&page=4" element={<AccionPageCuatro />} />
+        <Route path="/generos[]=accion&page=5" element={<AccionPageQuinto />} />
+        <Route path="/generos[]=accion&page=6" element={<AccionPageSexto />} />
+        <Route path="/generos[]=fantasia" element={<FantasiaPageOne />} />
+
+        <Route path="/animes%20year[]=2022&page=2" element={<Page10 />} />
+        <Route path="/animes%20type[]=ova" element={<Page10 />} />
+        {/* Animes */}
+        <Route path="/animes%20page=10" element={<Page10 />} />
+        <Route path="/animes%20page=9" element={<Page9 />} />
+        <Route path="/animes%20page=8" element={<Page8 />} />
+        <Route path="/animes%20page=7" element={<Page7 />} />
+        <Route path="/animes%20page=6" element={<Page6 />} />
+        <Route path="/animes%20page=5" element={<Page5 />} />
+        <Route path="/animes%20page=4" element={<Page4 />} />
+        <Route path="/animes%20page=3" element={<Page3 />} />
+        <Route path="/animes%20page=2" element={<Page2 />} />
+        <Route path="/animes" element={<Page1 />} />
 
         <Route path="*" element={<NoExiste />} />
       </Routes>
