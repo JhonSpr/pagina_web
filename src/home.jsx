@@ -5193,8 +5193,8 @@ function App() {
                 "https://www.animefenix.com/cdn/animes/cover/5de4438a79aa5/overlord-iii.jpg"
               }
               descripcion={"Tercera temporada de Overlord."}
-              anime={"Overlord III xd"}
-              tipo={"TV"}
+              anime={"Overlord III"}
+              tipo={"TV v"}
               sec3={"disable"}
               genero1={"Acción"}
               genero2={"Aventura"}
