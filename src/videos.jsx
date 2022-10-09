@@ -11093,177 +11093,177 @@ function Videos() {
       />
       ----------------
       <Route
-        path="/ver/-1"
+        path="/ver/overlord-IV-1"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={""}
             contAnteriorClass="disable"
-            tituloAnime={" 1"}
+            tituloAnime={"Overlord IV Capitulo 1"}
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
             tituloPag={"Animekun"}
-            anime={"Akudama Drive"}
+            anime={"Overlord IV"}
             numero={"1"}
-            siguienteVideo={"/ver/-2"}
-            capitulosVideo={"/"}
+            siguienteVideo={"/ver/overlord-IV-2"}
+            capitulosVideo={"/overlord-IV"}
           />
         }
       />
       <Route
-        path="/ver/-2"
+        path="/ver/overlord-IV-2"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={""}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 2"}
+            tituloAnime={"Overlord IV Capitulo 2"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Overlord IV "}
             numero={"2"}
-            siguienteVideo={"/ver/-3"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/1"}
+            siguienteVideo={"/ver/overlord-IV-3"}
+            capitulosVideo={"/overlord-IV"}
+            anteriorVideo={"/ver/overlord-IV-1"}
           />
         }
       />
       <Route
-        path="/ver/-3"
+        path="/ver/overlord-IV-3"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={""}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 3"}
+            tituloAnime={"Overlord IV Capitulo 3"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Overlord IV "}
             numero={"3"}
-            siguienteVideo={"/ver/-4"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-2"}
+            siguienteVideo={"/ver/overlord-IV-4"}
+            capitulosVideo={"/overlord-IV"}
+            anteriorVideo={"/ver/overlord-IV-2"}
           />
         }
       />
       <Route
-        path="/ver/-4"
+        path="/ver/overlord-IV-4"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={""}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 4"}
+            tituloAnime={"Overlord IV Capitulo 4"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Overlord IV "}
             numero={"4"}
-            siguienteVideo={"/ver/-5"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-3"}
+            siguienteVideo={"/ver/overlord-IV-5"}
+            capitulosVideo={"/overlord-IV"}
+            anteriorVideo={"/ver/overlord-IV-3"}
           />
         }
       />
       <Route
-        path="/ver/-5"
+        path="/ver/overlord-IV-5"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={""}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 5"}
+            tituloAnime={"Overlord IV Capitulo 5"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Overlord IV "}
             numero={"5"}
-            siguienteVideo={"/ver/-6"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-4"}
+            siguienteVideo={"/ver/overlord-IV-6"}
+            capitulosVideo={"/overlord-IV"}
+            anteriorVideo={"/ver/overlord-IV-4"}
           />
         }
       />
       <Route
-        path="/ver/-6"
+        path="/ver/overlord-IV-6"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={""}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 6"}
+            tituloAnime={"Overlord IV Capitulo 6"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Overlord IV "}
             numero={"6"}
-            siguienteVideo={"/ver/-7"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-5"}
+            siguienteVideo={"/ver/overlord-IV-7"}
+            capitulosVideo={"/overlord-IV"}
+            anteriorVideo={"/ver/overlord-IV-5"}
           />
         }
       />
       <Route
-        path="/ver/-7"
+        path="/ver/overlord-IV-7"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={""}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 7"}
+            tituloAnime={"Overlord IV Capitulo 7"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Overlord IV "}
             numero={"7"}
-            siguienteVideo={"/ver/-8"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-6"}
+            siguienteVideo={"/ver/overlord-IV-8"}
+            capitulosVideo={"/overlord-IV"}
+            anteriorVideo={"/ver/overlord-IV-6"}
           />
         }
       />
       <Route
-        path="/ver/-8"
+        path="/ver/overlord-IV-8"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={""}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 8"}
+            tituloAnime={"Overlord IV Capitulo 8"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Overlord IV "}
             numero={"8"}
-            siguienteVideo={"/ver/-9"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-7"}
+            siguienteVideo={"/ver/overlord-IV-9"}
+            capitulosVideo={"/overlord-IV"}
+            anteriorVideo={"/ver/overlord-IV-7"}
           />
         }
       />
       <Route
-        path="/ver/-9"
+        path="/ver/overlord-IV-9"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={""}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 9"}
+            tituloAnime={"Overlord IV Capitulo 9"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Overlord IV "}
             numero={"9"}
-            siguienteVideo={"/ver/-10"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-8"}
+            siguienteVideo={"/ver/overlord-IV-10"}
+            capitulosVideo={"/overlord-IV"}
+            anteriorVideo={"/ver/overlord-IV-8"}
           />
         }
       />
       <Route
-        path="/ver/-10"
+        path="/ver/overlord-IV-10"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
@@ -11271,57 +11271,76 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 10"}
+            tituloAnime={"Overlord IV Capitulo 10"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Overlord IV "}
             numero={"10"}
-            siguienteVideo={"/ver/-11"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-9"}
+            siguienteVideo={"/ver/overlord-IV-11"}
+            capitulosVideo={"/overlord-IV"}
+            anteriorVideo={"/ver/overlord-IV-9"}
           />
         }
       />
       <Route
-        path="/ver/-11"
+        path="/ver/overlord-IV-11"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={""}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 11"}
+            tituloAnime={"Overlord IV Capitulo 11"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Overlord IV "}
             numero={"11"}
-            siguienteVideo={"/ver/-12"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-10"}
+            siguienteVideo={"/ver/overlord-IV-12"}
+            capitulosVideo={"/overlord-IV"}
+            anteriorVideo={"/ver/overlord-IV-10"}
           />
         }
       />
       <Route
-        path="/ver/-12"
+        path="/ver/overlord-IV-12"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={""}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Overlord IV Capitulo 12"}
+            tituloPag={"Animekun"}
+            anime={"Overlord IV "}
+            numero={"12"}
+            siguienteVideo={"/ver/overlord-IV-13"}
+            capitulosVideo={"/overlord-IV"}
+            anteriorVideo={"/ver/overlord-IV-11"}
+          />
+        }
+      />
+      <Route
+        path="/ver/overlord-IV-13"
+        element={
+          <Video
+            frame1={""}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
-            tituloAnime={" Capitulo 12"}
+            tituloAnime={"Overlord IV Capitulo 13"}
             tituloPag={"Animekun"}
-            anime={" "}
-            numero={"12"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-11"}
+            anime={"Overlord IV "}
+            numero={"13"}
+            capitulosVideo={"/overlord-IV"}
+            anteriorVideo={"/ver/overlord-IV-12"}
           />
         }
       />
       ---------------- ----------------
       <Route
-        path="/ver/-1"
+        path="/ver/violet-evergarden-1"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/d6b1tjplyuqa.html"}
             contAnteriorClass="disable"
             tituloAnime={" 1"}
             contSiguienteClass={
@@ -11330,16 +11349,16 @@ function Videos() {
             tituloPag={"Animekun"}
             anime={"Akudama Drive"}
             numero={"1"}
-            siguienteVideo={"/ver/-2"}
-            capitulosVideo={"/"}
+            siguienteVideo={"/ver/violet-evergarden-2"}
+            capitulosVideo={"/violet-evergarden"}
           />
         }
       />
       <Route
-        path="/ver/-2"
+        path="/ver/violet-evergarden-2"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/ap2jr0cvk9jk.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -11348,17 +11367,17 @@ function Videos() {
             tituloPag={"Animekun"}
             anime={" "}
             numero={"2"}
-            siguienteVideo={"/ver/-3"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/1"}
+            siguienteVideo={"/ver/violet-evergarden-3"}
+            capitulosVideo={"/violet-evergarden"}
+            anteriorVideo={"/ver/violet-evergarden-1"}
           />
         }
       />
       <Route
-        path="/ver/-3"
+        path="/ver/violet-evergarden-3"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/rv3w74enukee.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -11367,17 +11386,17 @@ function Videos() {
             tituloPag={"Animekun"}
             anime={" "}
             numero={"3"}
-            siguienteVideo={"/ver/-4"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-2"}
+            siguienteVideo={"/ver/violet-evergarden-4"}
+            capitulosVideo={"/violet-evergarden"}
+            anteriorVideo={"/ver/violet-evergarden-2"}
           />
         }
       />
       <Route
-        path="/ver/-4"
+        path="/ver/violet-evergarden-4"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/5xtc65knjo28.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -11386,17 +11405,17 @@ function Videos() {
             tituloPag={"Animekun"}
             anime={" "}
             numero={"4"}
-            siguienteVideo={"/ver/-5"}
+            siguienteVideo={"/ver/violet-evergarden-5"}
             capitulosVideo={"/"}
-            anteriorVideo={"/ver/-3"}
+            anteriorVideo={"/ver/violet-evergarden-3"}
           />
         }
       />
       <Route
-        path="/ver/-5"
+        path="/ver/violet-evergarden-5"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/q9r59y9fc4nk.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -11405,17 +11424,17 @@ function Videos() {
             tituloPag={"Animekun"}
             anime={" "}
             numero={"5"}
-            siguienteVideo={"/ver/-6"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-4"}
+            siguienteVideo={"/ver/violet-evergarden-6"}
+            capitulosVideo={"/violet-evergarden"}
+            anteriorVideo={"/ver/violet-evergarden-4"}
           />
         }
       />
       <Route
-        path="/ver/-6"
+        path="/ver/violet-evergarden-6"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/i4yei2crufow.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -11424,17 +11443,17 @@ function Videos() {
             tituloPag={"Animekun"}
             anime={" "}
             numero={"6"}
-            siguienteVideo={"/ver/-7"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-5"}
+            siguienteVideo={"/ver/violet-evergarden-7"}
+            capitulosVideo={"/violet-evergarden"}
+            anteriorVideo={"/ver/violet-evergarden-5"}
           />
         }
       />
       <Route
-        path="/ver/-7"
+        path="/ver/violet-evergarden-7"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/0z6y9ey2u5kw.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -11443,17 +11462,17 @@ function Videos() {
             tituloPag={"Animekun"}
             anime={" "}
             numero={"7"}
-            siguienteVideo={"/ver/-8"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-6"}
+            siguienteVideo={"/ver/violet-evergarden-8"}
+            capitulosVideo={"/violet-evergarden"}
+            anteriorVideo={"/ver/violet-evergarden-6"}
           />
         }
       />
       <Route
-        path="/ver/-8"
+        path="/ver/violet-evergarden-8"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/sx3rb7sig751.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -11462,17 +11481,17 @@ function Videos() {
             tituloPag={"Animekun"}
             anime={" "}
             numero={"8"}
-            siguienteVideo={"/ver/-9"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-7"}
+            siguienteVideo={"/ver/violet-evergarden-9"}
+            capitulosVideo={"/violet-evergarden"}
+            anteriorVideo={"/ver/violet-evergarden-7"}
           />
         }
       />
       <Route
-        path="/ver/-9"
+        path="/ver/violet-evergarden-9"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/g8je7xbj2kmm.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -11481,17 +11500,17 @@ function Videos() {
             tituloPag={"Animekun"}
             anime={" "}
             numero={"9"}
-            siguienteVideo={"/ver/-10"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-8"}
+            siguienteVideo={"/ver/violet-evergarden-10"}
+            capitulosVideo={"/violet-evergarden"}
+            anteriorVideo={"/ver/violet-evergarden-8"}
           />
         }
       />
       <Route
-        path="/ver/-10"
+        path="/ver/violet-evergarden-10"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/bv3w93uv9gaz.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -11500,17 +11519,17 @@ function Videos() {
             tituloPag={"Animekun"}
             anime={" "}
             numero={"10"}
-            siguienteVideo={"/ver/-11"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-9"}
+            siguienteVideo={"/ver/violet-evergarden-11"}
+            capitulosVideo={"/violet-evergarden"}
+            anteriorVideo={"/ver/violet-evergarden-9"}
           />
         }
       />
       <Route
-        path="/ver/-11"
+        path="/ver/violet-evergarden-11"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/ml3614s9q6zy.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -11519,25 +11538,63 @@ function Videos() {
             tituloPag={"Animekun"}
             anime={" "}
             numero={"11"}
-            siguienteVideo={"/ver/-12"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-10"}
+            siguienteVideo={"/ver/violet-evergarden-12"}
+            capitulosVideo={"/violet-evergarden"}
+            anteriorVideo={"/ver/violet-evergarden-10"}
           />
         }
       />
       <Route
-        path="/ver/-12"
+        path="/ver/violet-evergarden-12"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/iz6t1acykur8.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Violet Evergarden Capitulo 12"}
+            tituloPag={"Animekun"}
+            anime={"Violet Evergarden "}
+            numero={"12"}
+            siguienteVideo={"/ver/violet-evergarden-13"}
+            capitulosVideo={"/violet-evergarden"}
+            anteriorVideo={"/ver/violet-evergarden-11"}
+          />
+        }
+      />
+      <Route
+        path="/ver/violet-evergarden-13"
+        element={
+          <Video
+            frame1={"https://sbthe.com/e/fyp2zjrfqqdx.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Violet Evergarden Capitulo 13"}
+            tituloPag={"Animekun"}
+            anime={"Violet Evergarden "}
+            numero={"13"}
+            siguienteVideo={"/ver/violet-evergarden-14"}
+            capitulosVideo={"/violet-evergarden"}
+            anteriorVideo={"/ver/violet-evergarden-12"}
+          />
+        }
+      />
+      <Route
+        path="/ver/violet-evergarden-14"
+        element={
+          <Video
+            frame1={"https://sbthe.com/e/7vbvf95ypnp9.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
-            tituloAnime={" Capitulo 12"}
+            tituloAnime={"Violet Evergarden Capitulo 14"}
             tituloPag={"Animekun"}
-            anime={" "}
-            numero={"12"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-11"}
+            anime={"Violet Evergarden "}
+            numero={"14"}
+            capitulosVideo={"/violet-evergarden"}
+            anteriorVideo={"/ver/violet-evergarden-13"}
           />
         }
       />
