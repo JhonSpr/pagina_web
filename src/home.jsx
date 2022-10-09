@@ -209,9 +209,6 @@ function App() {
                 "Hace muchos años, una Gran Guerra Civil devastó Japón, dejando al país fragmentado en dos regiones: Kansai y Kanto. En Kansai, un grupo de seis Akudama llevan a cabo las misiones que les encomienda un misterioso gato negro, mientras evaden a la policía. Pero un viaje peligroso está a punto de desarrollarse cuando una niña civil se retuerce en el estilo de vida de los Akudama y es testigo de sus impulsos criminales."
               }
               imagenAnime="https://www.animefenix.com/cdn/animes/cover/5f7e65dc3eb65/akudama-drive.jpg"
-              videoTrailer={
-                "https://www.youtube-nocookie.com/embed/DTp7ZcUsqes?showinfo=0&rel=0&showsearch=0&autoplay=1&unmuted=1&modestbranding=1&fs=0"
-              }
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
@@ -1012,114 +1009,7 @@ function App() {
             />
           }
         />
-        <Route
-          path="/overlord-III"
-          element={
-            <Capitulos12
-              nombreSecuela={"Overlord II"}
-              nombreSecuela2={"Overlord IV"}
-              hrefSecuela={"/overlord-I"}
-              hrefSecuela2={"/overlord-IV"}
-              tituloAnime={"Overlord III"}
-              sec2={"sec"}
-              sec3={"sec"}
-              sec1={"sec"}
-              genero1={"Acción"}
-              genero2={"Aventura"}
-              genero3={"Demonios"}
-              genero4={"Fantasia"}
-              genero5={"Juegos"}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"button is-small is-orange is-outlined is-roundedX"}
-              genre5={"button is-small is-orange is-outlined is-roundedX"}
-              hrefGenre1={"/generos[]=accion"}
-              hrefGenre2={"/generos[]=aventura"}
-              hrefGenre3={"/generos[]=demonios"}
-              hrefGenre4={"/generos[]=fantasia"}
-              hrefGenre5={"/generos[]=juegos"}
-              descripcion={"Tercera temporada de Overlord."}
-              anime={"Overlord III"}
-              tipo={"TV"}
-              numeroEpisodios={"13"}
-              estado={"Finalizado"}
-              imagenAnime={
-                "https://www.animefenix.com/cdn/animes/cover/5de4438a79aa5/overlord-iii.jpg"
-              }
-              li14={"li"}
-              li15={"li"}
-              li16={"li"}
-              li17={"li"}
-              li18={"li"}
-              li19={"li"}
-              li20={"li"}
-              li21={"li"}
-              li22={"li"}
-              li23={"li"}
-              li24={"li"}
-              li25={"li"}
-              li26={"li"}
-              li27={"li"}
-              li28={"li"}
-              li29={"li"}
-              li30={"li"}
-              li31={"li"}
-              li32={"li"}
-              li33={"li"}
-              li34={"li"}
-              li35={"li"}
-              li36={"li"}
-              li37={"li"}
-              li38={"li"}
-              li39={"li"}
-              li40={"li"}
-              li41={"li"}
-              li42={"li"}
-              li43={"li"}
-              li44={"li"}
-              li45={"li"}
-              li46={"li"}
-              li47={"li"}
-              li48={"li"}
-              li49={"li"}
-              li50={"li"}
-              li51={"li"}
-              li52={"li"}
-              li53={"li"}
-              li54={"li"}
-              li55={"li"}
-              li56={"li"}
-              li70={"li"}
-              li69={"li"}
-              li68={"li"}
-              li67={"li"}
-              li66={"li"}
-              li65={"li"}
-              li64={"li"}
-              li63={"li"}
-              li62={"li"}
-              li61={"li"}
-              li60={"li"}
-              li59={"li"}
-              li58={"li"}
-              li57={"li"}
-              capituloAnime1={"/ver/overlord-III-1"}
-              capituloAnime2={"/ver/overlord-III-2"}
-              capituloAnime3={"/ver/overlord-III-3"}
-              capituloAnime4={"/ver/overlord-III-4"}
-              capituloAnime5={"/ver/overlord-III-5"}
-              capituloAnime6={"/ver/overlord-III-6"}
-              capituloAnime7={"/ver/overlord-III-7"}
-              capituloAnime8={"/ver/overlord-III-8"}
-              capituloAnime9={"/ver/overlord-III-9"}
-              capituloAnime10={"/ver/overlord-III-10"}
-              capituloAnime11={"/ver/overlord-III-11"}
-              capituloAnime12={"/ver/overlord-III-12"}
-              capituloAnime13={"/ver/overlord-III-13"}
-            />
-          }
-        />
+
         <Route
           path="/ao-no-exorcist:-kyoto-fujouou-hen"
           element={
