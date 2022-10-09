@@ -5077,6 +5077,7 @@ function App() {
           path="/spy-x-family-2nd-temporada"
           element={
             <Emision12
+              tituloAnime={"Spy x Family 2nd Temporada"}
               imagenAnime={
                 "https://www.animefenix.com/cdn/animes/cover/6327cc4e05841/spy-x-family-cour-2.jpg"
               }
@@ -5122,6 +5123,7 @@ function App() {
           path="/tokyo-ghoul-radic-a"
           element={
             <Numero12
+              tituloAnime={"Tokyo Ghoul √A"}
               anime={"Tokyo Ghoul √A"}
               descripcion={"Segunda temporada de Tokyo Ghoul."}
               nombreSecuela={"Tokyo Ghoul"}
@@ -5167,6 +5169,7 @@ function App() {
           path="/mob-psycho-100-II"
           element={
             <Animes13
+              tituloAnime={"Mob Psycho 100 II"}
               imagenAnime={
                 "https://www.animefenix.com/cdn/animes/cover/5d8ad7558a7fb/mob-psycho-100-ii.png"
               }
@@ -5215,6 +5218,7 @@ function App() {
           path="/mob-psycho-100"
           element={
             <Animes13
+              tituloAnime={"Mob Psycho 100"}
               imagenAnime={
                 "https://www.animefenix.com/cdn/animes/cover/5e84ca04d425e/mob-psycho-100.jpg"
               }
@@ -5313,6 +5317,7 @@ function App() {
           path="/overlord"
           element={
             <Animes13
+              tituloAnime={"Overlord"}
               imagenAnime={
                 "https://www.animefenix.com/cdn/animes/cover/5dd6166153948/overlord.jpg"
               }
@@ -5363,6 +5368,7 @@ function App() {
           path="/overlord-III"
           element={
             <Animes13
+              tituloAnime={"Overlord III"}
               imagenAnime={
                 "https://www.animefenix.com/cdn/animes/cover/5de4438a79aa5/overlord-iii.jpg"
               }
@@ -5413,6 +5419,7 @@ function App() {
           path="/overlord-IV"
           element={
             <Animes13
+              tituloAnime={"Overlord IV"}
               imagenAnime={
                 "https://www.animefenix.com/cdn/animes/cover/62b3854093b93/overlord-iv.jpg"
               }
