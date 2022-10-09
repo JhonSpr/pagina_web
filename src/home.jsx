@@ -5101,8 +5101,7 @@ function App() {
               hrefSecuela="/spy-x-family"
               nombreSecuela={"SPY x FAMILY"}
               textoSecuela={"Precuela"}
-              Fecha={"Sábado 8 de octubre 2022"}
-              li2={"disable"}
+              Fecha={"Sábado 15 de octubre 2022"}
               li3={"disable"}
               li4={"disable"}
               li5={"disable"}
@@ -5115,6 +5114,7 @@ function App() {
               li12={"disable"}
               li13={"disable"}
               capituloAnime1={"/ver/spy-x-family-2nd-temporada-1"}
+              capituloAnime2={"/ver/spy-x-family-2nd-temporada-2"}
             />
           }
         />
