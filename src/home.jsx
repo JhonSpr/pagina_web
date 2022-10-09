@@ -25,6 +25,7 @@ import { AccionPageCuatro } from "./PageGeneros/AccionPage4";
 import { AccionPageQuinto } from "./PageGeneros/AccionPage5";
 import { AccionPageSexto } from "./PageGeneros/AccionPage6";
 import { Animes13 } from "./Componentes/AnimesPort";
+import { Capitulos24 } from "./Componentes/Capitulos24";
 
 function App() {
   return (
@@ -5169,6 +5170,62 @@ function App() {
               capituloAnime11={"/ver/overlord-IV-11"}
               capituloAnime12={"/ver/overlord-IV-12"}
               capituloAnime13={"/ver/overlord-IV-13"}
+            />
+          }
+        />
+        <Route
+          path="/violet-evergarden"
+          element={
+            <Capitulos24
+              tituloAnime={"Violet Evergarden"}
+              imagenAnime={
+                "https://www.animefenix.com/cdn/animes/cover/5d69f2b45ac8a/violet-evergarden.jpg"
+              }
+              descripcion={
+                "Violet Evergarden es una chica que no conoce otra cosa que la cruel guerra: es una soldado que, bajo el mando de su comandante, es capaz de cumplir cualquier orden. Sin embargo, una vez termina la guerra, Violet se ve sin futuro ni hogar en una sociedad que no es capaz de comprender. Será entonces cuando un viejo amigo de su comandante, Claudia Hodgins, aparezca para ofrecerle trabajo en su oficina de correos. A partir de ese momento, Violet se convertirá en una Auto Memory Dolls escribiendo cartas."
+              }
+              anime={"Violet Evergarden"}
+              tipo={"TV"}
+              sec1={"disable"}
+              sec2="disable"
+              sec3={"disable"}
+              genero1={"Drama"}
+              genero2={"Fantasia"}
+              genero3={"Sei-Fi"}
+              hrefGenre1={"/generos[]=drama"}
+              hrefGenre2={"/generos[]=fantasi"}
+              hrefGenre3={"/generos[]=sei-fi"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"disable"}
+              genre5={"disable"}
+              estado={"Finalizado"}
+              numeroEpisodios={"14"}
+              capituloAnime1={"/ver/violet-evergarden-1"}
+              capituloAnime2={"/ver/violet-evergarden-2"}
+              capituloAnime3={"/ver/violet-evergarden-3"}
+              capituloAnime4={"/ver/violet-evergarden-4"}
+              capituloAnime5={"/ver/violet-evergarden-5"}
+              capituloAnime6={"/ver/violet-evergarden-6"}
+              capituloAnime7={"/ver/violet-evergarden-7"}
+              capituloAnime8={"/ver/violet-evergarden-8"}
+              capituloAnime9={"/ver/violet-evergarden-9"}
+              capituloAnime10={"/ver/violet-evergarden-10"}
+              capituloAnime11={"/ver/violet-evergarden-11"}
+              capituloAnime12={"/ver/violet-evergarden-12"}
+              capituloAnime13={"/ver/violet-evergarden-13"}
+              capituloAnime14={"/ver/violet-evergarden-14"}
+              li15={"disable"}
+              li16={"disable"}
+              li17={"disable"}
+              li18={"disable"}
+              li19={"disable"}
+              li20={"disable"}
+              li21={"disable"}
+              li22={"disable"}
+              li23={"disable"}
+              li24={"disable"}
             />
           }
         />
