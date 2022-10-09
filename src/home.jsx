@@ -5267,6 +5267,7 @@ function App() {
           path="/overlord-II"
           element={
             <Animes13
+              tituloAnime={"Overlord II"}
               imagenAnime={
                 "https://www.animefenix.com/cdn/animes/cover/5dd7f6135b484/overlord-ii.jpg"
               }
