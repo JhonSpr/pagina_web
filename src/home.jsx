@@ -5084,7 +5084,7 @@ function App() {
               }
               descripcion={"Tercera temporada de Overlord."}
               anime={"Overlord III"}
-              tipo={"TV v"}
+              tipo={"TV"}
               sec3={"disable"}
               genero1={"Acción"}
               genero2={"Aventura"}
