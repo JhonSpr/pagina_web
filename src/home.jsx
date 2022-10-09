@@ -5136,6 +5136,7 @@ function App() {
               descripcion={"Cuarta temporada de Overlord."}
               anime={"Overlord IV"}
               tipo={"TV"}
+              sec2="disable"
               sec3={"disable"}
               genero1={"Acción"}
               genero2={"Aventura"}
