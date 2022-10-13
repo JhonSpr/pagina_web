@@ -27,11 +27,13 @@ import { AccionPageSexto } from "./PageGeneros/AccionPage6";
 import { Animes13 } from "./Componentes/AnimesPort";
 import { Capitulos24 } from "./Componentes/Capitulos24";
 import { FantasiaPageOne } from "./PageGeneros/FantasiaPage1";
+import { Inicio } from "./Componentes/Inicio";
 
 function App() {
   return (
     <div>
       <Routes>
+        <Route path="/" element={<Inicio />} />
         <Route path="/perfil/:user" element={<PerfilPaginaMenu />} />
         <Route path="/ver/*" element={<Ver />} />
         {/* capitulos Animes */}

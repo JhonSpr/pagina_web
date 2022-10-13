@@ -10838,10 +10838,10 @@ function Videos() {
             frame1={"https://sbanh.com/e/yfvfteoz3n3f.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
-            tituloAnime={"Overlord II Capitulo 12"}
+            tituloAnime={"Overlord II Capitulo 13"}
             tituloPag={"Animekun"}
             anime={"Overlord II "}
-            numero={"12"}
+            numero={"13"}
             capitulosVideo={"/overlord-II"}
             anteriorVideo={"/ver/overlord-II-12"}
           />
