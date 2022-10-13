@@ -9908,7 +9908,9 @@ function Videos() {
             frame1={"https://sbthe.com/e/ic8ejf60urls.html"}
             contAnteriorClass="disable"
             tituloAnime={"Mob Pyscho 100 III Capitulo 1"}
-            contSiguienteClass={"disable"}
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            }
             anime={"Mob Psycho 100 III"}
             numero={"1"}
             siguienteVideo={"/ver/mob-psycho-100-III-2"}
@@ -9923,8 +9925,8 @@ function Videos() {
             frame1={"https://sbanh.com/e/an7gpe511hbu.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
-            tituloAnime={" Capitulo 2"}
-            anime={" "}
+            tituloAnime={"Mob Psycho 100 III Capitulo 2"}
+            anime={"Mob Psycho 100 III "}
             numero={"2"}
             siguienteVideo={"/ver/mob-psycho-100-III-3"}
             capitulosVideo={"/mob-psycho-100-III"}
