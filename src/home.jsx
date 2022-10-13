@@ -4256,8 +4256,8 @@ function App() {
               genre5={"disable"}
               tipo={"TV"}
               estado={"En Emisión"}
-              numeroEpisodios={"0"}
-              Fecha={"Miercoles 5 de octubre 2022"}
+              numeroEpisodios={"2"}
+              Fecha={"Miercoles 19 de octubre 2022"}
               capituloAnime1={"/ver/mob-psycho-100-III-1"}
               capituloAnime2={"/ver/mob-psycho-100-III-2"}
               capituloAnime3={"/ver/mob-psycho-100-III-3"}
@@ -4270,8 +4270,6 @@ function App() {
               capituloAnime10={"/ver/mob-psycho-100-III-10"}
               capituloAnime11={"/ver/mob-psycho-100-III-11"}
               capituloAnime12={"/ver/mob-psycho-100-III-12"}
-              li1={"disable"}
-              li2={"disable"}
               li3={"disable"}
               li4={"disable"}
               li5={"disable"}
