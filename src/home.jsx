@@ -4793,8 +4793,7 @@ function App() {
               hrefSecuela="/spy-x-family"
               nombreSecuela={"SPY x FAMILY"}
               textoSecuela={"Precuela"}
-              Fecha={"Sábado 15 de octubre 2022"}
-              li3={"disable"}
+              Fecha={"Sábado 22 de octubre 2022"}
               li4={"disable"}
               li5={"disable"}
               li6={"disable"}
