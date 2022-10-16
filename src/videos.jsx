@@ -9718,7 +9718,9 @@ function Videos() {
           <Video
             frame1={"https://sbanh.com/e/iax1kh5jmlw2.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={"disable"}
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            }
             tituloAnime={"Spy x Family 2nd Temporada Capitulo 2"}
             anime={"Spy x Family 2nd Temporada "}
             numero={"2"}
@@ -9732,7 +9734,7 @@ function Videos() {
         path="/ver/spy-x-family-2nd-temporada-3"
         element={
           <Video
-            frame1={"https://stapewithadblock./e/BLQbJwdwa6uygKM/"}
+            frame1={"https://sbanh.com/e/duqs5x463y25.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
