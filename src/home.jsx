@@ -4788,12 +4788,11 @@ function App() {
               genre4={"disable"}
               genre5={"disable"}
               estado={"En Emisión"}
-              numeroEpisodios={"3"}
+              numeroEpisodios={"4"}
               hrefSecuela="/spy-x-family"
               nombreSecuela={"SPY x FAMILY"}
               textoSecuela={"Precuela"}
               Fecha={"Sábado 29 de octubre 2022"}
-              li4={"disable"}
               li5={"disable"}
               li6={"disable"}
               li7={"disable"}
