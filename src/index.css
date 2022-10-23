@@ -89,7 +89,7 @@ a {
   .navbar-item-menu-drop {
     color: rgb(230, 230, 230) !important;
     margin: auto 10px;
-    background-color: rgba(160, 160, 160);
+    background-color: transparent;
     width: 120px !important;
     justify-content: center;
     text-align: center;
