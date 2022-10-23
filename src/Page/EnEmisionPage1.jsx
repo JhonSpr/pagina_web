@@ -317,12 +317,6 @@ export function EnEmisionPage1() {
           <li className="active">
             <a href="/en-emision">1</a>
           </li>
-          <li>
-            <a href="/en-emision page=2">2</a>
-          </li>
-          <a href="/en-emision page=3" className="siguiente">
-            Siguiente
-          </a>
         </ul>
       </div>
     </div>
