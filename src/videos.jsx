@@ -9752,7 +9752,7 @@ function Videos() {
         path="/ver/spy-x-family-2nd-temporada-4"
         element={
           <Video
-            frame1={"https://strtapewithadblock./e/ZzjRYpla8jIqzoW/"}
+            frame1={"https://sbanh.com/e/rnk00xkiayzx.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
             tituloAnime={"Spy x Family 2nd Temporada Capitulo 4"}
