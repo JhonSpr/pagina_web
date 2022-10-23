@@ -9928,7 +9928,9 @@ function Videos() {
           <Video
             frame1={"https://sbanh.com/e/an7gpe511hbu.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={"disable"}
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            }
             tituloAnime={"Mob Psycho 100 III Capitulo 2"}
             anime={"Mob Psycho 100 III "}
             numero={"2"}
@@ -9942,11 +9944,11 @@ function Videos() {
         path="/ver/mob-psycho-100-III-3"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://strtapewithadblock./e/A1d12KA6dZfXM1k/"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
-            tituloAnime={" Capitulo 3"}
-            anime={" "}
+            tituloAnime={"Mob Psycho 100 III Capitulo 3"}
+            anime={"Mob Psycho 100 III "}
             numero={"3"}
             siguienteVideo={"/ver/mob-psycho-100-III-4"}
             capitulosVideo={"/mob-psycho-100-III"}

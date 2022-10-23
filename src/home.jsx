@@ -4256,8 +4256,8 @@ function App() {
               genre5={"disable"}
               tipo={"TV"}
               estado={"En Emisión"}
-              numeroEpisodios={"2"}
-              Fecha={"Miercoles 19 de octubre 2022"}
+              numeroEpisodios={"3"}
+              Fecha={"Miercoles 26 de octubre 2022"}
               capituloAnime1={"/ver/mob-psycho-100-III-1"}
               capituloAnime2={"/ver/mob-psycho-100-III-2"}
               capituloAnime3={"/ver/mob-psycho-100-III-3"}
@@ -4270,7 +4270,6 @@ function App() {
               capituloAnime10={"/ver/mob-psycho-100-III-10"}
               capituloAnime11={"/ver/mob-psycho-100-III-11"}
               capituloAnime12={"/ver/mob-psycho-100-III-12"}
-              li3={"disable"}
               li4={"disable"}
               li5={"disable"}
               li6={"disable"}
@@ -4789,11 +4788,11 @@ function App() {
               genre4={"disable"}
               genre5={"disable"}
               estado={"En Emisión"}
-              numeroEpisodios={"2"}
+              numeroEpisodios={"3"}
               hrefSecuela="/spy-x-family"
               nombreSecuela={"SPY x FAMILY"}
               textoSecuela={"Precuela"}
-              Fecha={"Sábado 22 de octubre 2022"}
+              Fecha={"Sábado 29 de octubre 2022"}
               li4={"disable"}
               li5={"disable"}
               li6={"disable"}
@@ -4806,6 +4805,8 @@ function App() {
               li13={"disable"}
               capituloAnime1={"/ver/spy-x-family-2nd-temporada-1"}
               capituloAnime2={"/ver/spy-x-family-2nd-temporada-2"}
+              capituloAnime3={"/ver/spy-x-family-2nd-temporada-3"}
+              capituloAnime4={"/ver/spy-x-family-2nd-temporada-4"}
             />
           }
         />
