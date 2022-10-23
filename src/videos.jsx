@@ -9752,12 +9752,12 @@ function Videos() {
         path="/ver/spy-x-family-2nd-temporada-4"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://strtapewithadblock./e/ZzjRYpla8jIqzoW/"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
-            tituloAnime={" Capitulo 4"}
+            tituloAnime={"Spy x Family 2nd Temporada Capitulo 4"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Spy x Family 2nd Temporada "}
             numero={"4"}
             siguienteVideo={"/ver/spy-x-family-2nd-temporada-5"}
             capitulosVideo={"/spy-x-family-2nd-temporada"}
