@@ -9946,7 +9946,9 @@ function Videos() {
           <Video
             frame1={"https://sbanh.com/e/ug0tktbfudel.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={"disable"}
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            }
             tituloAnime={"Mob Psycho 100 III Capitulo 3"}
             anime={"Mob Psycho 100 III "}
             numero={"3"}
@@ -9957,21 +9959,19 @@ function Videos() {
         }
       />
       <Route
-        path="/ver/-4"
+        path="/ver/mob-psycho-100-III-4"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbanh.com/e/urzwcad0ioxm.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
-            tituloAnime={" Capitulo 4"}
+            contSiguienteClass={"disable"}
+            tituloAnime={"Mob Psycho 100 III Capitulo 4"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Mob Psycho 100 III "}
             numero={"4"}
-            siguienteVideo={"/ver/-5"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-3"}
+            siguienteVideo={"/ver/mob-psycho-100-III-5"}
+            capitulosVideo={"/mob-psycho-100-III"}
+            anteriorVideo={"/ver/mob-psycho-100-III-3"}
           />
         }
       />
