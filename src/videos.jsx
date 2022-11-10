@@ -9976,40 +9976,38 @@ function Videos() {
         }
       />
       <Route
-        path="/ver/-5"
+        path="/ver/mob-psycho-100-III-5"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbanh.com/e/j8h77qwzcwwk.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 5"}
+            tituloAnime={"Mob Psycho 100 III Capitulo 5"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Mob Psycho 100 III "}
             numero={"5"}
-            siguienteVideo={"/ver/-6"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-4"}
+            siguienteVideo={"/ver/mob-psycho-100-III-6"}
+            capitulosVideo={"/mob-psycho-100-III"}
+            anteriorVideo={"/ver/mob-psycho-100-III-4"}
           />
         }
       />
       <Route
-        path="/ver/-6"
+        path="/ver/mob-psycho-100-III-6"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbanh.com/e/9n7l2f2v1e6r.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
-            tituloAnime={" Capitulo 6"}
+            contSiguienteClass={"disable"}
+            tituloAnime={"Mob Psycho 100 III Capitulo 6"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Mob Psycho 100 III "}
             numero={"6"}
-            siguienteVideo={"/ver/-7"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-5"}
+            siguienteVideo={"/ver/mob-psycho-100-III-7"}
+            capitulosVideo={"/mob-psycho-100-III"}
+            anteriorVideo={"/ver/mob-psycho-100-III-5"}
           />
         }
       />
