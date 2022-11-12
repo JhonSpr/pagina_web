@@ -10009,7 +10009,7 @@ function Videos() {
             numero={"6"}
             siguienteVideo={"/ver/mob-psycho-100-III-7"}
             capitulosVideo={"/mob-psycho-100-III"}
-            anteriorVideo={"/ver/mob-psycho-100-III-5"}
+            anteriorVideo={"/ver/mob-psycho-100-IIIa-5"}
           />
         }
       />
