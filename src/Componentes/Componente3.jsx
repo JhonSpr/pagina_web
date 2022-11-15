@@ -90,16 +90,14 @@ export function Video({
                     <AnimeRecommend4 />
                   </div>
                 </div>
-                <div className="container_comment">
-                  <h1 className="comment_text">
-                    Usa ADBLOCK para ver los capitulos
-                  </h1>
-                  <Disqus className={"Comentarios"} />
-                </div>
               </div>
             </div>
           </div>
         </section>
+        <div className="container_comment">
+          <h1 className="comment_text">Usa ADBLOCK para ver los capitulos</h1>
+          <Disqus className={"Comentarios"} />
+        </div>
       </div>
     </div>
   );
