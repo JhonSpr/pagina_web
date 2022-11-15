@@ -314,7 +314,7 @@ export function Page6() {
 
       <div className="paginacion-contenedor">
         <ul>
-          <a href="/animes-page=5" className="anterior">
+          <a href="/animes page=5" className="anterior">
             Anterior
           </a>
           <li>
