@@ -32,7 +32,17 @@ export function Video({
             <div className="columns is-multiline">
               <div className="column is-12-mobile is-8-tablet is-9-desktop">
                 <span className="text  has-text-centeredX has-text-light">
-                  Inicio <i class="fa-solid fa-arrow-right"></i> Animes{" "}
+                  <a href="https//animekuns.netlify.app">
+                    <i class="fa-duotone fa-house"></i>
+                  </a>{" "}
+                  <i class="fa-solid fa-arrow-right"></i>{" "}
+                  <a
+                    href="http://animekuns.netlify.app/animes"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Animes
+                  </a>
                   <i class="fa-solid fa-arrow-right"></i>
                   {anime} {numero}
                 </span>
