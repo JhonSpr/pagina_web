@@ -46,10 +46,7 @@ export function Video({
                       allowFullScreen
                     ></iframe>
                   </div>
-                  <div className="container_comment">
-                    <h1>Comentarios sobre {anime}</h1>
-                    <Disqus className={"Comentarios"} />
-                  </div>
+
                   <div className="column is-12-mobile is-4-tablet is-3-desktop">
                     <div className="columns is-variable is-1 cont-opciones">
                       <div className={contAnteriorClass}>
@@ -76,6 +73,10 @@ export function Video({
                         </a>
                       </div>
                     </div>
+                  </div>
+                  <div className="container_comment">
+                    <h1>Comentarios sobre {anime}</h1>
+                    <Disqus className={"Comentarios"} />
                   </div>
                 </div>
                 <h1 className="title is-size-5 has-text-weight-light has-text-light pag-text">
