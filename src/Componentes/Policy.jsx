@@ -23,7 +23,7 @@ export function Policy() {
         descargar, hay que registrarse/loguearse en la pagina, arriba a la
         derecha de la pagina, no en la sección de comentarios(disqus). Como
         algunos no encuentran donde registrarse, pongo imágenes: Para web
-        https://ibb.co/DCGzkMV Usen "<spoiler></spoiler>" cuando hagan spoiler,
+        https://ibb.co/DCGzkMV Usen <spoiler></spoiler> cuando hagan spoiler,
         aunque exista esa opción, no hagan spoiler sin sentido(no pongan
         spoilers solo para molestar). En caso de que al registrarse, su mail de
         error, mandarnos un mensaje en fb, con el usuario/pwq que quieras, así
