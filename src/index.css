@@ -13,6 +13,12 @@ body {
   background-color: rgb(0, 0, 0);
 }
 
+.policy {
+  color: rgb(230, 230, 230);
+  background-color: #363636;
+  margin-top: 70px;
+}
+
 .fa-arrow-right {
   color: #8a8a8a;
   font-size: 12px;
