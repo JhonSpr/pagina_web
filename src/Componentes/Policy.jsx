@@ -25,14 +25,7 @@ export function Policy() {
         algunos no encuentran donde registrarse, pongo imágenes: Para web
         https://ibb.co/DCGzkMV Usen <spoiler></spoiler> cuando hagan spoiler,
         aunque exista esa opción, no hagan spoiler sin sentido(no pongan
-        spoilers solo para molestar). En caso de que al registrarse, su mail de
-        error, mandarnos un mensaje en fb, con el usuario/pwq que quieras, así
-        te la creamos por vos:
-        https://www.facebook.com/Untaltioyt-105493257589307/ Posible solución;
-        no usar mayúsculas en el mail. Si ven error de subs(NO alg como etso),
-        episodios de un anime mal ordenados o Ep con mal audio, ayudaría que nos
-        informen por fb/comentarlo en disqus. Gracias. (No hagan spam de otras
-        paginas de anime)
+        spoilers solo para molestar).(No hagan spam de otras paginas de anime)
       </p>
     </div>
   );
