@@ -33,7 +33,7 @@ export function Video({
               <div className="column is-12-mobile is-8-tablet is-9-desktop">
                 <span className="text  has-text-centeredX has-text-light">
                   <a href="https//animekuns.netlify.app">
-                    <i class="fa-duotone fa-house"></i>
+                    <i class="fa-solid fa-house-chimney"></i>
                   </a>{" "}
                   <i class="fa-solid fa-arrow-right"></i>{" "}
                   <a
