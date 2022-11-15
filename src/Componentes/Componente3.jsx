@@ -46,6 +46,10 @@ export function Video({
                       allowFullScreen
                     ></iframe>
                   </div>
+                  <div className="container_comment">
+                    <h1>Comentarios sobre {anime}</h1>
+                    <Disqus className={"Comentarios"} />
+                  </div>
                   <div className="column is-12-mobile is-4-tablet is-3-desktop">
                     <div className="columns is-variable is-1 cont-opciones">
                       <div className={contAnteriorClass}>
@@ -78,10 +82,7 @@ export function Video({
                   Animes Gratis Online HD
                 </h1>
               </div>
-              <div className="container_comment">
-                <h1>Comentarios sobre {anime}</h1>
-                <Disqus className={"Comentarios"} />
-              </div>
+
               <div className="column is-12-mobile is-3-tablet is-3-deskop">
                 <div className="column is-12-mobile is-12-tablet is-12-desktop is-paddingless">
                   <h5 className="has-text-light text-centered titlo-otros_animes">
