@@ -339,7 +339,7 @@ export function Page2() {
             <a href="/animes page=7">7</a>
           </li>
 
-          <a href="/animes-page=3" className="siguiente">
+          <a href="/animes page=3" className="siguiente">
             Siguiente
           </a>
         </ul>
