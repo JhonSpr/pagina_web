@@ -24,6 +24,7 @@ export default function Menubar() {
             <h2 className="letraI">i</h2> <h2 className="letraM">m</h2>{" "}
             <h2 className="letraE">e</h2> <h2 className="letraK">k</h2>{" "}
             <h2 className="letraU">u</h2> <h2 className="letraN">n</h2>
+            <h2 className="letraN">S</h2>
           </a>
 
           <div
