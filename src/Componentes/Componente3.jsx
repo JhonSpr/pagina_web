@@ -31,9 +31,11 @@ export function Video({
           <div className="container">
             <div className="columns is-multiline">
               <div className="column is-12-mobile is-8-tablet is-9-desktop">
-                <h1 className="text  has-text-centeredX has-text-light">
+                <span className="text  has-text-centeredX has-text-light">
+                  Inicio <i class="fa-solid fa-arrow-right"></i> Animes{" "}
+                  <i class="fa-solid fa-arrow-right"></i>
                   {anime} {numero}
-                </h1>
+                </span>
               </div>
 
               <div className="column is-12-mobile is-9-tablet is-9-desktop">
