@@ -9754,7 +9754,9 @@ function Videos() {
           <Video
             frame1={"https://sbanh.com/e/rnk00xkiayzx.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={"disable"}
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            }
             tituloAnime={"Spy x Family 2nd Temporada Capitulo 4"}
             tituloPag={"Animekun"}
             anime={"Spy x Family 2nd Temporada "}
