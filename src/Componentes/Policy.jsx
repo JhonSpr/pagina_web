@@ -1,6 +1,6 @@
 export function Policy() {
   return (
-    <div>
+    <div className="container">
       <p>
         La nueva función Política de comentarios en Disqus le permite resaltar
         las reglas de su comunidad. No todas las comunidades moderan de la misma
