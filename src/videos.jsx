@@ -9769,12 +9769,14 @@ function Videos() {
         path="/ver/spy-x-family-2nd-temporada-5"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblongvu.com/e/2si4dqjyi17f.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={"disable"}
-            tituloAnime={" Capitulo 5"}
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            }
+            tituloAnime={"Spy x Family 2nd Temporada Capitulo 5"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Spy x Family 2nd Temporada "}
             numero={"5"}
             siguienteVideo={"/ver/spy-x-family-2nd-temporada-6"}
             capitulosVideo={"/spy-x-family-2nd-temporada"}
@@ -9786,12 +9788,14 @@ function Videos() {
         path="/ver/spy-x-family-2nd-temporada-6"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblongvu.com/e/4s3txnlub5ir.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={"disable"}
-            tituloAnime={" Capitulo 6"}
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            }
+            tituloAnime={"Spy x Family 2nd Temporada Capitulo 6"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Spy x Family 2nd Temporada "}
             numero={"6"}
             siguienteVideo={"/ver/spy-x-family-2nd-temporada-7"}
             capitulosVideo={"/spy-x-family-2nd-temporada"}
@@ -9803,11 +9807,11 @@ function Videos() {
         path="/ver/spy-x-family-2nd-temporada-7"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblongvu.com/e/c8655zli44rf.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
-            tituloAnime={" Capitulo 7"}
-            anime={" "}
+            tituloAnime={"Spy x Family 2nd Temporada Capitulo 7"}
+            anime={"Spy x Family 2nd Temporada "}
             numero={"7"}
             siguienteVideo={"/ver/spy-x-family-2nd-temporada-8"}
             capitulosVideo={"/spy-x-family-2nd-temporada"}
