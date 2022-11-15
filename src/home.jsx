@@ -28,6 +28,7 @@ import { Animes13 } from "./Componentes/AnimesPort";
 import { Capitulos24 } from "./Componentes/Capitulos24";
 import { FantasiaPageOne } from "./PageGeneros/FantasiaPage1";
 import { Inicio } from "./Componentes/Inicio";
+import { Policy } from "./Componentes/Policy";
 
 function App() {
   return (
@@ -5229,7 +5230,7 @@ function App() {
         <Route path="/animes%20page=3" element={<Page3 />} />
         <Route path="/animes%20page=2" element={<Page2 />} />
         <Route path="/animes" element={<Page1 />} />
-
+        <Route path="/policy-comments" element={<Policy />} />
         <Route path="*" element={<NoExiste />} />
       </Routes>
     </div>
