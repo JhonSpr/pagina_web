@@ -32,7 +32,7 @@ export function Video({
             <div className="columns is-multiline">
               <div className="column is-12-mobile is-8-tablet is-9-desktop">
                 <span className="text  has-text-centeredX has-text-light">
-                  Inicio <i class="fa-solid fa-arrow-right"></i> Animes{" "}
+                  Inicio <i class="fa-solid fa-arrow-right"></i> Animes
                   <i class="fa-solid fa-arrow-right"></i>
                   {anime} {numero}
                 </span>
