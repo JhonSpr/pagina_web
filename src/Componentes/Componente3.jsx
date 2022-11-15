@@ -74,14 +74,14 @@ export function Video({
                       </div>
                     </div>
                   </div>
-                  <div className="container_comment">
-                    <h1>Comentarios sobre {anime}</h1>
-                    <Disqus className={"Comentarios"} />
-                  </div>
                 </div>
                 <h1 className="title is-size-5 has-text-weight-light has-text-light pag-text">
                   Animes Gratis Online HD
                 </h1>
+                <div className="container_comment">
+                  <h1>Comentarios sobre {anime}</h1>
+                  <Disqus className={"Comentarios"} />
+                </div>
               </div>
 
               <div className="column is-12-mobile is-3-tablet is-3-deskop">
