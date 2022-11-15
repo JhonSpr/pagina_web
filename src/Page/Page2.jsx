@@ -338,15 +338,7 @@ export function Page2() {
           <li className="paginacion">
             <a href="/animes page=7">7</a>
           </li>
-          <li className="paginacion">
-            <a href="/animes page=8">8</a>
-          </li>
-          <li className="paginacion">
-            <a href="/animes page=9">9</a>
-          </li>
-          <li className="paginacion">
-            <a href="/animes page=10">10</a>
-          </li>
+
           <a href="/animes-page=3" className="siguiente">
             Siguiente
           </a>

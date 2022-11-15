@@ -338,15 +338,7 @@ export function Page6() {
           <li>
             <a href="/animes page=7">7</a>
           </li>
-          <li>
-            <a href="/animes page=8">8</a>
-          </li>
-          <li>
-            <a href="/animes page=9">9</a>
-          </li>
-          <li>
-            <a href="/animes page=10">10</a>
-          </li>
+
           <a href="/animes page=7" className="siguiente">
             Siguiente
           </a>
