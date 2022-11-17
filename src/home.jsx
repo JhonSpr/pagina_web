@@ -4257,7 +4257,7 @@ function App() {
               genre5={"disable"}
               tipo={"TV"}
               estado={"En Emisión"}
-              numeroEpisodios={"6"}
+              numeroEpisodios={"7"}
               Fecha={"Miercoles 16 de Noviembre 2022"}
               capituloAnime1={"/ver/mob-psycho-100-III-1"}
               capituloAnime2={"/ver/mob-psycho-100-III-2"}
@@ -4271,7 +4271,6 @@ function App() {
               capituloAnime10={"/ver/mob-psycho-100-III-10"}
               capituloAnime11={"/ver/mob-psycho-100-III-11"}
               capituloAnime12={"/ver/mob-psycho-100-III-12"}
-              li7={"disable"}
               li8={"disable"}
               li9={"disable"}
               li10={"disable"}
@@ -4786,14 +4785,11 @@ function App() {
               genre4={"disable"}
               genre5={"disable"}
               estado={"En Emisión"}
-              numeroEpisodios={"4"}
+              numeroEpisodios={"7"}
               hrefSecuela="/spy-x-family"
               nombreSecuela={"SPY x FAMILY"}
               textoSecuela={"Precuela"}
               Fecha={"Sábado 29 de octubre 2022"}
-              li5={"disable"}
-              li6={"disable"}
-              li7={"disable"}
               li8={"disable"}
               li9={"disable"}
               li10={"disable"}

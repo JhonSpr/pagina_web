@@ -10020,21 +10020,21 @@ function Videos() {
         }
       />
       <Route
-        path="/ver/-7"
+        path="/ver/mob-psycho-100-III-7"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblongvu.com/e/ccatmdawe3z7.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 7"}
+            tituloAnime={"Mob Psycho 100 III Capitulo 7"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Mob Psycho 100 III "}
             numero={"7"}
-            siguienteVideo={"/ver/-8"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-6"}
+            siguienteVideo={"/ver/mob-psycho-100-III-8"}
+            capitulosVideo={"/mob-psycho-100-III"}
+            anteriorVideo={"/ver/mob-psycho-100-III-6"}
           />
         }
       />
