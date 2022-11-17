@@ -10008,7 +10008,9 @@ function Videos() {
           <Video
             frame1={"https://sbanh.com/e/9n7l2f2v1e6r.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={"disable"}
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
             tituloAnime={"Mob Psycho 100 III Capitulo 6"}
             tituloPag={"Animekun"}
             anime={"Mob Psycho 100 III"}
@@ -10025,9 +10027,7 @@ function Videos() {
           <Video
             frame1={"https://sblongvu.com/e/ccatmdawe3z7.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
+            contSiguienteClass={"disable"}
             tituloAnime={"Mob Psycho 100 III Capitulo 7"}
             tituloPag={"Animekun"}
             anime={"Mob Psycho 100 III "}
