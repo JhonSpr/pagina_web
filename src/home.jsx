@@ -5151,7 +5151,7 @@ function App() {
         <Route
           path="/bleach-sennen-kessen-hen"
           element={
-            <Animes13
+            <Emision12
               tituloAnime={"BLEACH: Sennen Kessen-hen"}
               imagenAnime={
                 "https://www.animefenix.com/cdn/animes/cover/632a65c207e92/bleach-sennen-kessen-hen.jpg"
@@ -5175,6 +5175,7 @@ function App() {
               genre5={"disable"}
               estado={"En emision"}
               numeroEpisodios={"6"}
+              Fecha="LUNES 21 DE NOVIEMBRE"
               capituloAnime1={"/ver/bleach-sennen-kessen-hen-1"}
               capituloAnime2={"/ver/bleach-sennen-kessen-hen-2"}
               capituloAnime3={"/ver/bleach-sennen-kessen-hen-3"}
