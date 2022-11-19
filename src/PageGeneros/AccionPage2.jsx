@@ -329,24 +329,7 @@ export function AccionPageTwo() {
           <li className="paginacion">
             <a href="/generos[]=accion&page=4">4</a>
           </li>
-          <li className="paginacion">
-            <a href="/generos[]=accion&page=5">5</a>
-          </li>
-          <li className="paginacion">
-            <a href="/generos[]=accion&page=6">6</a>
-          </li>
-          <li className="paginacion">
-            <a href="/generos[]=accion&page=7">7</a>
-          </li>
-          <li className="paginacion">
-            <a href="/generos[]=accion&page=8">8</a>
-          </li>
-          <li className="paginacion">
-            <a href="/generos[]=accion&page=9">9</a>
-          </li>
-          <li className="paginacion">
-            <a href="/generos[]=accion&page=10">10</a>
-          </li>
+
           <a href="/generos[]=accion&page=3" className="siguiente">
             Siguiente
           </a>

@@ -329,27 +329,10 @@ export function AccionPageCuatro() {
           <li className="active">
             <a href="/generos[]=accion&page=4">4</a>
           </li>
-          <li>
-            <a href="/generos[]=accion&page=5">5</a>
-          </li>
-          <li>
-            <a href="/generos[]=accion&page=6">6</a>
-          </li>
-          <li>
-            <a href="/generos[]=accion&page=7">7</a>
-          </li>
-          <li>
-            <a href="/generos[]=accion&page=8">8</a>
-          </li>
-          <li>
-            <a href="/generos[]=accion&page=9">9</a>
-          </li>
-          <li>
-            <a href="/generos[]=accion&page=10">10</a>
-          </li>
-          <a href="/generos[]=accion&page=5" className="siguiente">
+
+          {/* <a href="/generos[]=accion&page=5" className="siguiente">
             Siguiente
-          </a>
+          </a> */}
         </ul>
       </div>
     </div>
