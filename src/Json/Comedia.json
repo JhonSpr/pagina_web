@@ -63,10 +63,12 @@
   },
   {
     "id": 9,
-    "img": "",
-    "link": "",
-    "title": "",
-    "year": 2
+    "img": "https://www.animefenix.com/cdn/animes/cover/632a65c207e92/bleach-sennen-kessen-hen.jpg",
+    "link": "bleach-sennen-kessen-hen",
+    "title": "BLEACH: Sennen Kessen-hen",
+    "year": 2022,
+    "estado": "En Emision",
+    "classEstado": "tag is-success airing"
   },
   {
     "id": 10,
