@@ -12517,7 +12517,7 @@ function Videos() {
         path="/ver/bleach-sennen-kessen-hen-1"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblongvu.com/e/zs0ljhjkn107.html"}
             contAnteriorClass="disable"
             tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 1"}
             contSiguienteClass={
@@ -12535,7 +12535,7 @@ function Videos() {
         path="/ver/bleach-sennen-kessen-hen-2"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblongvu.com/e/jmjyd8ymtbh2.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -12554,7 +12554,7 @@ function Videos() {
         path="/ver/bleach-sennen-kessen-hen-3"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblongvu.com/e/907qt393wt82.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -12573,7 +12573,7 @@ function Videos() {
         path="/ver/bleach-sennen-kessen-hen-4"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblongvu.com/e/esmpokc92bjl.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -12592,7 +12592,7 @@ function Videos() {
         path="/ver/bleach-sennen-kessen-hen-5"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblongvu.com/e/vsnnk7k6qmjx.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -12611,7 +12611,7 @@ function Videos() {
         path="/ver/bleach-sennen-kessen-hen-6"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblongvu.com/e/rtpxhp7q331o.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
             tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 6"}
