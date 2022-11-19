@@ -10025,7 +10025,7 @@ function Videos() {
         path="/ver/mob-psycho-100-III-7"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbthe.com/e/vx7lug8864h4.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
             tituloAnime={"Mob Psycho 100 III Capitulo 7"}
