@@ -12514,25 +12514,25 @@ function Videos() {
       />
       ----------------
       <Route
-        path="/ver/-1"
+        path="/ver/bleach-sennen-kessen-hen-1"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
             contAnteriorClass="disable"
-            tituloAnime={" 1"}
+            tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 1"}
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
             tituloPag={"Animekun"}
-            anime={"Akudama Drive"}
+            anime={"BLEACH: Sennen Kessen-hen"}
             numero={"1"}
-            siguienteVideo={"/ver/-2"}
-            capitulosVideo={"/"}
+            siguienteVideo={"/ver/bleach-sennen-kessen-hen-2"}
+            capitulosVideo={"/bleach-sennen-kessen-hen"}
           />
         }
       />
       <Route
-        path="/ver/-2"
+        path="/ver/bleach-sennen-kessen-hen-2"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
@@ -12540,18 +12540,18 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 2"}
+            tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 2"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"BLEACH: Sennen Kessen-hen "}
             numero={"2"}
-            siguienteVideo={"/ver/-3"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/1"}
+            siguienteVideo={"/ver/bleach-sennen-kessen-hen-3"}
+            capitulosVideo={"/bleach-sennen-kessen-hen"}
+            anteriorVideo={"/ver/bleach-sennen-kessen-hen-1"}
           />
         }
       />
       <Route
-        path="/ver/-3"
+        path="/ver/bleach-sennen-kessen-hen-3"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
@@ -12559,18 +12559,18 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 3"}
+            tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 3"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"BLEACH: Sennen Kessen-hen "}
             numero={"3"}
-            siguienteVideo={"/ver/-4"}
+            siguienteVideo={"/ver/bleach-sennen-kessen-hen-4"}
             capitulosVideo={"/"}
-            anteriorVideo={"/ver/-2"}
+            anteriorVideo={"/ver/bleach-sennen-kessen-hen-2"}
           />
         }
       />
       <Route
-        path="/ver/-4"
+        path="/ver/bleach-sennen-kessen-hen-4"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
@@ -12578,18 +12578,18 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 4"}
+            tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 4"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"BLEACH: Sennen Kessen-hen "}
             numero={"4"}
-            siguienteVideo={"/ver/-5"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-3"}
+            siguienteVideo={"/ver/bleach-sennen-kessen-hen-5"}
+            capitulosVideo={"/bleach-sennen-kessen-hen"}
+            anteriorVideo={"/ver/bleach-sennen-kessen-hen-3"}
           />
         }
       />
       <Route
-        path="/ver/-5"
+        path="/ver/bleach-sennen-kessen-hen-5"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
@@ -12597,32 +12597,30 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 5"}
+            tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 5"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"BLEACH: Sennen Kessen-hen "}
             numero={"5"}
-            siguienteVideo={"/ver/-6"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-4"}
+            siguienteVideo={"/ver/bleach-sennen-kessen-hen-6"}
+            capitulosVideo={"/bleach-sennen-kessen-hen"}
+            anteriorVideo={"/ver/bleach-sennen-kessen-hen-4"}
           />
         }
       />
       <Route
-        path="/ver/-6"
+        path="/ver/bleach-sennen-kessen-hen-6"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
-            tituloAnime={" Capitulo 6"}
+            contSiguienteClass={"disable"}
+            tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 6"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"BLEACH: Sennen Kessen-hen "}
             numero={"6"}
-            siguienteVideo={"/ver/-7"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-5"}
+            siguienteVideo={"/ver/bleach-sennen-kessen-hen-7"}
+            capitulosVideo={"/bleach-sennen-kessen-hen"}
+            anteriorVideo={"/ver/bleach-sennen-kessen-hen-5"}
           />
         }
       />

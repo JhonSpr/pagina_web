@@ -5147,6 +5147,50 @@ function App() {
             />
           }
         />
+
+        <Route
+          path="/bleach-sennen-kessen-hen"
+          element={
+            <Animes13
+              tituloAnime={"BLEACH: Sennen Kessen-hen"}
+              imagenAnime={
+                "https://www.animefenix.com/cdn/animes/cover/632a65c207e92/bleach-sennen-kessen-hen.jpg"
+              }
+              descripcion={"Segunda Temporada de bleach"}
+              anime={"BLEACH: Sennen Kessen-hen"}
+              tipo={"TV"}
+              sec1="disable"
+              sec2="disable"
+              sec3={"disable"}
+              genero1={"Acción"}
+              genero2={"Comedia"}
+              genero3={"Shounen"}
+              hrefGenre1={"/generos[]=accion"}
+              hrefGenre2={"/generos[]=comedia"}
+              hrefGenre3={"/generos[]=shounen"}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"disable"}
+              genre5={"disable"}
+              estado={"En emision"}
+              numeroEpisodios={"6"}
+              capituloAnime1={"/ver/bleach-sennen-kessen-hen-1"}
+              capituloAnime2={"/ver/bleach-sennen-kessen-hen-2"}
+              capituloAnime3={"/ver/bleach-sennen-kessen-hen-3"}
+              capituloAnime4={"/ver/bleach-sennen-kessen-hen-4"}
+              capituloAnime5={"/ver/bleach-sennen-kessen-hen-5"}
+              capituloAnime6={"/ver/bleach-sennen-kessen-hen-6"}
+              capituloAnime7={"/ver/bleach-sennen-kessen-hen-7"}
+              capituloAnime8={"/ver/bleach-sennen-kessen-hen-8"}
+              capituloAnime9={"/ver/bleach-sennen-kessen-hen-9"}
+              capituloAnime10={"/ver/bleach-sennen-kessen-hen-10"}
+              capituloAnime11={"/ver/bleach-sennen-kessen-hen-11"}
+              capituloAnime12={"/ver/bleach-sennen-kessen-hen-12"}
+              capituloAnime13={"/ver/bleach-sennen-kessen-hen-13"}
+            />
+          }
+        />
         <Route
           path="/violet-evergarden"
           element={
