@@ -35,72 +35,14 @@ function App() {
           path="/sasaki-to-miyano"
           exact
           element={
-            <Capitulos12
+            <Numero12
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
-              li13={"li"}
-              li14={"li"}
-              li15={"li"}
-              li16={"li"}
-              li17={"li"}
-              li18={"li"}
-              li19={"li"}
-              li20={"li"}
-              li21={"li"}
-              li22={"li"}
-              li23={"li"}
-              li24={"li"}
-              li25={"li"}
-              li26={"li"}
-              li27={"li"}
-              li28={"li"}
-              li29={"li"}
-              li30={"li"}
-              li31={"li"}
-              li32={"li"}
-              li33={"li"}
-              li34={"li"}
-              li35={"li"}
-              li36={"li"}
-              li37={"li"}
-              li38={"li"}
-              li39={"li"}
-              li40={"li"}
-              li41={"li"}
-              li42={"li"}
-              li43={"li"}
-              li44={"li"}
-              li45={"li"}
-              li46={"li"}
-              li47={"li"}
-              li48={"li"}
-              li49={"li"}
-              li50={"li"}
-              li51={"li"}
-              li52={"li"}
-              li53={"li"}
-              li54={"li"}
-              li55={"li"}
-              li56={"li"}
-              li70={"li"}
-              li69={"li"}
-              li68={"li"}
-              li67={"li"}
-              li66={"li"}
-              li65={"li"}
-              li64={"li"}
-              li63={"li"}
-              li62={"li"}
-              li61={"li"}
-              li60={"li"}
-              li59={"li"}
-              li58={"li"}
-              li57={"li"}
               descripcion={
                 "Todo comenzó como la típica trama de amor de los chicos de la vieja escuela: el chico malo de último año se encuentra con un estudiante de secundaria adorablemente torpe, uno de ellos se enamora, y así sucesivamente. Pero aunque Miyano es un autoproclamado experto en el amor de los niños, no se ha dado cuenta... él mismo está en uno. ¡Lo que significa que depende de Sasaki asegurarse de que su historia tenga un feliz para siempre...!"
               }
-              imagenAnime="https://www.animefenix.tv/cdn/animes/cover/61d5e08d99019/sasaki-to-miyano.jpg"
+              imagenAnime="https://i.postimg.cc/PJyqr6t2/sasaki-to-miyano.jpg"
               tipo={"TV"}
               numeroEpisodios={"13"}
               estado={"Finalizado"}
@@ -133,7 +75,7 @@ function App() {
               descripcion={
                 "Hace muchos años, una Gran Guerra Civil devastó Japón, dejando al país fragmentado en dos regiones: Kansai y Kanto. En Kansai, un grupo de seis Akudama llevan a cabo las misiones que les encomienda un misterioso gato negro, mientras evaden a la policía. Pero un viaje peligroso está a punto de desarrollarse cuando una niña civil se retuerce en el estilo de vida de los Akudama y es testigo de sus impulsos criminales."
               }
-              imagenAnime="https://www.animefenix.tv/cdn/animes/cover/5f7e65dc3eb65/akudama-drive.jpg"
+              imagenAnime="https://i.postimg.cc/Dz96B0dq/akudama-drive.jpg"
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
@@ -215,7 +157,7 @@ function App() {
               numeroEpisodios={"24"}
               estado={"Finalizado"}
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/614e84bf0253f/hanyo-no-yashahime-ni-no-shou.jpg"
+                "https://i.postimg.cc/yxBPCGGx/hanyo-no-yashahime-ni-no-shou.jpg"
               }
               capituloAnime1={"/ver/hanyo-no-yashahime-ni-no-shou-1"}
               capituloAnime2={"/ver/hanyo-no-yashahime-ni-no-shou-2"}
@@ -260,7 +202,7 @@ function App() {
               numeroEpisodios={"11"}
               estado={"Finalizado"}
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/60dd1bd47b14c/heion-sedai-no-idaten-tachi.jpg"
+                "https://i.postimg.cc/PfzyQtLw/heion-sedai-no-idaten-tachi.jpg"
               }
               capituloAnime1={"/ver/heion-sedai-no-idaten-tachi-1"}
               capituloAnime2={"/ver/heion-sedai-no-idaten-tachi-2"}
@@ -292,9 +234,7 @@ function App() {
               tipo={"TV"}
               numeroEpisodios={"13"}
               estado={"Finalizado"}
-              imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/60d7ea610da30/tensei-shitara-slime-datta-ken-2nd-season-part-2.jpg"
-              }
+              imagenAnime={""}
               capituloAnime1={
                 "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-parte-2-1"
               }
@@ -353,7 +293,7 @@ function App() {
               numeroEpisodios={"12"}
               estado={"Finalizado"}
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/60d7d39e29e28/peach-boy-riverside.jpg"
+                "https://i.postimg.cc/nz1mBhdV/peach-boy-riverside.jpg"
               }
               capituloAnime1={"/ver/peach-boy-riverside-1"}
               capituloAnime2={"/ver/peach-boy-riverside-2"}
@@ -385,9 +325,7 @@ function App() {
               tipo={"TV"}
               numeroEpisodios={"24"}
               estado={"Finalizado"}
-              imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/5f66cfddef53a/jujutsu-kaisen.jpg"
-              }
+              imagenAnime={"https://i.postimg.cc/wMfs4b8S/jujutsu-kaisen.jpg"}
               capituloAnime1={"/ver/jujutsu-kaisen-1"}
               capituloAnime2={"/ver/jujutsu-kaisen-2"}
               capituloAnime3={"/ver/jujutsu-kaisen-3"}
@@ -431,7 +369,7 @@ function App() {
               numeroEpisodios={"24"}
               estado={"Finalizado"}
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/5f94201ce23b1/shingeki-no-bahamut-virgin-soul.jpg"
+                "https://i.postimg.cc/QxC7Kscs/shingeki-no-bahamut-virgin-soul.jpg"
               }
               capituloAnime1={"/ver/shingeki-no-bahamut:virgin-soul-1"}
               capituloAnime2={"/ver/shingeki-no-bahamut:virgin-soul-2"}
@@ -472,7 +410,7 @@ function App() {
               textoSecuela={"Precuela"}
               textoSecuela2={"Secuela"}
               nombreSecuela={"Castlevania"}
-              nombreSecuela2={"Castlevania Tercera Temporada"}
+              nombreSecuela2={"Castlevania 3"}
               li9={"li"}
               li10={"li"}
               li11={"li"}
@@ -482,7 +420,7 @@ function App() {
               numeroEpisodios={"8"}
               estado={"Finalizado"}
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/5e4efb4be5001/castlevania-season-2.jpg"
+                "https://i.postimg.cc/k53RHbzX/castlevania-season-2.jpg"
               }
               capituloAnime1={"/ver/castlevania-segunda-temporada-1"}
               capituloAnime2={"/ver/castlevania-segunda-temporada-2"}
@@ -514,7 +452,7 @@ function App() {
               numeroEpisodios={"13"}
               estado={"Finalizado"}
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/5ebaac070d30a/ao-no-exorcist-kyoto-fujouou-hen.png"
+                "https://i.postimg.cc/kG6n9jtr/ao-no-exorcist-kyoto-fujouou-hen.jpg"
               }
               capituloAnime1={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-1"}
               capituloAnime2={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-2"}
@@ -544,9 +482,7 @@ function App() {
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
-              imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/5d9ad108f3780/fairy-gone.jpg"
-              }
+              imagenAnime={"https://i.postimg.cc/j5CTQ8cW/fairy-gone.jpg"}
               textoSecuela={"Secuela"}
               hrefSecuela={"/fairy-gone-segunda-temporada"}
               nombreSecuela={"Fairy Gone Segunda Temporada"}
@@ -584,9 +520,7 @@ function App() {
               textoSecuela={"Secuela"}
               sec2={"sec"}
               sec3={"sec"}
-              imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/62b391c6e1119/dr-stone-ryusui.png"
-              }
+              imagenAnime={"https://i.postimg.cc/c1pKCY17/dr-stone-ryusui.jpg"}
               li2={"li"}
               li3={"li"}
               li4={"li"}
@@ -617,9 +551,7 @@ function App() {
               sec1={"sec"}
               sec2={"sec"}
               sec3={"sec"}
-              imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/62b39151eb430/isekai-yakkyoku.jpg"
-              }
+              imagenAnime={"https://i.postimg.cc/m2WDBsV8/isekai-yakkyoku.jpg"}
               capituloAnime1={"/ver/isekai-yakkyoku-1"}
               capituloAnime2={"/ver/isekai-yakkyoku-2"}
               capituloAnime3={"/ver/isekai-yakkyoku-3"}
@@ -651,7 +583,7 @@ function App() {
               sec2={"sec"}
               sec3={"sec"}
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/62b390dacca80/kuro-no-shoukanshi.jpg"
+                "https://i.postimg.cc/j2HRLDvv/kuro-no-shoukanshi.jpg"
               }
               capituloAnime1={"/ver/kuro-no-shoukanshi-1"}
               capituloAnime2={"/ver/kuro-no-shoukanshi-2"}
@@ -684,7 +616,7 @@ function App() {
               textoSecuela={"Precuela"}
               nombreSecuela={"Fairy Gone"}
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/5d95594d48a4f/fairy-gone-2nd-season.jpg"
+                "https://i.postimg.cc/ZqXmH8MV/fairy-gone-2nd-season.jpg"
               }
               capituloAnime1={"/ver/fairy-gone-segunda-temporada-1"}
               capituloAnime2={"/ver/fairy-gone-segunda-temporada-2"}
@@ -714,7 +646,7 @@ function App() {
               numeroEpisodios={"12"}
               estado={"Finalizado"}
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/62b38b1fc1df2/isekai-meikyuu-de-harem-wo.jpg"
+                "https://i.postimg.cc/RZFzzprg/isekai-meikyuu-de-harem-wo.jpg"
               }
               sec1={"sec"}
               sec2={"sec"}
@@ -751,7 +683,7 @@ function App() {
               numeroEpisodios={"13"}
               estado={"Finalizado"}
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/62b9c44a32f53/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2nd-season.jpg"
+                "https://i.postimg.cc/02kTpXN9/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2nd-season.jpg"
               }
               capituloAnime1={
                 "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-1"
@@ -809,9 +741,7 @@ function App() {
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
-              imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/6244890fb1517/spy-x-family.jpg"
-              }
+              imagenAnime={"https://i.postimg.cc/FRXq1Dq5/spy-x-family.jpg"}
               nombreSecuela={"Spy x Family Temporada 2"}
               hrefSecuela={"/spy-x-family-2nd-temporada"}
               textoSecuela={"Secuela"}
@@ -842,9 +772,7 @@ function App() {
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
-              imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/6244857fc1e27/date-a-live-iv.jpg"
-              }
+              imagenAnime={"https://i.postimg.cc/1XJYCPzs/date-a-live-iv.jpg"}
               capituloAnime1={"/ver/date-a-live-IV-1"}
               capituloAnime2={"/ver/date-a-live-IV-2"}
               capituloAnime3={"/ver/date-a-live-IV-3"}
@@ -878,7 +806,7 @@ function App() {
               numeroEpisodios={"13"}
               estado={"Finalizado"}
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/62447f98a25d4/tate-no-yuusha-no-nariagari-season-2.jpg"
+                "https://i.postimg.cc/bJR6r8kk/tate-no-yuusha-no-nariagari-season-2.jpg"
               }
               capituloAnime1={
                 "/ver/tate-no-yuusha-no-naraigari-segunda-temporada-1"
@@ -939,9 +867,7 @@ function App() {
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
-              imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/6243d9a8a5622/tomodachi-game.jpg"
-              }
+              imagenAnime={"https://i.postimg.cc/JhNxYmTv/tomodachi-game.jpg"}
               capituloAnime1={"/ver/tomodachi-game-1"}
               capituloAnime2={"/ver/tomodachi-game-2"}
               capituloAnime3={"/ver/tomodachi-game-3"}
@@ -973,7 +899,7 @@ function App() {
               numeroEpisodios={"24"}
               estado={"Finalizado"}
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/61d5dfcce04ed/baraou-no-souretsu.jpg"
+                "https://i.postimg.cc/3wYmRGBf/baraou-no-souretsu.jpg"
               }
               sec1={"sec"}
               sec2={"sec"}
@@ -1017,9 +943,7 @@ function App() {
               tipo={"TV"}
               numeroEpisodios={"36"}
               estado={"Finalizado"}
-              imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/62ac02707f3b4/karakuri-circus.jpg"
-              }
+              imagenAnime={"https://i.postimg.cc/VNf018f3/karakuri-circus.jpg"}
               capituloAnime1={"/ver/karakuri-circus-1"}
               capituloAnime2={"/ver/karakuri-circus-2"}
               capituloAnime3={"/ver/karakuri-circus-3"}
@@ -1111,9 +1035,7 @@ function App() {
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
-              imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/62c5b68624724/extreme-hearts.jpg"
-              }
+              imagenAnime={"https://i.postimg.cc/jdf89GSH/extreme-hearts.jpg"}
               capituloAnime1={"/ver/extreme-hearts-1"}
               capituloAnime2={"/ver/extreme-hearts-2"}
               capituloAnime3={"/ver/extreme-hearts-3"}
@@ -1141,7 +1063,7 @@ function App() {
               descripcion={
                 'Tada Banri, es un estudiante de nuevo ingreso en una escuela privada de derecho en Tokio, después de la ceremonia de apertura, él estaba completamente perdido tratando de encontrar el camino hacia el salón de orientación para los de primer año. En ese momento, se encuentra con un estudiante de primer año, que también estaba perdido, Mitsuo Yanagisawa. De alguna manera llegaron al lugar donde se dirigían, pero de repente frente a los dos aparece una chica hermosa que sostiene un ramo de rosas. La chica golpeó a Mitsuo en la cara con el ramo. "felicidades, estudiante de nuevo ingreso", fue todo lo que dijo, y luego se fue. La mujer que golpeo a Mitsuo se trataba de su amiga de la infancia, Kaga Kouko. Cuando eran niños se habían prometido a casarse cuando algún día llegarán a cumplir sus sueños. Con el fin de escapar de ella, Mitsuo había salido secretamente y tomado el examen de este colegio privado muy conocido.'
               }
-              imagenAnime="https://www.animefenix.tv/cdn/animes/cover/5fd97249d303d/golden-time.jpg"
+              imagenAnime="https://i.postimg.cc/Wpq3BnLm/golden-time.jpg"
               tipo={"TV"}
               numeroEpisodios={"24"}
               estado={"Finalizado"}
@@ -1190,7 +1112,7 @@ function App() {
               descripcion={
                 'Los hermanos Elric emprenden un viaje tras haber perdido parte de su cuerpo mientras intentaban resucitar a su madre. Siendo ambos huérfanos de madre y con su padre en paradero desconocido, cuyo oscuro pasado es tan misterioso como él mismo, el hermano mayor, Edward Elric, decide convertirse en alquimista nacional para poder remediar el pecado que cometieron; pues la transmutación humana está vedada para los humanos y no hay perdón por aquellos que han visto "la puerta". "Si quieres obtener algo, debes sacrificar otra cosa que posea el mismo valor a cambio"; esta es la ley de los estados equivalentes, nada se gana sin ningún sacrificio.'
               }
-              imagenAnime="https://www.animefenix.tv/cdn/animes/cover/5e882929888f3/fullmetal-alchemist-brotherhood.jpg"
+              imagenAnime="https://i.postimg.cc/TwzRdzMV/fullmetal-alchemist-brotherhood.jpg"
               tipo={"TV"}
               numeroEpisodios={"64"}
               estado={"Finalizado"}
@@ -1279,7 +1201,7 @@ function App() {
               descripcion={
                 '¿Alguna vez fuiste víctima de una posesión espiritual? ¿Hay algún fantasma que quieras hacer desaparecer de tu casa... o hacerlo arder eternamente en el infierno? Si respondiste "sí" a cualquiera de estas preguntas o a cualquier otra similar, entonces necesitas a Muhyo y Roji, expertos en las leyes de lo sobrenatural. Hacer justicia con los espíritus es su especialidad.'
               }
-              imagenAnime="https://www.animefenix.tv/cdn/animes/cover/5ef639192db7d/muhyo-to-rouji-no-mahouritsu-soudan-jimusho.jpg"
+              imagenAnime="https://i.postimg.cc/7ZkfMTR3/muhyo-to-rouji-no-mahouritsu-soudan-jimusho.jpg"
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
@@ -1334,7 +1256,7 @@ function App() {
               descripcion={
                 "La historia se sitúa en la antigua China durante la era de los Tres Reinos, cuando varios poderosos señores de la guerra comenzaron a maniobrar para conquistar los reinos conocidos. Después de que fuera aniquilada en circunstancias imprevistas, la 6ª Unidad se ha vuelto a reunir con miembros de pasados diversos y problemáticos: el líder y practicante del sello Ōki, el purificador de espíritus Shunkyō, Teiken y el cazador de demonios Shōrei."
               }
-              imagenAnime="https://www.animefenix.tv/cdn/animes/cover/61d5e31f8b785/gensou-sangokushi-tengen-reishinki.png"
+              imagenAnime="https://i.postimg.cc/ry0g0vWB/gensou-sangokushi-tengen-reishinki.jpg"
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
@@ -1414,7 +1336,7 @@ function App() {
               numeroEpisodios={"25"}
               estado={"Finalizado"}
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/5e444cd3919fa/tate-no-yuusha-no-nariagari.jpg"
+                "https://i.postimg.cc/rwJ92cXr/tate-no-yuusha-no-nariagari.jpg"
               }
               capituloAnime1={"/ver/tate-no-yuusha-no-naraigari-1"}
               capituloAnime2={"/ver/tate-no-yuusha-no-naraigari-2"}
@@ -1459,7 +1381,7 @@ function App() {
               descripcion={
                 "Haru Shirogane es una persona de mente débil que es constantemente intimidada, mientras que Taiga ha viajado desde el otro lado del mar con la esperanza de convertirse en el hombre más fuerte del mundo. Una noche, los dos se encuentran con Shun Kamiya, el jugador más fuerte de XB (Extreme Baseball), y líder de la Tribu Minato. Cuando se encuentran, cada una de las tribus dispersas por Neo-Tokio está a punto de enfrentarse a una gran amenaza. Bajo las órdenes del Rey de Neo-Tokio, “Houtenshin”, el Chiyoda Try, dirigido por el misterioso Ojiro Otori, ha comenzado a tomar el control de todas las tribus del país. Sus malvadas garras están a punto de llegar a la Tribu Minato…"
               }
-              imagenAnime="https://www.animefenix.tv/cdn/animes/cover/61d5e15f2bb7b/tribe-nine.jpg"
+              imagenAnime="https://i.postimg.cc/wxmcTDYH/tribe-nine.jpg"
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
@@ -1490,9 +1412,7 @@ function App() {
               descripcion={
                 'Su poderoso arco perfora el óxido de la destrucción para salvar a las personas que ama. Una emocionante historia de acción y aventuras. Ambientado en un futuro Japón, donde todo se ha oxidado y el "Viento Óxido" amenaza con acabar con la humanidad. El mundo entero es ahora un desierto, y el protagonista, Bisco Akaboshi, usa su arco y hongos especiales como un "protector de hongos", un noble ladrón que causa el caos en todo Japón. Para salvar a su maestro moribundo, Bisco emprende un viaje en busca de un hongo curativo especial llamado "Rust Eater". En Imihama conoce a Milo Nekoyanagi, su nuevo compañero, y se embarca en una loca aventura. El Desierto de Hierro de Saitama se interpone en su camino, junto con una ciudad hecha con los restos de una de las armas que destruyeron la civilización, y una línea de metro abandonada donde viven pulpos gigantes ... Con el genio de Milo y las flechas de Bisco, están listos para enfrentar cualquier peligro! Pero luego se enfrentan a los malvados planes de un malvado gobernador de prefectura...'
               }
-              imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/61d5e2254d6c2/sabikui-bisco.jpg"
-              }
+              imagenAnime={"https://i.postimg.cc/YCshWyQP/sabikui-bisco.jpg"}
               sec1="disable"
               sec2="disable"
               sec3="disable"
@@ -1522,9 +1442,7 @@ function App() {
               descripcion={
                 'Dos asesinos se enfrentan en un determinado "lugar de trabajo". El genial cazarrecompensas Chateau y el misterioso y poderoso Ryang-Ha. Chateau y Ryang-Ha se vuelven enemigos después de esta pelea, al menos, deberían haberlo hecho, pero por alguna razón Ryang-Ha toma simpatía por Chateau y comienza a seguirla. Poco a poco, Chateau desarrolla una asociación cooperativa con Ryang-Ha, que la atrapa en la lucha contra las organizaciones que lo persiguen. Además, esa batalla también está relacionada con su pasado. ¿Por qué Ryang-Ha se acercó a Chateau? ¿Cuál es el pasado secreto de Chateau? Dos asesinos que no coinciden tejen un thriller retorcido "Assassin X Assassin". Los extraños engranajes del destino comienzan a moverse.'
               }
-              imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/61d5e7d13b599/koroshi-ai.jpg"
-              }
+              imagenAnime={"https://i.postimg.cc/DyhsvDcd/koroshi-ai.jpg"}
               sec1="disable"
               sec2="disable"
               sec3="disable"
@@ -1555,9 +1473,7 @@ function App() {
               descripcion={
                 "La historia del juego se desarrolla en una línea de tiempo alternativa en el futuro cercano de la Tierra en la década de 2060. Las secuelas de un accidente militar que resultó en una enfermedad generalizada, así como la reciente conclusión de una guerra nuclear descuidada, despoblaron masivamente el planeta, hicieron inhabitable gran parte de la superficie y redujeron a las naciones que alguna vez fueron grandes a sombras de lo que eran antes. Los androides utilizados para el trabajo y el combate se han convertido en una faceta importante de la vida, y los androides fácilmente replicables y desechables conocidos como Tactical Dolls (T-Dolls) son utilizados por compañías militares privadas en la primera línea de numerosas guerras de incendios forestales. En el juego, el jugador asume el papel de un nuevo comandante en un PMC, ordenando a los T-Dolls que luchen contra una nueva amenaza de IA."
               }
-              imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/61d5dd5629b71/dolls-frontline.jpg"
-              }
+              imagenAnime={"https://i.postimg.cc/05n5SBsC/dolls-frontline.jpg"}
               sec1="disable"
               sec2="disable"
               sec3="disable"
@@ -1588,7 +1504,7 @@ function App() {
                 "Todo tiene su propio espíritu, y aquellos que pueden invocar esos espíritus son los Invocadores. Pueden invocar a la tierra, a los muertos, las estrellas, a las almas... Las leyendas de los Invocadores siempre han formado parte de la cara oculta de la historia. A lo largo de los años se han librado innumerables guerras entre los Invocadores humanos por el origen de los espíritus de todos los seres: la diosa Pandora. Con el tiempo, los Invocadores se han dividido en dos facciones: los Guardianes y los Destructores. Incapaces de ver a los humanos perecer en un baño de sangre, los líderes de ambos bandos sellaron a Pandora y pusieron fin a la edad de oro de los Invocadores... Varios siglos después, Ah Jie, quien se esfuerza por convertirse en el rey del ramen, convoca sin querer a la diosa Dora y de repente se ve inmerso en el mundo de los Invocadores. Durante su viaje se encuentra con otros Invocadores y unen fuerzas con los Guardianes para enfrentarse a sus mayores enemigos: los Destructores."
               }
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/624c70de1804b/zuihou-de-zhaohuan-shi-the-last-summoner.png"
+                "https://i.postimg.cc/pLhnqHVv/zuihou-de-zhaohuan-shi-the-last-summoner.jpg"
               }
               sec1="disable"
               sec2="disable"
@@ -1620,7 +1536,7 @@ function App() {
                 'no puedo recordar ¿Quién soy? ¿Qué soy yo? Sevilla es un estudiante de una academia de magia que no recuerda nada de antes de unirse a la escuela. Sin entender por qué está allí, el tiempo que pasa en la academia se siente hueco y vacío. Y como no sabe trabajar duro, sus notas son siempre las más bajas de su año. Entonces, un día, el director de la escuela, Albus, ordena a Sevilla que participe en un peligroso entrenamiento especial. "Quiero que difundas el uso de la magia en un área donde se realizan cacerías de brujas". Solo han pasado unos años desde que terminó la guerra entre la iglesia y las brujas; el mundo aún no ha aceptado completamente a las brujas y su magia. Este es el amanecer de la era de la bruja. Esta es la historia de cómo un joven, un chico que no es nadie especial, y sus compañeros, todos con heridas en el corazón, parten y terminan encontrándose a sí mismos.'
               }
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/624483a92e3a8/mahoutsukai-reimeiki.jpg"
+                "https://i.postimg.cc/J7Yng22z/mahoutsukai-reimeiki.jpg"
               }
               sec1="disable"
               sec2="disable"
@@ -1650,7 +1566,7 @@ function App() {
               numeroEpisodios={"12"}
               descripcion={"Temporada final de SNK"}
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/61be3c43e2252/shingeki-no-kyojin-the-final-season-part-2.jpg"
+                "https://i.postimg.cc/Lsm2htbW/shingeki-no-kyojin-the-final-season-part-2.jpg"
               }
               sec2="disable"
               sec3="disable"
@@ -1684,7 +1600,7 @@ function App() {
                 'La guerra entre los Terrans y el Vers Empire of Mars ha terminado, lo que permite a la humanidad disfrutar felizmente de sus vidas en un momento de paz. Sin embargo, diecinueve meses después, la princesa Vers hace una impactante declaración pública: "los terranos son una raza tonta que codicia los recursos, destruye la naturaleza y se dedica a la búsqueda del placer". Y así, para proteger su preciosa Tierra, llama a sus caballeros a tomar las armas, y la furiosa batalla entre las dos civilizaciones vuelve a encenderse.'
               }
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/62d225191f67d/aldnoah-zero-part-2.jpg"
+                "https://i.postimg.cc/zXdcTnvM/aldnoah-zero-part-2.jpg"
               }
               sec2="disable"
               sec3="disable"
@@ -1718,7 +1634,7 @@ function App() {
                 "Mistarcia es un mundo mágico donde humanos, dioses y demonios conviven juntos. En el pasado el lugar fue amenazado y casi destruido por un legendario dragón llamado Bahamut, fue cuando tanto dioses como humanos y demonios unieron fuerzas y sellaron el poder del dragón."
               }
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/5f9610663688c/shingeki-no-bahamut-genesis.jpg"
+                "https://i.postimg.cc/gjx6QFy3/shingeki-no-bahamut-genesis.jpg"
               }
               sec2="disable"
               sec3="disable"
@@ -1752,7 +1668,7 @@ function App() {
                 'Seiichi Hiiragi es un joven desafortunado que es despreciado por sus compañeros porque lo consideran hogareño, regordete y maloliente. La suerte de Seiichi va de mal en peor cuando su clase es transportada a otro mundo, pero se encuentra solo en el desierto y perseguido por una gorila amorosa llamada Saria. Las desastrosas vidas de la improbable pareja toman un giro positivo después de ingerir el legendario "fruto de la evolución", y se produce una transformación inesperada ..'
               }
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/614e8d5cb2e59/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei.jpg"
+                "https://i.postimg.cc/FRy9KP9w/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei.jpg"
               }
               sec1="disable"
               sec2="disable"
@@ -1808,7 +1724,7 @@ function App() {
                 "La historia comienza cuando la diosa Rista convoca a un héroe para ayudarla en su modo de juego de videojuegos. El héroe, Seiya Ryuuguuin, tiene el estatus de tramposo, pero es ridículamente cauteloso. Él hace cosas como comprar tres juegos de armadura (uno para usar, uno de repuesto y otro mas de repuesto). Más allá de mantener una cantidad absurda de existencias de artículos, permanece en su habitación para el entrenamiento muscular hasta que alcanza el nivel máximo y lucha contra slimes a toda potencia solo para mantenerse en el lado seguro."
               }
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/5d916a21db9ea/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru.jpg"
+                "https://i.postimg.cc/4y4Txs2h/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru.jpg"
               }
               sec1="disable"
               sec2="disable"
@@ -1864,7 +1780,7 @@ function App() {
                 "Cuando Arc despierta, descubre que ha sido transportado a otro mundo en el cuerpo del personaje que interpretaba en un MMO. Pareciendo una armadura por fuera y un esqueleto por dentro, es el Caballero Esqueleto. Si se descubre su identidad, podría ser confundido con un monstruo y convertirse en un objetivo. Arc decide pasar su tiempo como mercenario para no llamar la atención. Sin embargo, él no es el tipo de hombre que puede quedarse de brazos cruzados cuando es testigo de actos malvados frente a sus ojos. ¡Esta serie de fantasía isekai sobre la búsqueda involuntaria de Skeleton Knight para hacer del mundo un lugar mejor ha llegado!"
               }
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/624482e980ad6/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu.jpg"
+                "https://i.postimg.cc/m2x5jby3/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu.jpg"
               }
               sec1="disable"
               sec2="disable"
@@ -1918,9 +1834,7 @@ function App() {
               tipo={"TV"}
               sec2={"disable"}
               sec3={"disable"}
-              imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/5e3887f3a9136/tokyo-ghoul.jpg"
-              }
+              imagenAnime={"https://i.postimg.cc/9fmLNb0C/tokyo-ghoul.jpg"}
               descripcion={
                 "Extraños asesinatos se están sucediendo uno tras otro en Tokyo. Debido a las pruebas encontradas en las escenas, la policía concluye que los ataques son obra de ghouls que se comen a las personas. Kaneki y Hide, dos compañeros de clase, llegan a la conclusión de que si nadie ha visto nunca a esos necrófagos es porque toman la apariencia de seres humanos para ocultarse. Poco sabían entonces de que su teoría sería más cierta de lo que pensaban cuando Kaneki es herido de gravedad por un monstruo y comienza a atraerle cada vez más la carne humana…"
               }
@@ -1945,35 +1859,28 @@ function App() {
         <Route
           path=""
           element={
-            <Numero12
-              anime={""}
+            <Animes13
+              anime={"ID:Invaded"}
               tipo={"TV"}
-              estado={""}
-              numeroEpisodios={"12"}
-              descripcion={""}
-              imagenAnime={""}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"button is-small is-orange is-outlined is-roundedX"}
-              capituloAnime1={""}
-              capituloAnime2={""}
-              capituloAnime3={""}
-              capituloAnime4={""}
-              capituloAnime5={""}
-              capituloAnime6={""}
-              capituloAnime7={""}
-              capituloAnime8={""}
-              capituloAnime9={""}
-              capituloAnime10={""}
-              capituloAnime11={""}
-              capituloAnime12={""}
+              estado={"Finalizado"}
+              numeroEpisodios={"13"}
+              descripcion={
+                "Situado en un mundo virtual, Sakaido, es un detective que busca resolver el horroroso misterio detrás del asesinato de Kaeru, una joven. Pero resolver este caso no será como nada que ha visto antes. Con el mundo retorciéndose a su alrededor, ¿podrá llegar al fondo del asunto?              "
+              }
+              imagenAnime={"https://i.postimg.cc/BvbxKVtL/id-invaded.jpg"}
+              capituloAnime1={"/ver/id-invaded-1"}
+              capituloAnime2={"/ver/id-invaded-2"}
+              capituloAnime3={"/ver/id-invaded-3"}
+              capituloAnime4={"/ver/id-invaded-4"}
+              capituloAnime5={"/ver/id-invaded-5"}
+              capituloAnime6={"/ver/id-invaded-6"}
+              capituloAnime7={"/ver/id-invaded-7"}
+              capituloAnime8={"/ver/id-invaded-8"}
+              capituloAnime9={"/ver/id-invaded-9"}
+              capituloAnime10={"/ver/id-invaded-10"}
+              capituloAnime11={"/ver/id-invaded-11"}
+              capituloAnime12={"/ver/id-invaded-12"}
+              capituloAnime13={"/ver/id-invaded-13"}
             />
           }
         />
