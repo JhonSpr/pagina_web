@@ -26,26 +26,32 @@ export function Noticia() {
 }
 
 export function Agregados() {
-  return (
-    <section>
-      {RecienAgregados.map((agregados) => {
-        return (
-          <div class="item" key={agregados.id}>
-            <div class="overarchingdiv">
-              <a href={agregados.link}>
-                <img src={agregados.img} alt={agregados.title} />
-                <div class="seriesoverlay has-text-orange">
-                  <h3 class="has-text-centered">
-                    <div class="overtitlenews has-text-weight-semibold">
-                      {agregados.title}
-                    </div>
-                  </h3>
-                </div>
-              </a>
+  return RecienAgregados.slice(0, 24).map((emision) => {
+    return (
+      <article className="serie-card" title={emision.title} key={emision.id}>
+        <figure className="image overarchingdiv2">
+          <a href={emision.link}>
+            <img src={emision.img} alt={emision.title} />
+            <div className="overlay-dark"></div>
+            <div className="hoveroverlay">
+              <i className="fas fa-play pgnav activehov"></i>
             </div>
+          </a>
+          <span className="tag year is-dark">{emision.year}</span>
+          <span className="tag is-danger type">TV</span>
+          <span className={emision.classEstado}>{emision.estado}</span>
+          <div className="title">
+            <h3>
+              <a
+                href={emision.link}
+                className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
+              >
+                {emision.title}
+              </a>
+            </h3>
           </div>
-        );
-      })}
-    </section>
-  );
+        </figure>
+      </article>
+    );
+  });
 }
