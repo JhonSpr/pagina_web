@@ -96,24 +96,6 @@ export function Emision12({
 
               <br />
 
-              <p class="genres buttons contenedor-generos">
-                <a className={genre1} href={hrefGenre1}>
-                  {genero1}
-                </a>
-                <a className={genre2} href={hrefGenre2}>
-                  {genero2}
-                </a>
-                <a className={genre3} href={hrefGenre3}>
-                  {genero3}
-                </a>
-                <a className={genre4} href={hrefGenre4}>
-                  {genero4}
-                </a>
-                <a className={genre5} href={hrefGenre5}>
-                  {genero5}
-                </a>
-              </p>
-
               <p className="has-text-weight-semibold is-uppercase has-text-grey has-border-bottom">
                 Información general
               </p>
