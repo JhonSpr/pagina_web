@@ -100,6 +100,7 @@ export default function Menubar() {
               placeholder={"Buscar animes..."}
               data={BookData}
               imagenSearch={img}
+              type="text"
             />
           </div>
         </div>
