@@ -33,7 +33,7 @@ export function Inicio() {
                   class="fa-solid fa-layer-group"
                   style={{ color: "rgb(20 620 240)" }}
                 ></i>{" "}
-                Catalogo
+                RECIEN AGREGADOS
               </h1>
               <hr />
               <div className="list-series">
