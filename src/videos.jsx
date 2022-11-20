@@ -12740,7 +12740,7 @@ function Videos() {
         path="/ver/id-invaded-1"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sblongvu.com/e/5i2h0gg1j6ee.html"}
             contAnteriorClass="disable"
             tituloAnime={"ID: invaded Capitulo 1"}
             contSiguienteClass={
@@ -12758,7 +12758,7 @@ function Videos() {
         path="/ver/id-invaded-2"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sblongvu.com/e/0k36tdowkim7.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -12777,7 +12777,7 @@ function Videos() {
         path="/ver/id-invaded-3"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sblongvu.com/e/zk75f1x1ei7w.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -12786,9 +12786,9 @@ function Videos() {
             tituloPag={"Animekun"}
             anime={"ID: invaded "}
             numero={"3"}
-            siguienteVideo={"/ver/-4"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-2"}
+            siguienteVideo={"/ver/id-invaded-4"}
+            capitulosVideo={"/id-invaded"}
+            anteriorVideo={"/ver/id-invaded-2"}
           />
         }
       />
@@ -12796,7 +12796,7 @@ function Videos() {
         path="/ver/id-invaded-4"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sblongvu.com/e/gx1xa079l92w.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -12815,7 +12815,7 @@ function Videos() {
         path="/ver/id-invaded-5"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sblongvu.com/e/wagxryn9zqx6.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -12834,7 +12834,7 @@ function Videos() {
         path="/ver/id-invaded-6"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sblongvu.com/e/4aqrjz6zltoy.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -12853,7 +12853,7 @@ function Videos() {
         path="/ver/id-invaded-7"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sblongvu.com/e/vu1lk0xne4ty.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -12872,7 +12872,7 @@ function Videos() {
         path="/ver/id-invaded-8"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sblongvu.com/e/pz9si7pe2rnd.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -12891,7 +12891,7 @@ function Videos() {
         path="/ver/id-invaded-9"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sblongvu.com/e/8wxfhzz5rlaz.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -12910,7 +12910,7 @@ function Videos() {
         path="/ver/id-invaded-10"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sblongvu.com/e/s4v1jb4k2uko.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -12929,7 +12929,7 @@ function Videos() {
         path="/ver/id-invaded-11"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sblongvu.com/e/5j2blm5p9u5q.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -12948,7 +12948,7 @@ function Videos() {
         path="/ver/id-invaded-12"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sblongvu.com/e/jvdb8pcasz35.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
@@ -12967,7 +12967,7 @@ function Videos() {
         path="/ver/id-invaded-13"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sblongvu.com/e/0eaanig61e9h.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
             tituloAnime={"ID: invaded Capitulo 13"}
