@@ -14,7 +14,7 @@ export function Inicio() {
           <section className="section page-home__latest-series">
             <div className="container rounded-container">
               <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">
-                EMISIONES
+                Catalogo
               </h1>
               <hr />
               <div className="list-series"></div>
