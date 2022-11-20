@@ -3146,7 +3146,7 @@ function App() {
         <Route path="/animes%20page=7" element={<Page7 />} />
         <Route path="/animes%20page=6" element={<Page6 />} />
         <Route path="/animes%20page=5" element={<Page5 />} />
-        <Route path="/animes?page=4" element={<Page4 />} />
+        <Route path="/animes&?page=4" element={<Page4 />} />
         <Route path="/animes%20page=3" element={<Page3 />} />
         <Route path="/animes%20page=2" element={<Page2 />} />
         <Route path="/animes" element={<Page1 />} />
