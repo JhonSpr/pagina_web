@@ -138,78 +138,11 @@ function App() {
           path="/akudama-drive"
           exact
           element={
-            <Capitulos12
+            <Numero12
               tituloAnime={"Akudama Drive"}
-              genero1={"Acción"}
-              genero2={"Sei-Fi"}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"disable"}
-              genre4={"disable"}
-              genre5={"disable"}
-              hrefGenre1={"/generos[]=accion"}
-              hrefGenre2={"/generos[]=sei-fi"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
-              li13={"li"}
-              li14={"li"}
-              li15={"li"}
-              li16={"li"}
-              li17={"li"}
-              li18={"li"}
-              li19={"li"}
-              li20={"li"}
-              li21={"li"}
-              li22={"li"}
-              li23={"li"}
-              li24={"li"}
-              li25={"li"}
-              li26={"li"}
-              li27={"li"}
-              li28={"li"}
-              li29={"li"}
-              li30={"li"}
-              li31={"li"}
-              li32={"li"}
-              li33={"li"}
-              li34={"li"}
-              li35={"li"}
-              li36={"li"}
-              li37={"li"}
-              li38={"li"}
-              li39={"li"}
-              li40={"li"}
-              li41={"li"}
-              li42={"li"}
-              li43={"li"}
-              li44={"li"}
-              li45={"li"}
-              li46={"li"}
-              li47={"li"}
-              li48={"li"}
-              li49={"li"}
-              li50={"li"}
-              li51={"li"}
-              li52={"li"}
-              li53={"li"}
-              li54={"li"}
-              li55={"li"}
-              li56={"li"}
-              li70={"li"}
-              li69={"li"}
-              li68={"li"}
-              li67={"li"}
-              li66={"li"}
-              li65={"li"}
-              li64={"li"}
-              li63={"li"}
-              li62={"li"}
-              li61={"li"}
-              li60={"li"}
-              li59={"li"}
-              li58={"li"}
-              li57={"li"}
               descripcion={
                 "Hace muchos años, una Gran Guerra Civil devastó Japón, dejando al país fragmentado en dos regiones: Kansai y Kanto. En Kansai, un grupo de seis Akudama llevan a cabo las misiones que les encomienda un misterioso gato negro, mientras evaden a la policía. Pero un viaje peligroso está a punto de desarrollarse cuando una niña civil se retuerce en el estilo de vida de los Akudama y es testigo de sus impulsos criminales."
               }
@@ -5162,17 +5095,6 @@ function App() {
               sec1="disable"
               sec2="disable"
               sec3={"disable"}
-              genero1={"Acción"}
-              genero2={"Comedia"}
-              genero3={"Shounen"}
-              hrefGenre1={"/generos[]=accion"}
-              hrefGenre2={"/generos[]=comedia"}
-              hrefGenre3={"/generos[]=shounen"}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
               estado={"En emision"}
               numeroEpisodios={"6"}
               Fecha="LUNES 21 DE NOVIEMBRE"
