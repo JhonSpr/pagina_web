@@ -43,12 +43,6 @@ function App() {
           exact
           element={
             <Capitulos12
-              genero1={"Escolares"}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"disable"}
-              genre4={"disable"}
-              genre5={"disable"}
-              hrefGenre1={"/generos[]=escolares"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
