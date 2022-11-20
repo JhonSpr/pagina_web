@@ -100,7 +100,7 @@ function App() {
               descripcion={
                 "Todo comenzó como la típica trama de amor de los chicos de la vieja escuela: el chico malo de último año se encuentra con un estudiante de secundaria adorablemente torpe, uno de ellos se enamora, y así sucesivamente. Pero aunque Miyano es un autoproclamado experto en el amor de los niños, no se ha dado cuenta... él mismo está en uno. ¡Lo que significa que depende de Sasaki asegurarse de que su historia tenga un feliz para siempre...!"
               }
-              imagenAnime="https://www.animefenix.com/cdn/animes/cover/61d5e08d99019/sasaki-to-miyano.jpg"
+              imagenAnime="https://www.animefenix.tv/cdn/animes/cover/61d5e08d99019/sasaki-to-miyano.jpg"
               tipo={"TV"}
               numeroEpisodios={"13"}
               estado={"Finalizado"}
@@ -133,7 +133,7 @@ function App() {
               descripcion={
                 "Hace muchos años, una Gran Guerra Civil devastó Japón, dejando al país fragmentado en dos regiones: Kansai y Kanto. En Kansai, un grupo de seis Akudama llevan a cabo las misiones que les encomienda un misterioso gato negro, mientras evaden a la policía. Pero un viaje peligroso está a punto de desarrollarse cuando una niña civil se retuerce en el estilo de vida de los Akudama y es testigo de sus impulsos criminales."
               }
-              imagenAnime="https://www.animefenix.com/cdn/animes/cover/5f7e65dc3eb65/akudama-drive.jpg"
+              imagenAnime="https://www.animefenix.tv/cdn/animes/cover/5f7e65dc3eb65/akudama-drive.jpg"
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
@@ -158,19 +158,6 @@ function App() {
           element={
             <Capitulos12
               tituloAnime={"Hanyo no Yashahime ni no Shou"}
-              genero1={"Aventura"}
-              genero2={"Comedia"}
-              genero3={"Fantasia"}
-              genero4={"Sobrenatural"}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"button is-small is-orange is-outlined is-roundedX"}
-              genre5={"disable"}
-              hrefGenre1={"/generos[]=aventura"}
-              hrefGenre2={"/generos[]=comedia"}
-              hrefGenre3={"/generos[]=fantasia"}
-              hrefGenre4={"/generos[]=sobrenatural"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
@@ -228,7 +215,7 @@ function App() {
               numeroEpisodios={"24"}
               estado={"Finalizado"}
               imagenAnime={
-                "https://www.animefenix.com/cdn/animes/cover/614e84bf0253f/hanyo-no-yashahime-ni-no-shou.jpg"
+                "https://www.animefenix.tv/cdn/animes/cover/614e84bf0253f/hanyo-no-yashahime-ni-no-shou.jpg"
               }
               capituloAnime1={"/ver/hanyo-no-yashahime-ni-no-shou-1"}
               capituloAnime2={"/ver/hanyo-no-yashahime-ni-no-shou-2"}
@@ -260,23 +247,8 @@ function App() {
         <Route
           path="/heion-sedai-no-idaten-tachi"
           element={
-            <Capitulos12
+            <Numero12
               tituloAnime={"Heion Sedai no Idaten Tachi"}
-              genero1={"Acción"}
-              genero2={"Aventura"}
-              genero3={"Demonios"}
-              genero4={"Fantasia"}
-              genero5={"Seinen"}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"button is-small is-orange is-outlined is-roundedX"}
-              genre5={"button is-small is-orange is-outlined is-roundedX"}
-              hrefGenre1={"/generos[]=accion"}
-              hrefGenre2={"/generos[]=aventura"}
-              hrefGenre3={"/generos[]=demonios"}
-              hrefGenre4={"/generos[]=fantasia"}
-              hrefGenre5={"/generos[]=seinen"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
@@ -288,7 +260,7 @@ function App() {
               numeroEpisodios={"11"}
               estado={"Finalizado"}
               imagenAnime={
-                "https://www.animefenix.com/cdn/animes/cover/60dd1bd47b14c/heion-sedai-no-idaten-tachi.jpg"
+                "https://www.animefenix.tv/cdn/animes/cover/60dd1bd47b14c/heion-sedai-no-idaten-tachi.jpg"
               }
               capituloAnime1={"/ver/heion-sedai-no-idaten-tachi-1"}
               capituloAnime2={"/ver/heion-sedai-no-idaten-tachi-2"}
@@ -301,168 +273,27 @@ function App() {
               capituloAnime9={"/ver/heion-sedai-no-idaten-tachi-9"}
               capituloAnime10={"/ver/heion-sedai-no-idaten-tachi-10"}
               capituloAnime11={"/ver/heion-sedai-no-idaten-tachi-11"}
-              li1={""}
-              li2={""}
-              li3={""}
-              li4={""}
-              li5={""}
-              li6={""}
-              li7={""}
-              li8={""}
-              li9={""}
-              li10={""}
-              li11={""}
-              li12={"li"}
-              li13={"li"}
-              li14={"li"}
-              li15={"li"}
-              li16={"li"}
-              li17={"li"}
-              li18={"li"}
-              li19={"li"}
-              li20={"li"}
-              li21={"li"}
-              li22={"li"}
-              li23={"li"}
-              li24={"li"}
-              li25={"li"}
-              li26={"li"}
-              li27={"li"}
-              li28={"li"}
-              li29={"li"}
-              li30={"li"}
-              li31={"li"}
-              li32={"li"}
-              li33={"li"}
-              li34={"li"}
-              li35={"li"}
-              li36={"li"}
-              li37={"li"}
-              li38={"li"}
-              li39={"li"}
-              li40={"li"}
-              li41={"li"}
-              li42={"li"}
-              li43={"li"}
-              li44={"li"}
-              li45={"li"}
-              li46={"li"}
-              li47={"li"}
-              li48={"li"}
-              li49={"li"}
-              li50={"li"}
-              li51={"li"}
-              li52={"li"}
-              li53={"li"}
-              li54={"li"}
-              li55={"li"}
-              li56={"li"}
-              li70={"li"}
-              li69={"li"}
-              li68={"li"}
-              li67={"li"}
-              li66={"li"}
-              li65={"li"}
-              li64={"li"}
-              li63={"li"}
-              li62={"li"}
-              li61={"li"}
-              li60={"li"}
-              li59={"li"}
-              li58={"li"}
-              li57={"li"}
+              li12={"disable"}
             />
           }
         />
         <Route
           path="/tensei-shitara-slime-datta-ken-segunda-temporada-parte-2"
           element={
-            <Capitulos12
+            <Animes13
               tituloAnime={
                 "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2"
               }
               descripcion={"Segunda parte de la segunda temporada del slime"}
-              genero1={"Acción"}
-              genero2={"Aventura"}
-              genero3={"Comedia"}
-              genero4={"Demonios"}
-              genero5={"Fantasia"}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"button is-small is-orange is-outlined is-roundedX"}
-              genre5={"button is-small is-orange is-outlined is-roundedX"}
-              hrefGenre1={"/generos[]=accion"}
-              hrefGenre2={"/generos[]=aventura"}
-              hrefGenre3={"/generos[]=comedia"}
-              hrefGenre4={"/generos[]=demonios"}
-              hrefGenre5={"/generos[]=fantasia"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
-              li14={"li"}
-              li15={"li"}
-              li16={"li"}
-              li17={"li"}
-              li18={"li"}
-              li19={"li"}
-              li20={"li"}
-              li21={"li"}
-              li22={"li"}
-              li23={"li"}
-              li24={"li"}
-              li25={"li"}
-              li26={"li"}
-              li27={"li"}
-              li28={"li"}
-              li29={"li"}
-              li30={"li"}
-              li31={"li"}
-              li32={"li"}
-              li33={"li"}
-              li34={"li"}
-              li35={"li"}
-              li36={"li"}
-              li37={"li"}
-              li38={"li"}
-              li39={"li"}
-              li40={"li"}
-              li41={"li"}
-              li42={"li"}
-              li43={"li"}
-              li44={"li"}
-              li45={"li"}
-              li46={"li"}
-              li47={"li"}
-              li48={"li"}
-              li49={"li"}
-              li50={"li"}
-              li51={"li"}
-              li52={"li"}
-              li53={"li"}
-              li54={"li"}
-              li55={"li"}
-              li56={"li"}
-              li70={"li"}
-              li69={"li"}
-              li68={"li"}
-              li67={"li"}
-              li66={"li"}
-              li65={"li"}
-              li64={"li"}
-              li63={"li"}
-              li62={"li"}
-              li61={"li"}
-              li60={"li"}
-              li59={"li"}
-              li58={"li"}
-              li57={"li"}
               anime={"Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2"}
               tipo={"TV"}
               numeroEpisodios={"13"}
               estado={"Finalizado"}
               imagenAnime={
-                "https://www.animefenix.com/cdn/animes/cover/60d7ea610da30/tensei-shitara-slime-datta-ken-2nd-season-part-2.jpg"
+                "https://www.animefenix.tv/cdn/animes/cover/60d7ea610da30/tensei-shitara-slime-datta-ken-2nd-season-part-2.jpg"
               }
               capituloAnime1={
                 "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-parte-2-1"
@@ -509,78 +340,11 @@ function App() {
         <Route
           path="/peach-boy-riverside"
           element={
-            <Capitulos12
+            <Numero12
               tituloAnime={"Peach Boy Riverside"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
-              genero1={"Fantasia"}
-              genero2={"Shounen"}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"disable"}
-              genre4={"disable"}
-              genre5={"disable"}
-              hrefGenre1={"/generos=fantasia"}
-              hrefGenre2={"/generos=shounen"}
-              li13={"li"}
-              li14={"li"}
-              li15={"li"}
-              li16={"li"}
-              li17={"li"}
-              li18={"li"}
-              li19={"li"}
-              li20={"li"}
-              li21={"li"}
-              li22={"li"}
-              li23={"li"}
-              li24={"li"}
-              li25={"li"}
-              li26={"li"}
-              li27={"li"}
-              li28={"li"}
-              li29={"li"}
-              li30={"li"}
-              li31={"li"}
-              li32={"li"}
-              li33={"li"}
-              li34={"li"}
-              li35={"li"}
-              li36={"li"}
-              li37={"li"}
-              li38={"li"}
-              li39={"li"}
-              li40={"li"}
-              li41={"li"}
-              li42={"li"}
-              li43={"li"}
-              li44={"li"}
-              li45={"li"}
-              li46={"li"}
-              li47={"li"}
-              li48={"li"}
-              li49={"li"}
-              li50={"li"}
-              li51={"li"}
-              li52={"li"}
-              li53={"li"}
-              li54={"li"}
-              li55={"li"}
-              li56={"li"}
-              li70={"li"}
-              li69={"li"}
-              li68={"li"}
-              li67={"li"}
-              li66={"li"}
-              li65={"li"}
-              li64={"li"}
-              li63={"li"}
-              li62={"li"}
-              li61={"li"}
-              li60={"li"}
-              li59={"li"}
-              li58={"li"}
-              li57={"li"}
               descripcion={
                 "Saltherine Aldarake, princesa del Reino de Aldarake, sueña con viajar por el mundo, un sueño peligroso en una tierra donde los monstruos deambulan por el campo a su antojo y los humanos viven detrás de muros altos y fuertes. Pero cuando un encuentro casual con la viajera Mikoto le da esperanza a su sueño, él lo rompe poco después, ya que se revela como nada menos que Momotaro, un despiadado asesino de demonios. Aunque horrorizada por la sangre que Momotaro deja atrás, Saltherine está más convencida que nunca de que necesita aprender sobre el mundo más allá de sus muros, y viaja ... siguiendo los pasos del misterioso, carismático y aterrador chico que conoció ese día..."
               }
@@ -589,7 +353,7 @@ function App() {
               numeroEpisodios={"12"}
               estado={"Finalizado"}
               imagenAnime={
-                "https://www.animefenix.com/cdn/animes/cover/60d7d39e29e28/peach-boy-riverside.jpg"
+                "https://www.animefenix.tv/cdn/animes/cover/60d7d39e29e28/peach-boy-riverside.jpg"
               }
               capituloAnime1={"/ver/peach-boy-riverside-1"}
               capituloAnime2={"/ver/peach-boy-riverside-2"}
@@ -609,72 +373,11 @@ function App() {
         <Route
           path="/jujutsu-kaisen"
           element={
-            <Capitulos12
+            <Capitulos24
               tituloAnime={"Jujutsu Kaisen"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
-              genero1={"Acción"}
-              genero2={"Demonios"}
-              genero3={"Escolares"}
-              genero4={"Shounen"}
-              genero5={"Sobrenatural"}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"button is-small is-orange is-outlined is-roundedX"}
-              genre5={"button is-small is-orange is-outlined is-roundedX"}
-              hrefGenre1={"/generos[]=accion"}
-              hrefGenre2={"/generos[]=demonios"}
-              hrefGenre3={"/generos[]=escolares"}
-              hrefGenre4={"/generos[]=shounen"}
-              hrefGenre5={"/generos[]=sobrenatural"}
-              li25={"li"}
-              li26={"li"}
-              li27={"li"}
-              li28={"li"}
-              li29={"li"}
-              li30={"li"}
-              li31={"li"}
-              li32={"li"}
-              li33={"li"}
-              li34={"li"}
-              li35={"li"}
-              li36={"li"}
-              li37={"li"}
-              li38={"li"}
-              li39={"li"}
-              li40={"li"}
-              li41={"li"}
-              li42={"li"}
-              li43={"li"}
-              li44={"li"}
-              li45={"li"}
-              li46={"li"}
-              li47={"li"}
-              li48={"li"}
-              li49={"li"}
-              li50={"li"}
-              li51={"li"}
-              li52={"li"}
-              li53={"li"}
-              li54={"li"}
-              li55={"li"}
-              li56={"li"}
-              li70={"li"}
-              li69={"li"}
-              li68={"li"}
-              li67={"li"}
-              li66={"li"}
-              li65={"li"}
-              li64={"li"}
-              li63={"li"}
-              li62={"li"}
-              li61={"li"}
-              li60={"li"}
-              li59={"li"}
-              li58={"li"}
-              li57={"li"}
               descripcion={
                 "Un niño lucha... por 'la muerte justa'. Dificultad, arrepentimiento, vergüenza: los sentimientos negativos que sentimos los humanos se convierten en Maldiciones que acechan en nuestra vida diaria. Las maldiciones corren desenfrenadas por todo el mundo, capaces de llevar a la gente a una terrible desgracia e incluso a la muerte. Además, las maldiciones solo pueden ser exorcizadas por otra maldición. Itadori Yuji es un chico con una fuerza física tremenda, aunque vive una vida de escuela secundaria completamente normal. Un día, para salvar a un amigo que ha sido atacado por Maldiciones, se come el dedo del Espectro de Doble Cara, llevándose la Maldición a su propia alma. A partir de entonces, comparte un cuerpo con el Espectro de Doble Cara. Guiado por el más poderoso de los hechiceros, Gojo Satoru, Itadori es admitido en la Escuela Superior Técnica Metropolitana de Hechicería de Tokio, una organización que lucha contra las maldiciones ... y así comienza la heroica historia de un niño que se convirtió en una maldición para exorcizar una maldición. , una vida de la que nunca podría volver atrás."
               }
@@ -683,7 +386,7 @@ function App() {
               numeroEpisodios={"24"}
               estado={"Finalizado"}
               imagenAnime={
-                "https://www.animefenix.com/cdn/animes/cover/5f66cfddef53a/jujutsu-kaisen.jpg"
+                "https://www.animefenix.tv/cdn/animes/cover/5f66cfddef53a/jujutsu-kaisen.jpg"
               }
               capituloAnime1={"/ver/jujutsu-kaisen-1"}
               capituloAnime2={"/ver/jujutsu-kaisen-2"}
@@ -715,72 +418,11 @@ function App() {
         <Route
           path="/shingeki-no-bahamut:virgin-soul"
           element={
-            <Capitulos12
+            <Capitulos24
               tituloAnime={"Shingeki no Bahamut:Virgin Soul"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
-              genero1={"Acción"}
-              genero2={"Aventura"}
-              genero3={"Demonios"}
-              genero4={"Fantasia"}
-              genero5={"Magia"}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"button is-small is-orange is-outlined is-roundedX"}
-              genre5={"button is-small is-orange is-outlined is-roundedX"}
-              hrefGenre1={"/generos[]=accion"}
-              hrefGenre2={"/generos[]=aventura"}
-              hrefGenre3={"/generos[]=demonios"}
-              hrefGenre4={"/generos[]=fantasia"}
-              hrefGenre5={"/generos[]=magia"}
-              li25={"li"}
-              li26={"li"}
-              li27={"li"}
-              li28={"li"}
-              li29={"li"}
-              li30={"li"}
-              li31={"li"}
-              li32={"li"}
-              li33={"li"}
-              li34={"li"}
-              li35={"li"}
-              li36={"li"}
-              li37={"li"}
-              li38={"li"}
-              li39={"li"}
-              li40={"li"}
-              li41={"li"}
-              li42={"li"}
-              li43={"li"}
-              li44={"li"}
-              li45={"li"}
-              li46={"li"}
-              li47={"li"}
-              li48={"li"}
-              li49={"li"}
-              li50={"li"}
-              li51={"li"}
-              li52={"li"}
-              li53={"li"}
-              li54={"li"}
-              li55={"li"}
-              li56={"li"}
-              li70={"li"}
-              li69={"li"}
-              li68={"li"}
-              li67={"li"}
-              li66={"li"}
-              li65={"li"}
-              li64={"li"}
-              li63={"li"}
-              li62={"li"}
-              li61={"li"}
-              li60={"li"}
-              li59={"li"}
-              li58={"li"}
-              li57={"li"}
               descripcion={
                 "10 años después de que el mundo escapó de la destrucción debido al resurgimiento de Bahamut, los humanos en la capital real recolectan riqueza, los demonios son esclavizados para ayudar con el renacimiento de la capital y los dioses pierden su poder debido a una disminución de la piedad religiosa."
               }
@@ -789,7 +431,7 @@ function App() {
               numeroEpisodios={"24"}
               estado={"Finalizado"}
               imagenAnime={
-                "https://www.animefenix.com/cdn/animes/cover/5f94201ce23b1/shingeki-no-bahamut-virgin-soul.jpg"
+                "https://www.animefenix.tv/cdn/animes/cover/5f94201ce23b1/shingeki-no-bahamut-virgin-soul.jpg"
               }
               capituloAnime1={"/ver/shingeki-no-bahamut:virgin-soul-1"}
               capituloAnime2={"/ver/shingeki-no-bahamut:virgin-soul-2"}
@@ -821,7 +463,7 @@ function App() {
         <Route
           path="/castlevania-segunda-temporada"
           element={
-            <Capitulos12
+            <Numero12
               tituloAnime={"Castlevania Segunda Temporada"}
               descripcion={"Segunda temporada de Castlevania."}
               sec3={"sec"}
@@ -831,98 +473,17 @@ function App() {
               textoSecuela2={"Secuela"}
               nombreSecuela={"Castlevania"}
               nombreSecuela2={"Castlevania Tercera Temporada"}
-              genero1={"Acción"}
-              genero2={"Demonios"}
-              genero3={"Fantasia"}
-              genero4={"Gore"}
-              genero5={"Horror"}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"button is-small is-orange is-outlined is-roundedX"}
-              genre5={"button is-small is-orange is-outlined is-roundedX"}
-              hrefGenre1={"/generos[]=accion"}
-              hrefGenre2={"/generos[]=demonios"}
-              hrefGenre3={"/generos[]=fantasia"}
-              hrefGenre4={"/generos[]=gore"}
-              hrefGenre5={"/generos[]=horror"}
               li9={"li"}
               li10={"li"}
               li11={"li"}
               li12={"li"}
-              li13={"li"}
-              li14={"li"}
-              li15={"li"}
-              li16={"li"}
-              li17={"li"}
-              li18={"li"}
-              li19={"li"}
-              li20={"li"}
-              li21={"li"}
-              li22={"li"}
-              li23={"li"}
-              li24={"li"}
-              li25={"li"}
-              li26={"li"}
-              li27={"li"}
-              li28={"li"}
-              li29={"li"}
-              li30={"li"}
-              li31={"li"}
-              li32={"li"}
-              li33={"li"}
-              li34={"li"}
-              li35={"li"}
-              li36={"li"}
-              li37={"li"}
-              li38={"li"}
-              li39={"li"}
-              li40={"li"}
-              li41={"li"}
-              li42={"li"}
-              li43={"li"}
-              li44={"li"}
-              li45={"li"}
-              li46={"li"}
-              li47={"li"}
-              li48={"li"}
-              li49={"li"}
-              li50={"li"}
-              li51={"li"}
-              li52={"li"}
-              li53={"li"}
-              li54={"li"}
-              li55={"li"}
-              li56={"li"}
-              li70={"li"}
-              li69={"li"}
-              li68={"li"}
-              li67={"li"}
-              li66={"li"}
-              li65={"li"}
-              li64={"li"}
-              li63={"li"}
-              li62={"li"}
-              li61={"li"}
-              li60={"li"}
-              li59={"li"}
-              li58={"li"}
-              li57={"li"}
-              anime={"Castlevania Segunda Temporada"}
+              anime={"Castlevania 2nd Temporada"}
               tipo={"TV"}
               numeroEpisodios={"8"}
               estado={"Finalizado"}
               imagenAnime={
-                "https://www.animefenix.com/cdn/animes/cover/5e4efb4be5001/castlevania-season-2.jpg"
+                "https://www.animefenix.tv/cdn/animes/cover/5e4efb4be5001/castlevania-season-2.jpg"
               }
-              numeroCapitulo1={"1"}
-              numeroCapitulo2={"2"}
-              numeroCapitulo3={"3"}
-              numeroCapitulo4={"4"}
-              numeroCapitulo5={"5"}
-              numeroCapitulo6={"6"}
-              numeroCapitulo7={"7"}
-              numeroCapitulo8={"8"}
               capituloAnime1={"/ver/castlevania-segunda-temporada-1"}
               capituloAnime2={"/ver/castlevania-segunda-temporada-2"}
               capituloAnime3={"/ver/castlevania-segunda-temporada-3"}
@@ -938,85 +499,13 @@ function App() {
         <Route
           path="/ao-no-exorcist:-kyoto-fujouou-hen"
           element={
-            <Capitulos12
+            <Animes13
               tituloAnime={"Ao no Exorcist Kyoto Fujouou Hen"}
               sec2={"sec"}
               sec3={"sec"}
               textoSecuela={"Precuela"}
               nombreSecuela={"Ao no Exorcist"}
               hrefSecuela={"/ao-no-exorcist"}
-              genero1={"Acción"}
-              genero2={"Demonios"}
-              genero3={"Fantasia"}
-              genero4={"Shounen"}
-              genero5={"Sobrenatural"}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"button is-small is-orange is-outlined is-roundedX"}
-              genre5={"button is-small is-orange is-outlined is-roundedX"}
-              hrefGenre1={"/generos[]=accion"}
-              hrefGenre2={"/generos[]=demonios"}
-              hrefGenre3={"/generos[]=fantasia"}
-              hrefGenre4={"/generos[]=shounen"}
-              hrefGenre5={"/generos[]=sobrenatural"}
-              li14={"li"}
-              li15={"li"}
-              li16={"li"}
-              li17={"li"}
-              li18={"li"}
-              li19={"li"}
-              li20={"li"}
-              li21={"li"}
-              li22={"li"}
-              li23={"li"}
-              li24={"li"}
-              li25={"li"}
-              li26={"li"}
-              li27={"li"}
-              li28={"li"}
-              li29={"li"}
-              li30={"li"}
-              li31={"li"}
-              li32={"li"}
-              li33={"li"}
-              li34={"li"}
-              li35={"li"}
-              li36={"li"}
-              li37={"li"}
-              li38={"li"}
-              li39={"li"}
-              li40={"li"}
-              li41={"li"}
-              li42={"li"}
-              li43={"li"}
-              li44={"li"}
-              li45={"li"}
-              li46={"li"}
-              li47={"li"}
-              li48={"li"}
-              li49={"li"}
-              li50={"li"}
-              li51={"li"}
-              li52={"li"}
-              li53={"li"}
-              li54={"li"}
-              li55={"li"}
-              li56={"li"}
-              li70={"li"}
-              li69={"li"}
-              li68={"li"}
-              li67={"li"}
-              li66={"li"}
-              li65={"li"}
-              li64={"li"}
-              li63={"li"}
-              li62={"li"}
-              li61={"li"}
-              li60={"li"}
-              li59={"li"}
-              li58={"li"}
-              li57={"li"}
               descripcion={
                 "A finales de la era Edo, un demonio conocido como el Rey Impuro mató a miles de personas. Tras vencer al demonio, los Caballeros de la Verdadera Cruz mantuvieron su ojo izquierdo sellado a salvo en la Academia, pero ahora ha sido robado. Al escuchar que el ladrón ha tomado por rehén a un niño, Yukio y Rin parten a ayudar. La investigación y la persecución llevará a Rin y a sus amigos hasta Kyoto, donde se verán involucrados en una oscura trama."
               }
@@ -1025,21 +514,8 @@ function App() {
               numeroEpisodios={"13"}
               estado={"Finalizado"}
               imagenAnime={
-                "https://www.animefenix.com/cdn/animes/cover/5ebaac070d30a/ao-no-exorcist-kyoto-fujouou-hen.png"
+                "https://www.animefenix.tv/cdn/animes/cover/5ebaac070d30a/ao-no-exorcist-kyoto-fujouou-hen.png"
               }
-              numeroCapitulo1={"1"}
-              numeroCapitulo2={"2"}
-              numeroCapitulo3={"3"}
-              numeroCapitulo4={"4"}
-              numeroCapitulo5={"5"}
-              numeroCapitulo6={"6"}
-              numeroCapitulo7={"7"}
-              numeroCapitulo8={"8"}
-              numeroCapitulo9={"9"}
-              numeroCapitulo10={"10"}
-              numeroCapitulo11={"11"}
-              numeroCapitulo12={"12"}
-              numeroCapitulo13={"13"}
               capituloAnime1={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-1"}
               capituloAnime2={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-2"}
               capituloAnime3={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-3"}
@@ -1059,66 +535,8 @@ function App() {
         <Route
           path="/fairy-gone"
           element={
-            <Capitulos12
+            <Numero12
               tituloAnime={"Fairy Gone"}
-              li13={"li"}
-              li14={"li"}
-              li15={"li"}
-              li16={"li"}
-              li17={"li"}
-              li18={"li"}
-              li19={"li"}
-              li20={"li"}
-              li21={"li"}
-              li22={"li"}
-              li23={"li"}
-              li24={"li"}
-              li25={"li"}
-              li26={"li"}
-              li27={"li"}
-              li28={"li"}
-              li29={"li"}
-              li30={"li"}
-              li31={"li"}
-              li32={"li"}
-              li33={"li"}
-              li34={"li"}
-              li35={"li"}
-              li36={"li"}
-              li37={"li"}
-              li38={"li"}
-              li39={"li"}
-              li40={"li"}
-              li41={"li"}
-              li42={"li"}
-              li43={"li"}
-              li44={"li"}
-              li45={"li"}
-              li46={"li"}
-              li47={"li"}
-              li48={"li"}
-              li49={"li"}
-              li50={"li"}
-              li51={"li"}
-              li52={"li"}
-              li53={"li"}
-              li54={"li"}
-              li55={"li"}
-              li56={"li"}
-              li70={"li"}
-              li69={"li"}
-              li68={"li"}
-              li67={"li"}
-              li66={"li"}
-              li65={"li"}
-              li64={"li"}
-              li63={"li"}
-              li62={"li"}
-              li61={"li"}
-              li60={"li"}
-              li59={"li"}
-              li58={"li"}
-              li57={"li"}
               descripcion={
                 "La historia nos trasladará a un mundo en el que las hadas poseen y residen en animales, proporcionándoles poderes especiales. Extrayendo quirúrgicamente los órganos a uno de estos animales e implantándoselos a un humano, los humanos pueden invocar parcialmente a las hadas y usarlas como armas. Estos humanos participarán en las guerras y serán conocidos como 'Soldados Hada'. Tras el fin de una larga guerra, estos Soldados Hada pierden su propósito y deben reintegrarse en la sociedad, aunque no todos tomarán el camino de la justicia. Nueve años después del fin de la guerra conocemos a Marlya, una nueva recluta en Dorothea, una organización dedicada a investigar y contrarrestar crímenes relacionados con hadas. Aun en tiempo de paz, la inestabilidad de la guerra todavía afecta al gobierno. Muchos criminales cargan con heridas de la guerra y los grupos terroristas buscan venganza por los actos de entonces. Una historia de soldados hada persiguiendo su propia justicia en un mundo caótico que intenta dejar atrás un conflicto."
               }
@@ -1127,28 +545,13 @@ function App() {
               numeroEpisodios={"12"}
               estado={"Finalizado"}
               imagenAnime={
-                "https://www.animefenix.com/cdn/animes/cover/5d9ad108f3780/fairy-gone.jpg"
+                "https://www.animefenix.tv/cdn/animes/cover/5d9ad108f3780/fairy-gone.jpg"
               }
               textoSecuela={"Secuela"}
               hrefSecuela={"/fairy-gone-segunda-temporada"}
               nombreSecuela={"Fairy Gone Segunda Temporada"}
               sec2={"sec"}
               sec3={"sec"}
-              genero1={"Acción"}
-              genero2={"Demonios"}
-              genero3={"Fantasia"}
-              genero4={"Magia"}
-              genero5={"Sobrenatural"}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"button is-small is-orange is-outlined is-roundedX"}
-              genre5={"button is-small is-orange is-outlined is-roundedX"}
-              hrefGenre1={"/generos[]=accion"}
-              hrefGenre2={"/generos[]=demonios"}
-              hrefGenre3={"/generos[]=fantasia"}
-              hrefGenre4={"/generos[]=magia"}
-              hrefGenre5={"/generos[]=sobrenatural"}
               capituloAnime1={"/ver/fairy-gone-1"}
               capituloAnime2={"/ver/fairy-gone-2"}
               capituloAnime3={"/ver/fairy-gone-3"}
@@ -1167,7 +570,7 @@ function App() {
         <Route
           path="/dr-stone-ryusui"
           element={
-            <Capitulos12
+            <Numero12
               tituloAnime={"Dr Stone Ryusui"}
               descripcion={
                 "Episodio que sirve como puente entre la segunda y tercera temporada de Dr. Stone."
@@ -1181,21 +584,9 @@ function App() {
               textoSecuela={"Secuela"}
               sec2={"sec"}
               sec3={"sec"}
-              genero1={"Aventura"}
-              genero2={"Sei-Fi"}
-              genero3={"Shounen"}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              hrefGenre1={"/generos[]=aventura"}
-              hrefGenre2={"/generos[]=sei-fi"}
-              hrefGenre3={"/generos[]=shounen"}
               imagenAnime={
-                "https://www.animefenix.com/cdn/animes/cover/62b391c6e1119/dr-stone-ryusui.png"
+                "https://www.animefenix.tv/cdn/animes/cover/62b391c6e1119/dr-stone-ryusui.png"
               }
-              numeroCapitulo1={"1"}
               li2={"li"}
               li3={"li"}
               li4={"li"}
@@ -1207,64 +598,6 @@ function App() {
               li10={"li"}
               li11={"li"}
               li12={"li"}
-              li13={"li"}
-              li14={"li"}
-              li15={"li"}
-              li16={"li"}
-              li17={"li"}
-              li18={"li"}
-              li19={"li"}
-              li20={"li"}
-              li21={"li"}
-              li22={"li"}
-              li23={"li"}
-              li24={"li"}
-              li25={"li"}
-              li26={"li"}
-              li27={"li"}
-              li28={"li"}
-              li29={"li"}
-              li30={"li"}
-              li31={"li"}
-              li32={"li"}
-              li33={"li"}
-              li34={"li"}
-              li35={"li"}
-              li36={"li"}
-              li37={"li"}
-              li38={"li"}
-              li39={"li"}
-              li40={"li"}
-              li41={"li"}
-              li42={"li"}
-              li43={"li"}
-              li44={"li"}
-              li45={"li"}
-              li46={"li"}
-              li47={"li"}
-              li48={"li"}
-              li49={"li"}
-              li50={"li"}
-              li51={"li"}
-              li52={"li"}
-              li53={"li"}
-              li54={"li"}
-              li55={"li"}
-              li56={"li"}
-              li70={"li"}
-              li69={"li"}
-              li68={"li"}
-              li67={"li"}
-              li66={"li"}
-              li65={"li"}
-              li64={"li"}
-              li63={"li"}
-              li62={"li"}
-              li61={"li"}
-              li60={"li"}
-              li59={"li"}
-              li58={"li"}
-              li57={"li"}
               capituloAnime1={"/ver/dr-stone-ryusui-1"}
             />
           }
