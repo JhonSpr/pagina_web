@@ -10,7 +10,7 @@
 }
 
 .columnas {
-  background-color: #202020;
+  background-color: #202020 !important;
   border-radius: 15px;
 }
 .sinopsis {
