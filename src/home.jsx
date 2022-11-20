@@ -17,11 +17,11 @@ import { Page7 } from "./Page/Page7";
 import { Page6 } from "./Page/Page6";
 import { Numero12 } from "./Componentes/Capitulos12";
 import { Emision12 } from "./Componentes/EnEmision12";
-import { EnEmisionPage1 } from "./Page/EnEmisionPage1";
 import { Animes13 } from "./Componentes/AnimesPort";
 import { Capitulos24 } from "./Componentes/Capitulos24";
 import { Inicio } from "./Componentes/Inicio";
 import { Policy } from "./Componentes/Policy";
+import { EmisionesPage1 } from "./Componentes/enEmision";
 
 function App() {
   return (
@@ -3135,7 +3135,7 @@ function App() {
           }
         />
         {/* Pages */}
-        <Route path="/en-emision" element={<EnEmisionPage1 />} />
+        <Route path="/emisiones" element={<EmisionesPage1 />} />
 
         <Route path="/animes%20year[]=2022&page=2" element={<Page10 />} />
         <Route path="/animes%20type[]=ova" element={<Page10 />} />

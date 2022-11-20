@@ -24,17 +24,17 @@ export function Page1() {
             </div>
             <ul className="dropdown-menu dropdown-menu-dark">
               <li>
-                <a className="dropdown-item" href="/estado[]=finalizado">
-                  FINALIZADO
+                <a className="dropdown-item" href="/finalizados">
+                  FINALIZADOS
                 </a>
               </li>
               <li>
-                <a className="dropdown-item" href="/en-emision">
+                <a className="dropdown-item" href="/emisiones">
                   EN EMISIÓN
                 </a>
               </li>
               <li>
-                <a className="dropdown-item" href="/estado[]=proximamente">
+                <a className="dropdown-item" href="/proximos">
                   PROXIMAMENTE
                 </a>
               </li>

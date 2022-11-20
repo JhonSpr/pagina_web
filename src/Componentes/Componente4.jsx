@@ -118,12 +118,12 @@ export function Capitulos24({
           <div className="collapse navbar-collapse" id="navbarText">
             <ul className="navbar-nav">
               <li className="navbar-item item-nav">
-                <a className="nav-link item-nav" href="animes">
+                <a className="nav-link item-nav" href="/animes">
                   Animes{" "}
                 </a>
               </li>
               <li className="navbar-item item-nav">
-                <a className="nav-link item-nav" href="en-emision">
+                <a className="nav-link item-nav" href="/emisiones">
                   En Emision
                 </a>
               </li>
@@ -393,55 +393,6 @@ export function Capitulos24({
                     {anime} <span>Episodio{numeroCapitulo24}</span>
                   </a>
                 </li>
-                {/*
-                            <li>
-                                <a className="fa-play-circle d-inline-flex align-items-center is-rounded " href={capituloAnime25}>{anime} <span>Episodio{numeroCapitulo25}</span></a>
-                            </li>
-                            <li>
-                                <a className="fa-play-circle d-inline-flex align-items-center is-rounded " href={capituloAnime26}>{anime} <span>Episodio{numeroCapitulo26}</span></a>
-                            </li>
-                            <li>
-                                <a className="fa-play-circle d-inline-flex align-items-center is-rounded " href={capituloAnime27}>{anime} <span>Episodio{numeroCapitulo27}</span></a>
-                            </li>
-                            <li>
-                                <a className="fa-play-circle d-inline-flex align-items-center is-rounded " href={capituloAnime28}>{anime} <span>Episodio{numeroCapitulo28}</span></a>
-                            </li>
-                            <li>
-                                <a className="fa-play-circle d-inline-flex align-items-center is-rounded " href={capituloAnime29}>{anime} <span>Episodio{numeroCapitulo29}</span></a>
-                            </li>
-                            <li>
-                                <a className="fa-play-circle d-inline-flex align-items-center is-rounded " href={capituloAnime30}>{anime} <span>Episodio{numeroCapitulo30}</span></a>
-                            </li>
-                            <li>
-                                <a className="fa-play-circle d-inline-flex align-items-center is-rounded " href={capituloAnime31}>{anime} <span>Episodio{numeroCapitulo31}</span></a>
-                            </li>
-                            <li>
-                                <a className="fa-play-circle d-inline-flex align-items-center is-rounded " href={capituloAnime32}>{anime} <span>Episodio{numeroCapitulo32}</span></a>
-                            </li>
-                            <li>
-                                <a className="fa-play-circle d-inline-flex align-items-center is-rounded " href={capituloAnime33}>{anime} <span>Episodio{numeroCapitulo33}</span></a>
-                            </li>
-                            <li>
-                                <a className="fa-play-circle d-inline-flex align-items-center is-rounded " href={capituloAnime34}>{anime} <span>Episodio{numeroCapitulo34}</span></a>
-                            </li>
-                            <li>
-                                <a className="fa-play-circle d-inline-flex align-items-center is-rounded " href={capituloAnime35}>{anime} <span>Episodio{numeroCapitulo35}</span></a>
-                            </li>
-                            <li>
-                                <a className="fa-play-circle d-inline-flex align-items-center is-rounded " href={capituloAnime36}>{anime} <span>Episodio{numeroCapitulo36}</span></a>
-                            </li>
-                            <li>
-                                <a className="fa-play-circle d-inline-flex align-items-center is-rounded " href={capituloAnime37}>{anime} <span>Episodio{numeroCapitulo37}</span></a>
-                            </li>
-                            <li>
-                                <a className="fa-play-circle d-inline-flex align-items-center is-rounded " href={capituloAnime38}>{anime} <span>Episodio{numeroCapitulo38}</span></a>
-                            </li>
-                            <li>
-                                <a className="fa-play-circle d-inline-flex align-items-center is-rounded " href={capituloAnime39}>{anime} <span>Episodio{numeroCapitulo39}</span></a>
-                            </li>
-                            <li>
-                                <a className="fa-play-circle d-inline-flex align-items-center is-rounded " href={capituloAnime40}>{anime} <span>Episodio{numeroCapitulo40}</span></a>
-                            </li> */}
               </ul>
             </div>
           </div>

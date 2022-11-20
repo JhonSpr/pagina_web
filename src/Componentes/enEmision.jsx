@@ -1,8 +1,8 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
-import AnimePage1, { Emision1 } from "../pages/AnimePage1";
+import { Emision1 } from "../pages/AnimePage1";
 
-export function Page1() {
+export function EmisionesPage1() {
   return (
     <div>
       <title>Animes Gratis Online HD</title>
@@ -24,17 +24,17 @@ export function Page1() {
             </div>
             <ul className="dropdown-menu dropdown-menu-dark">
               <li>
-                <a className="dropdown-item" href="/estado[]=finalizado">
+                <a className="dropdown-item" href="/finalizados">
                   FINALIZADO
                 </a>
               </li>
               <li>
-                <a className="dropdown-item" href="/en-emision">
+                <a className="dropdown-item" href="/emisiones">
                   EN EMISIÓN
                 </a>
               </li>
               <li>
-                <a className="dropdown-item" href="/estado[]=proximamente">
+                <a className="dropdown-item" href="/proximos">
                   PROXIMAMENTE
                 </a>
               </li>
