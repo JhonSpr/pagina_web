@@ -5166,13 +5166,6 @@ function App() {
         />
         {/* Pages */}
         <Route path="/en-emision" element={<EnEmisionPage1 />} />
-        <Route path="/generos[]=accion" element={<AccionPageOne />} />
-        <Route path="/generos[]=accion&page=2" element={<AccionPageTwo />} />
-        <Route path="/generos[]=accion&page=3" element={<AccionPageTres />} />
-        <Route path="/generos[]=accion&page=4" element={<AccionPageCuatro />} />
-        <Route path="/generos[]=accion&page=5" element={<AccionPageQuinto />} />
-        <Route path="/generos[]=accion&page=6" element={<AccionPageSexto />} />
-        <Route path="/generos[]=fantasia" element={<FantasiaPageOne />} />
 
         <Route path="/animes%20year[]=2022&page=2" element={<Page10 />} />
         <Route path="/animes%20type[]=ova" element={<Page10 />} />
