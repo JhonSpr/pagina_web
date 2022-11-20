@@ -81,6 +81,7 @@ export function Animes13({
               <div className="has-text-light sinopsis">{descripcion}</div>
 
               <br />
+              <br />
 
               <p className="has-text-weight-semibold is-uppercase has-text-grey has-border-bottom">
                 Información general
