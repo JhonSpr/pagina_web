@@ -1,5 +1,5 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
-import { Noticia } from "./Noticias";
+import { Agregados, Noticia } from "./Noticias";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Disqus } from "./disqus";
 
@@ -17,7 +17,9 @@ export function Inicio() {
                 Catalogo
               </h1>
               <hr />
-              <div className="list-series"></div>
+              <div className="list-series">
+                <Agregados/>
+              </div>
             </div>
           </section>
 
