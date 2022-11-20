@@ -78,25 +78,25 @@ export function Page1() {
             <a href="/emisiones">1</a>
           </li>
           <li className="paginacion">
-            <a href="/emisiones?page=2">2</a>
+            <a href="/emisiones page=2">2</a>
           </li>
           <li className="paginacion">
-            <a href="/emisiones?page=3">3</a>
+            <a href="/emisiones page=3">3</a>
           </li>
           <li className="paginacion">
-            <a href="/emisiones?page=4">4</a>
+            <a href="/emisiones page=4">4</a>
           </li>
           <li className="paginacion">
-            <a href="/emisiones?page=5">5</a>
+            <a href="/emisiones page=5">5</a>
           </li>
           <li className="paginacion">
-            <a href="/emisiones?page=6">6</a>
+            <a href="/emisiones page=6">6</a>
           </li>
           <li className="paginacion">
-            <a href="/emisiones?page=7">7</a>
+            <a href="/emisiones page=7">7</a>
           </li>
 
-          <a href="/emisiones?page=2" className="siguiente">
+          <a href="/emisiones page=2" className="siguiente">
             Siguiente
           </a>
         </ul>
