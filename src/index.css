@@ -207,7 +207,7 @@ a {
     border-bottom: 2px solid rgb(100, 100, 100);
   }
   .image_2 {
-    display: none !important;
+    width: 100%;
   }
   .noticia-card {
     width: 400px !important;

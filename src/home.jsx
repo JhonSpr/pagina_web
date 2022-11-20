@@ -605,7 +605,7 @@ function App() {
         <Route
           path="/isekai-yakkyoku"
           element={
-            <Capitulos12
+            <Numero12
               tituloAnime={"Isekai Yakkyoku"}
               descripcion={
                 "Un joven farmacólogo e investigador en Japón murió por exceso de trabajo y reencarnó en una Europa paralela medieval. Se reencarnó como un aprendiz de 10 años de un famoso farmacéutico de la Corte Real, había alcanzado habilidades inhumanas de capacidad para ver a través de enfermedades, creación material y destrucción material. En una sociedad en la que proliferan las prácticas médicas dudosas, los precios se disparan a través del monopolio del gremio farmacéutico y los buenos medicamentos no están disponibles para los plebeyos. Fue reconocido por el Emperador en ese momento y abrió una Farmacia en la esquina del pueblo. Eliminará el fraude que se ha extendido por el mundo y entregará a los plebeyos una medicina verdaderamente efectiva que se desarrolló utilizando la farmacología actual. Así, el niño farmacéutico hará trampa utilizando sus conocimientos previos para crear medicamentos innovadores mientras ayuda a las personas del mundo paralelo, una historia sobre vivir su nueva vida al máximo esta vez."
@@ -617,17 +617,8 @@ function App() {
               sec1={"sec"}
               sec2={"sec"}
               sec3={"sec"}
-              genero1={"Fantasia"}
-              genero2={"Isekai"}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"disable"}
-              genre4={"disable"}
-              genre5={"disable"}
-              hrefGenre1={"/generos[]=fantasia"}
-              hrefGenre2={"/generos[]=isekai"}
               imagenAnime={
-                "https://www.animefenix.com/cdn/animes/cover/62b39151eb430/isekai-yakkyoku.jpg"
+                "https://www.animefenix.tv/cdn/animes/cover/62b39151eb430/isekai-yakkyoku.jpg"
               }
               capituloAnime1={"/ver/isekai-yakkyoku-1"}
               capituloAnime2={"/ver/isekai-yakkyoku-2"}
@@ -641,71 +632,13 @@ function App() {
               capituloAnime10={"/ver/isekai-yakkyoku-10"}
               capituloAnime11={"/ver/isekai-yakkyoku-11"}
               capituloAnime12={"/ver/isekai-yakkyoku-12"}
-              li13={"li"}
-              li14={"li"}
-              li15={"li"}
-              li16={"li"}
-              li17={"li"}
-              li18={"li"}
-              li19={"li"}
-              li20={"li"}
-              li21={"li"}
-              li22={"li"}
-              li23={"li"}
-              li24={"li"}
-              li25={"li"}
-              li26={"li"}
-              li27={"li"}
-              li28={"li"}
-              li29={"li"}
-              li30={"li"}
-              li31={"li"}
-              li32={"li"}
-              li33={"li"}
-              li34={"li"}
-              li35={"li"}
-              li36={"li"}
-              li37={"li"}
-              li38={"li"}
-              li39={"li"}
-              li40={"li"}
-              li41={"li"}
-              li42={"li"}
-              li43={"li"}
-              li44={"li"}
-              li45={"li"}
-              li46={"li"}
-              li47={"li"}
-              li48={"li"}
-              li49={"li"}
-              li50={"li"}
-              li51={"li"}
-              li52={"li"}
-              li53={"li"}
-              li54={"li"}
-              li55={"li"}
-              li56={"li"}
-              li70={"li"}
-              li69={"li"}
-              li68={"li"}
-              li67={"li"}
-              li66={"li"}
-              li65={"li"}
-              li64={"li"}
-              li63={"li"}
-              li62={"li"}
-              li61={"li"}
-              li60={"li"}
-              li59={"li"}
-              li58={"li"}
-              li57={"li"}
             />
           }
         />
         <Route
           path="/kuro-no-shoukanshi"
           element={
-            <Capitulos12
+            <Numero12
               tituloAnime={"Kuro no Shoukanshi"}
               descripcion={
                 'Cuando Kelvin se despierta, se encuentra en un lugar desconocido sin ningún recuerdo de su vida anterior. Resulta que se había reencarnado en otro mundo pero había cambiado sus recuerdos del pasado por poderosas habilidades. Ahora que es un invocador, emprende un viaje con la diosa que lo trajo al nuevo mundo, quien también es su primera "seguidora".'
@@ -717,17 +650,8 @@ function App() {
               sec1={"sec"}
               sec2={"sec"}
               sec3={"sec"}
-              genero1={"Acción"}
-              genero2={"Fantasia"}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"disable"}
-              genre4={"disable"}
-              genre5={"disable"}
-              hrefGenre1={"/generos[]=accion"}
-              hrefGenre2={"/generos[]=fantasia"}
               imagenAnime={
-                "https://www.animefenix.com/cdn/animes/cover/62b390dacca80/kuro-no-shoukanshi.jpg"
+                "https://www.animefenix.tv/cdn/animes/cover/62b390dacca80/kuro-no-shoukanshi.jpg"
               }
               capituloAnime1={"/ver/kuro-no-shoukanshi-1"}
               capituloAnime2={"/ver/kuro-no-shoukanshi-2"}
@@ -741,64 +665,6 @@ function App() {
               capituloAnime10={"/ver/kuro-no-shoukanshi-10"}
               capituloAnime11={"/ver/kuro-no-shoukanshi-11"}
               capituloAnime12={"/ver/kuro-no-shoukanshi-12"}
-              li13={"li"}
-              li14={"li"}
-              li15={"li"}
-              li16={"li"}
-              li17={"li"}
-              li18={"li"}
-              li19={"li"}
-              li20={"li"}
-              li21={"li"}
-              li22={"li"}
-              li23={"li"}
-              li24={"li"}
-              li25={"li"}
-              li26={"li"}
-              li27={"li"}
-              li28={"li"}
-              li29={"li"}
-              li30={"li"}
-              li31={"li"}
-              li32={"li"}
-              li33={"li"}
-              li34={"li"}
-              li35={"li"}
-              li36={"li"}
-              li37={"li"}
-              li38={"li"}
-              li39={"li"}
-              li40={"li"}
-              li41={"li"}
-              li42={"li"}
-              li43={"li"}
-              li44={"li"}
-              li45={"li"}
-              li46={"li"}
-              li47={"li"}
-              li48={"li"}
-              li49={"li"}
-              li50={"li"}
-              li51={"li"}
-              li52={"li"}
-              li53={"li"}
-              li54={"li"}
-              li55={"li"}
-              li56={"li"}
-              li70={"li"}
-              li69={"li"}
-              li68={"li"}
-              li67={"li"}
-              li66={"li"}
-              li65={"li"}
-              li64={"li"}
-              li63={"li"}
-              li62={"li"}
-              li61={"li"}
-              li60={"li"}
-              li59={"li"}
-              li58={"li"}
-              li57={"li"}
             />
           }
         />
