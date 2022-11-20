@@ -202,6 +202,11 @@ a {
     top: 20px;
     position: absolute;
   }
+
+  .column {
+    background-color: #202020;
+  }
+
   .perfil-container {
     background-color: transparent !important;
     border-bottom: 2px solid rgb(100, 100, 100);
