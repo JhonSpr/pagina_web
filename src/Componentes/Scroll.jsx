@@ -84,6 +84,7 @@ export default class AutoPlay extends Component {
                 <a href={link1} title={anime1}>
                   <img src={imagen1} alt={anime1} />
                 </a>
+                <span className="tag is-success airing">Emision</span>
               </figure>
               <div className="title"></div>
             </article>
