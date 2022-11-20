@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
-import AnimePage1 from "../pages/AnimePage1";
+import AnimePage1, { Emision1 } from "../pages/AnimePage1";
 
 export function Page1() {
   return (
@@ -68,7 +68,7 @@ export function Page1() {
           </div>
         </section>
         <div className="list-series">
-          <AnimePage1 />
+          <Emision1 />
         </div>
       </section>
 

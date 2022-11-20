@@ -1,5 +1,6 @@
 import React from "react";
 import Animes from "../Data.json";
+import emisiones from "../Json/EnEmision.json";
 
 export default function AnimePage1() {
   return Animes.slice(0, 24).map((anime) => {
@@ -23,6 +24,40 @@ export default function AnimePage1() {
                 className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
               >
                 {anime.title}
+              </a>
+            </h3>
+          </div>
+        </figure>
+      </article>
+    );
+  });
+}
+export function Emision1() {
+  return emisiones.slice(0, 24).map((anime) => {
+    return (
+      <article
+        className="serie-card"
+        title={emisiones.title}
+        key={emisiones.id}
+      >
+        <figure className="image overarchingdiv2">
+          <a href={emisiones.link}>
+            <img src={emisiones.img} alt={emisiones.title} />
+            <div className="overlay-dark"></div>
+            <div className="hoveroverlay">
+              <i className="fas fa-play pgnav activehov"></i>
+            </div>
+          </a>
+          <span className="tag year is-dark">{emisiones.year}</span>
+          <span className="tag is-danger type">TV</span>
+          <span className={emisiones.classEstado}>{emisiones.estado}</span>
+          <div className="title">
+            <h3>
+              <a
+                href={emisiones.link}
+                className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
+              >
+                {emisiones.title}
               </a>
             </h3>
           </div>
