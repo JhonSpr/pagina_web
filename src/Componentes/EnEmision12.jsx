@@ -66,7 +66,7 @@ export function Emision12({
               <br />
             </div>
 
-            <div className="column">
+            <div className="column columnas">
               <div className="columns is-multiline is-narrow">
                 <div className="column is-12-mobile is-8-tablet is-10-desktop">
                   <h1 className="title has-text-orange">{anime}</h1>

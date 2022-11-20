@@ -69,10 +69,10 @@ export function Animes13({
 
             <div className="column columnas">
               <div className="columns is-multiline is-narrow">
-                <div className="column  columnas is-12-mobile is-8-tablet is-10-desktop">
+                <div className="column is-12-mobile is-8-tablet is-10-desktop">
                   <h1 className="title has-text-orange">{anime}</h1>
                 </div>
-                <div className="column columnas is-12-mobile is-4-tablet is-2-desktop"></div>
+                <div className="column is-12-mobile is-4-tablet is-2-desktop"></div>
               </div>
 
               <h6 className="has-text-weight-semibold is-uppercase has-text-grey has-border-bottom">
