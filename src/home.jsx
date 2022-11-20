@@ -98,57 +98,11 @@ function App() {
         <Route
           path="/hanyo-no-yashahime-ni-no-shou"
           element={
-            <Capitulos12
+            <Capitulos24
               tituloAnime={"Hanyo no Yashahime ni no Shou"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
-              li25={"li"}
-              li26={"li"}
-              li27={"li"}
-              li28={"li"}
-              li29={"li"}
-              li30={"li"}
-              li31={"li"}
-              li32={"li"}
-              li33={"li"}
-              li34={"li"}
-              li35={"li"}
-              li36={"li"}
-              li37={"li"}
-              li38={"li"}
-              li39={"li"}
-              li40={"li"}
-              li41={"li"}
-              li42={"li"}
-              li43={"li"}
-              li44={"li"}
-              li45={"li"}
-              li46={"li"}
-              li47={"li"}
-              li48={"li"}
-              li49={"li"}
-              li50={"li"}
-              li51={"li"}
-              li52={"li"}
-              li53={"li"}
-              li54={"li"}
-              li55={"li"}
-              li56={"li"}
-              li70={"li"}
-              li69={"li"}
-              li68={"li"}
-              li67={"li"}
-              li66={"li"}
-              li65={"li"}
-              li64={"li"}
-              li63={"li"}
-              li62={"li"}
-              li61={"li"}
-              li60={"li"}
-              li59={"li"}
-              li58={"li"}
-              li57={"li"}
               descripcion={
                 "¡Las hijas de Sesshomaru e Inuyasha se lanzan en una aventura que trasciende en el tiempo! En el Japón Feudal, las gemelas mitad demonio Towa y Setsuna son separadas durante un incendio forestal. Mientras busca desesperadamente a su hermana menor, Towa se encuentra un misterioso túnel que la transporta al Japón moderno, en donde es encontrada y puesta al cuidado del hermano de Kagome Higurashi, Sota y su familia. Diez años después, el túnel que conecta las dos eras es abierto de nuevo, permitiendo a Towa volver a reunirse con Setsuna, quien ahora se ha convertido en una Asesina de Youkais en conjunto con Kohaku. Pero lo peor es que Setsuna parece haber perdido sus recuerdos y ya no reconoce a Towa. Ahora uniéndose con Moroha, la hija de Inuyasha, y con Kagome, las tres viajarán entre dos eras en una aventura por recuperar un pasado olvidado."
               }
