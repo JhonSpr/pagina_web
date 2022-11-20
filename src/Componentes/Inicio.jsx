@@ -4,7 +4,7 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Disqus } from "./disqus";
 
 /* eslint-disable jsx-a11y/no-distracting-elements */
-export function Inicio({}) {
+export function Inicio() {
   return (
     <section>
       <title>Animekun</title>
