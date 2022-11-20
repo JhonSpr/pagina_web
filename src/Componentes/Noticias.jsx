@@ -26,7 +26,7 @@ export function Noticia() {
 }
 
 export function Agregados() {
-  return RecienAgregados.slice(0, 24).map((emision) => {
+  return RecienAgregados.slice(130, 160).map((emision) => {
     return (
       <article className="serie-card" title={emision.title} key={emision.id}>
         <figure className="image overarchingdiv2">
