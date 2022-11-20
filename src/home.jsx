@@ -15,18 +15,11 @@ import { Page9 } from "./Page/Page9";
 import { Page8 } from "./Page/Page8";
 import { Page7 } from "./Page/Page7";
 import { Page6 } from "./Page/Page6";
-import { AccionPageOne } from "./PageGeneros/AccionPage1";
-import { AccionPageTwo } from "./PageGeneros/AccionPage2";
 import { Numero12 } from "./Componentes/Capitulos12";
 import { Emision12 } from "./Componentes/EnEmision12";
 import { EnEmisionPage1 } from "./Page/EnEmisionPage1";
-import { AccionPageTres } from "./PageGeneros/AccionPage3";
-import { AccionPageCuatro } from "./PageGeneros/AccionPage4";
-import { AccionPageQuinto } from "./PageGeneros/AccionPage5";
-import { AccionPageSexto } from "./PageGeneros/AccionPage6";
 import { Animes13 } from "./Componentes/AnimesPort";
 import { Capitulos24 } from "./Componentes/Capitulos24";
-import { FantasiaPageOne } from "./PageGeneros/FantasiaPage1";
 import { Inicio } from "./Componentes/Inicio";
 import { Policy } from "./Componentes/Policy";
 
