@@ -1857,7 +1857,7 @@ function App() {
           }
         />
         <Route
-          path=""
+          path="/id-invaded"
           element={
             <Animes13
               anime={"ID:Invaded"}
