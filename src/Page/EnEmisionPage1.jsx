@@ -1,5 +1,3 @@
-import { EmisionPage1 } from "../pages/GeneroPage";
-
 export function EnEmisionPage1() {
   return (
     <div>
@@ -307,9 +305,7 @@ export function EnEmisionPage1() {
             </ul>
           </div>
         </section>
-        <div className="list-series">
-          <EmisionPage1 />
-        </div>
+        <div className="list-series"></div>
       </section>
 
       <div className="paginacion-contenedor">
