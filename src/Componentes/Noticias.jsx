@@ -28,7 +28,7 @@ export function Noticia() {
 export function Agregados() {
   return (
     <section>
-      {RecienAgregados.map((agregados, id) => {
+      {RecienAgregados.map((agregados) => {
         return (
           <div class="item" key={agregados.id}>
             <div class="overarchingdiv">
