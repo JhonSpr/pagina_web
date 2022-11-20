@@ -1864,6 +1864,9 @@ function App() {
               tipo={"TV"}
               estado={"Finalizado"}
               numeroEpisodios={"13"}
+              sec1="disable"
+              sec2="disable"
+              sec3="disable"
               descripcion={
                 "Situado en un mundo virtual, Sakaido, es un detective que busca resolver el horroroso misterio detrás del asesinato de Kaeru, una joven. Pero resolver este caso no será como nada que ha visto antes. Con el mundo retorciéndose a su alrededor, ¿podrá llegar al fondo del asunto?              "
               }
