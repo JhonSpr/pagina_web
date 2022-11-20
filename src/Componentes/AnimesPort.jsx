@@ -55,7 +55,7 @@ export function Animes13({
 }) {
   return (
     <section>
-      <title>{tituloAnime}</title>
+      <title>{anime} HD</title>
 
       <section className="section">
         <div className="container">

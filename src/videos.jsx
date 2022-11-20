@@ -12737,54 +12737,54 @@ function Videos() {
       />
       ---------------- ----------------
       <Route
-        path="/ver/-1"
+        path="/ver/id-invaded-1"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={""}
             contAnteriorClass="disable"
-            tituloAnime={" 1"}
+            tituloAnime={"ID: invaded Capitulo 1"}
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
             tituloPag={"Animekun"}
-            anime={"Akudama Drive"}
+            anime={"ID: invaded"}
             numero={"1"}
-            siguienteVideo={"/ver/-2"}
-            capitulosVideo={"/"}
+            siguienteVideo={"/ver/id-invaded-2"}
+            capitulosVideo={"/id-invaded"}
           />
         }
       />
       <Route
-        path="/ver/-2"
+        path="/ver/id-invaded-2"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={""}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 2"}
+            tituloAnime={"ID: invaded Capitulo 2"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"ID: invaded "}
             numero={"2"}
-            siguienteVideo={"/ver/-3"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/1"}
+            siguienteVideo={"/ver/id-invaded-3"}
+            capitulosVideo={"/id-invaded"}
+            anteriorVideo={"/ver/id-invaded-1"}
           />
         }
       />
       <Route
-        path="/ver/-3"
+        path="/ver/id-invaded-3"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={""}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 3"}
+            tituloAnime={"ID: invaded Capitulo 3"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"ID: invaded "}
             numero={"3"}
             siguienteVideo={"/ver/-4"}
             capitulosVideo={"/"}
@@ -12793,170 +12793,189 @@ function Videos() {
         }
       />
       <Route
-        path="/ver/-4"
+        path="/ver/id-invaded-4"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={""}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 4"}
+            tituloAnime={"ID: invaded Capitulo 4"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"ID: invaded "}
             numero={"4"}
-            siguienteVideo={"/ver/-5"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-3"}
+            siguienteVideo={"/ver/id-invaded-5"}
+            capitulosVideo={"/id-invaded"}
+            anteriorVideo={"/ver/id-invaded-3"}
           />
         }
       />
       <Route
-        path="/ver/-5"
+        path="/ver/id-invaded-5"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={""}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 5"}
+            tituloAnime={"ID: invaded Capitulo 5"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"ID: invaded "}
             numero={"5"}
-            siguienteVideo={"/ver/-6"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-4"}
+            siguienteVideo={"/ver/id-invaded-6"}
+            capitulosVideo={"/id-invaded"}
+            anteriorVideo={"/ver/id-invaded-4"}
           />
         }
       />
       <Route
-        path="/ver/-6"
+        path="/ver/id-invaded-6"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={""}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 6"}
+            tituloAnime={"ID: invaded Capitulo 6"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"ID: invaded "}
             numero={"6"}
-            siguienteVideo={"/ver/-7"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-5"}
+            siguienteVideo={"/ver/id-invaded-7"}
+            capitulosVideo={"/id-invaded"}
+            anteriorVideo={"/ver/id-invaded-5"}
           />
         }
       />
       <Route
-        path="/ver/-7"
+        path="/ver/id-invaded-7"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={""}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 7"}
+            tituloAnime={"ID: invaded Capitulo 7"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"ID: invaded "}
             numero={"7"}
-            siguienteVideo={"/ver/-8"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-6"}
+            siguienteVideo={"/ver/id-invaded-8"}
+            capitulosVideo={"/id-invaded"}
+            anteriorVideo={"/ver/id-invaded-6"}
           />
         }
       />
       <Route
-        path="/ver/-8"
+        path="/ver/id-invaded-8"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={""}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 8"}
+            tituloAnime={"ID: invaded Capitulo 8"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"ID: invaded "}
             numero={"8"}
-            siguienteVideo={"/ver/-9"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-7"}
+            siguienteVideo={"/ver/id-invaded-9"}
+            capitulosVideo={"/id-invaded"}
+            anteriorVideo={"/ver/id-invaded-7"}
           />
         }
       />
       <Route
-        path="/ver/-9"
+        path="/ver/id-invaded-9"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={""}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 9"}
+            tituloAnime={"ID: invaded Capitulo 9"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"ID: invaded "}
             numero={"9"}
-            siguienteVideo={"/ver/-10"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-8"}
+            siguienteVideo={"/ver/id-invaded-10"}
+            capitulosVideo={"/id-invaded"}
+            anteriorVideo={"/ver/id-invaded-8"}
           />
         }
       />
       <Route
-        path="/ver/-10"
+        path="/ver/id-invaded-10"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={""}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 10"}
+            tituloAnime={"ID: invaded Capitulo 10"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"ID: invaded "}
             numero={"10"}
-            siguienteVideo={"/ver/-11"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-9"}
+            siguienteVideo={"/ver/id-invaded-11"}
+            capitulosVideo={"/id-invaded"}
+            anteriorVideo={"/ver/id-invaded-9"}
           />
         }
       />
       <Route
-        path="/ver/-11"
+        path="/ver/id-invaded-11"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={""}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 11"}
+            tituloAnime={"ID: invaded Capitulo 11"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"ID: invaded "}
             numero={"11"}
-            siguienteVideo={"/ver/-12"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-10"}
+            siguienteVideo={"/ver/id-invaded-12"}
+            capitulosVideo={"/id-invaded"}
+            anteriorVideo={"/ver/id-invaded-10"}
           />
         }
       />
       <Route
-        path="/ver/-12"
+        path="/ver/id-invaded-12"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={""}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            }
+            tituloAnime={"ID: invaded Capitulo 12"}
+            tituloPag={"Animekun"}
+            anime={"ID: invaded "}
+            numero={"12"}
+            capitulosVideo={"/id-invaded"}
+            anteriorVideo={"/ver/id-invaded-11"}
+            siguienteVideo={"/ver/id-invaded-13"}
+          />
+        }
+      />
+      <Route
+        path="/ver/id-invaded-13"
+        element={
+          <Video
+            frame1={""}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
-            tituloAnime={" Capitulo 12"}
+            tituloAnime={"ID: invaded Capitulo 13"}
             tituloPag={"Animekun"}
-            anime={" "}
-            numero={"12"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-11"}
+            anime={"ID: invaded "}
+            numero={"13"}
+            capitulosVideo={"/id-invaded"}
+            anteriorVideo={"/ver/id-invaded-12"}
           />
         }
       />
