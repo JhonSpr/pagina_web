@@ -1,26 +1,16 @@
 [
   {
-    "id": 1,
-    "img": "https://www.animefenix.tv/cdn/animes/cover/62b392ddc06ee/orient-2nd-cour.jpg",
-    "link": "/orient-segunda-temporada",
-    "title": "Orient Temporada 2",
-    "year": 2022,
-    "estado": "En Emision",
-    "classEstado": "tag is-success airing"
-  },
-
-  {
     "id": 3,
-    "img": "https://www.animefenix.tv/cdn/animes/cover/6327cc4e05841/spy-x-family-cour-2.jpg",
+    "img": "https://i.postimg.cc/RFxhPx33/spy-x-family-cour-2.jpg",
     "link": "/spy-x-family-2nd-temporada",
-    "title": "SPY x FAMILY Temporada 2",
+    "title": "SPY x FAMILY 2nd Temporada",
     "year": 2022,
     "estado": "En Emision",
     "classEstado": "tag is-success airing"
   },
   {
     "id": 4,
-    "img": "https://www.animefenix.tv/cdn/animes/cover/632a6622b8f6b/chainsaw-man.jpg",
+    "img": "https://i.postimg.cc/Y9T3D966/chainsaw-man.jpg",
     "link": "/chainsaw-man",
     "title": "Chainsaw Man",
     "year": 2022,
@@ -29,7 +19,7 @@
   },
   {
     "id": 5,
-    "img": "https://www.animefenix.tv/cdn/animes/cover/632a6488f00ed/peter-grill-to-kenja-no-jikan-super-extra.jpg",
+    "img": "https://i.postimg.cc/q7s4vhRR/peter-grill-to-kenja-no-jikan-super-extra.jpg",
     "link": "/peter-grill-to-kenja-no-jikan-super-extra",
     "title": "Peter Grill to Kenja no Jikan Super Extra",
     "year": 2022,
@@ -38,7 +28,7 @@
   },
   {
     "id": 6,
-    "img": "https://www.animefenix.tv/cdn/animes/cover/632a5d297e994/mob-psycho-100-iii.jpg",
+    "img": "https://i.postimg.cc/zX4rwSHv/mob-psycho-100-iii.jpg",
     "link": "/mob-psycho-100-III",
     "title": "Mob Psycho 100 III",
     "year": 2022,
@@ -47,7 +37,7 @@
   },
   {
     "id": 7,
-    "img": "https://www.animefenix.tv/cdn/animes/cover/62b3883db4847/isekai-ojisan.jpg",
+    "img": "https://i.postimg.cc/Gpr6zMLL/isekai-ojisan.jpg",
     "link": "/isekai-ojisan",
     "title": "Isekai Ojisan",
     "year": 2022,
@@ -56,7 +46,7 @@
   },
   {
     "id": 8,
-    "img": "https://www.animefenix.tv/cdn/animes/cover/62b394d8973bb/danmachi-iv.jpg",
+    "img": "https://i.postimg.cc/vB2jYbWT/danmachi-iv.jpg",
     "link": "/danmachi-IV",
     "title": "Danmachi IV",
     "year": 2022,
@@ -65,7 +55,7 @@
   },
   {
     "id": 9,
-    "img": "https://www.animefenix.tv/cdn/animes/cover/632a65c207e92/bleach-sennen-kessen-hen.jpg",
+    "img": "https://i.postimg.cc/qBYYWBJZ/bleach-sennen-kessen-hen.jpg",
     "link": "/bleach-sennen-kessen-hen",
     "title": "BLEACH: Sennen Kessen-hen",
     "year": 2022,
@@ -74,7 +64,7 @@
   },
   {
     "id": 10,
-    "img": "https://www.animefenix.tv/cdn/animes/cover/632a66bee05b6/urusei-yatsura-2022.jpg",
+    "img": "https://i.postimg.cc/qvp9xbMk/urusei-yatsura-2022.jpg",
     "link": "/urusei-yatsura",
     "title": "Urusei Yatsura",
     "year": 2022,
@@ -83,7 +73,7 @@
   },
   {
     "id": 11,
-    "img": "https://www.animefenix.tv/cdn/animes/cover/632b3929eccb5/berserk-ougon-jidai-hen-memorial-edition.jpg",
+    "img": "https://i.postimg.cc/nLzg6XDg/berserk-ougon-jidai-hen-memorial-edition.jpg",
     "link": "/berserk-ougon-jidai-hen-memorial-edition",
     "title": "Berserk: Ougon Jidai-hen - MEMORIAL EDITION",
     "year": 2022,
@@ -92,7 +82,7 @@
   },
   {
     "id": 12,
-    "img": "https://www.animefenix.tv/cdn/animes/cover/632b3cf77171f/ginga-eiyuu-densetsu-die-neue-these-sakubou.png",
+    "img": "https://i.postimg.cc/d0xpvJR1/ginga-eiyuu-densetsu-die-neue-these-sakubou.jpg",
     "link": "/ginga-eiyuu-densetsu-die-neue-these-sakubou",
     "title": "Ginga Eiyuu Densetsu: Die Neue These - Sakubou",
     "year": 2022,
@@ -101,7 +91,7 @@
   },
   {
     "id": 13,
-    "img": "https://www.animefenix.tv/cdn/animes/cover/632b3e36745b7/vazzrock-the-animation.jpg",
+    "img": "https://i.postimg.cc/QCpyp529/vazzrock-the-animation.jpg",
     "link": "/vazzrock-the-animation",
     "title": "VAZZROCK THE ANIMATION",
     "year": 2022,
@@ -110,7 +100,7 @@
   },
   {
     "id": 14,
-    "img": "https://www.animefenix.tv/cdn/animes/cover/632b430b489af/fumetsu-no-anata-e-season-2.jpg",
+    "img": "https://i.postimg.cc/bN95rx04/fumetsu-no-anata-e-season-2.jpg",
     "link": "/fumetsu-no-anata-e-2nd-temporada",
     "title": "Fumetsu no Anata e Temporada 2",
     "year": 2022,
@@ -119,7 +109,7 @@
   },
   {
     "id": 15,
-    "img": "https://www.animefenix.tv/cdn/animes/cover/632a63aa79eb4/fuufu-ijou-koibito-miman.jpg",
+    "img": "https://i.postimg.cc/2SHXFCKw/fuufu-ijou-koibito-miman.jpg",
     "link": "/fuufu-ijou-koibito-miman",
     "title": "Fuufu Ijou, Koibito Miman",
     "year": 2022,
@@ -128,7 +118,7 @@
   },
   {
     "id": 16,
-    "img": "https://www.animefenix.tv/cdn/animes/cover/632a631f7a9ed/bluelock.png",
+    "img": "https://i.postimg.cc/tT6SjWCS/bluelock.jpg",
     "link": "/bluelock",
     "title": "BLUELOCK",
     "year": 2022,
@@ -137,7 +127,7 @@
   },
   {
     "id": 17,
-    "img": "https://www.animefenix.tv/cdn/animes/cover/632a622ad645a/yowamushi-pedal-limit-break.jpg",
+    "img": "https://i.postimg.cc/fyj83sdY/yowamushi-pedal-limit-break.jpg",
     "link": "/yowamushi-pedal-limit-break",
     "title": "Yowamushi Pedal Limit Break",
     "year": 2022,

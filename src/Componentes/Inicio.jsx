@@ -13,11 +13,26 @@ export function Inicio() {
       <div className="hero is-lightx is-fullheight">
         <div>
           <div>
-            <PauseOnHover />
+            <section className="section page-home__latest-series">
+              <div className="container rounded-container">
+                <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">
+                  <i
+                    class="fa-solid fa-circle"
+                    style={{ color: "rgb(240 30 20)" }}
+                  ></i>{" "}
+                  Emisiones
+                </h1>
+                <PauseOnHover />
+              </div>
+            </section>
           </div>
           <section className="section page-home__latest-series">
             <div className="container rounded-container">
               <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">
+                <i
+                  class="fa-solid fa-layer-group"
+                  style={{ color: "rgb(20 620 240)" }}
+                ></i>{" "}
                 Catalogo
               </h1>
               <hr />
@@ -30,6 +45,10 @@ export function Inicio() {
           <section className="section page-home__latest-series">
             <div className="container rounded-container">
               <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">
+                <i
+                  class="fa-sharp fa-solid fa-diamond"
+                  style={{ color: "rgb(20 230 20)" }}
+                ></i>{" "}
                 Proximamente
               </h1>
               <hr />
