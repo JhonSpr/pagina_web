@@ -6,21 +6,7 @@ import { Disqus } from "./disqus";
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Animes13({
   Fecha,
-  hrefGenre1,
-  hrefGenre2,
-  hrefGenre3,
-  hrefGenre4,
-  hrefGenre5,
-  genre1,
-  genre2,
-  genre3,
-  genre4,
-  genre5,
-  genero1,
-  genero2,
-  genero3,
-  genero4,
-  genero5,
+
   sec1,
   sec2,
   sec3,

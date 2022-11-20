@@ -2,7 +2,6 @@
 import { Noticia } from "./Noticias";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Disqus } from "./disqus";
-import { EmisionInicio } from "../pages/GeneroPage";
 
 /* eslint-disable jsx-a11y/no-distracting-elements */
 export function Inicio({}) {
@@ -18,9 +17,7 @@ export function Inicio({}) {
                 EMISIONES
               </h1>
               <hr />
-              <div className="list-series">
-                <EmisionInicio />
-              </div>
+              <div className="list-series"></div>
             </div>
           </section>
 
