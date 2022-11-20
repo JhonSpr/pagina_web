@@ -317,7 +317,7 @@ a {
 
 .input.is-orange,
 .textarea.is-orange {
-  border: none !important;
+  border: 1px solid #333;
 }
 
 input::-webkit-input-placeholder {
