@@ -84,7 +84,7 @@ export function Page1() {
             <a href="/animes page=3">3</a>
           </li>
           <li className="paginacion">
-            <a href="/animes page=4">4</a>
+            <a href="/animes?page=4">4</a>
           </li>
           <li className="paginacion">
             <a href="/animes page=5">5</a>
