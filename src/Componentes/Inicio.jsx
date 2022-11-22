@@ -7,7 +7,7 @@ import PauseOnHover from "./Scroll";
 /* eslint-disable jsx-a11y/no-distracting-elements */
 export function Inicio() {
   return (
-    <section>
+    <>
       <title>Animekun - animes online HD</title>
 
       <div className="hero is-lightx is-fullheight">
@@ -195,6 +195,6 @@ export function Inicio() {
           </section>
         </div>
       </div>
-    </section>
+    </>
   );
 }

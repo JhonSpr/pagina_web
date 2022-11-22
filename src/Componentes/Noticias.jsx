@@ -2,7 +2,7 @@ import Noticias from "../Noticias.json";
 import RecienAgregados from "../Data.json";
 export function Noticia() {
   return (
-    <section>
+    <>
       {Noticias.map((noticia, id) => {
         return (
           <div class="item" key={noticia.id}>
@@ -21,7 +21,7 @@ export function Noticia() {
           </div>
         );
       })}
-    </section>
+    </>
   );
 }
 

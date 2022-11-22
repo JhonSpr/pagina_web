@@ -16,7 +16,7 @@ export default function Menubar() {
   const { isAuthenticated } = useAuth0();
 
   return (
-    <div>
+    <>
       <nav class="navbar navbar-expand-lg bg-dark">
         <div className="container-fluid">
           <a className="navbar-brand item-nav logo-cont" href={"/"}>
@@ -105,6 +105,6 @@ export default function Menubar() {
           </div>
         </div>
       </nav>
-    </div>
+    </>
   );
 }
