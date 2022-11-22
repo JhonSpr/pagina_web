@@ -17,7 +17,7 @@ import { Page7 } from "./Page/Page7";
 import { Page6 } from "./Page/Page6";
 import { Numero12 } from "./Componentes/Capitulos12";
 import { Emision12 } from "./Componentes/EnEmision12";
-import { Animes13 } from "./Componentes/AnimesPort";
+import { Animes13 } from "./Componentes/Anime13";
 import { Capitulos24 } from "./Componentes/Capitulos24";
 import { Inicio } from "./Componentes/Inicio";
 import { Policy } from "./Componentes/Policy";

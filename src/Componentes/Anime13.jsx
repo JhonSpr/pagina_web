@@ -91,19 +91,19 @@ export function Animes13({
                 <li>
                   <span className="has-text-weight-semibold has-text-grey is-uppercase">
                     Tipo:
-                  </span>{" "}
+                  </span>
                   {tipo}
                 </li>
                 <li>
                   <span className="has-text-weight-semibold has-text-grey is-uppercase">
                     Estado:
-                  </span>{" "}
+                  </span>
                   {estado}
                 </li>
                 <li>
                   <span className="has-text-weight-semibold has-text-grey is-uppercase">
                     Episodios:
-                  </span>{" "}
+                  </span>
                   {numeroEpisodios}
                 </li>
                 <li className={sec1}>
