@@ -12625,21 +12625,21 @@ function Videos() {
         }
       />
       <Route
-        path="/ver/-7"
+        path="/ver/bleach-sennen-kessen-hen-7"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblongvu.com/e/z61mpk1lczqk.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 7"}
+            tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 7"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"BLEACH: Sennen Kessen-hen "}
             numero={"7"}
-            siguienteVideo={"/ver/-8"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-6"}
+            siguienteVideo={"/ver/bleach-sennen-kessen-hen-8"}
+            capitulosVideo={"/bleach-sennen-kessen-hen"}
+            anteriorVideo={"/ver/bleach-sennen-kessen-hen-6"}
           />
         }
       />
