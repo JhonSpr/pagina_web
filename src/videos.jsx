@@ -12630,9 +12630,7 @@ function Videos() {
           <Video
             frame1={"https://sblongvu.com/e/z61mpk1lczqk.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
+            contSiguienteClass={"disable"}
             tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 7"}
             tituloPag={"Animekun"}
             anime={"BLEACH: Sennen Kessen-hen "}

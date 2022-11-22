@@ -2943,7 +2943,6 @@ function App() {
               capituloAnime11={"/ver/bleach-sennen-kessen-hen-11"}
               capituloAnime12={"/ver/bleach-sennen-kessen-hen-12"}
               capituloAnime13={"/ver/bleach-sennen-kessen-hen-13"}
-              li7="disable"
               li8="disable"
               li9="disable"
               li10="disable"
