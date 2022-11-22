@@ -23,7 +23,7 @@ export function Video({
   frame1,
 }) {
   return (
-    <div>
+    <>
       <title>{tituloAnime}</title>
 
       <div className="hero is-fullheightX">
@@ -113,6 +113,6 @@ export function Video({
           </div>
         </section>
       </div>
-    </div>
+    </>
   );
 }

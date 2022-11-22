@@ -53,7 +53,7 @@ export function Animes13({
   capituloAnime13,
 }) {
   return (
-    <section>
+    <>
       <title>{anime} HD</title>
 
       <section className="section">
@@ -251,6 +251,6 @@ export function Animes13({
           </div>
         </div>
       </section>
-    </section>
+    </>
   );
 }

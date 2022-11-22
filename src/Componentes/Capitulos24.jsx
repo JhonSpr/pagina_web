@@ -75,7 +75,7 @@ export function Capitulos24({
   capituloAnime24,
 }) {
   return (
-    <section>
+    <>
       <title>{tituloAnime}</title>
 
       <section className="section">
@@ -361,6 +361,6 @@ export function Capitulos24({
           </div>
         </div>
       </section>
-    </section>
+    </>
   );
 }

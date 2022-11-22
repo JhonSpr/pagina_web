@@ -33,7 +33,7 @@ export function Numero12({
   imagenAnime,
 }) {
   return (
-    <section>
+    <>
       <title>{anime} Online</title>
 
       <section className="section">
@@ -223,6 +223,6 @@ export function Numero12({
           </div>
         </div>
       </section>
-    </section>
+    </>
   );
 }

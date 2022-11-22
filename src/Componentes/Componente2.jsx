@@ -154,7 +154,7 @@ export function Capitulos12({
   li64,
 }) {
   return (
-    <section>
+    <>
       <title>{tituloAnime}</title>
 
       <section className="section">
@@ -761,6 +761,6 @@ export function Capitulos12({
           </div>
         </div>
       </section>
-    </section>
+    </>
   );
 }

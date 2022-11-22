@@ -58,7 +58,7 @@ export function Capitulos24({
   numeroCapitulo24,
 }) {
   return (
-    <div id="root">
+    <>
       <title>{tituloAnime}</title>
       <nav className="navbar navbar-expand-lg bg-dark">
         <div className="container-fluid">
@@ -366,6 +366,6 @@ export function Capitulos24({
           </div>
         </div>
       </section>
-    </div>
+    </>
   );
 }

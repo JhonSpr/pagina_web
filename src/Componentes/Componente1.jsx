@@ -4,7 +4,7 @@ import AnimePage1 from "../pages/AnimePage1";
 
 export function Page1() {
   return (
-    <div>
+    <>
       <title>Animes Gratis Online HD</title>
 
       <section className="container items-animes">
@@ -101,6 +101,6 @@ export function Page1() {
           </a>
         </ul>
       </div>
-    </div>
+    </>
   );
 }
