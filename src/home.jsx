@@ -2919,7 +2919,7 @@ function App() {
             <Emision12
               tituloAnime={"BLEACH: Sennen Kessen-hen"}
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/632a65c207e92/bleach-sennen-kessen-hen.jpg"
+                "https://i.postimg.cc/qBYYWBJZ/bleach-sennen-kessen-hen.jpg"
               }
               descripcion={"Segunda Temporada de bleach"}
               anime={"BLEACH: Sennen Kessen-hen"}
