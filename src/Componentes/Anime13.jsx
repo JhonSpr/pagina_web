@@ -6,7 +6,6 @@ import { Disqus } from "./disqus";
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Animes13({
   Fecha,
-
   sec1,
   sec2,
   sec3,
