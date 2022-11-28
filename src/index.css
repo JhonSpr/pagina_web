@@ -1352,11 +1352,9 @@ textarea {
 
   display: none;
   animation-name: fade;
-  animation-duration: 1s;
+  animation-duration: 0.5s;
 }
-img {
-  width: 100%;
-}
+
 @keyframes fade {
   from {
     opacity: 0.5;
@@ -1385,11 +1383,11 @@ img {
 }
 
 #left-arrow {
-  left: 10px;
+  display: none;
 }
 
 #right-arrow {
-  right: 10px;
+  display: none;
 }
 
 #dots-con {
@@ -1419,4 +1417,11 @@ img {
   #dots-con {
     display: none;
   }
+}
+
+.slick-prev {
+  display: block !important;
+}
+.slick-next {
+  display: block !important;
 }
