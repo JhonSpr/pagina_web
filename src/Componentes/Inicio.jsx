@@ -189,7 +189,7 @@ export function Inicio() {
                 <Noticia />
               </div>
               <div className="container_comment">
-                {/* <Disqus className={"Comentarios"} /> */}
+                <Disqus className={"Comentarios"} />
               </div>
             </div>
           </section>
