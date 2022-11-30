@@ -12613,7 +12613,9 @@ function Videos() {
           <Video
             frame1={"https://sblongvu.com/e/rtpxhp7q331o.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={"disable"}
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
             tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 6"}
             tituloPag={"Animekun"}
             anime={"BLEACH: Sennen Kessen-hen "}
@@ -12630,7 +12632,9 @@ function Videos() {
           <Video
             frame1={"https://sblongvu.com/e/z61mpk1lczqk.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={"disable"}
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
             tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 7"}
             tituloPag={"Animekun"}
             anime={"BLEACH: Sennen Kessen-hen "}
@@ -12642,21 +12646,19 @@ function Videos() {
         }
       />
       <Route
-        path="/ver/-8"
+        path="/ver/bleach-sennen-kessen-hen-8"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblongvu.com/e/mwn4fe0co92q.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
-            tituloAnime={" Capitulo 8"}
+            contSiguienteClass={"disable"}
+            tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 8"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"BLEACH: Sennen Kessen-hen "}
             numero={"8"}
-            siguienteVideo={"/ver/-9"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-7"}
+            siguienteVideo={"/ver/bleach-sennen-kessen-hen-9"}
+            capitulosVideo={"/bleach-sennen-kessen-hen"}
+            anteriorVideo={"/ver/bleach-sennen-kessen-hen-7"}
           />
         }
       />

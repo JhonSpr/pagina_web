@@ -2637,7 +2637,7 @@ function App() {
             <Emision12
               tituloAnime={"Spy x Family 2nd Temporada"}
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/6327cc4e05841/spy-x-family-cour-2.jpg"
+                "https://i.postimg.cc/RFxhPx33/spy-x-family-cour-2.jpg"
               }
               descripcion={"Segunda Temporada de spy x family"}
               anime={"Spy x Family 2nd Temporada"}
@@ -2928,8 +2928,8 @@ function App() {
               sec2="disable"
               sec3={"disable"}
               estado={"En emision"}
-              numeroEpisodios={"6"}
-              Fecha="Lunes 21 de Noviembre"
+              numeroEpisodios={"8"}
+              Fecha="Lunes 5 de Diciembre"
               capituloAnime1={"/ver/bleach-sennen-kessen-hen-1"}
               capituloAnime2={"/ver/bleach-sennen-kessen-hen-2"}
               capituloAnime3={"/ver/bleach-sennen-kessen-hen-3"}
@@ -2943,7 +2943,6 @@ function App() {
               capituloAnime11={"/ver/bleach-sennen-kessen-hen-11"}
               capituloAnime12={"/ver/bleach-sennen-kessen-hen-12"}
               capituloAnime13={"/ver/bleach-sennen-kessen-hen-13"}
-              li8="disable"
               li9="disable"
               li10="disable"
               li11="disable"
