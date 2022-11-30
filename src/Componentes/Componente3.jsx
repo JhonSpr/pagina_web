@@ -22,18 +22,6 @@ export function Video({
   contSiguienteClass,
   frame1,
 }) {
-  "#showComments".click(function () {
-    "#commentsContainer".append('<div id="disqus_thread"></div>');
-    (function () {
-      // DON'T EDIT BELOW THIS LINE
-      var d = document,
-        s = d.createElement("script");
-      s.src = "https://animekuns.disqus.com/embed.js";
-      s.setAttribute("data-timestamp", +new Date());
-      (d.head || d.body).appendChild(s);
-    })();
-  });
-
   return (
     <>
       <title>{tituloAnime}</title>
