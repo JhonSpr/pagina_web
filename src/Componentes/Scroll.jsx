@@ -73,242 +73,233 @@ export default class AutoPlay extends Component {
     return (
       <>
         <Slider {...settings}>
-          <div>
-            <i
-              class="fa-solid fa-circle"
-              style={{ color: "rgb(240 30 20)" }}
-            ></i>
-            <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">
-              Emisiones
-            </h1>
-            <article>
-              <figure
-                className="image"
-                style={{ borderRadius: "0", margin: "0" }}
-              >
-                <a href={link1} title={anime1}>
-                  <img
-                    src={imagen1}
-                    alt={anime1}
-                    style={{
-                      borderRadius: "0",
-                      margin: "0",
-                      cursor: "pointer",
-                    }}
-                  />
-                </a>
-              </figure>
-              <div className="title"></div>
-            </article>
+          <article>
+            <figure
+              className="image"
+              style={{ borderRadius: "0", margin: "0" }}
+            >
+              <a href={link1} title={anime1}>
+                <img
+                  src={imagen1}
+                  alt={anime1}
+                  style={{
+                    borderRadius: "0",
+                    margin: "0",
+                    cursor: "pointer",
+                  }}
+                />
+              </a>
+            </figure>
+            <div className="title"></div>
+          </article>
 
-            <article>
-              <figure class="image">
-                <a href={link2} title={anime2}>
-                  <img
-                    src={imagen2}
-                    alt={anime2}
-                    style={{
-                      borderRadius: "0",
-                      margin: "0",
-                      cursor: "pointer",
-                    }}
-                  />
-                </a>
-              </figure>
-            </article>
+          <article>
+            <figure class="image">
+              <a href={link2} title={anime2}>
+                <img
+                  src={imagen2}
+                  alt={anime2}
+                  style={{
+                    borderRadius: "0",
+                    margin: "0",
+                    cursor: "pointer",
+                  }}
+                />
+              </a>
+            </figure>
+          </article>
 
-            <article>
-              <figure class="image">
-                <a href={link3} title={anime3}>
-                  <img
-                    src={imagen3}
-                    alt={anime3}
-                    style={{
-                      borderRadius: "0",
-                      margin: "0",
-                      cursor: "pointer",
-                    }}
-                  />
-                </a>
-              </figure>
-            </article>
+          <article>
+            <figure class="image">
+              <a href={link3} title={anime3}>
+                <img
+                  src={imagen3}
+                  alt={anime3}
+                  style={{
+                    borderRadius: "0",
+                    margin: "0",
+                    cursor: "pointer",
+                  }}
+                />
+              </a>
+            </figure>
+          </article>
 
-            <article>
-              <figure class="image">
-                <a href={link4} title={anime4}>
-                  <img
-                    src={imagen4}
-                    alt={anime4}
-                    style={{
-                      borderRadius: "0",
-                      margin: "0",
-                      cursor: "pointer",
-                    }}
-                  />
-                </a>
-              </figure>
-            </article>
+          <article>
+            <figure class="image">
+              <a href={link4} title={anime4}>
+                <img
+                  src={imagen4}
+                  alt={anime4}
+                  style={{
+                    borderRadius: "0",
+                    margin: "0",
+                    cursor: "pointer",
+                  }}
+                />
+              </a>
+            </figure>
+          </article>
 
-            <article>
-              <figure class="image">
-                <a href={link5} title={anime5}>
-                  <img
-                    src={imagen5}
-                    alt={anime5}
-                    style={{
-                      borderRadius: "0",
-                      margin: "0",
-                      cursor: "pointer",
-                    }}
-                  />
-                </a>
-              </figure>
-            </article>
+          <article>
+            <figure class="image">
+              <a href={link5} title={anime5}>
+                <img
+                  src={imagen5}
+                  alt={anime5}
+                  style={{
+                    borderRadius: "0",
+                    margin: "0",
+                    cursor: "pointer",
+                  }}
+                />
+              </a>
+            </figure>
+          </article>
 
-            <article>
-              <figure class="image">
-                <a href={link6} title={anime6}>
-                  <img
-                    src={imagen6}
-                    alt={anime6}
-                    style={{
-                      borderRadius: "0",
-                      margin: "0",
-                      cursor: "pointer",
-                    }}
-                  />
-                </a>
-              </figure>
-            </article>
+          <article>
+            <figure class="image">
+              <a href={link6} title={anime6}>
+                <img
+                  src={imagen6}
+                  alt={anime6}
+                  style={{
+                    borderRadius: "0",
+                    margin: "0",
+                    cursor: "pointer",
+                  }}
+                />
+              </a>
+            </figure>
+          </article>
 
-            <article>
-              <figure class="image">
-                <a href={link7} title={anime7}>
-                  <img
-                    src={imagen7}
-                    alt={anime7}
-                    style={{
-                      borderRadius: "0",
-                      margin: "0",
-                      cursor: "pointer",
-                    }}
-                  />
-                </a>
-              </figure>
-            </article>
+          <article>
+            <figure class="image">
+              <a href={link7} title={anime7}>
+                <img
+                  src={imagen7}
+                  alt={anime7}
+                  style={{
+                    borderRadius: "0",
+                    margin: "0",
+                    cursor: "pointer",
+                  }}
+                />
+              </a>
+            </figure>
+          </article>
 
-            <article>
-              <figure class="image">
-                <a href={link8} title={anime8}>
-                  <img
-                    src={imagen8}
-                    alt={anime8}
-                    style={{
-                      borderRadius: "0",
-                      margin: "0",
-                      cursor: "pointer",
-                    }}
-                  />
-                </a>
-              </figure>
-            </article>
+          <article>
+            <figure class="image">
+              <a href={link8} title={anime8}>
+                <img
+                  src={imagen8}
+                  alt={anime8}
+                  style={{
+                    borderRadius: "0",
+                    margin: "0",
+                    cursor: "pointer",
+                  }}
+                />
+              </a>
+            </figure>
+          </article>
 
-            <article>
-              <figure class="image">
-                <a href={link9} title={anime9}>
-                  <img
-                    src={imagen9}
-                    alt={anime9}
-                    style={{
-                      borderRadius: "0",
-                      margin: "0",
-                      cursor: "pointer",
-                    }}
-                  />
-                </a>
-              </figure>
-            </article>
+          <article>
+            <figure class="image">
+              <a href={link9} title={anime9}>
+                <img
+                  src={imagen9}
+                  alt={anime9}
+                  style={{
+                    borderRadius: "0",
+                    margin: "0",
+                    cursor: "pointer",
+                  }}
+                />
+              </a>
+            </figure>
+          </article>
 
-            <article>
-              <figure class="image">
-                <a href={link10} title={anime10}>
-                  <img
-                    src={imagen10}
-                    alt={anime10}
-                    style={{
-                      borderRadius: "0",
-                      margin: "0",
-                      cursor: "pointer",
-                    }}
-                  />
-                </a>
-              </figure>
-            </article>
+          <article>
+            <figure class="image">
+              <a href={link10} title={anime10}>
+                <img
+                  src={imagen10}
+                  alt={anime10}
+                  style={{
+                    borderRadius: "0",
+                    margin: "0",
+                    cursor: "pointer",
+                  }}
+                />
+              </a>
+            </figure>
+          </article>
 
-            <article>
-              <figure class="image">
-                <a href={link14} title={anime14}>
-                  <img
-                    src={imagen14}
-                    alt={anime14}
-                    style={{
-                      borderRadius: "0",
-                      margin: "0",
-                      cursor: "pointer",
-                    }}
-                  />
-                </a>
-              </figure>
-            </article>
+          <article>
+            <figure class="image">
+              <a href={link14} title={anime14}>
+                <img
+                  src={imagen14}
+                  alt={anime14}
+                  style={{
+                    borderRadius: "0",
+                    margin: "0",
+                    cursor: "pointer",
+                  }}
+                />
+              </a>
+            </figure>
+          </article>
 
-            <article>
-              <figure class="image">
-                <a href={link11} title={anime11}>
-                  <img
-                    src={imagen11}
-                    alt={anime11}
-                    style={{
-                      borderRadius: "0",
-                      margin: "0",
-                      cursor: "pointer",
-                    }}
-                  />
-                </a>
-              </figure>
-            </article>
+          <article>
+            <figure class="image">
+              <a href={link11} title={anime11}>
+                <img
+                  src={imagen11}
+                  alt={anime11}
+                  style={{
+                    borderRadius: "0",
+                    margin: "0",
+                    cursor: "pointer",
+                  }}
+                />
+              </a>
+            </figure>
+          </article>
 
-            <article>
-              <figure class="image">
-                <a href={link12} title={anime12}>
-                  <img
-                    src={imagen12}
-                    alt={anime12}
-                    style={{
-                      borderRadius: "0",
-                      margin: "0",
-                      cursor: "pointer",
-                    }}
-                  />
-                </a>
-              </figure>
-            </article>
+          <article>
+            <figure class="image">
+              <a href={link12} title={anime12}>
+                <img
+                  src={imagen12}
+                  alt={anime12}
+                  style={{
+                    borderRadius: "0",
+                    margin: "0",
+                    cursor: "pointer",
+                  }}
+                />
+              </a>
+            </figure>
+          </article>
 
-            <article>
-              <figure class="image">
-                <a href={link13} title={anime13}>
-                  <img
-                    src={imagen13}
-                    alt={anime13}
-                    style={{
-                      borderRadius: "0",
-                      margin: "0",
-                      cursor: "pointer",
-                    }}
-                  />
-                </a>
-              </figure>
-            </article>
-          </div>
+          <article>
+            <figure class="image">
+              <a href={link13} title={anime13}>
+                <img
+                  src={imagen13}
+                  alt={anime13}
+                  style={{
+                    borderRadius: "0",
+                    margin: "0",
+                    cursor: "pointer",
+                  }}
+                />
+              </a>
+            </figure>
+          </article>
         </Slider>
       </>
     );

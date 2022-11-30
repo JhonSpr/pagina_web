@@ -13,7 +13,21 @@ export function Inicio() {
       <div className="hero is-lightx is-fullheight">
         <div>
           <section className="section page-home__latest-series">
-            <PauseOnHover />
+            <div
+              className="container rounded-container"
+              style={{ padding: "10px" }}
+            >
+              <i
+                class="fa-solid fa-circle"
+                style={{ color: "rgb(240 30 20)" }}
+              ></i>
+              <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">
+                Emisiones
+              </h1>
+              <div className="owl-carousel home-slider">
+                <PauseOnHover />
+              </div>
+            </div>
           </section>
 
           <section className="section page-home__latest-series">
