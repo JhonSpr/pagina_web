@@ -12,7 +12,7 @@ export function Inicio() {
 
       <div className="hero is-lightx is-fullheight">
         <div>
-          <section className="container">
+          <section className="section page-home__latest-series">
             <i
               class="fa-solid fa-circle"
               style={{ color: "rgb(240 30 20)" }}
