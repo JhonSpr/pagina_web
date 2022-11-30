@@ -20,12 +20,7 @@ export function Inicio() {
             <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">
               Emisiones
             </h1>
-            <div
-              className="container rounded-container"
-              style={{ padding: "10px" }}
-            >
-              <PauseOnHover />
-            </div>
+            <PauseOnHover />
           </section>
 
           <section className="section page-home__latest-series">
