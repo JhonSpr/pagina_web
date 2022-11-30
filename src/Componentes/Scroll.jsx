@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Scroll() {
+export function Scroll() {
   const anime1 = "SPY x Family 2nd Temporada";
   const link1 = "/spy-x-family-2nd-temporada";
   const imagen1 = "https://i.postimg.cc/RFxhPx33/spy-x-family-cour-2.jpg";
