@@ -1,26 +1,7 @@
 import React, { Component } from "react";
-import Slider from "react-slick";
 
 export default class AutoPlay extends Component {
   render() {
-    var settings = {
-      infinite: true,
-      slidesToShow: 5,
-      slidesToScroll: 1,
-      autoplay: true,
-      speed: 100,
-      swipeToSlide: true,
-      autoplaySpeed: 5000,
-      touchMove: true,
-      cssEase: "linear",
-      PauseOnHover: true,
-      swipe: true,
-      draggable: true,
-      pauseOnDotsHover: true,
-      pauseOnFocus: true,
-      useTransform: true,
-      slidesPerRow: true,
-    };
     const anime1 = "SPY x Family 2nd Temporada";
     const link1 = "/spy-x-family-2nd-temporada";
     const imagen1 = "https://i.postimg.cc/RFxhPx33/spy-x-family-cour-2.jpg";
