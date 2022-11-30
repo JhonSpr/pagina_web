@@ -34,10 +34,7 @@ export function Inicio() {
                       href="https://www.animefenix.tv/tensei-shitara-ken-deshita"
                       title="Tensei Shitara Ken Deshita"
                     >
-                      <img
-                        src="https://www.animefenix.tv/cdn/animes/cover/632a5cb2e6f30/tensei-shitara-ken-deshita.jpg"
-                        alt="Tensei Shitara Ken Deshita"
-                      />
+                      <img src="" alt="Tensei Shitara Ken Deshita" />
                       <span class="overlay-dark"></span>
                     </a>
                     <span class="tag year is-dark">2022</span>
@@ -62,10 +59,7 @@ export function Inicio() {
                       href="https://www.animefenix.tv/uzaki-chan-wa-asobitai-omega"
                       title="Uzaki-chan wa Asobitai! ω"
                     >
-                      <img
-                        src="https://www.animefenix.tv/cdn/animes/cover/6327c9491019f/uzaki-chan-wa-asobitai-omega.jpg"
-                        alt="Uzaki-chan wa Asobitai! ω"
-                      />
+                      <img src="" alt="Uzaki-chan wa Asobitai! ω" />
                       <span class="overlay-dark"></span>
                     </a>
                     <span class="tag year is-dark">2022</span>
@@ -90,10 +84,7 @@ export function Inicio() {
                       href="https://www.animefenix.tv/isekai-ojisan"
                       title="Isekai Ojisan"
                     >
-                      <img
-                        src="https://www.animefenix.tv/cdn/animes/cover/62b3883db4847/isekai-ojisan.jpg"
-                        alt="Isekai Ojisan"
-                      />
+                      <img src="" alt="Isekai Ojisan" />
                       <span class="overlay-dark"></span>
                     </a>
                     <span class="tag year is-dark">2022</span>
@@ -118,10 +109,7 @@ export function Inicio() {
                       href="https://www.animefenix.tv/one-piece"
                       title="One Piece"
                     >
-                      <img
-                        src="https://www.animefenix.tv/cdn/animes/cover/5fde6927a2c2a/one-piece.jpg"
-                        alt="One Piece"
-                      />
+                      <img src="" alt="One Piece" />
                       <span class="overlay-dark"></span>
                     </a>
                     <span class="tag year is-dark">1999</span>
