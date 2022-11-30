@@ -73,7 +73,7 @@ export default class AutoPlay extends Component {
     return (
       <>
         <Slider {...settings}>
-          <div className="container rounded-container">
+          <div>
             <i
               class="fa-solid fa-circle"
               style={{ color: "rgb(240 30 20)" }}
