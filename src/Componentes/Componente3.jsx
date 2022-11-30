@@ -109,6 +109,11 @@ export function Video({
                   </div>
                 </div>
               </div>
+              <div id="commentsContainer">
+                <div id="showComments" class="button is-fullwidth is-orange">
+                  Mostrar Comentarios
+                </div>
+              </div>
             </div>
           </div>
         </section>
