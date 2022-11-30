@@ -74,13 +74,6 @@ export default class AutoPlay extends Component {
       <>
         <Slider {...settings}>
           <div className="container rounded-container">
-            <i
-              class="fa-solid fa-circle"
-              style={{ color: "rgb(240 30 20)" }}
-            ></i>
-            <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">
-              Emisiones
-            </h1>
             <article>
               <figure
                 className="image"
