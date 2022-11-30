@@ -27,7 +27,120 @@ export function Inicio() {
                 <i class="fa fa-fire has-text-orange"></i> Animes Populares
               </h1>
 
-              <div class="owl-carousel home-slider"></div>
+              <div class="owl-carousel home-slider">
+                <article class="serie-card">
+                  <figure class="image">
+                    <a
+                      href="https://www.animefenix.tv/tensei-shitara-ken-deshita"
+                      title="Tensei Shitara Ken Deshita"
+                    >
+                      <img
+                        src="https://www.animefenix.tv/cdn/animes/cover/632a5cb2e6f30/tensei-shitara-ken-deshita.jpg"
+                        alt="Tensei Shitara Ken Deshita"
+                      />
+                      <span class="overlay-dark"></span>
+                    </a>
+                    <span class="tag year is-dark">2022</span>
+                    <span class="tag is-orange airing">Emisión</span>{" "}
+                    <span class="tag is-danger type">TV</span>
+                  </figure>
+                  <div class="title">
+                    <h3>
+                      <a
+                        class="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
+                        href="https://www.animefenix.tv/tensei-shitara-ken-deshita"
+                        title="Tensei Shitara Ken Deshita"
+                      >
+                        Tensei Shitara Ken Deshita
+                      </a>
+                    </h3>
+                  </div>
+                </article>
+                <article class="serie-card">
+                  <figure class="image">
+                    <a
+                      href="https://www.animefenix.tv/uzaki-chan-wa-asobitai-omega"
+                      title="Uzaki-chan wa Asobitai! ω"
+                    >
+                      <img
+                        src="https://www.animefenix.tv/cdn/animes/cover/6327c9491019f/uzaki-chan-wa-asobitai-omega.jpg"
+                        alt="Uzaki-chan wa Asobitai! ω"
+                      />
+                      <span class="overlay-dark"></span>
+                    </a>
+                    <span class="tag year is-dark">2022</span>
+                    <span class="tag is-orange airing">Emisión</span>{" "}
+                    <span class="tag is-danger type">TV</span>
+                  </figure>
+                  <div class="title">
+                    <h3>
+                      <a
+                        class="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
+                        href="https://www.animefenix.tv/uzaki-chan-wa-asobitai-omega"
+                        title="Uzaki-chan wa Asobitai! ω"
+                      >
+                        Uzaki-chan wa Asobitai! ω
+                      </a>
+                    </h3>
+                  </div>
+                </article>
+                <article class="serie-card">
+                  <figure class="image">
+                    <a
+                      href="https://www.animefenix.tv/isekai-ojisan"
+                      title="Isekai Ojisan"
+                    >
+                      <img
+                        src="https://www.animefenix.tv/cdn/animes/cover/62b3883db4847/isekai-ojisan.jpg"
+                        alt="Isekai Ojisan"
+                      />
+                      <span class="overlay-dark"></span>
+                    </a>
+                    <span class="tag year is-dark">2022</span>
+                    <span class="tag is-orange airing">Emisión</span>{" "}
+                    <span class="tag is-danger type">TV</span>
+                  </figure>
+                  <div class="title">
+                    <h3>
+                      <a
+                        class="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
+                        href="https://www.animefenix.tv/isekai-ojisan"
+                        title="Isekai Ojisan"
+                      >
+                        Isekai Ojisan
+                      </a>
+                    </h3>
+                  </div>
+                </article>
+                <article class="serie-card">
+                  <figure class="image">
+                    <a
+                      href="https://www.animefenix.tv/one-piece"
+                      title="One Piece"
+                    >
+                      <img
+                        src="https://www.animefenix.tv/cdn/animes/cover/5fde6927a2c2a/one-piece.jpg"
+                        alt="One Piece"
+                      />
+                      <span class="overlay-dark"></span>
+                    </a>
+                    <span class="tag year is-dark">1999</span>
+                    <span class="tag is-orange airing">Emisión</span>{" "}
+                    <span class="tag is-danger type">TV</span>
+                  </figure>
+                  <div class="title">
+                    <h3>
+                      <a
+                        class="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
+                        href="https://www.animefenix.tv/one-piece"
+                        title="One Piece"
+                      >
+                        One Piece
+                      </a>
+                    </h3>
+                  </div>
+                </article>
+              </div>
             </div>
           </section>
 
