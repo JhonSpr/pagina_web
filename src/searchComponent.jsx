@@ -40,7 +40,7 @@ function SearchBar({ placeholder, data }) {
           return (
             <div className="dataResult">
               {filteredData.length == 0}
-              {filteredData.slice(0, 4).map((value) => {
+              {filteredData.slice(0, 3).map((value) => {
                 return (
                   <a
                     className="dataItem"
