@@ -20,7 +20,7 @@ export default class AutoPlay extends Component {
       pauseOnFocus: true,
       useTransform: true,
       slidesPerRow: true,
-      rows: 10,
+      rows: 1,
     };
     const anime1 = "SPY x Family 2nd Temporada";
     const link1 = "/spy-x-family-2nd-temporada";
