@@ -49,9 +49,9 @@ export function Scroll() {
   // const link14 = "/bluelock";
   // const imagen14 = "https://i.postimg.cc/tT6SjWCS/bluelock.jpg";
 
-  return Emisiones.map((emision, index) => {
+  return Emisiones.slice(0, 24).map((index, emision) => {
     return (
-      <article className="serie-card" title={emision.title} key={emision.id}>
+      <article className="serie-card" title={emision.title} key={index}>
         <figure className="image overarchingdiv2">
           <a href={emision.link}>
             <img src={emision.img} alt={emision.title} />
