@@ -2,6 +2,7 @@
 import { Agregados, Noticia } from "./Noticias";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Disqus } from "./disqus";
+import PauseOnHover from "./Scroll";
 
 /* eslint-disable jsx-a11y/no-distracting-elements */
 export function Inicio() {
@@ -11,123 +12,20 @@ export function Inicio() {
 
       <div className="hero is-lightx is-fullheight">
         <div>
-          <section class="section page-home__slider-container">
+          <section className="section page-home__latest-series">
             <div
-              class="container rounded-container"
+              className="container rounded-container"
               style={{ padding: "10px" }}
             >
-              <h1
-                class="title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase"
-                style={{
-                  marginBottom: "0",
-                  paddingTop: "10px",
-                  paddingBottom: "10px",
-                }}
-              >
-                <i class="fa fa-fire has-text-orange"></i> Animes Populares
+              <i
+                class="fa-solid fa-circle"
+                style={{ color: "rgb(240 30 20)" }}
+              ></i>
+              <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">
+                Emisiones
               </h1>
-
-              <div class="owl-carousel home-slider">
-                <article class="serie-card">
-                  <figure class="image">
-                    <a
-                      href="https://www.animefenix.tv/tensei-shitara-ken-deshita"
-                      title="Tensei Shitara Ken Deshita"
-                    >
-                      <img src="" alt="Tensei Shitara Ken Deshita" />
-                      <span class="overlay-dark"></span>
-                    </a>
-                    <span class="tag year is-dark">2022</span>
-                    <span class="tag is-orange airing">Emisión</span>{" "}
-                    <span class="tag is-danger type">TV</span>
-                  </figure>
-                  <div class="title">
-                    <h3>
-                      <a
-                        class="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
-                        href="https://www.animefenix.tv/tensei-shitara-ken-deshita"
-                        title="Tensei Shitara Ken Deshita"
-                      >
-                        Tensei Shitara Ken Deshita
-                      </a>
-                    </h3>
-                  </div>
-                </article>
-                <article class="serie-card">
-                  <figure class="image">
-                    <a
-                      href="https://www.animefenix.tv/uzaki-chan-wa-asobitai-omega"
-                      title="Uzaki-chan wa Asobitai! ω"
-                    >
-                      <img src="" alt="Uzaki-chan wa Asobitai! ω" />
-                      <span class="overlay-dark"></span>
-                    </a>
-                    <span class="tag year is-dark">2022</span>
-                    <span class="tag is-orange airing">Emisión</span>{" "}
-                    <span class="tag is-danger type">TV</span>
-                  </figure>
-                  <div class="title">
-                    <h3>
-                      <a
-                        class="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
-                        href="https://www.animefenix.tv/uzaki-chan-wa-asobitai-omega"
-                        title="Uzaki-chan wa Asobitai! ω"
-                      >
-                        Uzaki-chan wa Asobitai! ω
-                      </a>
-                    </h3>
-                  </div>
-                </article>
-                <article class="serie-card">
-                  <figure class="image">
-                    <a
-                      href="https://www.animefenix.tv/isekai-ojisan"
-                      title="Isekai Ojisan"
-                    >
-                      <img src="" alt="Isekai Ojisan" />
-                      <span class="overlay-dark"></span>
-                    </a>
-                    <span class="tag year is-dark">2022</span>
-                    <span class="tag is-orange airing">Emisión</span>{" "}
-                    <span class="tag is-danger type">TV</span>
-                  </figure>
-                  <div class="title">
-                    <h3>
-                      <a
-                        class="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
-                        href="https://www.animefenix.tv/isekai-ojisan"
-                        title="Isekai Ojisan"
-                      >
-                        Isekai Ojisan
-                      </a>
-                    </h3>
-                  </div>
-                </article>
-                <article class="serie-card">
-                  <figure class="image">
-                    <a
-                      href="https://www.animefenix.tv/one-piece"
-                      title="One Piece"
-                    >
-                      <img src="" alt="One Piece" />
-                      <span class="overlay-dark"></span>
-                    </a>
-                    <span class="tag year is-dark">1999</span>
-                    <span class="tag is-orange airing">Emisión</span>{" "}
-                    <span class="tag is-danger type">TV</span>
-                  </figure>
-                  <div class="title">
-                    <h3>
-                      <a
-                        class="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
-                        href="https://www.animefenix.tv/one-piece"
-                        title="One Piece"
-                      >
-                        One Piece
-                      </a>
-                    </h3>
-                  </div>
-                </article>
+              <div className="owl-carousel home-slider">
+                <PauseOnHover />
               </div>
             </div>
           </section>
