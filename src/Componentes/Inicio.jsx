@@ -17,11 +17,11 @@ export function Inicio() {
               className="container rounded-container"
               style={{ padding: "10px" }}
             >
-              <i
-                class="fa-solid fa-circle"
-                style={{ color: "rgb(240 30 20)" }}
-              ></i>
               <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">
+                <i
+                  class="fa-solid fa-circle"
+                  style={{ color: "rgb(240 30 20)" }}
+                ></i>
                 Emisiones
               </h1>
               <PauseOnHover />
