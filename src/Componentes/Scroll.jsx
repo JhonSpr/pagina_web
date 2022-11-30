@@ -71,10 +71,7 @@ export default class AutoPlay extends Component {
     const imagen14 = "https://i.postimg.cc/tT6SjWCS/bluelock.jpg";
 
     return (
-      <div
-        
-        style={{ marginTop: "10px", marginLeft: "auto", marginRight: "auto" }}
-      >
+      <>
         <Slider {...settings}>
           <div>
             <article>
@@ -320,7 +317,7 @@ export default class AutoPlay extends Component {
             </article>
           </div>
         </Slider>
-      </d>
+      </>
     );
   }
 }
