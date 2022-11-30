@@ -72,7 +72,7 @@ export default class AutoPlay extends Component {
 
     return (
       <div
-        className="container "
+        
         style={{ marginTop: "10px", marginLeft: "auto", marginRight: "auto" }}
       >
         <Slider {...settings}>
@@ -320,7 +320,7 @@ export default class AutoPlay extends Component {
             </article>
           </div>
         </Slider>
-      </div>
+      </d>
     );
   }
 }
