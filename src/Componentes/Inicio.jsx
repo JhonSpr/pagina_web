@@ -12,21 +12,23 @@ export function Inicio() {
 
       <div className="hero is-lightx is-fullheight">
         <div>
-          <section className="section page-home__latest-series">
+          <section class="section page-home__slider-container">
             <div
-              className="container rounded-container"
+              class="container rounded-container"
               style={{ padding: "10px" }}
             >
-              <i
-                class="fa-solid fa-circle"
-                style={{ color: "rgb(240 30 20)" }}
-              ></i>
-              <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">
-                Emisiones
+              <h1
+                class="title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase"
+                style={{
+                  marginBottom: "0",
+                  paddingTop: "10px",
+                  paddingBottom: "10px",
+                }}
+              >
+                <i class="fa fa-fire has-text-orange"></i> Animes Populares
               </h1>
-              <div className="owl-carousel home-slider">
-                <Scroll />
-              </div>
+
+              <div class="owl-carousel home-slider"></div>
             </div>
           </section>
 
