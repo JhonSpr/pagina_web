@@ -16,8 +16,9 @@ export function Inicio() {
             <div
               className="container rounded-container"
               style={{ padding: "10px" }}
-            ></div>
-            <PauseOnHover />
+            >
+              <PauseOnHover />
+            </div>
           </section>
 
           <section className="section page-home__latest-series">
