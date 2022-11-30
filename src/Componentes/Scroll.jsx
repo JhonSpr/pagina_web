@@ -71,7 +71,7 @@ export default class AutoPlay extends Component {
     const imagen14 = "https://i.postimg.cc/tT6SjWCS/bluelock.jpg";
 
     return (
-      <Slider {...settings}>
+      <>
         <article>
           <figure className="image" style={{ borderRadius: "0", margin: "0" }}>
             <a href={link1} title={anime1}>
@@ -296,7 +296,7 @@ export default class AutoPlay extends Component {
             </a>
           </figure>
         </article>
-      </Slider>
+      </>
     );
   }
 }

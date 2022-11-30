@@ -133,4 +133,48 @@
     src="//https-animekuns-netlify-app.disqus.com/count.js"
     async
   ></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+  <script src="https://www.animefenix.tv/themes/animefenix-frans185/js/owl.carousel.min.js"></script>
+  <script>
+    $("#showComments").click(function () {
+      $("#commentsContainer").append('<div id="disqus_thread"></div>');
+      (function () {
+        // DON'T EDIT BELOW THIS LINE
+        var d = document,
+          s = d.createElement("script");
+        s.src = "https://animefenix.disqus.com/embed.js";
+        s.setAttribute("data-timestamp", +new Date());
+        (d.head || d.body).appendChild(s);
+      })();
+    });
+  </script>
+  <script>
+    $(".owl-carousel").owlCarousel({
+      loop: true,
+      margin: 4,
+      nav: false,
+      autoWidth: false,
+      autoplay: true,
+      autoPlaySpeed: 5000,
+      autoPlayTimeout: 5000,
+      autoplayHoverPause: true,
+      responsive: {
+        0: {
+          items: 2,
+        },
+        500: {
+          items: 3,
+          margin: 4,
+        },
+        800: {
+          items: 6,
+          margin: 4,
+        },
+        1000: {
+          items: 6,
+          margin: 4,
+        },
+      },
+    });
+  </script>
 </html>
