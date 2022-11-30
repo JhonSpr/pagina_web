@@ -2,7 +2,7 @@
 import { Agregados, Noticia } from "./Noticias";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Disqus } from "./disqus";
-import PauseOnHover from "./Scroll";
+import Scroll from "./Scroll";
 
 /* eslint-disable jsx-a11y/no-distracting-elements */
 export function Inicio() {
@@ -25,7 +25,7 @@ export function Inicio() {
                 Emisiones
               </h1>
               <div className="owl-carousel home-slider">
-                <PauseOnHover />
+                <Scroll />
               </div>
             </div>
           </section>
