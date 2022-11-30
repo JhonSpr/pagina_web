@@ -27,7 +27,7 @@ export function Inicio() {
                 <i
                   class="fa-solid fa-layer-group"
                   style={{ color: "rgb(20 620 240)" }}
-                ></i>{" "}
+                ></i>
                 RECIEN AGREGADOS
               </h1>
               <hr />
