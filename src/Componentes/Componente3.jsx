@@ -33,6 +33,7 @@ export function Video({
       (d.head || d.body).appendChild(s);
     })();
   });
+
   return (
     <>
       <title>{tituloAnime}</title>
@@ -119,10 +120,10 @@ export function Video({
                     <AnimeRecommend4 />
                   </div>
                 </div>
-              </div>
-              <div id="commentsContainer">
-                <div id="showComments" class="button is-fullwidth is-orange">
-                  Mostrar Comentarios
+                <div id="commentsContainer">
+                  <div id="showComments" class="button is-fullwidth is-orange">
+                    Mostrar Comentarios
+                  </div>
                 </div>
               </div>
             </div>
