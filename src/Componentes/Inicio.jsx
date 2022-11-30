@@ -20,7 +20,7 @@ export function Inicio() {
               <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">
                 <i
                   class="fa-solid fa-circle"
-                  style={{ color: "rgb(240 30 20)" }}
+                  style={{ color: "rgb(240 30 20)", marginRight: "5px" }}
                 ></i>
                 Emisiones
               </h1>
