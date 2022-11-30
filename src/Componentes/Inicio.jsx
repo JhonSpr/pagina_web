@@ -13,10 +13,7 @@ export function Inicio() {
       <div className="hero is-lightx is-fullheight">
         <div>
           <section className="section page-home__latest-series">
-            <div
-              className="container rounded-container"
-              style={{ padding: "10px" }}
-            >
+            <div className="container" style={{ padding: "10px" }}>
               <PauseOnHover />
             </div>
           </section>
