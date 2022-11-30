@@ -71,9 +71,11 @@ export default class AutoPlay extends Component {
     const imagen14 = "https://i.postimg.cc/tT6SjWCS/bluelock.jpg";
 
     return (
-      <>
+      <div
+        style={{ marginTop: "10px", marginLeft: "auto", marginRight: "auto" }}
+      >
         <Slider {...settings}>
-          <div className="container rounded-container">
+          <div>
             <article>
               <figure
                 className="image"
@@ -93,7 +95,8 @@ export default class AutoPlay extends Component {
               </figure>
               <div className="title"></div>
             </article>
-
+          </div>
+          <div>
             <article>
               <figure class="image">
                 <a href={link2} title={anime2}>
@@ -109,7 +112,8 @@ export default class AutoPlay extends Component {
                 </a>
               </figure>
             </article>
-
+          </div>
+          <div>
             <article>
               <figure class="image">
                 <a href={link3} title={anime3}>
@@ -125,7 +129,8 @@ export default class AutoPlay extends Component {
                 </a>
               </figure>
             </article>
-
+          </div>
+          <div>
             <article>
               <figure class="image">
                 <a href={link4} title={anime4}>
@@ -141,7 +146,8 @@ export default class AutoPlay extends Component {
                 </a>
               </figure>
             </article>
-
+          </div>
+          <div>
             <article>
               <figure class="image">
                 <a href={link5} title={anime5}>
@@ -157,7 +163,8 @@ export default class AutoPlay extends Component {
                 </a>
               </figure>
             </article>
-
+          </div>
+          <div>
             <article>
               <figure class="image">
                 <a href={link6} title={anime6}>
@@ -173,7 +180,8 @@ export default class AutoPlay extends Component {
                 </a>
               </figure>
             </article>
-
+          </div>
+          <div>
             <article>
               <figure class="image">
                 <a href={link7} title={anime7}>
@@ -189,7 +197,8 @@ export default class AutoPlay extends Component {
                 </a>
               </figure>
             </article>
-
+          </div>
+          <div>
             <article>
               <figure class="image">
                 <a href={link8} title={anime8}>
@@ -205,7 +214,8 @@ export default class AutoPlay extends Component {
                 </a>
               </figure>
             </article>
-
+          </div>
+          <div>
             <article>
               <figure class="image">
                 <a href={link9} title={anime9}>
@@ -221,7 +231,8 @@ export default class AutoPlay extends Component {
                 </a>
               </figure>
             </article>
-
+          </div>
+          <div>
             <article>
               <figure class="image">
                 <a href={link10} title={anime10}>
@@ -237,7 +248,9 @@ export default class AutoPlay extends Component {
                 </a>
               </figure>
             </article>
+          </div>
 
+          <div>
             <article>
               <figure class="image">
                 <a href={link14} title={anime14}>
@@ -253,7 +266,8 @@ export default class AutoPlay extends Component {
                 </a>
               </figure>
             </article>
-
+          </div>
+          <div>
             <article>
               <figure class="image">
                 <a href={link11} title={anime11}>
@@ -269,7 +283,8 @@ export default class AutoPlay extends Component {
                 </a>
               </figure>
             </article>
-
+          </div>
+          <div>
             <article>
               <figure class="image">
                 <a href={link12} title={anime12}>
@@ -285,7 +300,8 @@ export default class AutoPlay extends Component {
                 </a>
               </figure>
             </article>
-
+          </div>
+          <div>
             <article>
               <figure class="image">
                 <a href={link13} title={anime13}>
@@ -303,7 +319,7 @@ export default class AutoPlay extends Component {
             </article>
           </div>
         </Slider>
-      </>
+      </div>
     );
   }
 }
