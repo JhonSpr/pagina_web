@@ -12,20 +12,7 @@ export function Inicio() {
 
       <div className="hero is-lightx is-fullheight">
         <div>
-          <div>
-            <section className="section page-home__latest-series">
-              <div className="container rounded-container">
-                <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">
-                  <i
-                    class="fa-solid fa-circle"
-                    style={{ color: "rgb(240 30 20)" }}
-                  ></i>{" "}
-                  Emisiones
-                </h1>
-                <PauseOnHover />
-              </div>
-            </section>
-          </div>
+          <PauseOnHover />
           <section className="section page-home__latest-series">
             <div className="container rounded-container">
               <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">
