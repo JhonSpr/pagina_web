@@ -9827,7 +9827,7 @@ function Videos() {
         path="/ver/spy-x-family-2nd-temporada-8"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sblongvu.com/e/z4m7wb3adp0v.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
