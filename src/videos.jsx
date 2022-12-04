@@ -9827,7 +9827,7 @@ function Videos() {
         path="/ver/spy-x-family-2nd-temporada-8"
         element={
           <Video
-            frame1={"https://sblongvu.com/e/4c6cd2pdewik.html"}
+            frame1={""}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -9845,7 +9845,7 @@ function Videos() {
         path="/ver/spy-x-family-2nd-temporada-9"
         element={
           <Video
-            frame1={"https://sblongvu.com/e/pk1nah92r61y.html"}
+            frame1={"https://sblongvu.com/e/4c6cd2pdewik.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -9863,7 +9863,7 @@ function Videos() {
         path="/ver/spy-x-family-2nd-temporada-10"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblongvu.com/e/pk1nah92r61y.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
             tituloAnime={"Spy x Family 2nd Temporada Capitulo 10"}

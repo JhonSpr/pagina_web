@@ -56,6 +56,7 @@ export function Video({
                       id="div1"
                       scrolling="no"
                       allowFullScreen
+                      picture-in-picture
                     ></iframe>
                   </div>
 
