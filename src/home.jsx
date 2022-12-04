@@ -1886,9 +1886,7 @@ function App() {
                 'Otoño 2017... Atropellado por un camión cuando tenía 17 años, el tío de Takafumi despierta repentinamente de un coma que duró 17 años. Cuando Takafumi lo visita en el hospital, ve a su tío murmurando tonterías y declarando que ha regresado de otro mundo llamado "GRAN-BAHAMAL". ...Claramente, su tío se ha vuelto loco. Takafumi no tiene palabras, pero su tío demuestra sus afirmaciones de estar en otra dimensión usando algo de magia. Decidiendo usar los poderes de su tío para ganarse la vida, y sin otros parientes a los que llamar, Takafumi lo acoge y comienzan a compartir un apartamento juntos. Mientras vive con su tío, Takafumi se entera de sus fantásticas aventuras y su amor ilimitado por los videojuegos de SEGA. Pero a veces, las experiencias solitarias y crueles de su tío llenan a Takafumi de alegría y tristeza. ¡Dos hombres de diferentes generaciones trabajan arduamente para ser creadores de contenido de video en esta nueva y emocionante comedia de otro mundo ambientada en un rincón de un complejo de apartamentos!'
               }
               anime={"Isekai Ojisan"}
-              imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/62b3883db4847/isekai-ojisan.jpg"
-              }
+              imagenAnime={"https://i.postimg.cc/Gpr6zMLL/isekai-ojisan.jpg"}
               tituloAnime={"Isekai Ojisan"}
               sec1={"disable"}
               sec2={"disable"}
@@ -2015,102 +2013,7 @@ function App() {
             />
           }
         />
-        <Route
-          path=""
-          element={
-            <Emision12
-              descripcion={""}
-              anime={""}
-              imagenAnime={""}
-              tituloAnime={""}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              sec1={"disable"}
-              sec2={"disable"}
-              sec3={"disable"}
-              hrefGenre1={"/generos[]="}
-              hrefGenre2={"/generos[]="}
-              hrefGenre3={"/generos[]="}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              tipo={"TV"}
-              estado={"En Emisión"}
-              numeroEpisodios={""}
-              Fecha={""}
-              capituloAnime1={"/ver/-1"}
-              capituloAnime2={"/ver/-2"}
-              capituloAnime3={"/ver/-3"}
-              capituloAnime4={"/ver/-4"}
-              capituloAnime5={"/ver/-5"}
-              capituloAnime6={"/ver/-6"}
-              capituloAnime7={"/ver/-7"}
-              capituloAnime8={"/ver/-8"}
-              capituloAnime9={"/ver/-9"}
-              capituloAnime10={"/ver/-10"}
-              capituloAnime11={"/ver/-11"}
-              capituloAnime12={"/ver/-12"}
-              capituloAnime13={"/ver/-13"}
-              li8={"disable"}
-              li9={"disable"}
-              li10={"disable"}
-              li11={"disable"}
-              li12={"disable"}
-              li13={"disable"}
-            />
-          }
-        />
-        <Route
-          path=""
-          element={
-            <Emision12
-              descripcion={""}
-              anime={""}
-              imagenAnime={""}
-              tituloAnime={""}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              sec1={"disable"}
-              sec2={"disable"}
-              sec3={"disable"}
-              hrefGenre1={"/generos[]="}
-              hrefGenre2={"/generos[]="}
-              hrefGenre3={"/generos[]="}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              tipo={"TV"}
-              estado={"En Emisión"}
-              numeroEpisodios={""}
-              Fecha={""}
-              capituloAnime1={"/ver/-1"}
-              capituloAnime2={"/ver/-2"}
-              capituloAnime3={"/ver/-3"}
-              capituloAnime4={"/ver/-4"}
-              capituloAnime5={"/ver/-5"}
-              capituloAnime6={"/ver/-6"}
-              capituloAnime7={"/ver/-7"}
-              capituloAnime8={"/ver/-8"}
-              capituloAnime9={"/ver/-9"}
-              capituloAnime10={"/ver/-10"}
-              capituloAnime11={"/ver/-11"}
-              capituloAnime12={"/ver/-12"}
-              capituloAnime13={"/ver/-13"}
-              li8={"disable"}
-              li9={"disable"}
-              li10={"disable"}
-              li11={"disable"}
-              li12={"disable"}
-              li13={"disable"}
-            />
-          }
-        />
+
         <Route
           path="/mob-psycho-100-III"
           element={
@@ -2118,7 +2021,7 @@ function App() {
               descripcion={"Tercera temporada de Mob Psycho 100"}
               anime={"Mob Psycho 100 III"}
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/632a5d297e994/mob-psycho-100-iii.jpg"
+                "https://i.postimg.cc/zX4rwSHv/mob-psycho-100-iii.jpg"
               }
               tituloAnime={"Mob Psycho 100 III"}
               nombreSecuela={"Mob Psycho 100 II"}
@@ -2128,8 +2031,8 @@ function App() {
               sec3={"disable"}
               tipo={"TV"}
               estado={"En Emisión"}
-              numeroEpisodios={"7"}
-              Fecha={"Miercoles 23 de Noviembre"}
+              numeroEpisodios={"9"}
+              Fecha={"Miercoles 7 de Diciembre"}
               capituloAnime1={"/ver/mob-psycho-100-III-1"}
               capituloAnime2={"/ver/mob-psycho-100-III-2"}
               capituloAnime3={"/ver/mob-psycho-100-III-3"}
@@ -2142,8 +2045,6 @@ function App() {
               capituloAnime10={"/ver/mob-psycho-100-III-10"}
               capituloAnime11={"/ver/mob-psycho-100-III-11"}
               capituloAnime12={"/ver/mob-psycho-100-III-12"}
-              li8={"disable"}
-              li9={"disable"}
               li10={"disable"}
               li11={"disable"}
               li12={"disable"}
@@ -2151,486 +2052,7 @@ function App() {
             />
           }
         />
-        <Route
-          path=""
-          element={
-            <Emision12
-              descripcion={""}
-              anime={""}
-              imagenAnime={""}
-              tituloAnime={""}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              sec1={"disable"}
-              sec2={"disable"}
-              sec3={"disable"}
-              hrefGenre1={"/generos[]="}
-              hrefGenre2={"/generos[]="}
-              hrefGenre3={"/generos[]="}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              tipo={"TV"}
-              estado={"En Emisión"}
-              numeroEpisodios={""}
-              Fecha={""}
-              capituloAnime1={"/ver/-1"}
-              capituloAnime2={"/ver/-2"}
-              capituloAnime3={"/ver/-3"}
-              capituloAnime4={"/ver/-4"}
-              capituloAnime5={"/ver/-5"}
-              capituloAnime6={"/ver/-6"}
-              capituloAnime7={"/ver/-7"}
-              capituloAnime8={"/ver/-8"}
-              capituloAnime9={"/ver/-9"}
-              capituloAnime10={"/ver/-10"}
-              capituloAnime11={"/ver/-11"}
-              capituloAnime12={"/ver/-12"}
-              capituloAnime13={"/ver/-13"}
-              li8={"disable"}
-              li9={"disable"}
-              li10={"disable"}
-              li11={"disable"}
-              li12={"disable"}
-              li13={"disable"}
-            />
-          }
-        />
-        <Route
-          path=""
-          element={
-            <Emision12
-              descripcion={""}
-              anime={""}
-              imagenAnime={""}
-              tituloAnime={""}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              sec1={"disable"}
-              sec2={"disable"}
-              sec3={"disable"}
-              hrefGenre1={"/generos[]="}
-              hrefGenre2={"/generos[]="}
-              hrefGenre3={"/generos[]="}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              tipo={"TV"}
-              estado={"En Emisión"}
-              numeroEpisodios={""}
-              Fecha={""}
-              capituloAnime1={"/ver/-1"}
-              capituloAnime2={"/ver/-2"}
-              capituloAnime3={"/ver/-3"}
-              capituloAnime4={"/ver/-4"}
-              capituloAnime5={"/ver/-5"}
-              capituloAnime6={"/ver/-6"}
-              capituloAnime7={"/ver/-7"}
-              capituloAnime8={"/ver/-8"}
-              capituloAnime9={"/ver/-9"}
-              capituloAnime10={"/ver/-10"}
-              capituloAnime11={"/ver/-11"}
-              capituloAnime12={"/ver/-12"}
-              capituloAnime13={"/ver/-13"}
-              li8={"disable"}
-              li9={"disable"}
-              li10={"disable"}
-              li11={"disable"}
-              li12={"disable"}
-              li13={"disable"}
-            />
-          }
-        />
-        <Route
-          path=""
-          element={
-            <Emision12
-              descripcion={""}
-              anime={""}
-              imagenAnime={""}
-              tituloAnime={""}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              sec1={"disable"}
-              sec2={"disable"}
-              sec3={"disable"}
-              hrefGenre1={"/generos[]="}
-              hrefGenre2={"/generos[]="}
-              hrefGenre3={"/generos[]="}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              tipo={"TV"}
-              estado={"En Emisión"}
-              numeroEpisodios={""}
-              Fecha={""}
-              capituloAnime1={"/ver/-1"}
-              capituloAnime2={"/ver/-2"}
-              capituloAnime3={"/ver/-3"}
-              capituloAnime4={"/ver/-4"}
-              capituloAnime5={"/ver/-5"}
-              capituloAnime6={"/ver/-6"}
-              capituloAnime7={"/ver/-7"}
-              capituloAnime8={"/ver/-8"}
-              capituloAnime9={"/ver/-9"}
-              capituloAnime10={"/ver/-10"}
-              capituloAnime11={"/ver/-11"}
-              capituloAnime12={"/ver/-12"}
-              capituloAnime13={"/ver/-13"}
-              li8={"disable"}
-              li9={"disable"}
-              li10={"disable"}
-              li11={"disable"}
-              li12={"disable"}
-              li13={"disable"}
-            />
-          }
-        />
-        <Route
-          path=""
-          element={
-            <Emision12
-              descripcion={""}
-              anime={""}
-              imagenAnime={""}
-              tituloAnime={""}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              sec1={"disable"}
-              sec2={"disable"}
-              sec3={"disable"}
-              hrefGenre1={"/generos[]="}
-              hrefGenre2={"/generos[]="}
-              hrefGenre3={"/generos[]="}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              tipo={"TV"}
-              estado={"En Emisión"}
-              numeroEpisodios={""}
-              Fecha={""}
-              capituloAnime1={"/ver/-1"}
-              capituloAnime2={"/ver/-2"}
-              capituloAnime3={"/ver/-3"}
-              capituloAnime4={"/ver/-4"}
-              capituloAnime5={"/ver/-5"}
-              capituloAnime6={"/ver/-6"}
-              capituloAnime7={"/ver/-7"}
-              capituloAnime8={"/ver/-8"}
-              capituloAnime9={"/ver/-9"}
-              capituloAnime10={"/ver/-10"}
-              capituloAnime11={"/ver/-11"}
-              capituloAnime12={"/ver/-12"}
-              capituloAnime13={"/ver/-13"}
-              li8={"disable"}
-              li9={"disable"}
-              li10={"disable"}
-              li11={"disable"}
-              li12={"disable"}
-              li13={"disable"}
-            />
-          }
-        />
-        <Route
-          path=""
-          element={
-            <Emision12
-              descripcion={""}
-              anime={""}
-              imagenAnime={""}
-              tituloAnime={""}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              sec1={"disable"}
-              sec2={"disable"}
-              sec3={"disable"}
-              hrefGenre1={"/generos[]="}
-              hrefGenre2={"/generos[]="}
-              hrefGenre3={"/generos[]="}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              tipo={"TV"}
-              estado={"En Emisión"}
-              numeroEpisodios={""}
-              Fecha={""}
-              capituloAnime1={"/ver/-1"}
-              capituloAnime2={"/ver/-2"}
-              capituloAnime3={"/ver/-3"}
-              capituloAnime4={"/ver/-4"}
-              capituloAnime5={"/ver/-5"}
-              capituloAnime6={"/ver/-6"}
-              capituloAnime7={"/ver/-7"}
-              capituloAnime8={"/ver/-8"}
-              capituloAnime9={"/ver/-9"}
-              capituloAnime10={"/ver/-10"}
-              capituloAnime11={"/ver/-11"}
-              capituloAnime12={"/ver/-12"}
-              capituloAnime13={"/ver/-13"}
-              li8={"disable"}
-              li9={"disable"}
-              li10={"disable"}
-              li11={"disable"}
-              li12={"disable"}
-              li13={"disable"}
-            />
-          }
-        />
-        <Route
-          path=""
-          element={
-            <Emision12
-              descripcion={""}
-              anime={""}
-              imagenAnime={""}
-              tituloAnime={""}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              sec1={"disable"}
-              sec2={"disable"}
-              sec3={"disable"}
-              hrefGenre1={"/generos[]="}
-              hrefGenre2={"/generos[]="}
-              hrefGenre3={"/generos[]="}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              tipo={"TV"}
-              estado={"En Emisión"}
-              numeroEpisodios={""}
-              Fecha={""}
-              capituloAnime1={"/ver/-1"}
-              capituloAnime2={"/ver/-2"}
-              capituloAnime3={"/ver/-3"}
-              capituloAnime4={"/ver/-4"}
-              capituloAnime5={"/ver/-5"}
-              capituloAnime6={"/ver/-6"}
-              capituloAnime7={"/ver/-7"}
-              capituloAnime8={"/ver/-8"}
-              capituloAnime9={"/ver/-9"}
-              capituloAnime10={"/ver/-10"}
-              capituloAnime11={"/ver/-11"}
-              capituloAnime12={"/ver/-12"}
-              capituloAnime13={"/ver/-13"}
-              li8={"disable"}
-              li9={"disable"}
-              li10={"disable"}
-              li11={"disable"}
-              li12={"disable"}
-              li13={"disable"}
-            />
-          }
-        />
-        <Route
-          path=""
-          element={
-            <Emision12
-              descripcion={""}
-              anime={""}
-              imagenAnime={""}
-              tituloAnime={""}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              sec1={"disable"}
-              sec2={"disable"}
-              sec3={"disable"}
-              hrefGenre1={"/generos[]="}
-              hrefGenre2={"/generos[]="}
-              hrefGenre3={"/generos[]="}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              tipo={"TV"}
-              estado={"En Emisión"}
-              numeroEpisodios={""}
-              Fecha={""}
-              capituloAnime1={"/ver/-1"}
-              capituloAnime2={"/ver/-2"}
-              capituloAnime3={"/ver/-3"}
-              capituloAnime4={"/ver/-4"}
-              capituloAnime5={"/ver/-5"}
-              capituloAnime6={"/ver/-6"}
-              capituloAnime7={"/ver/-7"}
-              capituloAnime8={"/ver/-8"}
-              capituloAnime9={"/ver/-9"}
-              capituloAnime10={"/ver/-10"}
-              capituloAnime11={"/ver/-11"}
-              capituloAnime12={"/ver/-12"}
-              capituloAnime13={"/ver/-13"}
-              li8={"disable"}
-              li9={"disable"}
-              li10={"disable"}
-              li11={"disable"}
-              li12={"disable"}
-              li13={"disable"}
-            />
-          }
-        />
-        <Route
-          path=""
-          element={
-            <Emision12
-              descripcion={""}
-              anime={""}
-              imagenAnime={""}
-              tituloAnime={""}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              sec1={"disable"}
-              sec2={"disable"}
-              sec3={"disable"}
-              hrefGenre1={"/generos[]="}
-              hrefGenre2={"/generos[]="}
-              hrefGenre3={"/generos[]="}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              tipo={"TV"}
-              estado={"En Emisión"}
-              numeroEpisodios={""}
-              Fecha={""}
-              capituloAnime1={"/ver/-1"}
-              capituloAnime2={"/ver/-2"}
-              capituloAnime3={"/ver/-3"}
-              capituloAnime4={"/ver/-4"}
-              capituloAnime5={"/ver/-5"}
-              capituloAnime6={"/ver/-6"}
-              capituloAnime7={"/ver/-7"}
-              capituloAnime8={"/ver/-8"}
-              capituloAnime9={"/ver/-9"}
-              capituloAnime10={"/ver/-10"}
-              capituloAnime11={"/ver/-11"}
-              capituloAnime12={"/ver/-12"}
-              capituloAnime13={"/ver/-13"}
-              li8={"disable"}
-              li9={"disable"}
-              li10={"disable"}
-              li11={"disable"}
-              li12={"disable"}
-              li13={"disable"}
-            />
-          }
-        />
-        <Route
-          path=""
-          element={
-            <Emision12
-              descripcion={""}
-              anime={""}
-              imagenAnime={""}
-              tituloAnime={""}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              sec1={"disable"}
-              sec2={"disable"}
-              sec3={"disable"}
-              hrefGenre1={"/generos[]="}
-              hrefGenre2={"/generos[]="}
-              hrefGenre3={"/generos[]="}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              tipo={"TV"}
-              estado={"En Emisión"}
-              numeroEpisodios={""}
-              Fecha={""}
-              capituloAnime1={"/ver/-1"}
-              capituloAnime2={"/ver/-2"}
-              capituloAnime3={"/ver/-3"}
-              capituloAnime4={"/ver/-4"}
-              capituloAnime5={"/ver/-5"}
-              capituloAnime6={"/ver/-6"}
-              capituloAnime7={"/ver/-7"}
-              capituloAnime8={"/ver/-8"}
-              capituloAnime9={"/ver/-9"}
-              capituloAnime10={"/ver/-10"}
-              capituloAnime11={"/ver/-11"}
-              capituloAnime12={"/ver/-12"}
-              capituloAnime13={"/ver/-13"}
-              li8={"disable"}
-              li9={"disable"}
-              li10={"disable"}
-              li11={"disable"}
-              li12={"disable"}
-              li13={"disable"}
-            />
-          }
-        />
-        <Route
-          path=""
-          element={
-            <Emision12
-              descripcion={""}
-              anime={""}
-              imagenAnime={""}
-              tituloAnime={""}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              sec1={"disable"}
-              sec2={"disable"}
-              sec3={"disable"}
-              hrefGenre1={"/generos[]="}
-              hrefGenre2={"/generos[]="}
-              hrefGenre3={"/generos[]="}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
-              tipo={"TV"}
-              estado={"En Emisión"}
-              numeroEpisodios={""}
-              Fecha={""}
-              capituloAnime1={"/ver/-1"}
-              capituloAnime2={"/ver/-2"}
-              capituloAnime3={"/ver/-3"}
-              capituloAnime4={"/ver/-4"}
-              capituloAnime5={"/ver/-5"}
-              capituloAnime6={"/ver/-6"}
-              capituloAnime7={"/ver/-7"}
-              capituloAnime8={"/ver/-8"}
-              capituloAnime9={"/ver/-9"}
-              capituloAnime10={"/ver/-10"}
-              capituloAnime11={"/ver/-11"}
-              capituloAnime12={"/ver/-12"}
-              capituloAnime13={"/ver/-13"}
-              li8={"disable"}
-              li9={"disable"}
-              li10={"disable"}
-              li11={"disable"}
-              li12={"disable"}
-              li13={"disable"}
-            />
-          }
-        />
+
         <Route
           path="/spy-x-family-2nd-temporada"
           element={
@@ -2645,13 +2067,11 @@ function App() {
               sec2={"disable"}
               sec3={"disable"}
               estado={"En Emisión"}
-              numeroEpisodios={"8"}
+              numeroEpisodios={"10"}
               hrefSecuela="/spy-x-family"
               nombreSecuela={"SPY x FAMILY"}
               textoSecuela={"Precuela"}
-              Fecha={"Sábado 26 de Noviembre"}
-              li9={"disable"}
-              li10={"disable"}
+              Fecha={"Sábado 10 de Diciembre"}
               li11={"disable"}
               li12={"disable"}
               li13={"disable"}
@@ -2672,7 +2092,7 @@ function App() {
             <Numero12
               tituloAnime={"Tokyo Ghoul √A"}
               anime={"Tokyo Ghoul √A"}
-              imagenAnime="https://www.animefenix.tv/cdn/animes/cover/5e3f23b7dc6b4/tokyo-ghoul-radic-a.jpg"
+              imagenAnime="https://i.postimg.cc/rwLn5MLd/tokyo-ghoul-radic-a.jpg"
               descripcion={"Segunda temporada de Tokyo Ghoul."}
               nombreSecuela={"Tokyo Ghoul"}
               nombreSecuela2={"Tokyo Ghoul: Pinto"}
@@ -2704,7 +2124,7 @@ function App() {
             <Animes13
               tituloAnime={"Mob Psycho 100 II"}
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/5d8ad7558a7fb/mob-psycho-100-ii.png"
+                "https://i.postimg.cc/vZj4CS2s/mob-psycho-100-ii.jpg"
               }
               descripcion={"Segunda Temporada de Mob Psycho 100"}
               anime={"Mob Psycho 100 II"}
@@ -2739,9 +2159,7 @@ function App() {
           element={
             <Animes13
               tituloAnime={"Mob Psycho 100"}
-              imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/5e84ca04d425e/mob-psycho-100.jpg"
-              }
+              imagenAnime={"https://i.postimg.cc/GpWsTSvQ/mob-psycho-100.jpg"}
               descripcion={
                 "Cuenta la historia de “Mob”, un chico con poderes psíquicos que explota si su capacidad emocional alcanza el 100%. Recibió el apodo de “Mob” porque no destaca entre la gente, y trata de reprimir sus poderes para poder llevar una vida normal."
               }
@@ -2775,9 +2193,7 @@ function App() {
           element={
             <Animes13
               tituloAnime={"Overlord II"}
-              imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/5dd7f6135b484/overlord-ii.jpg"
-              }
+              imagenAnime={"https://i.postimg.cc/jj9Tcpjp/overlord-ii.jpg"}
               descripcion={"Segunda Temporada de Overlord."}
               anime={"Overlord II"}
               tipo={"TV"}
@@ -2811,9 +2227,7 @@ function App() {
           element={
             <Animes13
               tituloAnime={"Overlord"}
-              imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/5dd6166153948/overlord.jpg"
-              }
+              imagenAnime={"https://i.postimg.cc/RVzMjxT9/overlord.jpg"}
               descripcion={
                 "La historia da comienzo cuando Yggdrasil, un popular juego online, es cerrado un día sin previo aviso. Sin embargo, el protagonista, Momonga, decide no salir del juego. Momonga así se transforma y se convierte en “el mago más poderoso”. El mundo sigue cambiando con él dentro, y los NPCs comienzan a sentir emociones. Sin familia, amigos ni lugar en la sociedad, Momonga tendrá que luchar por adaptarse al nuevo mundo en el que se ha convertido el juego."
               }
@@ -2847,9 +2261,7 @@ function App() {
           element={
             <Animes13
               tituloAnime={"Overlord III"}
-              imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/5de4438a79aa5/overlord-iii.jpg"
-              }
+              imagenAnime={"https://i.postimg.cc/BnWvZGgm/overlord-iii.jpg"}
               descripcion={"Tercera temporada de Overlord."}
               anime={"Overlord III"}
               tipo={"TV"}
@@ -2883,9 +2295,7 @@ function App() {
           element={
             <Animes13
               tituloAnime={"Overlord IV"}
-              imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/62b3854093b93/overlord-iv.jpg"
-              }
+              imagenAnime={"https://i.postimg.cc/1XJYCPzs/date-a-live-iv.jpg"}
               descripcion={"Cuarta temporada de Overlord."}
               anime={"Overlord IV"}
               tipo={"TV"}
@@ -2957,7 +2367,7 @@ function App() {
             <Capitulos24
               tituloAnime={"Violet Evergarden"}
               imagenAnime={
-                "https://www.animefenix.tv/cdn/animes/cover/5d69f2b45ac8a/violet-evergarden.jpg"
+                "https://i.postimg.cc/1R7hshSb/violet-evergarden.jpg"
               }
               descripcion={
                 "Violet Evergarden es una chica que no conoce otra cosa que la cruel guerra: es una soldado que, bajo el mando de su comandante, es capaz de cumplir cualquier orden. Sin embargo, una vez termina la guerra, Violet se ve sin futuro ni hogar en una sociedad que no es capaz de comprender. Será entonces cuando un viejo amigo de su comandante, Claudia Hodgins, aparezca para ofrecerle trabajo en su oficina de correos. A partir de ese momento, Violet se convertirá en una Auto Memory Dolls escribiendo cartas."
