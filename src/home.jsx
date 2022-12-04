@@ -2083,6 +2083,10 @@ function App() {
               capituloAnime6={"/ver/spy-x-family-2nd-temporada-6"}
               capituloAnime7={"/ver/spy-x-family-2nd-temporada-7"}
               capituloAnime8={"/ver/spy-x-family-2nd-temporada-8"}
+              capituloAnime9={"/ver/spy-x-family-2nd-temporada-9"}
+              capituloAnime10={"/ver/spy-x-family-2nd-temporada-10"}
+              capituloAnime11={"/ver/spy-x-family-2nd-temporada-11"}
+              capituloAnime12={"/ver/spy-x-family-2nd-temporada-12"}
             />
           }
         />
