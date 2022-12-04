@@ -27,7 +27,6 @@ export function Inicio() {
               <PauseOnHover />
             </div>
           </section>
-
           <section className="section page-home__latest-series">
             <div className="container rounded-container">
               <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">
@@ -43,7 +42,6 @@ export function Inicio() {
               </div>
             </div>
           </section>
-
           <section className="section page-home__latest-series">
             <div className="container rounded-container">
               <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">
@@ -180,11 +178,11 @@ export function Inicio() {
               </div>
             </div>
           </section>
-
+          ''
           <section className="section page-home__latest-series">
             <div className="container rounded-container div-noticias">
               <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">
-                NOTICIAS SOBRE ANIME
+                NOTICIAS
               </h1>
               <hr />
               <div className="list-series">
