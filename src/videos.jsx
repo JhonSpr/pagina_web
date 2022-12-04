@@ -9811,7 +9811,9 @@ function Videos() {
           <Video
             frame1={"https://sblongvu.com/e/c8655zli44rf.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={"disable"}
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
             tituloAnime={"Spy x Family 2nd Temporada Capitulo 7"}
             anime={"Spy x Family 2nd Temporada "}
             numero={"7"}
@@ -9825,11 +9827,13 @@ function Videos() {
         path="/ver/spy-x-family-2nd-temporada-8"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblongvu.com/e/4c6cd2pdewik.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={"disable"}
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
             tituloAnime={" Capitulo 8"}
-            anime={" "}
+            anime={"Spy x Family 2nd Temporada "}
             numero={"8"}
             siguienteVideo={"/ver/spy-x-family-2nd-temporada-9"}
             capitulosVideo={"/spy-x-family-2nd-temporada"}
@@ -9838,40 +9842,36 @@ function Videos() {
         }
       />
       <Route
-        path="/ver/-9"
+        path="/ver/spy-x-family-2nd-temporada-9"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblongvu.com/e/pk1nah92r61y.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 9"}
-            tituloPag={"Animekun"}
-            anime={" "}
+            tituloAnime={"Spy x Family 2nd Temporada Capitulo 9"}
+            anime={"Spy x Family 2nd Temporada "}
             numero={"9"}
-            siguienteVideo={"/ver/-10"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-8"}
+            siguienteVideo={"/ver/spy-x-family-2nd-temporada-10"}
+            capitulosVideo={"/spy-x-family-2nd-temporada"}
+            anteriorVideo={"/ver/spy-x-family-2nd-temporada-8"}
           />
         }
       />
       <Route
-        path="/ver/-10"
+        path="/ver/spy-x-family-2nd-temporada-10"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
-            tituloAnime={" Capitulo 10"}
-            tituloPag={"Animekun"}
-            anime={" "}
+            contSiguienteClass={"disable"}
+            tituloAnime={"Spy x Family 2nd Temporada Capitulo 10"}
+            anime={"Spy x Family 2nd Temporada "}
             numero={"10"}
-            siguienteVideo={"/ver/-11"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-9"}
+            siguienteVideo={"/ver/spy-x-family-2nd-temporada-11"}
+            capitulosVideo={"/spy-x-family-2nd-temporada"}
+            anteriorVideo={"/ver/spy-x-family-2nd-temporada-9"}
           />
         }
       />
@@ -9884,9 +9884,8 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 11"}
-            tituloPag={"Animekun"}
-            anime={" "}
+            tituloAnime={"Spy x Family 2nd Temporada Capitulo 11"}
+            anime={"Spy x Family 2nd Temporada "}
             numero={"11"}
             siguienteVideo={"/ver/-12"}
             capitulosVideo={"/"}
@@ -10043,7 +10042,7 @@ function Videos() {
         path="/ver/mob-psycho-100-III-8"
         element={
           <Video
-            frame1={"https://sblongvu.com/e/4c6cd2pdewik.html"}
+            frame1={"https://sblongvu.com/e/x0ycpy8wplsm.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -10061,7 +10060,7 @@ function Videos() {
         path="/ver/mob-psycho-100-III-9"
         element={
           <Video
-            frame1={"https://sblongvu.com/e/pk1nah92r61y.html"}
+            frame1={"https://sblongvu.com/e/42tqztsmxk60.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
             tituloAnime={"Mob Psycho 100 III Capitulo 9"}
