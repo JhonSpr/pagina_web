@@ -24,7 +24,7 @@ export function Video({
 }) {
   return (
     <>
-      <title>{tituloAnime}</title>
+      <title>{tituloAnime} HD</title>
 
       <div className="hero is-fullheightX">
         <section className="section">

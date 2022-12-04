@@ -10027,9 +10027,10 @@ function Videos() {
           <Video
             frame1={"https://sblongvu.com/e/rnkzfsraqu7a.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={"disable"}
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
             tituloAnime={"Mob Psycho 100 III Capitulo 7"}
-            tituloPag={"Animekun"}
             anime={"Mob Psycho 100 III "}
             numero={"7"}
             siguienteVideo={"/ver/mob-psycho-100-III-8"}
@@ -10039,40 +10040,36 @@ function Videos() {
         }
       />
       <Route
-        path="/ver/-8"
+        path="/ver/mob-psycho-100-III-8"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblongvu.com/e/4c6cd2pdewik.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 8"}
-            tituloPag={"Animekun"}
-            anime={" "}
+            tituloAnime={"Mob Psycho 100 III Capitulo 8"}
+            anime={"Mob Psycho 100 III "}
             numero={"8"}
-            siguienteVideo={"/ver/-9"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-7"}
+            siguienteVideo={"/ver/mob-psycho-100-III-9"}
+            capitulosVideo={"/mob-psycho-100-III"}
+            anteriorVideo={"/ver/mob-psycho-100-III-7"}
           />
         }
       />
       <Route
-        path="/ver/-9"
+        path="/ver/mob-psycho-100-III-9"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblongvu.com/e/pk1nah92r61y.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
-            tituloAnime={" Capitulo 9"}
-            tituloPag={"Animekun"}
-            anime={" "}
+            contSiguienteClass={"disable"}
+            tituloAnime={"Mob Psycho 100 III Capitulo 9"}
+            anime={"Mob Psycho 100 III "}
             numero={"9"}
-            siguienteVideo={"/ver/-10"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-8"}
+            siguienteVideo={"/ver/mob-psycho-100-III-10"}
+            capitulosVideo={"/mob-psycho-100-III"}
+            anteriorVideo={"/ver/mob-psycho-100-III-8"}
           />
         }
       />
@@ -10085,9 +10082,8 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 10"}
-            tituloPag={"Animekun"}
-            anime={" "}
+            tituloAnime={"Mob Psycho 100 III Capitulo 10"}
+            anime={"Mob Psycho 100 III "}
             numero={"10"}
             siguienteVideo={"/ver/-11"}
             capitulosVideo={"/"}
@@ -10104,9 +10100,8 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 11"}
-            tituloPag={"Animekun"}
-            anime={" "}
+            tituloAnime={"Mob Psycho 100 III Capitulo 11"}
+            anime={"Mob Psycho 100 III "}
             numero={"11"}
             siguienteVideo={"/ver/-12"}
             capitulosVideo={"/"}
@@ -10121,9 +10116,8 @@ function Videos() {
             frame1={"https://sbthe.com/e/.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
-            tituloAnime={" Capitulo 12"}
-            tituloPag={"Animekun"}
-            anime={" "}
+            tituloAnime={"Mob Psycho 100 III Capitulo 12"}
+            anime={"Mob Psycho 100 III "}
             numero={"12"}
             capitulosVideo={"/"}
             anteriorVideo={"/ver/-11"}
