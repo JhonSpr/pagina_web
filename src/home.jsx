@@ -2342,8 +2342,8 @@ function App() {
               sec2="disable"
               sec3={"disable"}
               estado={"En emision"}
-              numeroEpisodios={"8"}
-              Fecha="Lunes 5 de Diciembre"
+              numeroEpisodios={"9"}
+              Fecha="Lunes 12 de Diciembre"
               capituloAnime1={"/ver/bleach-sennen-kessen-hen-1"}
               capituloAnime2={"/ver/bleach-sennen-kessen-hen-2"}
               capituloAnime3={"/ver/bleach-sennen-kessen-hen-3"}
@@ -2357,7 +2357,6 @@ function App() {
               capituloAnime11={"/ver/bleach-sennen-kessen-hen-11"}
               capituloAnime12={"/ver/bleach-sennen-kessen-hen-12"}
               capituloAnime13={"/ver/bleach-sennen-kessen-hen-13"}
-              li9="disable"
               li10="disable"
               li11="disable"
               li12="disable"
