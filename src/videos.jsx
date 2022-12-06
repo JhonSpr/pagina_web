@@ -9832,7 +9832,7 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 8"}
+            tituloAnime={"Spy x Family 2nd Temporada Capitulo 8"}
             anime={"Spy x Family 2nd Temporada "}
             numero={"8"}
             siguienteVideo={"/ver/spy-x-family-2nd-temporada-9"}
