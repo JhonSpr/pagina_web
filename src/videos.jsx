@@ -12644,7 +12644,9 @@ function Videos() {
           <Video
             frame1={"https://sblongvu.com/e/mwn4fe0co92q.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={"disable"}
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
             tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 8"}
             tituloPag={"Animekun"}
             anime={"BLEACH: Sennen Kessen-hen "}
@@ -12656,21 +12658,19 @@ function Videos() {
         }
       />
       <Route
-        path="/ver/-9"
+        path="/ver/bleach-sennen-kessen-hen-9"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sblongvu.com/e/u0veijxozcwd.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
-            tituloAnime={" Capitulo 9"}
+            contSiguienteClass={"disable"}
+            tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 9"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"BLEACH: Sennen Kessen-hen "}
             numero={"9"}
-            siguienteVideo={"/ver/-10"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-8"}
+            siguienteVideo={"/ver/bleach-sennen-kessen-hen-10"}
+            capitulosVideo={"/bleach-sennen-kessen-hen"}
+            anteriorVideo={"/ver/bleach-sennen-kessen-hen-8"}
           />
         }
       />
