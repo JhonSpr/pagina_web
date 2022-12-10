@@ -31,7 +31,7 @@ class Button extends Component {
             </button>
           </div>
         </div>
-        <span>
+        <div>
           {this.state.checked ? (
             <Disqus />
           ) : (
@@ -39,7 +39,7 @@ class Button extends Component {
               <Disqus />
             </div>
           )}
-        </span>
+        </div>
       </div>
     );
   }
