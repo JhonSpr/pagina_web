@@ -35,26 +35,29 @@ export default class AutoPlay extends Component {
         <Slider {...settings}>
           <div>
             <article>
-              <figure class="image"></figure>
+              <figure class="image">
+                <AnimeRecommend4 />
+              </figure>
             </article>
           </div>
           <div>
             <article>
-              <figure class="image"></figure>
+              <figure class="image">
+                <AnimeRecommend3 />
+              </figure>
             </article>
           </div>
           <div>
             <article>
-              <figure class="image"></figure>
+              <figure class="image">
+                <AnimeRecommend2 />
+              </figure>
             </article>
           </div>
           <div>
             <article>
               <figure class="image">
                 <AnimeRecommend1 />
-                <AnimeRecommend2 />
-                <AnimeRecommend3 />
-                <AnimeRecommend4 />
               </figure>
             </article>
           </div>
