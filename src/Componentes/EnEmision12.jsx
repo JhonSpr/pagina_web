@@ -1,6 +1,8 @@
 /* eslint-disable react/style-prop-object */
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
+import AutoPlay from "./Elements/Scrolls";
+
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Emision12({
   Fecha,
@@ -248,6 +250,7 @@ export function Emision12({
                 </li>
               </ul>
             </div>
+            <AutoPlay />
           </div>
         </div>
       </section>
