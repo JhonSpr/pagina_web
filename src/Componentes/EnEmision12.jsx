@@ -135,8 +135,8 @@ export function Emision12({
       </section>
 
       <section className="section">
+        <AutoPlay />
         <div className="container">
-          <AutoPlay />
           <div className="columns">
             <div className="column is-12">
               <h1 className="title is-size-5 has-text-weight-light has-text-light has-text-weight-semibold ">
