@@ -1,8 +1,7 @@
 /* eslint-disable react/style-prop-object */
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
-import Button from "./Elements/Buttons";
-
+import { CommentEmbed } from "disqus-react";
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Emision12({
   Fecha,
@@ -253,7 +252,13 @@ export function Emision12({
           </div>
           <div className="container_comment">
             <h1 className=""> comentarios</h1>
-            <Button />
+            <CommentEmbed
+              commentId={this.props.article.featuredCommentId}
+              showMedia={true}
+              showParentComment={true}
+              width={420}
+              height={320}
+            />
           </div>
         </div>
       </section>

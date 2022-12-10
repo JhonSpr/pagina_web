@@ -1,5 +1,4 @@
-import { Disqus } from "./disqus";
-
+import { CommentEmbed } from "disqus-react";
 export function Numero12({
   sec1,
   sec2,
@@ -219,7 +218,15 @@ export function Numero12({
             </div>
           </div>
           <div className="container_comment">
-            <Disqus className={"Comentarios"} />
+            {/* <Disqus className={"Comentarios"} /> */}
+            <CommentEmbed
+              commentId={this.props.article.featuredCommentId}
+              showMedia={true}
+              showParentComment={true}
+              width={420}
+              height={320}
+            />
+            ;
           </div>
         </div>
       </section>
