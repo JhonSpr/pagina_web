@@ -1,8 +1,6 @@
 /* eslint-disable react/style-prop-object */
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
-import AutoPlay from "./Elements/Scrolls";
-
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Emision12({
   Fecha,
@@ -136,7 +134,6 @@ export function Emision12({
 
       <section className="section">
         <div className="container">
-          <AutoPlay />
           <div className="columns">
             <div className="column is-12">
               <h1 className="title is-size-5 has-text-weight-light has-text-light has-text-weight-semibold ">
