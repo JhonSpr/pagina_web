@@ -31,7 +31,15 @@ class Button extends Component {
             </button>
           </div>
         </div>
-        <span>{this.state.checked ? <Disqus /> : <span>Error</span>}</span>
+        <span>
+          {this.state.checked ? (
+            <Disqus />
+          ) : (
+            <div>
+              <Disqus />
+            </div>
+          )}
+        </span>
       </div>
     );
   }
