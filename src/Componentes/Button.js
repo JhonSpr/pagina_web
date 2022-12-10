@@ -24,10 +24,10 @@ class Button extends Component {
             <button
               type="button"
               id="btn-nquote"
-              className="btn btn-success btn-sm"
+              className="comment_text"
               onClick={() => this.handleChange(false)}
             >
-              Normal Quote
+              Mostrar comentarios
             </button>
 
             {/* Este es el boton 2 */}
