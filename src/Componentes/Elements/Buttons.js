@@ -7,7 +7,10 @@ export default function Button() {
   return (
     <>
       {/*Con un estado adicional le dicen cuando mostrarse o no*/}
-      <button onClick={() => setMostrarComponente(!mostrarComponente)}>
+      <button
+        className="button.is-orange"
+        onClick={() => setMostrarComponente(!mostrarComponente)}
+      >
         {/*Aqui solo cambio el texto de mi boton, para el ejemplo */}
         {mostrarComponente ? `Ocultar` : `Mostrar`}
       </button>
