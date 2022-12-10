@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import { Agregados, Noticia } from "./Noticias";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
-import { Disqus } from "./disqus";
+// import { Disqus } from "./disqus";
 import PauseOnHover from "./Scroll";
 
 /* eslint-disable jsx-a11y/no-distracting-elements */

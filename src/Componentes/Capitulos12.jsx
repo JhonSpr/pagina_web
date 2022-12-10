@@ -1,4 +1,4 @@
-import { Disqus } from "./disqus";
+// import { Disqus } from "./disqus";
 
 export function Numero12({
   sec1,

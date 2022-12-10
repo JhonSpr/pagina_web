@@ -2,7 +2,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
 import Button from "./Button";
-import { Disqus } from "./disqus";
+// import { Disqus } from "./disqus";
 
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Emision12({
