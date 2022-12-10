@@ -24,7 +24,7 @@ class Button extends Component {
             <button
               type="button"
               id="btn-nquote"
-              className="comment_text"
+              className=""
               onClick={() => this.handleChange(false)}
             >
               Mostrar comentarios
