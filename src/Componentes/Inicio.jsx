@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import { Agregados } from "./Noticias";
 
-import PauseOnHover from "./Elements/Scroll";
+import PauseOnHover from "./Scroll";
 
 /* eslint-disable jsx-a11y/no-distracting-elements */
 export function Inicio() {
