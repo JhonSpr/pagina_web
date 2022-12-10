@@ -34,7 +34,7 @@ class Button extends Component {
             <button
               type="button"
               id="btn-flex"
-              className="btn btn-unique btn-sm"
+              className="comment_text"
               onClick={() => this.handleChange(true)}
             >
               Flex Quote

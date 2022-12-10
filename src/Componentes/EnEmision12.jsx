@@ -253,7 +253,7 @@ export function Emision12({
             </div>
           </div>
           <div className="container_comment">
-            <h1 className="comment_text"> comentarios</h1>
+            <h1 className=""> comentarios</h1>
             <Button />
             {/* <Disqus className={"Comentarios"} /> */}
           </div>
