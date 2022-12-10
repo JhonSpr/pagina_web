@@ -1,7 +1,8 @@
 /* eslint-disable react/style-prop-object */
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
-import { CommentEmbed } from "disqus-react";
+import { Disqus } from "./disqus";
+
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Emision12({
   Fecha,
@@ -252,13 +253,8 @@ export function Emision12({
           </div>
           <div className="container_comment">
             <h1 className=""> comentarios</h1>
-            <CommentEmbed
-              commentId={this.props.article.featuredCommentId}
-              showMedia={true}
-              showParentComment={true}
-              width={420}
-              height={320}
-            />
+
+            <Disqus className={"Comentarios"} />
           </div>
         </div>
       </section>
