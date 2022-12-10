@@ -1,5 +1,3 @@
-import { Disqus } from "./disqus";
-
 export function Numero12({
   sec1,
   sec2,
@@ -217,10 +215,6 @@ export function Numero12({
                 </li>
               </ul>
             </div>
-          </div>
-          <div className="container_comment">
-            <h1 className=""> comentarios</h1>
-            <Disqus className={"Comentarios"} />
           </div>
         </div>
       </section>

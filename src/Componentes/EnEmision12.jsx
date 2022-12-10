@@ -1,8 +1,6 @@
 /* eslint-disable react/style-prop-object */
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
-import { Disqus } from "./disqus";
-
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Emision12({
   Fecha,
@@ -250,11 +248,6 @@ export function Emision12({
                 </li>
               </ul>
             </div>
-          </div>
-          <div className="container_comment">
-            <h1 className=""> comentarios</h1>
-
-            <Disqus className={"Comentarios"} />
           </div>
         </div>
       </section>

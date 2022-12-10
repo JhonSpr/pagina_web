@@ -1,8 +1,6 @@
 /* eslint-disable react/style-prop-object */
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
-import { Disqus } from "./disqus";
-
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Capitulos12({
   sec1,
@@ -754,10 +752,6 @@ export function Capitulos12({
                 </li>
               </ul>
             </div>
-          </div>
-          <div className="container_comment">
-            <h1 className="comment_text">¡DI ALGO!</h1>
-            <Disqus className={"Comentarios"} />
           </div>
         </div>
       </section>
