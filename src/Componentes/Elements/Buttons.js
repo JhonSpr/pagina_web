@@ -11,7 +11,7 @@ export default function Button() {
         {/*Aqui solo cambio el texto de mi boton, para el ejemplo */}
         {mostrarComponente ? `Ocultar` : `Mostrar`}
       </button>
-      <div className={mostrarComponente ? "show-element" : null}>
+      <div className={mostrarComponente ? "show-element" : <Disqus />}>
         {mostrarComponente && <Disqus />}
       </div>
     </>
