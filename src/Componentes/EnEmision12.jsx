@@ -1,7 +1,6 @@
 /* eslint-disable react/style-prop-object */
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
-import { Disqus } from "./disqus";
 import Button from "./Elements/Buttons";
 
 /* eslint-disable jsx-a11y/iframe-has-title */
