@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { Disqus } from "../disqus";
-import "./styles.css";
 
 export default function Button() {
   /*Estado para mostrar u ocultar*/
