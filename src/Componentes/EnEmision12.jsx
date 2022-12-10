@@ -2,6 +2,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
 import { Disqus } from "./disqus";
+import Button from "./Elements/Buttons";
 
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Emision12({
@@ -253,8 +254,7 @@ export function Emision12({
           </div>
           <div className="container_comment">
             <h1 className=""> comentarios</h1>
-
-            <Disqus className={"Comentarios"} />
+            <Button />
           </div>
         </div>
       </section>
