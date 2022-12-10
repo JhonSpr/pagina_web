@@ -31,14 +31,6 @@ class Button extends Component {
             </button>
 
             {/* Este es el boton 2 */}
-            <button
-              type="button"
-              id="btn-flex"
-              className="comment_text"
-              onClick={() => this.handleChange(true)}
-            >
-              Flex Quote
-            </button>
           </div>
         </div>
         <span>{this.state.checked ? <Disqus /> : <span>Error</span>}</span>
