@@ -1,5 +1,5 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
-import { Agregados, Noticia } from "./Noticias";
+import { Agregados } from "./Noticias";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 // import { Disqus } from "./disqus";
 import PauseOnHover from "./Scroll";
@@ -175,21 +175,6 @@ export function Inicio() {
                     </article>
                   </div>
                 </div>
-              </div>
-            </div>
-          </section>
-          ''
-          <section className="section page-home__latest-series">
-            <div className="container rounded-container div-noticias">
-              <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">
-                NOTICIAS
-              </h1>
-              <hr />
-              <div className="list-series">
-                <Noticia />
-              </div>
-              <div className="container_comment">
-                {/* <Disqus className={"Comentarios"} /> */}
               </div>
             </div>
           </section>
