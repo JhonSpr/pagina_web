@@ -1,8 +1,7 @@
 /* eslint-disable react/style-prop-object */
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
-import Button from "./Button";
-// import { Disqus } from "./disqus";
+import { Disqus } from "./disqus";
 
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Emision12({
@@ -254,8 +253,8 @@ export function Emision12({
           </div>
           <div className="container_comment">
             <h1 className=""> comentarios</h1>
-            <Button />
-            {/* <Disqus className={"Comentarios"} /> */}
+
+            <Disqus className={"Comentarios"} />
           </div>
         </div>
       </section>

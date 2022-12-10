@@ -1,4 +1,4 @@
-// import { Disqus } from "./disqus";
+import { Disqus } from "./disqus";
 
 export function Numero12({
   sec1,
@@ -219,7 +219,7 @@ export function Numero12({
             </div>
           </div>
           <div className="container_comment">
-            {/* <Disqus className={"Comentarios"} /> */}
+            <Disqus className={"Comentarios"} />
           </div>
         </div>
       </section>
