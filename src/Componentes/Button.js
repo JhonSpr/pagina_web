@@ -29,8 +29,6 @@ class Button extends Component {
             >
               Mostrar comentarios
             </button>
-
-            {/* Este es el boton 2 */}
           </div>
         </div>
         <span>{this.state.checked ? <Disqus /> : <span>Error</span>}</span>
