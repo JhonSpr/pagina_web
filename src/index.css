@@ -10,7 +10,6 @@
   animation-fill-mode: both;
   /*le indicas que animacion quieres aplicarle, animacion hecha por ti en un keyframe*/
   animation-name: fadeIn;
-  background-color: rgb(225, 225, 255);
 }
 
 .hide-element {
