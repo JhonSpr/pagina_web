@@ -12661,7 +12661,7 @@ function Videos() {
         path="/ver/bleach-sennen-kessen-hen-9"
         element={
           <Video
-            frame1={"https://sblongvu.com/e/u0veijxozcwd.html"}
+            frame1={"https://sbthe.com/e/u0veijxozcwd.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -12680,7 +12680,7 @@ function Videos() {
         path="/ver/bleach-sennen-kessen-hen-10"
         element={
           <Video
-            frame1={"https://sblongvu.com/e/7k25q7yl2utj.html"}
+            frame1={"https://sbthe.com/e/7k25q7yl2utj.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
             tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 10"}
