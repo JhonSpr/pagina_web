@@ -12694,7 +12694,7 @@ function Videos() {
         }
       />
       <Route
-        path="/ver/-11"
+        path="/ver/bleach-sennen-kessen-hen-11"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
