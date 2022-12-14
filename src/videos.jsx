@@ -8126,7 +8126,7 @@ function Videos() {
         path="/ver/fullmetal-alchemist-brotherhood-44"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbthe.com/e/3fth4y3egj7b.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
