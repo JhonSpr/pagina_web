@@ -1,6 +1,4 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
-import Pagination from "react-bootstrap/Pagination";
-
 import AnimePage1 from "../pages/AnimePage1";
 
 export function Page1() {
@@ -67,26 +65,8 @@ export function Page1() {
           <AnimePage1 />
         </div>
       </section>
-
       <div className="paginacion-contenedor">
         <ul>
-          <Pagination>
-            <Pagination.First />
-            <Pagination.Prev />
-            <Pagination.Item>{1}</Pagination.Item>
-            <Pagination.Ellipsis />
-
-            <Pagination.Item>{10}</Pagination.Item>
-            <Pagination.Item>{11}</Pagination.Item>
-            <Pagination.Item active>{12}</Pagination.Item>
-            <Pagination.Item>{13}</Pagination.Item>
-            <Pagination.Item disabled>{14}</Pagination.Item>
-
-            <Pagination.Ellipsis />
-            <Pagination.Item>{20}</Pagination.Item>
-            <Pagination.Next />
-            <Pagination.Last />
-          </Pagination>
           <li className="active">
             <a href="/animes">1</a>
           </li>
@@ -110,7 +90,7 @@ export function Page1() {
           </li>
 
           <a href="/animes page=2" className="siguiente">
-            Siguiente
+            »
           </a>
         </ul>
       </div>
