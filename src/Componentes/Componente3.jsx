@@ -8,7 +8,6 @@ import {
   AnimeRecommend4,
 } from "./AnimesRecommend";
 import Disqus from "./Elements/disqus";
-import Recommendations from "./Elements/Recommendations";
 
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Video({
@@ -91,7 +90,6 @@ export function Video({
                 <h1 className="title is-size-5 has-text-weight-light has-text-light pag-text">
                   Animes Gratis Online HD
                 </h1>
-                <Recommendations />
                 <Disqus />
               </div>
 
