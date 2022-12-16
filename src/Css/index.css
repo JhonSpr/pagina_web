@@ -645,7 +645,8 @@ textarea {
   z-index: 100;
 }
 .fa-play {
-  color: rgb(120, 50, 250) !important;
+  color: #00f4f8 !important;
+  font-size: 30px;
 }
 .pgnav {
   transition: 0.1s;
