@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
-import img from "../Data.json";
-import BookData from "../Data.json";
+import img from "../Json/Data.json";
+import BookData from "../Json/Data.json";
 import { Alertas } from "../index";
 import SearchBar from "../searchComponent";
 import { LoginButton } from "../login";

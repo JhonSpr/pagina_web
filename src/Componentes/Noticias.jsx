@@ -1,4 +1,4 @@
-import RecienAgregados from "../Data.json";
+import RecienAgregados from "../Json/Data.json";
 
 export function Agregados() {
   return RecienAgregados.slice(130, 160).map((emision) => {
