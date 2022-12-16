@@ -2,6 +2,7 @@
 import { Agregados } from "./Noticias";
 
 import PauseOnHover from "./Elements/Scroll";
+import Disqus from "./Elements/disqus";
 
 /* eslint-disable jsx-a11y/no-distracting-elements */
 export function Inicio() {
@@ -176,6 +177,7 @@ export function Inicio() {
                 </div>
               </div>
             </div>
+            <Disqus />
           </section>
         </div>
       </div>
