@@ -649,7 +649,7 @@ textarea {
   font-size: 30px !important;
 }
 .fa-play:hover {
-  color: rgb(255, 10, 0);
+  color: rgb(255, 10, 0) !important;
 }
 .serie-card:hover .fa-play {
   -webkit-transform: rotate(360deg);
