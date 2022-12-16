@@ -103,6 +103,7 @@ export function Video({
                     <AnimeRecommend3 />
                     <AnimeRecommend4 />
                   </div>
+                  <Disqus />
                 </div>
                 <Disqus />
               </div>
