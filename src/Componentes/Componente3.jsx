@@ -105,7 +105,6 @@ export function Video({
                   </div>
                   <Disqus />
                 </div>
-                <Disqus />
               </div>
             </div>
           </div>
