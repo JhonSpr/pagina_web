@@ -1,4 +1,5 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
+import Button from "react-bootstrap/Button";
 import ButtonGroup from "react-bootstrap/ButtonGroup";
 import ButtonToolbar from "react-bootstrap/ButtonToolbar";
 import AnimePage1 from "../pages/AnimePage1";
@@ -75,8 +76,10 @@ export function Page1() {
             aria-label="Toolbar with Button groups"
           >
             <ButtonGroup className="me-2" aria-label="First group">
-              <a variant="secondary">1</a> <a variant="secondary">2</a>{" "}
-              <a variant="secondary">3</a> <a variant="secondary">4</a>
+              <Button variant="secondary">1</Button>{" "}
+              <Button variant="secondary">2</Button>{" "}
+              <Button variant="secondary">3</Button>{" "}
+              <Button variant="secondary">4</Button>
             </ButtonGroup>
           </ButtonToolbar>
           <li className="active">
