@@ -7,7 +7,7 @@ import { BrowserRouter } from "react-router-dom";
 import App from "./home";
 import Videos from "./videos";
 import { Auth0Provider } from "@auth0/auth0-react";
-import AlertifyTest from "./alertifyTest";
+import AlertifyTest from "./Componentes/Elements/alertifyTest";
 import Menubar from "./Componentes/NavBar";
 
 export function Alertas() {
