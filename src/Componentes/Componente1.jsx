@@ -1,7 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
-import Button from "react-bootstrap/Button";
-import ButtonGroup from "react-bootstrap/ButtonGroup";
-import ButtonToolbar from "react-bootstrap/ButtonToolbar";
+import Pagination from "react-bootstrap/Pagination";
+
 import AnimePage1 from "../pages/AnimePage1";
 
 export function Page1() {
@@ -71,17 +70,23 @@ export function Page1() {
 
       <div className="paginacion-contenedor">
         <ul>
-          <ButtonToolbar
-            className="mb-3"
-            aria-label="Toolbar with Button groups"
-          >
-            <ButtonGroup className="me-2" aria-label="First group">
-              <Button variant="secondary">1</Button>{" "}
-              <Button variant="secondary">2</Button>{" "}
-              <Button variant="secondary">3</Button>{" "}
-              <Button variant="secondary">4</Button>
-            </ButtonGroup>
-          </ButtonToolbar>
+          <Pagination>
+            <Pagination.First />
+            <Pagination.Prev />
+            <Pagination.Item>{1}</Pagination.Item>
+            <Pagination.Ellipsis />
+
+            <Pagination.Item>{10}</Pagination.Item>
+            <Pagination.Item>{11}</Pagination.Item>
+            <Pagination.Item active>{12}</Pagination.Item>
+            <Pagination.Item>{13}</Pagination.Item>
+            <Pagination.Item disabled>{14}</Pagination.Item>
+
+            <Pagination.Ellipsis />
+            <Pagination.Item>{20}</Pagination.Item>
+            <Pagination.Next />
+            <Pagination.Last />
+          </Pagination>
           <li className="active">
             <a href="/animes">1</a>
           </li>
