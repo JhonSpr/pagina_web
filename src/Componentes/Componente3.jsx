@@ -33,7 +33,7 @@ export function Video({
                 <span className="text  has-text-centeredX has-text-light">
                   <a href="https://animekuns.netlify.app/">
                     <i class="fa-solid fa-house-chimney"></i>
-                  </a>{" "}
+                  </a>
                   <i class="fa-solid fa-arrow-right"></i>{" "}
                   <a
                     href="http://animekuns.netlify.app/animes"
