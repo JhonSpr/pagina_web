@@ -7,6 +7,7 @@ import {
   AnimeRecommend3,
   AnimeRecommend4,
 } from "./AnimesRecommend";
+import Disqus from "./Elements/disqus";
 
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Video({
@@ -104,6 +105,7 @@ export function Video({
                   </div>
                 </div>
               </div>
+              <Disqus />
             </div>
           </div>
         </section>
