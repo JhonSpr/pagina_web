@@ -1,5 +1,5 @@
 import React from "react";
-import Animes from "../Data.json";
+import Animes from "../Json/Data.json";
 import emisiones from "../Json/EnEmision.json";
 import proximos from "../Json/Proximamente.json";
 

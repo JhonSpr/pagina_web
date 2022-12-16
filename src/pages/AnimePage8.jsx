@@ -1,5 +1,5 @@
 import React from "react";
-import Animes from "../Data.json";
+import Animes from "../Json/Data.json";
 
 export default function AnimePage8() {
   return Animes.slice(168, 192).map((anime) => {
