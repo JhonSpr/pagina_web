@@ -31,10 +31,8 @@ export function Video({
             <div className="columns is-multiline">
               <div className="column is-12-mobile is-8-tablet is-9-desktop">
                 <Breadcrumb>
-                  <Breadcrumb.Item href="#">Home</Breadcrumb.Item>
-                  <Breadcrumb.Item href="https://getbootstrap.com/docs/4.0/components/breadcrumb/">
-                    Library
-                  </Breadcrumb.Item>
+                  <Breadcrumb.Item href="/">Home</Breadcrumb.Item>
+                  <Breadcrumb.Item href="/animes">animes</Breadcrumb.Item>
                   <Breadcrumb.Item active>
                     {anime + "" + numero}
                   </Breadcrumb.Item>
