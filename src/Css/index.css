@@ -1080,7 +1080,6 @@ textarea {
 .hoveroverlay {
   transform: none;
   opacity: 0;
-  background: rgba(0, 0, 0, 0.5);
   width: auto;
   position: absolute;
 }
