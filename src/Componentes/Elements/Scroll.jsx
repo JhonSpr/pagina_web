@@ -89,6 +89,7 @@ export default class AutoPlay extends Component {
                       borderRadius: "0",
                       margin: "0",
                       cursor: "pointer",
+                      border: "0",
                     }}
                   />
                 </a>
@@ -107,6 +108,7 @@ export default class AutoPlay extends Component {
                       borderRadius: "0",
                       margin: "0",
                       cursor: "pointer",
+                      border: "0",
                     }}
                   />
                 </a>
@@ -124,6 +126,7 @@ export default class AutoPlay extends Component {
                       borderRadius: "0",
                       margin: "0",
                       cursor: "pointer",
+                      border: "0",
                     }}
                   />
                 </a>
@@ -141,6 +144,7 @@ export default class AutoPlay extends Component {
                       borderRadius: "0",
                       margin: "0",
                       cursor: "pointer",
+                      border: "0",
                     }}
                   />
                 </a>
@@ -158,6 +162,7 @@ export default class AutoPlay extends Component {
                       borderRadius: "0",
                       margin: "0",
                       cursor: "pointer",
+                      border: "0",
                     }}
                   />
                 </a>
@@ -175,6 +180,7 @@ export default class AutoPlay extends Component {
                       borderRadius: "0",
                       margin: "0",
                       cursor: "pointer",
+                      border: "0",
                     }}
                   />
                 </a>
@@ -192,6 +198,7 @@ export default class AutoPlay extends Component {
                       borderRadius: "0",
                       margin: "0",
                       cursor: "pointer",
+                      border: "0",
                     }}
                   />
                 </a>
@@ -209,6 +216,7 @@ export default class AutoPlay extends Component {
                       borderRadius: "0",
                       margin: "0",
                       cursor: "pointer",
+                      border: "0",
                     }}
                   />
                 </a>
@@ -226,6 +234,7 @@ export default class AutoPlay extends Component {
                       borderRadius: "0",
                       margin: "0",
                       cursor: "pointer",
+                      border: "0",
                     }}
                   />
                 </a>
@@ -243,6 +252,7 @@ export default class AutoPlay extends Component {
                       borderRadius: "0",
                       margin: "0",
                       cursor: "pointer",
+                      border: "0",
                     }}
                   />
                 </a>
@@ -261,6 +271,7 @@ export default class AutoPlay extends Component {
                       borderRadius: "0",
                       margin: "0",
                       cursor: "pointer",
+                      border: "0",
                     }}
                   />
                 </a>
@@ -278,6 +289,7 @@ export default class AutoPlay extends Component {
                       borderRadius: "0",
                       margin: "0",
                       cursor: "pointer",
+                      border: "0",
                     }}
                   />
                 </a>
@@ -295,6 +307,7 @@ export default class AutoPlay extends Component {
                       borderRadius: "0",
                       margin: "0",
                       cursor: "pointer",
+                      border: "0",
                     }}
                   />
                 </a>
@@ -312,6 +325,7 @@ export default class AutoPlay extends Component {
                       borderRadius: "0",
                       margin: "0",
                       cursor: "pointer",
+                      border: "0",
                     }}
                   />
                 </a>
