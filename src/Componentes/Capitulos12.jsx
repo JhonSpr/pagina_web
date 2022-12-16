@@ -116,13 +116,13 @@ export function Numero12({
                 <b> Lista de episodios </b>
               </h1>
 
-              <ul className="anime-page__episode-list is-size-6 cuarenta-caps">
+              <ul className="anime-page__episode-list is-size-6">
                 <li>
                   <a
                     className="fa-play-circle d-inline-flex align-items-center is-rounded "
                     href={capituloAnime1}
                   >
-                    {anime} <span> Episodio 1</span>
+                    {anime} Episodio 1
                   </a>
                 </li>
                 <li>
@@ -130,7 +130,7 @@ export function Numero12({
                     className="fa-play-circle d-inline-flex align-items-center is-rounded "
                     href={capituloAnime2}
                   >
-                    {anime} <span> Episodio 2</span>
+                    {anime} Episodio 2
                   </a>
                 </li>
                 <li>
@@ -138,7 +138,7 @@ export function Numero12({
                     className="fa-play-circle d-inline-flex align-items-center is-rounded "
                     href={capituloAnime3}
                   >
-                    {anime} <span> Episodio 3</span>
+                    {anime} Episodio 3
                   </a>
                 </li>
                 <li>
@@ -146,7 +146,7 @@ export function Numero12({
                     className="fa-play-circle d-inline-flex align-items-center is-rounded "
                     href={capituloAnime4}
                   >
-                    {anime} <span> Episodio 4</span>
+                    {anime} Episodio 4
                   </a>
                 </li>
                 <li>
@@ -154,7 +154,7 @@ export function Numero12({
                     className="fa-play-circle d-inline-flex align-items-center is-rounded "
                     href={capituloAnime5}
                   >
-                    {anime} <span> Episodio 5</span>
+                    {anime} Episodio 5
                   </a>
                 </li>
                 <li>
@@ -162,7 +162,7 @@ export function Numero12({
                     className="fa-play-circle d-inline-flex align-items-center is-rounded "
                     href={capituloAnime6}
                   >
-                    {anime} <span> Episodio 6</span>
+                    {anime} Episodio 6
                   </a>
                 </li>
                 <li>
@@ -170,7 +170,7 @@ export function Numero12({
                     className="fa-play-circle d-inline-flex align-items-center is-rounded "
                     href={capituloAnime7}
                   >
-                    {anime} <span> Episodio 7</span>
+                    {anime} Episodio 7
                   </a>
                 </li>
                 <li>
@@ -178,7 +178,7 @@ export function Numero12({
                     className="fa-play-circle d-inline-flex align-items-center is-rounded "
                     href={capituloAnime8}
                   >
-                    {anime} <span> Episodio 8</span>
+                    {anime} Episodio 8
                   </a>
                 </li>
                 <li>
@@ -186,7 +186,7 @@ export function Numero12({
                     className="fa-play-circle d-inline-flex align-items-center is-rounded "
                     href={capituloAnime9}
                   >
-                    {anime} <span> Episodio 9</span>
+                    {anime} Episodio 9
                   </a>
                 </li>
                 <li>
@@ -194,7 +194,7 @@ export function Numero12({
                     className="fa-play-circle d-inline-flex align-items-center is-rounded "
                     href={capituloAnime10}
                   >
-                    {anime} <span> Episodio 10</span>
+                    {anime} Episodio 10
                   </a>
                 </li>
                 <li>
@@ -202,7 +202,7 @@ export function Numero12({
                     className="fa-play-circle d-inline-flex align-items-center is-rounded "
                     href={capituloAnime11}
                   >
-                    {anime} <span> Episodio 11</span>
+                    {anime} Episodio 11
                   </a>
                 </li>
                 <li>
@@ -210,7 +210,7 @@ export function Numero12({
                     className="fa-play-circle d-inline-flex align-items-center is-rounded "
                     href={capituloAnime12}
                   >
-                    {anime} <span> Episodio 12</span>
+                    {anime} Episodio 12
                   </a>
                 </li>
               </ul>
