@@ -3,6 +3,7 @@ import { Agregados } from "./Noticias";
 
 import PauseOnHover from "./Elements/Scroll";
 import Disqus from "./Elements/disqus";
+import CarouselFadeExample from "./Elements/carousel";
 
 /* eslint-disable jsx-a11y/no-distracting-elements */
 export function Inicio() {
@@ -25,6 +26,7 @@ export function Inicio() {
                 Emisiones
               </h1>
               <PauseOnHover />
+              <CarouselFadeExample />
             </div>
           </section>
           <section className="section page-home__latest-series">
