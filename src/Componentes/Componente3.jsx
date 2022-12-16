@@ -37,7 +37,6 @@ export function Video({
                   <i class="fa-solid fa-arrow-right"></i>{" "}
                   <a
                     href="http://animekuns.netlify.app/animes"
-                    target="_blank"
                     rel="noopener noreferrer"
                   >
                     Animes
