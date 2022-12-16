@@ -648,7 +648,7 @@ textarea {
   color: #00f4f8 !important;
   font-size: 30px;
 }
-.hoveroverlay:hover .fa-play {
+.serie-card:hover .fa-play {
   -webkit-transform: rotate(360deg);
   transform: rotate(360deg);
 }
