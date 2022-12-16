@@ -12557,7 +12557,7 @@ function Videos() {
             anime={"BLEACH: Sennen Kessen-hen "}
             numero={"3"}
             siguienteVideo={"/ver/bleach-sennen-kessen-hen-4"}
-            capitulosVideo={"/"}
+            capitulosVideo={"/bleach-sennen-kessen-hen"}
             anteriorVideo={"/ver/bleach-sennen-kessen-hen-2"}
           />
         }
