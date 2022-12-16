@@ -104,10 +104,10 @@ export function Video({
                     <AnimeRecommend4 />
                   </div>
                 </div>
+                <Disqus />
               </div>
             </div>
           </div>
-          <Disqus />
         </section>
       </div>
     </>
