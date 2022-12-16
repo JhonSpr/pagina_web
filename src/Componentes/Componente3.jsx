@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 /* eslint-disable react/style-prop-object */
-
+import Breadcrumb from "react-bootstrap/Breadcrumb";
 import {
   AnimeRecommend1,
   AnimeRecommend2,
@@ -30,20 +30,13 @@ export function Video({
           <div className="container">
             <div className="columns is-multiline">
               <div className="column is-12-mobile is-8-tablet is-9-desktop">
-                <span className="text  has-text-centeredX has-text-light">
-                  <a href="https://animekuns.netlify.app/">
-                    <i class="fa-solid fa-house-chimney"></i>
-                  </a>
-                  <i class="fa-solid fa-arrow-right"></i>{" "}
-                  <a
-                    href="http://animekuns.netlify.app/animes"
-                    rel="noopener noreferrer"
-                  >
-                    Animes
-                  </a>
-                  <i class="fa-solid fa-arrow-right"></i>
-                  {anime} {numero}
-                </span>
+                <Breadcrumb>
+                  <Breadcrumb.Item href="#">Home</Breadcrumb.Item>
+                  <Breadcrumb.Item href="https://getbootstrap.com/docs/4.0/components/breadcrumb/">
+                    Library
+                  </Breadcrumb.Item>
+                  <Breadcrumb.Item active>{anime + numero}</Breadcrumb.Item>
+                </Breadcrumb>
               </div>
 
               <div className="column is-12-mobile is-9-tablet is-9-desktop">
