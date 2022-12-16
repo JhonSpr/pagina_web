@@ -587,6 +587,9 @@ textarea {
     width: calc(33.3333333333% - 0.1em);
     margin: 0.05em;
   }
+  .overlay-dark {
+    display: none;
+  }
 }
 
 @media screen and (min-width: 768px) {
@@ -634,7 +637,6 @@ textarea {
 
 .hoveroverlay {
   transition: 0.1s;
-
   border-radius: 50%;
   width: auto;
   left: 50%;
