@@ -635,7 +635,6 @@ textarea {
 .hoveroverlay {
   transition: 0.1s;
   opacity: 0.8;
-  background: rgb(0, 0, 0);
   border-radius: 50%;
   width: auto;
   left: 50%;
