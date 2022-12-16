@@ -1496,7 +1496,3 @@ textarea {
 .slick-next {
   display: block !important;
 }
-
-#disqus_thread {
-  display: none;
-}
