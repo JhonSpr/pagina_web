@@ -26,8 +26,8 @@ export function Inicio() {
                 Emisiones
               </h1>
               <PauseOnHover />
-              <CarouselFadeExample />
             </div>
+            <CarouselFadeExample />
           </section>
           <section className="section page-home__latest-series">
             <div className="container rounded-container">
