@@ -8,7 +8,7 @@ import Disqus from "./Elements/disqus";
 export function Inicio() {
   return (
     <>
-      <title>Animekun - animes online HD</title>
+      <title>Animekuns - animes online HD</title>
 
       <div className="hero is-lightx is-fullheight">
         <div>
