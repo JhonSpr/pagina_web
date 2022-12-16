@@ -4,12 +4,12 @@ import img from "../Json/Data.json";
 import BookData from "../Json/Data.json";
 import { Alertas } from "../index";
 import SearchBar from "../searchComponent";
-import { LoginButton } from "../login";
-import LogoutButton from "../logout";
+import { LoginButton } from "./Elements/login";
+import LogoutButton from "./Elements/logout";
 import Profile from "../Perfil/perfil";
 import { useAuth0 } from "@auth0/auth0-react";
-import { LoginButtonMobile } from "../LoginMobile";
-import LogoutButtonMobile from "../LogoutMobile";
+import { LoginButtonMobile } from "./Elements/LoginMobile";
+import LogoutButtonMobile from "./Elements/LogoutMobile";
 import ProfileMobile from "../Perfil/perfilMobile";
 
 export default function Menubar() {
