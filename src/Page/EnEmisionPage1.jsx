@@ -20,17 +20,12 @@ export function EnEmisionPage1() {
             </div>
             <ul className="dropdown-menu dropdown-menu-dark">
               <li>
-                <a className="dropdown-item" href="/estado[]=finalizado">
-                  FINALIZADO
-                </a>
-              </li>
-              <li>
                 <a className="dropdown-item" href="/en-emision">
                   EN EMISIÓN
                 </a>
               </li>
               <li>
-                <a className="dropdown-item" href="/estado[]=proximamente">
+                <a className="dropdown-item" href="/proximamente">
                   PROXIMAMENTE
                 </a>
               </li>

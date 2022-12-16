@@ -3,7 +3,7 @@ import AnimePage2 from "../pages/AnimePage2";
 export function Page2() {
   return (
     <div>
-      <title>Animes Gratis Online HD</title>
+      <title>Animekuns - Anime Online HD</title>
 
       <section className="container items-animes">
         <section className="filtrador">
@@ -21,11 +21,6 @@ export function Page2() {
               Estado
             </div>
             <ul className="dropdown-menu dropdown-menu-dark">
-              <li>
-                <a className="dropdown-item" href="/estado[]=finalizado">
-                  FINALIZADO
-                </a>
-              </li>
               <li>
                 <a className="dropdown-item" href="/en-emision">
                   EN EMISIÓN
@@ -73,7 +68,7 @@ export function Page2() {
       <div className="paginacion-contenedor">
         <ul>
           <a href="/animes" className="anterior">
-            Anterior
+            «
           </a>
           <li className="paginacion">
             <a href="/animes">1</a>
@@ -98,7 +93,7 @@ export function Page2() {
           </li>
 
           <a href="/animes page=3" className="siguiente">
-            Siguiente
+            »
           </a>
         </ul>
       </div>
