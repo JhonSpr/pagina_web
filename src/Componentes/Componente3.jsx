@@ -108,7 +108,6 @@ export function Video({
               </div>
             </div>
           </div>
-          <Disqus />
         </section>
       </div>
     </>
