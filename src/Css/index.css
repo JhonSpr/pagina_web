@@ -1042,13 +1042,6 @@ textarea {
 .overlay-dark {
   display: block !important;
 }
-@media screen and (min-width: 1px) and (max-width: 850px) {
-  .noticia-card {
-    border-bottom: 2px solid rgb(100, 100, 100);
-    margin-bottom: 20px;
-    padding-bottom: 15px;
-  }
-}
 
 .overarchingdiv2 {
   height: 160px;
