@@ -2331,7 +2331,7 @@ function App() {
           path="/bleach-sennen-kessen-hen"
           element={
             <Emision12
-              tituloAnime={"BLEACH: Sennen Kessen-hen"}
+              tituloAnime={"BLEACH: Sennen Kessen-hen "}
               imagenAnime={
                 "https://i.postimg.cc/qBYYWBJZ/bleach-sennen-kessen-hen.jpg"
               }
