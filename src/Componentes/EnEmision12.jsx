@@ -245,7 +245,7 @@ export function Emision12({
                     className="fa-play-circle d-inline-flex align-items-center is-rounded "
                     href={capituloAnime13}
                   >
-                    {anime} <span> Episodio 13</span>
+                    {anime} Episodio 13
                   </a>
                 </li>
               </ul>
