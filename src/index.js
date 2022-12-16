@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import "./index.css";
-import "./bulma.min.css";
+import "./Css/index.css";
+import "./Css/bulma.min.css";
 import { BrowserRouter } from "react-router-dom";
 import App from "./home";
 import Videos from "./videos";
