@@ -1,6 +1,8 @@
 /* eslint-disable react/style-prop-object */
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
+import Disqus from "./Elements/disqus";
+
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Emision12({
   Fecha,
@@ -249,6 +251,7 @@ export function Emision12({
               </ul>
             </div>
           </div>
+          <Disqus />
         </div>
       </section>
     </>

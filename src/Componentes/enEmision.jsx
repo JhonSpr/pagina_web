@@ -24,11 +24,6 @@ export function EmisionesPage1() {
             </div>
             <ul className="dropdown-menu dropdown-menu-dark">
               <li>
-                <a className="dropdown-item" href="/finalizados">
-                  FINALIZADO
-                </a>
-              </li>
-              <li>
                 <a className="dropdown-item active" href="/emisiones">
                   EN EMISIÓN
                 </a>

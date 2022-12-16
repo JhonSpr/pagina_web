@@ -1,4 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
+
+import Disqus from "./Elements/disqus";
+
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Capitulos24({
   tituloAnime,
@@ -364,6 +367,7 @@ export function Capitulos24({
               </ul>
             </div>
           </div>
+          <Disqus />
         </div>
       </section>
     </>
