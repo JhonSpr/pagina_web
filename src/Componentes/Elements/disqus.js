@@ -39,10 +39,5 @@ export default function Disqus() {
     Please enable JavaScript to view the
     <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
   </noscript>;
-  return (
-    <>
-      <div id="disqus_recommendations"></div>
-      <div id="disqus_thread"></div>
-    </>
-  );
+  return <div id="disqus_thread"></div>;
 }
