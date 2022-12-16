@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-has-content */
 /* eslint-disable eqeqeq */
 import React, { useState } from "react";
-import Datas from "./Data.json";
+import Datas from "./Json/Data.json";
 
 function SearchBar({ placeholder, data }) {
   const [filteredData, setFilteredData] = useState([]);
