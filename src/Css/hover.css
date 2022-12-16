@@ -5,3 +5,6 @@
 .serie-card {
   overflow: hidden;
 }
+.is-rounded {
+  font-size: 15px;
+}
