@@ -35,7 +35,9 @@ export function Video({
                   <Breadcrumb.Item href="https://getbootstrap.com/docs/4.0/components/breadcrumb/">
                     Library
                   </Breadcrumb.Item>
-                  <Breadcrumb.Item active>{anime + numero}</Breadcrumb.Item>
+                  <Breadcrumb.Item active>
+                    {anime + "" + numero}
+                  </Breadcrumb.Item>
                 </Breadcrumb>
               </div>
 
