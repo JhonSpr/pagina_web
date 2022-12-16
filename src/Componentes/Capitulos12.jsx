@@ -1,3 +1,5 @@
+import Disqus from "./Elements/disqus";
+
 export function Numero12({
   sec1,
   sec2,
@@ -216,6 +218,7 @@ export function Numero12({
               </ul>
             </div>
           </div>
+          <Disqus />
         </div>
       </section>
     </>
