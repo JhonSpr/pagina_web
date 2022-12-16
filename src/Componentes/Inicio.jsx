@@ -174,8 +174,8 @@ export function Inicio() {
                       </ul>
                     </article>
                   </div>
+                  <Disqus />
                 </div>
-                <Disqus />
               </div>
             </div>
           </section>
