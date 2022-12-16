@@ -10,7 +10,7 @@ export default class AutoPlay extends Component {
       autoplay: true,
       speed: 100,
       swipeToSlide: true,
-      autoplaySpeed: 5000,
+      autoplaySpeed: 3000,
       touchMove: true,
       cssEase: "linear",
       PauseOnHover: true,
