@@ -1,0 +1,7 @@
+.serie-card:hover img {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+.serie-card {
+  overflow: hidden;
+}
