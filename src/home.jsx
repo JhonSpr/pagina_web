@@ -68,7 +68,7 @@ function App() {
           exact
           element={
             <Numero12
-              tituloAnime={"Akudama Drive"}
+              tituloAnime={"Akudama Drive "}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
@@ -99,14 +99,14 @@ function App() {
           path="/hanyo-no-yashahime-ni-no-shou"
           element={
             <Capitulos24
-              tituloAnime={"Hanyo no Yashahime ni no Shou"}
+              tituloAnime={"Hanyo no Yashahime ni no Shou "}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
               descripcion={
                 "¡Las hijas de Sesshomaru e Inuyasha se lanzan en una aventura que trasciende en el tiempo! En el Japón Feudal, las gemelas mitad demonio Towa y Setsuna son separadas durante un incendio forestal. Mientras busca desesperadamente a su hermana menor, Towa se encuentra un misterioso túnel que la transporta al Japón moderno, en donde es encontrada y puesta al cuidado del hermano de Kagome Higurashi, Sota y su familia. Diez años después, el túnel que conecta las dos eras es abierto de nuevo, permitiendo a Towa volver a reunirse con Setsuna, quien ahora se ha convertido en una Asesina de Youkais en conjunto con Kohaku. Pero lo peor es que Setsuna parece haber perdido sus recuerdos y ya no reconoce a Towa. Ahora uniéndose con Moroha, la hija de Inuyasha, y con Kagome, las tres viajarán entre dos eras en una aventura por recuperar un pasado olvidado."
               }
-              anime={"Hanyo no Yashahime ni no Shou"}
+              anime={"Hanyo no Yashahime ni no Shou "}
               tipo={"TV"}
               numeroEpisodios={"24"}
               estado={"Finalizado"}
@@ -144,14 +144,14 @@ function App() {
           path="/heion-sedai-no-idaten-tachi"
           element={
             <Numero12
-              tituloAnime={"Heion Sedai no Idaten Tachi"}
+              tituloAnime={"Heion Sedai no Idaten Tachi "}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
               descripcion={
                 "En la historia de este manga, los dioses aparecieron cuando la humanidad estaba al borde de la aniquilación por parte de los demonios. Deidades llamadas “Idaten” pelearon y sellaron a los demonios hace 800 años. Ahora, los “Idaten” ya no tiene experiencia en peleas y viven vidas pacíficas. Pero, al mismo tiempo, los demonios están reviviendo, y la batalla entre humanos, dioses y demonios está a punto de comenzar. ¿Cuál será el bando que se alce con la victoria en esta ocasión con las condiciones tan cambiadas?"
               }
-              anime={"Heion Sedai no Idaten Tachi"}
+              anime={"Heion Sedai no Idaten Tachi "}
               tipo={"TV"}
               numeroEpisodios={"11"}
               estado={"Finalizado"}
@@ -178,13 +178,15 @@ function App() {
           element={
             <Animes13
               tituloAnime={
-                "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2"
+                "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 "
               }
               descripcion={"Segunda parte de la segunda temporada del slime"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
-              anime={"Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2"}
+              anime={
+                "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 "
+              }
               tipo={"TV"}
               numeroEpisodios={"13"}
               estado={"Finalizado"}
@@ -235,14 +237,14 @@ function App() {
           path="/peach-boy-riverside"
           element={
             <Numero12
-              tituloAnime={"Peach Boy Riverside"}
+              tituloAnime={"Peach Boy Riverside "}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
               descripcion={
                 "Saltherine Aldarake, princesa del Reino de Aldarake, sueña con viajar por el mundo, un sueño peligroso en una tierra donde los monstruos deambulan por el campo a su antojo y los humanos viven detrás de muros altos y fuertes. Pero cuando un encuentro casual con la viajera Mikoto le da esperanza a su sueño, él lo rompe poco después, ya que se revela como nada menos que Momotaro, un despiadado asesino de demonios. Aunque horrorizada por la sangre que Momotaro deja atrás, Saltherine está más convencida que nunca de que necesita aprender sobre el mundo más allá de sus muros, y viaja ... siguiendo los pasos del misterioso, carismático y aterrador chico que conoció ese día..."
               }
-              anime={"Peach Boy Riverside"}
+              anime={"Peach Boy Riverside "}
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
@@ -268,14 +270,14 @@ function App() {
           path="/jujutsu-kaisen"
           element={
             <Capitulos24
-              tituloAnime={"Jujutsu Kaisen"}
+              tituloAnime={"Jujutsu Kaisen "}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
               descripcion={
                 "Un niño lucha... por 'la muerte justa'. Dificultad, arrepentimiento, vergüenza: los sentimientos negativos que sentimos los humanos se convierten en Maldiciones que acechan en nuestra vida diaria. Las maldiciones corren desenfrenadas por todo el mundo, capaces de llevar a la gente a una terrible desgracia e incluso a la muerte. Además, las maldiciones solo pueden ser exorcizadas por otra maldición. Itadori Yuji es un chico con una fuerza física tremenda, aunque vive una vida de escuela secundaria completamente normal. Un día, para salvar a un amigo que ha sido atacado por Maldiciones, se come el dedo del Espectro de Doble Cara, llevándose la Maldición a su propia alma. A partir de entonces, comparte un cuerpo con el Espectro de Doble Cara. Guiado por el más poderoso de los hechiceros, Gojo Satoru, Itadori es admitido en la Escuela Superior Técnica Metropolitana de Hechicería de Tokio, una organización que lucha contra las maldiciones ... y así comienza la heroica historia de un niño que se convirtió en una maldición para exorcizar una maldición. , una vida de la que nunca podría volver atrás."
               }
-              anime={"Jujutsu Kaisen"}
+              anime={"Jujutsu Kaisen "}
               tipo={"TV"}
               numeroEpisodios={"24"}
               estado={"Finalizado"}
@@ -311,14 +313,14 @@ function App() {
           path="/shingeki-no-bahamut:virgin-soul"
           element={
             <Capitulos24
-              tituloAnime={"Shingeki no Bahamut:Virgin Soul"}
+              tituloAnime={"Shingeki no Bahamut:Virgin Soul "}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
               descripcion={
                 "10 años después de que el mundo escapó de la destrucción debido al resurgimiento de Bahamut, los humanos en la capital real recolectan riqueza, los demonios son esclavizados para ayudar con el renacimiento de la capital y los dioses pierden su poder debido a una disminución de la piedad religiosa."
               }
-              anime={"Shingeki no Bahamut:Virgin Soul"}
+              anime={"Shingeki no Bahamut:Virgin Soul "}
               tipo={"TV"}
               numeroEpisodios={"24"}
               estado={"Finalizado"}
@@ -356,7 +358,7 @@ function App() {
           path="/castlevania-segunda-temporada"
           element={
             <Numero12
-              tituloAnime={"Castlevania Segunda Temporada"}
+              tituloAnime={"Castlevania Segunda Temporada "}
               descripcion={"Segunda temporada de Castlevania."}
               sec3={"sec"}
               hrefSecuela={"/castlevania"}
@@ -369,7 +371,7 @@ function App() {
               li10={"li"}
               li11={"li"}
               li12={"li"}
-              anime={"Castlevania 2nd Temporada"}
+              anime={"Castlevania 2nd Temporada "}
               tipo={"TV"}
               numeroEpisodios={"8"}
               estado={"Finalizado"}
@@ -392,7 +394,7 @@ function App() {
           path="/ao-no-exorcist:-kyoto-fujouou-hen"
           element={
             <Animes13
-              tituloAnime={"Ao no Exorcist Kyoto Fujouou Hen"}
+              tituloAnime={"Ao no Exorcist Kyoto Fujouou Hen "}
               sec2={"sec"}
               sec3={"sec"}
               textoSecuela={"Precuela"}
@@ -401,7 +403,7 @@ function App() {
               descripcion={
                 "A finales de la era Edo, un demonio conocido como el Rey Impuro mató a miles de personas. Tras vencer al demonio, los Caballeros de la Verdadera Cruz mantuvieron su ojo izquierdo sellado a salvo en la Academia, pero ahora ha sido robado. Al escuchar que el ladrón ha tomado por rehén a un niño, Yukio y Rin parten a ayudar. La investigación y la persecución llevará a Rin y a sus amigos hasta Kyoto, donde se verán involucrados en una oscura trama."
               }
-              anime={"Ao no Exorcist Kyoto Fujouou Hen"}
+              anime={"Ao no Exorcist Kyoto Fujouou Hen "}
               tipo={"TV"}
               numeroEpisodios={"13"}
               estado={"Finalizado"}
@@ -428,11 +430,11 @@ function App() {
           path="/fairy-gone"
           element={
             <Numero12
-              tituloAnime={"Fairy Gone"}
+              tituloAnime={"Fairy Gone "}
               descripcion={
                 "La historia nos trasladará a un mundo en el que las hadas poseen y residen en animales, proporcionándoles poderes especiales. Extrayendo quirúrgicamente los órganos a uno de estos animales e implantándoselos a un humano, los humanos pueden invocar parcialmente a las hadas y usarlas como armas. Estos humanos participarán en las guerras y serán conocidos como 'Soldados Hada'. Tras el fin de una larga guerra, estos Soldados Hada pierden su propósito y deben reintegrarse en la sociedad, aunque no todos tomarán el camino de la justicia. Nueve años después del fin de la guerra conocemos a Marlya, una nueva recluta en Dorothea, una organización dedicada a investigar y contrarrestar crímenes relacionados con hadas. Aun en tiempo de paz, la inestabilidad de la guerra todavía afecta al gobierno. Muchos criminales cargan con heridas de la guerra y los grupos terroristas buscan venganza por los actos de entonces. Una historia de soldados hada persiguiendo su propia justicia en un mundo caótico que intenta dejar atrás un conflicto."
               }
-              anime={"Fairy Gone"}
+              anime={"Fairy Gone "}
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
@@ -461,11 +463,11 @@ function App() {
           path="/dr-stone-ryusui"
           element={
             <Numero12
-              tituloAnime={"Dr Stone Ryusui"}
+              tituloAnime={"Dr Stone Ryusui "}
               descripcion={
                 "Episodio que sirve como puente entre la segunda y tercera temporada de Dr. Stone."
               }
-              anime={"Dr Stone Ryusui"}
+              anime={"Dr Stone Ryusui "}
               tipo={"Especial"}
               numeroEpisodios={"1"}
               estado={"Finalizado"}
@@ -494,7 +496,7 @@ function App() {
           path="/isekai-yakkyoku"
           element={
             <Numero12
-              tituloAnime={"Isekai Yakkyoku"}
+              tituloAnime={"Isekai Yakkyoku "}
               descripcion={
                 "Un joven farmacólogo e investigador en Japón murió por exceso de trabajo y reencarnó en una Europa paralela medieval. Se reencarnó como un aprendiz de 10 años de un famoso farmacéutico de la Corte Real, había alcanzado habilidades inhumanas de capacidad para ver a través de enfermedades, creación material y destrucción material. En una sociedad en la que proliferan las prácticas médicas dudosas, los precios se disparan a través del monopolio del gremio farmacéutico y los buenos medicamentos no están disponibles para los plebeyos. Fue reconocido por el Emperador en ese momento y abrió una Farmacia en la esquina del pueblo. Eliminará el fraude que se ha extendido por el mundo y entregará a los plebeyos una medicina verdaderamente efectiva que se desarrolló utilizando la farmacología actual. Así, el niño farmacéutico hará trampa utilizando sus conocimientos previos para crear medicamentos innovadores mientras ayuda a las personas del mundo paralelo, una historia sobre vivir su nueva vida al máximo esta vez."
               }
