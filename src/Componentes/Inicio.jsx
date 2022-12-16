@@ -3,7 +3,7 @@ import { Agregados } from "./Noticias";
 
 import PauseOnHover from "./Elements/Scroll";
 import Disqus from "./Elements/disqus";
-import CarouselFadeExample from "./Elements/carousel";
+import UncontrolledExample from "./Elements/carousel";
 
 /* eslint-disable jsx-a11y/no-distracting-elements */
 export function Inicio() {
@@ -27,7 +27,7 @@ export function Inicio() {
               </h1>
               <PauseOnHover />
             </div>
-            <CarouselFadeExample />
+            <UncontrolledExample />
           </section>
           <section className="section page-home__latest-series">
             <div className="container rounded-container">

@@ -1,12 +1,12 @@
 import Carousel from "react-bootstrap/Carousel";
 
-function CarouselFadeExample() {
+function UncontrolledExample() {
   return (
-    <Carousel fade>
+    <Carousel>
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://i.postimg.cc/Gpr6zMLL/isekai-ojisan.jpg"
+          src="holder.js/800x400?text=First slide&bg=373940"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -17,7 +17,7 @@ function CarouselFadeExample() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://i.postimg.cc/Gpr6zMLL/isekai-ojisan.jpg"
+          src="holder.js/800x400?text=Second slide&bg=282c34"
           alt="Second slide"
         />
 
@@ -29,7 +29,7 @@ function CarouselFadeExample() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://i.postimg.cc/Gpr6zMLL/isekai-ojisan.jpg"
+          src="holder.js/800x400?text=Third slide&bg=20232a"
           alt="Third slide"
         />
 
@@ -44,4 +44,4 @@ function CarouselFadeExample() {
   );
 }
 
-export default CarouselFadeExample;
+export default UncontrolledExample;
