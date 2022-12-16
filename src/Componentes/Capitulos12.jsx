@@ -210,7 +210,7 @@ export function Numero12({
                     className="fa-play-circle d-inline-flex align-items-center is-rounded "
                     href={capituloAnime12}
                   >
-                    {anime} <span> Episodio 12</span>
+                    {anime} + " Episodio 12"
                   </a>
                 </li>
               </ul>
