@@ -1,8 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
-
-import Disqus from "./Elements/disqus";
-
 /* eslint-disable jsx-a11y/iframe-has-title */
+import Disqus from "../Componentes/Elements/disqus";
 export function Capitulos24({
   tituloAnime,
   imagenAnime,
@@ -361,7 +359,7 @@ export function Capitulos24({
                     className="fa-play-circle d-inline-flex align-items-center is-rounded "
                     href={capituloAnime24}
                   >
-                    {anime} + "Episodio" +{numeroCapitulo24}
+                    {anime} <span>Episodio{numeroCapitulo24}</span>
                   </a>
                 </li>
               </ul>
