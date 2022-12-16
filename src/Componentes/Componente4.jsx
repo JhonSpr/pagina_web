@@ -361,7 +361,7 @@ export function Capitulos24({
                     className="fa-play-circle d-inline-flex align-items-center is-rounded "
                     href={capituloAnime24}
                   >
-                    {anime} <span>Episodio{numeroCapitulo24}</span>
+                    {anime} + "Episodio" +{numeroCapitulo24}
                   </a>
                 </li>
               </ul>
