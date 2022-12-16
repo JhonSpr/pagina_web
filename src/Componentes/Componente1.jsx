@@ -28,7 +28,7 @@ export function Page1() {
                 </a>
               </li>
               <li>
-                <a className="dropdown-item" href="/proximos">
+                <a className="dropdown-item" href="/proximamente">
                   PROXIMAMENTE
                 </a>
               </li>
