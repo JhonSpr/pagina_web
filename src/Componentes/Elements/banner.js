@@ -1,7 +1,7 @@
 import React from "react";
 import banner from "../../Json/Banners.json";
 export function Banner() {
-  let end = 3;
+  let end = 2;
   let RandomNumber = Math.floor(Math.random() * end);
   console.log(RandomNumber);
 
