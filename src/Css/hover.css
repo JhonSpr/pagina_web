@@ -15,9 +15,3 @@
   opacity: 0.1;
   margin-left: -23px;
 }
-
-@media (max-width: 999px) {
-  .image_baner {
-    display: none;
-  }
-}
