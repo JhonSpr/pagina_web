@@ -1,3 +1,4 @@
+import { Banner } from "./Elements/banner";
 import Disqus from "./Elements/disqus";
 
 export function Numero12({
@@ -37,12 +38,8 @@ export function Numero12({
       <title>{anime} Online</title>
 
       <section className="section">
-      <div>
-          <img
-            src="https://i.waifu.pics/0W~KpRc.jpg"
-            alt=""
-            className="image_baner"
-          />
+        <div>
+          <Banner />
         </div>
         <div className="container">
           <div className="columns is-mobile is-multiline">

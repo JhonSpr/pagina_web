@@ -58,11 +58,7 @@ export function Emision12({
 
       <section className="section">
         <div>
-          <img
-            src="https://i.waifu.pics/0W~KpRc.jpg"
-            alt=""
-            className="image_baner"
-          />
+          <Banner />
         </div>
         <div className="container">
           <div className="columns is-mobile is-multiline">

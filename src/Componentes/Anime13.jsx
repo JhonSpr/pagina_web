@@ -1,6 +1,7 @@
 /* eslint-disable react/style-prop-object */
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
+import { Banner } from "./Elements/banner";
 import Disqus from "./Elements/disqus";
 
 /* eslint-disable jsx-a11y/iframe-has-title */
@@ -58,11 +59,7 @@ export function Animes13({
 
       <section className="section">
         <div>
-          <img
-            src="https://i.waifu.pics/0W~KpRc.jpg"
-            alt=""
-            className="image_baner"
-          />
+          <Banner />
         </div>
         <div className="container">
           <div className="columns is-mobile is-multiline">
