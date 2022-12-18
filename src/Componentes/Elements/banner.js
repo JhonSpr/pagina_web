@@ -6,6 +6,10 @@ export function Banner() {
   console.log(RandomNumber);
 
   return (
-    <img src={banner && banner[RandomNumber].image} className="image_baner" />
+    <img
+      src={banner && banner[RandomNumber].image}
+      className="image_baner"
+      alt="banners"
+    />
   );
 }
