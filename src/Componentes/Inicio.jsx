@@ -10,7 +10,7 @@ export function Inicio() {
     // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
     var d = document,
       s = d.createElement("script"); // IMPORTANT: Replace EXAMPLE with your forum shortname!
-    s.src = "https://EXAMPLE.disqus.com/recommendations.js";
+    s.src = "https://animekuns-1.disqus.com/recommendations.js";
     s.setAttribute("data-timestamp", +new Date());
     (d.head || d.body).appendChild(s);
   })();
