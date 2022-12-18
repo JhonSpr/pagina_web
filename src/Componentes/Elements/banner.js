@@ -1,5 +1,5 @@
 import React from "react";
-import Banner from "../../Json";
+import Banner from "../../Json/Banners.json";
 export function Banner() {
   let end = 3;
   let RandomNumber = Math.floor(Math.random() * end);
