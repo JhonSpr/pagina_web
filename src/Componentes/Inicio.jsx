@@ -6,6 +6,21 @@ import Disqus from "./Elements/disqus";
 
 /* eslint-disable jsx-a11y/no-distracting-elements */
 export function Inicio() {
+  (function () {
+    // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+    var d = document,
+      s = d.createElement("script"); // IMPORTANT: Replace EXAMPLE with your forum shortname!
+    s.src = "https://EXAMPLE.disqus.com/recommendations.js";
+    s.setAttribute("data-timestamp", +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+
+  <noscript>
+    Please enable JavaScript to view the
+    <a href="https://disqus.com/?ref_noscript" rel="nofollow">
+      comments powered by Disqus.
+    </a>
+  </noscript>;
   return (
     <>
       <title>Animekuns - animes online HD</title>
@@ -175,6 +190,7 @@ export function Inicio() {
                     </article>
                   </div>
                   <Disqus />
+                  <div id="disqus_recommendations"></div>
                 </div>
               </div>
             </div>
