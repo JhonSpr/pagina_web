@@ -26,7 +26,10 @@ export function Inicio() {
       <title>Animekuns - animes online HD</title>
 
       <div className="hero is-lightx is-fullheight">
-        <div style={{ image }}>
+        <div className="image_baner">
+          <img src="https://i.waifu.pics/0W~KpRc.jpg" alt="" />
+        </div>
+        <div>
           <section className="section page-home__latest-series">
             <div
               className="container rounded-container"
