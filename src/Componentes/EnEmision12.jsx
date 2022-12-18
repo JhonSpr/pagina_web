@@ -1,6 +1,7 @@
 /* eslint-disable react/style-prop-object */
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
+import { Banner } from "./Elements/banner";
 import Disqus from "./Elements/disqus";
 
 /* eslint-disable jsx-a11y/iframe-has-title */
