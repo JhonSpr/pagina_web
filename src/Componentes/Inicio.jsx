@@ -26,7 +26,7 @@ export function Inicio() {
       <title>Animekuns - animes online HD</title>
 
       <div className="hero is-lightx is-fullheight">
-        <div>
+        <div style={{ image }}>
           <section className="section page-home__latest-series">
             <div
               className="container rounded-container"
