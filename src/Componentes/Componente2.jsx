@@ -158,9 +158,14 @@ export function Capitulos12({
       <title>{tituloAnime}</title>
 
       <section className="section">
-        <div className="image_baner">
-          <img src="https://i.waifu.pics/0W~KpRc.jpg" alt="" />
-        </div>
+      <div
+          className="image_baner"
+          style={{
+            backgroundImage: URL("https://i.waifu.pics/0W~KpRc.jpg"),
+            width: 100,
+            height: 100,
+          }}
+        ></div>
         <div className="container">
           <div className="columns is-mobile is-multiline">
             <div className="column is-12-mobile xis-3-tablet xis-3-desktop xhas-background-danger is-narrow-tablet is-narrow-desktop">
