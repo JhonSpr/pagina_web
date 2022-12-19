@@ -37,7 +37,7 @@ function SearchBar({ placeholder, data }) {
       </div>
       {filteredData.length != 0 &&
         Datas.map((data) => {
-          return setTimeout(() => {
+          return (
             <div className="dataResult">
               {filteredData.length == 0}
               {filteredData.slice(0, 3).map((value) => {
@@ -55,8 +55,8 @@ function SearchBar({ placeholder, data }) {
                   </a>
                 );
               })}
-            </div>;
-          });
+            </div>
+          );
         })}
     </div>
   );
