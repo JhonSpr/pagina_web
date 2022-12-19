@@ -156,11 +156,11 @@ export function Capitulos12({
 }) {
   return (
     <>
-      <title>{tituloAnime}</title>
+      <title>{anime} Online HD</title>
 
       <section className="section">
         <div>
-        <Banner/>
+          <Banner />
         </div>
         <div className="container">
           <div className="columns is-mobile is-multiline">

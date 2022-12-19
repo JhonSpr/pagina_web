@@ -60,7 +60,7 @@ export function Capitulos24({
 }) {
   return (
     <>
-      <title>{tituloAnime}</title>
+      <title>{anime} Online HD</title>
       <nav className="navbar navbar-expand-lg bg-dark">
         <div className="container-fluid">
           <a className="navbar-brand item-nav" href="/">

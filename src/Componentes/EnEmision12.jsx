@@ -55,7 +55,7 @@ export function Emision12({
 }) {
   return (
     <>
-      <title>{tituloAnime}</title>
+      <title>{anime} Online HD</title>
 
       <section className="section">
         <div>

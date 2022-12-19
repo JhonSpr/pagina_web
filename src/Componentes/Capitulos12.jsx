@@ -36,7 +36,7 @@ export function Numero12({
 }) {
   return (
     <>
-      <title>{anime} Online</title>
+      <title>{anime} Online HD</title>
 
       <section className="section">
         <div>
