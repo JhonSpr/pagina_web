@@ -32,6 +32,7 @@ export function Numero12({
   capituloAnime11,
   capituloAnime12,
   imagenAnime,
+  li12,
 }) {
   return (
     <>
@@ -211,7 +212,7 @@ export function Numero12({
                     {anime} Episodio 11
                   </a>
                 </li>
-                <li>
+                <li className={li12}>
                   <a
                     className="fa-play-circle d-inline-flex align-items-center is-rounded "
                     href={capituloAnime12}
