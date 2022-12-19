@@ -28,7 +28,7 @@
   border-bottom: #00f4f8 solid 1px;
 } */
 
-.navbar-item::before {
+.navbar-item .nav-link::before {
   content: ’’ !important;
   position: absolute !important;
   bottom: 0 !important;
@@ -41,9 +41,9 @@
   transform-origin: left !important;
   transition: transform 0.5s ease-in-out !important;
 }
-.navbar-item:hover::before {
+.navbar-item:hover .nav-link::before {
   transform: scaleX(1) !important;
 }
-.navbar-item[data-animation="to-left"]::before {
+.navbar-item[data-animation="to-left"] .nav-link::before {
   transform-origin: right !important;
 }
