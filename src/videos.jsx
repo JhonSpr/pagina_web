@@ -753,7 +753,7 @@ function Videos() {
             numero={"3"}
             siguienteVideo={"/ver/heion-sedai-no-idaten-tachi-4"}
             capitulosVideo={"/heion-sedai-no-idaten-tachi"}
-            anteriorVideo={"/ver/-2"}
+            anteriorVideo={"/ver/heion-sedai-no-idaten-tachi-2"}
           />
         }
       />
