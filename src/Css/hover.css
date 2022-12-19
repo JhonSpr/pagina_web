@@ -28,6 +28,6 @@
   background-size: 0% 2px;
   transition: 0.1s;
 }
-.navbar-item:hover .navbar-item:focus {
+.navbar-item:hover {
   border-bottom: 1px solid #00f4f8;
 }
