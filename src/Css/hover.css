@@ -29,5 +29,5 @@
   transition: background-size 0.3s;
 }
 .item_nav:hover .item_nav:focus {
-  background-size: 100% 2px;
+  background-size: 100% 2px !important;
 }
