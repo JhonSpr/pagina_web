@@ -38,6 +38,7 @@ export default function Menubar() {
               aria-label="menu"
               aria-expanded="false"
               data-target="navbarText"
+              data="hamburger-menu"
             >
               <span className="line1"></span>
               <span className="line2"></span>
