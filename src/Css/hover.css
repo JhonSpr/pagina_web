@@ -44,3 +44,6 @@
 .navbar-item a:hover::before {
   transform: scaleX(1);
 }
+.navbar-item[data-animation="to-left"] a::before {
+  transform-origin: right;
+}
