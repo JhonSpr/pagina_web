@@ -20,45 +20,48 @@ function SearchBar({ placeholder, data }) {
   };
 
   return (
-    <div className="search">
-      <div className="searchInputs">
-        <li className="navbar-item">
-          <input
-            type="text"
-            placeholder={placeholder}
-            value={wordEntered}
-            onChange={handleFilter}
-            className="input is-orange is-rounded"
-            autoCorrect="off"
-            autoSave="off"
-          />
-          <i className="fa-solid fa-search"></i>
-        </li>
+    <form action="" method="get">
+      <div className="search">
+        <div className="searchInputs">
+          <li className="navbar-item">
+            <input
+              type="text"
+              placeholder={placeholder}
+              value={wordEntered}
+              onChange={handleFilter}
+              className="input is-orange is-rounded"
+              autoCorrect="off"
+              autoSave="off"
+            />
+            <i className="fa-solid fa-search"></i>
+          </li>
+        </div>
+
+        {filteredData.length != 0 &&
+          Datas.map((data) => {
+            return (
+              <div className="dataResult">
+                {filteredData.length == 0}
+                {filteredData.slice(0, 3).map((value) => {
+                  return (
+                    <a
+                      className="dataItem"
+                      href={value.link}
+                      title={value.title.toLowerCase()}
+                      key={value.title}
+                    >
+                      <img src={value.img} alt="**" className="icono-search" />
+                      <span className="span-search">
+                        {value.title.toLowerCase()}
+                      </span>
+                    </a>
+                  );
+                })}
+              </div>
+            );
+          })}
       </div>
-      {filteredData.length != 0 &&
-        Datas.map((data) => {
-          return (
-            <div className="dataResult">
-              {filteredData.length == 0}
-              {filteredData.slice(0, 3).map((value) => {
-                return (
-                  <a
-                    className="dataItem"
-                    href={value.link}
-                    title={value.title.toLowerCase()}
-                    key={value.title}
-                  >
-                    <img src={value.img} alt="**" className="icono-search" />
-                    <span className="span-search">
-                      {value.title.toLowerCase()}
-                    </span>
-                  </a>
-                );
-              })}
-            </div>
-          );
-        })}
-    </div>
+    </form>
   );
 }
 
