@@ -22,7 +22,6 @@ import { Capitulos24 } from "./Componentes/Capitulos24";
 import { Inicio } from "./Componentes/Inicio";
 import { Policy } from "./Componentes/Policy";
 import { EmisionesPage1 } from "./Componentes/enEmision";
-
 function App() {
   return (
     <div>
