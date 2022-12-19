@@ -35,7 +35,7 @@
   --text: #18272f;
   --counter: #30b67d;
 }
-.nav_item {
+.nav-link {
   position: relative;
   transition: color 0.3s ease-in-out;
 }
