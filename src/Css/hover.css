@@ -65,3 +65,8 @@
 .visible_menu span:nth-child(3) {
   transform: rotate(-45deg) translate(-3px, 3px);
 }
+
+.visible_menu .navbar-nav {
+  left: 0;
+  opacity: 1;
+}
