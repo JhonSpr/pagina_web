@@ -56,7 +56,7 @@ function SearchBar({ placeholder, data }) {
                 );
               })}
             </div>;
-          }, 2000);
+          });
         })}
     </div>
   );
