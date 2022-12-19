@@ -21,10 +21,10 @@
     display: none;
   }
 }
-.navbar-item {
+.nav-link {
   transition: 0.1s;
 }
-.navbar-item:hover {
+.nav-link:hover {
   /* border-bottom: 1px solid #00f4f8; */
   outline: #00f4f8 solid 1px;
 }
