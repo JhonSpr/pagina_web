@@ -14,6 +14,8 @@ function SearchBar({ placeholder, data }) {
     });
     if (searchWord === "") {
       setFilteredData([]);
+    } else if (searchWord === newFilter) {
+      return <div>Loading...</div>;
     } else {
       setFilteredData(newFilter);
     }
