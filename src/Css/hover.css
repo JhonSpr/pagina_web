@@ -21,13 +21,13 @@
     display: none;
   }
 }
-.item_nav {
+.nav-link {
   background-image: linear-gradient(currentColor, currentColor);
   background-position: 0% 100%;
   background-repeat: no-repeat;
   background-size: 0% 2px;
   transition: 0.1s;
 }
-.item_nav:hover .item_nav:focus {
+.nav-link:hover .nav-link:focus {
   border-bottom: 1px solid #00f4f8;
 }
