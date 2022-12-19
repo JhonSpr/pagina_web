@@ -23,8 +23,8 @@
 }
 .nav-link {
   transition: 0.1s;
-  transform-origin: center;
 }
 .nav-link:hover {
   border-bottom: #00f4f8 solid 1px;
+  transform-origin: left;
 }
