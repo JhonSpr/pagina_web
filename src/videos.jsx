@@ -12476,9 +12476,7 @@ function Videos() {
           <Video
             frame1={"https://sblongvu.com/e/yk8ab737ahw9.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
+            contSiguienteClass={"disable"}
             tituloAnime={"isekai ojisan Capitulo 11"}
             tituloPag={"Animekun"}
             anime={"isekai ojisan "}
