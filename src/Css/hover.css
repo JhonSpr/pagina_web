@@ -26,8 +26,8 @@
   background-position: 0% 100%;
   background-repeat: no-repeat;
   background-size: 0% 2px;
-  transition: background-size 0.3s;
+  transition: 0.1s;
 }
 .item_nav:hover .item_nav:focus {
-  background-size: 100% 2px !important;
+  border-bottom: 1px solid #00f4f8;
 }
