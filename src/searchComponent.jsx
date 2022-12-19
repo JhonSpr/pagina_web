@@ -21,7 +21,10 @@ function SearchBar({ placeholder, data }) {
 
   return (
     <form
-      action={`https://animekuns.netlify.app/` + wordEntered.replace(/ /g, "-")}
+      action={
+        `https://animekuns.netlify.app/` +
+        wordEntered.replace(/ /g, "-").toLocaleLowerCase()
+      }
     >
       <div className="search">
         <div className="searchInputs">
