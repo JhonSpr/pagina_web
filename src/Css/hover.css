@@ -20,6 +20,9 @@
   .image_baner {
     display: none;
   }
+  .nav-link:hover {
+    transform-origin: 0%;
+  }
 }
 /* .nav-link {
   transition: 0.1s;
