@@ -20,9 +20,7 @@ function SearchBar({ placeholder, data }) {
   };
 
   return (
-    <form
-      action={`https://animekuns.netlify.app/ver/fullmetal-alchemist-brotherhood-50`}
-    >
+    <form action={`https://animekuns.netlify.app/` + wordEntered}>
       <div className="search">
         <div className="searchInputs">
           <li className="navbar-item">
