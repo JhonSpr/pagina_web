@@ -35,11 +35,11 @@
   --text: #18272f;
   --counter: #30b67d;
 }
-.nav-link {
+.nav_item {
   position: relative;
   transition: color 0.3s ease-in-out;
 }
-.nav_item::before {
+.nav-link::before {
   content: "";
   position: absolute;
   top: 100%;
@@ -49,9 +49,9 @@
   transform: scaleX(0);
   transition: transform 0.3s ease-in-out;
 }
-.nav_item:hover {
+.nav-link:hover {
   color: var(--link-1);
 }
-.nav_item:hover::before {
+.nav-link:hover::before {
   transform: scaleX(1);
 }
