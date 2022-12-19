@@ -34,12 +34,12 @@ export default function Menubar() {
           >
             <a
               role="button"
-              className="navbar-burger burger"
+              className="navbar-burger burger menu-burger"
               aria-label="menu"
               aria-expanded="false"
               data-target="navbarText"
             >
-              <div class="menu-burger">☰</div>
+              ☰
             </a>
           </div>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
