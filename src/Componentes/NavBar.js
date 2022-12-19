@@ -38,7 +38,6 @@ export default function Menubar() {
               aria-label="menu"
               aria-expanded="false"
               data-target="navbarText"
-              id="menu_on"
             >
               <span className="line1"></span>
               <span className="line2"></span>
