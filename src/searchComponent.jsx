@@ -7,13 +7,11 @@ function SearchBar({ placeholder, data }) {
   const [filteredData, setFilteredData] = useState([]);
   const [wordEntered, setWordEntered] = useState("");
   const handleFilter = (event) => {
-    setTimeout(() => {
-      const searchWord = event.target.value;
-      setWordEntered(searchWord);
-      const newFilter = data.filter((value) => {
-        return value.title.toLowerCase().includes(searchWord.toLowerCase());
-      });
-    }, 2000);
+    const searchWord = event.target.value;
+    setWordEntered(searchWord);
+    const newFilter = data.filter((value) => {
+      return value.title.toLowerCase().includes(searchWord.toLowerCase());
+    });
     if (searchWord === "") {
       setFilteredData([]);
     } else {
@@ -39,7 +37,7 @@ function SearchBar({ placeholder, data }) {
       </div>
       {filteredData.length != 0 &&
         Datas.map((data) => {
-          return (
+          return setTimeout(() => {
             <div className="dataResult">
               {filteredData.length == 0}
               {filteredData.slice(0, 3).map((value) => {
@@ -57,8 +55,8 @@ function SearchBar({ placeholder, data }) {
                   </a>
                 );
               })}
-            </div>
-          );
+            </div>;
+          }, 2000);
         })}
     </div>
   );
