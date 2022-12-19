@@ -20,7 +20,9 @@ function SearchBar({ placeholder, data }) {
   };
 
   return (
-    <form action={`https://animekuns.netlify.app/` + wordEntered}>
+    <form
+      action={`https://animekuns.netlify.app/` + wordEntered.replace(/ /g, "-")}
+    >
       <div className="search">
         <div className="searchInputs">
           <li className="navbar-item">
