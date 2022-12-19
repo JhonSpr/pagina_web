@@ -46,17 +46,17 @@ export default function Menubar() {
           </div>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0 cont-ul">
-              <li className="navbar-item mobile item-nav">
+              <li className="navbar-item mobile item-nav nav_item">
                 <a href={"/"} className="nav-link item-nav">
                   Inicio
                 </a>
               </li>
-              <li className="navbar-item item-nav first-item_desktop">
+              <li className="navbar-item item-nav first-item_desktop nav_item">
                 <a href={"/animes"} className="nav-link item-nav">
                   Animes
                 </a>
               </li>
-              <li className="navbar-item item-nav">
+              <li className="navbar-item item-nav nav_item">
                 <a href={"/emisiones"} className="nav-link item-nav">
                   Emisiones
                 </a>
