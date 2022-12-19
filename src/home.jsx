@@ -1895,8 +1895,8 @@ function App() {
               sec3={"disable"}
               tipo={"TV"}
               estado={"En Emisión"}
-              numeroEpisodios={"7"}
-              Fecha={"Jueves 24 de Noviembre"}
+              numeroEpisodios={"11"}
+              Fecha={"Jueves 22 de Diciembre"}
               capituloAnime1={"/ver/isekai-ojisan-1"}
               capituloAnime2={"/ver/isekai-ojisan-2"}
               capituloAnime3={"/ver/isekai-ojisan-3"}
@@ -1910,10 +1910,6 @@ function App() {
               capituloAnime11={"/ver/isekai-ojisan-11"}
               capituloAnime12={"/ver/isekai-ojisan-12"}
               capituloAnime13={"/ver/isekai-ojisan-13"}
-              li8={"disable"}
-              li9={"disable"}
-              li10={"disable"}
-              li11={"disable"}
               li12={"disable"}
               li13={"disable"}
             />
