@@ -64,3 +64,29 @@
   box-shadow: 0 !important;
   border-radius: 10px !important;
 }
+.after-button {
+  background: #111 !important;
+  padding: 6px;
+  text-align: center;
+  background-color: #fff;
+  border-color: #dbdbdb;
+  border-width: 1px;
+  color: #363636;
+  cursor: pointer;
+  justify-content: center;
+  text-align: center;
+  white-space: nowrap;
+  border-radius: 0 8px 8px 0px;
+}
+.before-button {
+  background: #111 !important;
+  text-align: center;
+  background-color: #fff;
+  border-width: 1px;
+  cursor: pointer;
+  justify-content: center;
+  text-align: center;
+  white-space: nowrap;
+  border-radius: 8px 0px 0px 8px;
+  padding: 6px;
+}
