@@ -43,7 +43,7 @@ function SearchBar({ placeholder, data }) {
         </div>
 
         {filteredData.length != 0 &&
-          Datas.map((data) => {
+          Datas.map(() => {
             return (
               <div className="dataResult">
                 {filteredData.length == 0}
