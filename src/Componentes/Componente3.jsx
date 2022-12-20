@@ -36,7 +36,7 @@ export function Video({
                   <Breadcrumb.Item href="/">Home</Breadcrumb.Item>
                   <Breadcrumb.Item href="/animes">animes</Breadcrumb.Item>
                   <Breadcrumb.Item active>
-                    {anime + "" + numero}
+                    {anime + " " + numero}
                   </Breadcrumb.Item>
                 </Breadcrumb>
               </div>
