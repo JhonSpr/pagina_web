@@ -34,8 +34,8 @@ function SearchBar({ placeholder, data }) {
               placeholder={placeholder}
               value={wordEntered}
               onChange={handleFilter}
-              className="input is-orange is-rounded"
-              autoCorrect="off"
+              className="input"
+              autoCorrect="on"
               autoSave="off"
             />
             <i className="fa-solid fa-search"></i>
