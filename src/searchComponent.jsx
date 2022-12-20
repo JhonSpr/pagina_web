@@ -23,7 +23,7 @@ function SearchBar({ placeholder, data }) {
     <form
       action={
         `https://animekuns.netlify.app/` +
-        data.title.replace(/ /g, "-").toLocaleLowerCase()
+        wordEntered.replace(/ /g, "-").toLocaleLowerCase()
       }
     >
       <div className="search">
