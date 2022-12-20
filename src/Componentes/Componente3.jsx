@@ -56,7 +56,10 @@ export function Video({
                   <div className="column is-12-mobile is-4-tablet is-3-desktop">
                     <div className="columns is-variable is-1 cont-opciones">
                       <div className={contAnteriorClass}>
-                        <a href={anteriorVideo} className="is-fullwidth">
+                        <a
+                          href={anteriorVideo}
+                          className="is-fullwidth before-button"
+                        >
                           <i className="fa fa-arrow-left"></i>&nbsp;
                         </a>
                       </div>
@@ -68,7 +71,10 @@ export function Video({
                       </div>
 
                       <div className={contSiguienteClass}>
-                        <a href={siguienteVideo} className="is-fullwidth">
+                        <a
+                          href={siguienteVideo}
+                          className="is-fullwidth after-button"
+                        >
                           <i className="fa fa-arrow-right"></i>&nbsp;
                         </a>
                       </div>
