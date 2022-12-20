@@ -59,3 +59,8 @@
   transform-origin: left;
   transform: scaleX(1);
 }
+.input {
+  border: 1px solid #00f4f8 !important;
+  box-shadow: 0 !important;
+  border-radius: 10px !important;
+}
