@@ -47,15 +47,19 @@ function SearchBar({ placeholder, data }) {
             return (
               <div className="dataResult">
                 {filteredData.length == 0}
-                {filteredData.slice(0, 3).map((value) => {
+                {filteredData.slice(0, 3).map((value, index) => {
                   return (
                     <a
                       className="dataItem"
                       href={value.link}
                       title={value.title.toLowerCase()}
-                      key={value.title}
+                      key={index}
                     >
-                      <img src={value.img} alt="**" className="icono-search" />
+                      <img
+                        src={value.img}
+                        alt={value.title}
+                        className="icono-search"
+                      />
                       <span className="span-search">
                         {value.title.toLowerCase()}
                       </span>
