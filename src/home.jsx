@@ -1877,6 +1877,45 @@ function App() {
             />
           }
         />
+        <Route
+          path="/dororo"
+          element={
+            <Capitulos24
+              anime={"Dororo"}
+              tipo={"TV"}
+              estado={"Finalizado"}
+              numeroEpisodios={"24"}
+              descripcion={
+                "Un señor samurai ha regalado los órganos de su hijo recién nacido a cuarenta y ocho demonios a cambio del dominio en el campo de batalla. Sin embargo, el niño abandonado sobrevive gracias a un curandero que lo equipa con prótesis primitivas, letales con las que el hijo maltratado usará para cazar a la multitud de demonios para reclamar su cuerpo pieza por pieza, antes de enfrentarse a su padre. En sus viajes, el joven héroe se encuentra con un huérfano que dice ser el ladrón más grande de Japón."
+              }
+              imagenAnime={"https://i.postimg.cc/RhYF3n3f/Dororo-1.jpg"}
+              capituloAnime1={"/ver/dororo-1"}
+              capituloAnime2={"/ver/dororo-2"}
+              capituloAnime3={"/ver/dororo-3"}
+              capituloAnime4={"/ver/dororo-4"}
+              capituloAnime5={"/ver/dororo-5"}
+              capituloAnime6={"/ver/dororo-6"}
+              capituloAnime7={"/ver/dororo-7"}
+              capituloAnime8={"/ver/dororo-8"}
+              capituloAnime9={"/ver/dororo-9"}
+              capituloAnime10={"/ver/dororo-10"}
+              capituloAnime11={"/ver/dororo-"}
+              capituloAnime12={"/ver/dororo-"}
+              capituloAnime13={"/ver/dororo-13"}
+              capituloAnime14={"/ver/dororo-14"}
+              capituloAnime15={"/ver/dororo-15"}
+              capituloAnime16={"/ver/dororo-16"}
+              capituloAnime17={"/ver/dororo-17"}
+              capituloAnime18={"/ver/dororo-18"}
+              capituloAnime19={"/ver/dororo-19"}
+              capituloAnime20={"/ver/dororo-20"}
+              capituloAnime21={"/ver/dororo-21"}
+              capituloAnime22={"/ver/dororo-22"}
+              capituloAnime23={"/ver/dororo-23"}
+              capituloAnime24={"/ver/dororo-24"}
+            />
+          }
+        />
 
         {/* EN EMISION CAPITULOS*/}
         <Route
