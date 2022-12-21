@@ -1885,6 +1885,9 @@ function App() {
               tipo={"TV"}
               estado={"Finalizado"}
               numeroEpisodios={"24"}
+              sec1="disable"
+              sec2={"disable"}
+              sec3="disable"
               descripcion={
                 "Un señor samurai ha regalado los órganos de su hijo recién nacido a cuarenta y ocho demonios a cambio del dominio en el campo de batalla. Sin embargo, el niño abandonado sobrevive gracias a un curandero que lo equipa con prótesis primitivas, letales con las que el hijo maltratado usará para cazar a la multitud de demonios para reclamar su cuerpo pieza por pieza, antes de enfrentarse a su padre. En sus viajes, el joven héroe se encuentra con un huérfano que dice ser el ladrón más grande de Japón."
               }
