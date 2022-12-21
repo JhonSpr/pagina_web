@@ -13197,451 +13197,449 @@ function Videos() {
       />
       ---------------- ----------------
       <Route
-        path="/ver/-1"
+        path="/ver/dororo-1"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/9uq2uh8tdfzp.html"}
             contAnteriorClass="disable"
-            tituloAnime={" 1"}
+            tituloAnime={"Dororo Capitulo 1"}
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
             tituloPag={"Animekun"}
-            anime={"Akudama Drive"}
+            anime={"Dororo"}
             numero={"1"}
-            siguienteVideo={"/ver/-2"}
-            capitulosVideo={"/"}
+            siguienteVideo={"/ver/dororo-2"}
+            capitulosVideo={"/dororo"}
           />
         }
       />
       <Route
-        path="/ver/-2"
+        path="/ver/dororo-2"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/upoyvaajpykn.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 2"}
+            tituloAnime={"Dororo Capitulo 2"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Dororo "}
             numero={"2"}
-            siguienteVideo={"/ver/-3"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/1"}
+            siguienteVideo={"/ver/dororo-3"}
+            capitulosVideo={"/dororo"}
+            anteriorVideo={"/ver/dororo-1"}
           />
         }
       />
       <Route
-        path="/ver/-3"
+        path="/ver/dororo-3"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/d454i92fu7fk.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 3"}
+            tituloAnime={"Dororo Capitulo 3"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Dororo "}
             numero={"3"}
-            siguienteVideo={"/ver/-4"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-2"}
+            siguienteVideo={"/ver/dororo-4"}
+            capitulosVideo={"/dororo"}
+            anteriorVideo={"/ver/dororo-2"}
           />
         }
       />
       <Route
-        path="/ver/-4"
+        path="/ver/dororo-4"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/joxvpe58eni1.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 4"}
+            tituloAnime={"Dororo Capitulo 4"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Dororo "}
             numero={"4"}
-            siguienteVideo={"/ver/-5"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-3"}
+            siguienteVideo={"/ver/dororo-5"}
+            capitulosVideo={"/dororo"}
+            anteriorVideo={"/ver/dororo-3"}
           />
         }
       />
       <Route
-        path="/ver/-5"
+        path="/ver/dororo-5"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/ay51pk7a24hq.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 5"}
+            tituloAnime={"Dororo Capitulo 5"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Dororo "}
             numero={"5"}
-            siguienteVideo={"/ver/-6"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-4"}
+            siguienteVideo={"/ver/dororo-6"}
+            capitulosVideo={"/dororo"}
+            anteriorVideo={"/ver/dororo-4"}
           />
         }
       />
       <Route
-        path="/ver/-6"
+        path="/ver/dororo-6"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/8axlfxh11ltx.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 6"}
+            tituloAnime={"Dororo Capitulo 6"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Dororo "}
             numero={"6"}
-            siguienteVideo={"/ver/-7"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-5"}
+            siguienteVideo={"/ver/dororo-7"}
+            capitulosVideo={"/dororo"}
+            anteriorVideo={"/ver/dororo-5"}
           />
         }
       />
       <Route
-        path="/ver/-7"
+        path="/ver/dororo-7"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/m1r85nospg94.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 7"}
+            tituloAnime={"Dororo Capitulo 7"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Dororo "}
             numero={"7"}
-            siguienteVideo={"/ver/-8"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-6"}
+            siguienteVideo={"/ver/dororo-8"}
+            capitulosVideo={"/dororo"}
+            anteriorVideo={"/ver/dororo-6"}
           />
         }
       />
       <Route
-        path="/ver/-8"
+        path="/ver/dororo-8"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/ybeo870tvvs4.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 8"}
+            tituloAnime={"Dororo Capitulo 8"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Dororo "}
             numero={"8"}
-            siguienteVideo={"/ver/-9"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-7"}
+            siguienteVideo={"/ver/dororo-9"}
+            capitulosVideo={"/dororo"}
+            anteriorVideo={"/ver/dororo-7"}
           />
         }
       />
       <Route
-        path="/ver/-9"
+        path="/ver/dororo-9"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/qgokr3f4188d.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 9"}
+            tituloAnime={"Dororo Capitulo 9"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Dororo "}
             numero={"9"}
-            siguienteVideo={"/ver/-10"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-8"}
+            siguienteVideo={"/ver/dororo-10"}
+            capitulosVideo={"/dororo"}
+            anteriorVideo={"/ver/dororo-8"}
           />
         }
       />
       <Route
-        path="/ver/-10"
+        path="/ver/dororo-10"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/j9ysc6lmfglh.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 10"}
+            tituloAnime={"Dororo Capitulo 10"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Dororo "}
             numero={"10"}
-            siguienteVideo={"/ver/-11"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-9"}
+            siguienteVideo={"/ver/dororo-11"}
+            capitulosVideo={"/dororo"}
+            anteriorVideo={"/ver/dororo-9"}
           />
         }
       />
       <Route
-        path="/ver/-11"
+        path="/ver/dororo-11"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/2hg17xsi4qfy.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 11"}
+            tituloAnime={"Dororo Capitulo 11"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Dororo "}
             numero={"11"}
-            siguienteVideo={"/ver/-12"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-10"}
+            siguienteVideo={"/ver/dororo-12"}
+            capitulosVideo={"/dororo"}
+            anteriorVideo={"/ver/dororo-10"}
           />
         }
       />
       <Route
-        path="/ver/-12"
+        path="/ver/dororo-12"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/ao0u9bllgeze.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Dororo Capitulo 12"}
+            tituloPag={"Animekun"}
+            anime={"Dororo "}
+            numero={"12"}
+            capitulosVideo={"/dororo"}
+            anteriorVideo={"/ver/dororo-11"}
+            siguienteVideo={"/ver/dororo-13"}
+          />
+        }
+      />
+      <Route
+        path="/ver/dororo-13"
+        element={
+          <Video
+            frame1={"https://sbthe.com/e/9l8ai7ouovaf.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            tituloAnime={"Dororo Capitulo 13"}
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            anime={"Dororo "}
+            numero={"13"}
+            anteriorVideo="/ver/dororo-12"
+            siguienteVideo={"/ver/dororo-14"}
+            capitulosVideo={"/dororo"}
+          />
+        }
+      />
+      <Route
+        path="/ver/dororo-14"
+        element={
+          <Video
+            frame1={"https://sbthe.com/e/6usxprhp8rzz.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Dororo Capitulo 14"}
+            anime={"Dororo "}
+            numero={"14"}
+            siguienteVideo={"/ver/dororo-15"}
+            capitulosVideo={"/dororo"}
+            anteriorVideo={"/ver/dororo-13"}
+          />
+        }
+      />
+      <Route
+        path="/ver/dororo-15"
+        element={
+          <Video
+            frame1={"https://sbthe.com/e/lw2h3vqz2xls.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Dororo Capitulo 15"}
+            tituloPag={"Animekun"}
+            anime={"Dororo "}
+            numero={"15"}
+            siguienteVideo={"/ver/dororo-16"}
+            capitulosVideo={"/dororo"}
+            anteriorVideo={"/ver/dororo-14"}
+          />
+        }
+      />
+      <Route
+        path="/ver/dororo-16"
+        element={
+          <Video
+            frame1={"https://sbthe.com/e/0v6jstn6qds7.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Dororo Capitulo 16"}
+            anime={"Dororo "}
+            numero={"16"}
+            siguienteVideo={"/ver/dororo-17"}
+            capitulosVideo={"/dororo"}
+            anteriorVideo={"/ver/dororo-15"}
+          />
+        }
+      />
+      <Route
+        path="/ver/dororo-17"
+        element={
+          <Video
+            frame1={"https://sbthe.com/e/1c8f6mjdodur.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Dororo Capitulo 17"}
+            tituloPag={"Animekun"}
+            anime={"Dororo "}
+            numero={"17"}
+            siguienteVideo={"/ver/dororo-18"}
+            capitulosVideo={"/dororo"}
+            anteriorVideo={"/ver/dororo-16"}
+          />
+        }
+      />
+      <Route
+        path="/ver/dororo-18"
+        element={
+          <Video
+            frame1={"https://sbthe.com/e/e9afffu78wot.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Dororo Capitulo 18"}
+            anime={"Dororo "}
+            numero={"18"}
+            siguienteVideo={"/ver/dororo-19"}
+            capitulosVideo={"/dororo"}
+            anteriorVideo={"/ver/dororo-17"}
+          />
+        }
+      />
+      <Route
+        path="/ver/dororo-19"
+        element={
+          <Video
+            frame1={"https://sbthe.com/e/vle1s8oltysn.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Dororo Capitulo 19"}
+            anime={"Dororo "}
+            numero={"19"}
+            siguienteVideo={"/ver/dororo-20"}
+            capitulosVideo={"/dororo"}
+            anteriorVideo={"/ver/dororo-18"}
+          />
+        }
+      />
+      <Route
+        path="/ver/dororo-20"
+        element={
+          <Video
+            frame1={"https://sbthe.com/e/no6a6b0fqfrt.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Dororo Capitulo 20"}
+            tituloPag={"Animekun"}
+            anime={"Dororo "}
+            numero={"20"}
+            siguienteVideo={"/ver/dororo-21"}
+            capitulosVideo={"/dororo"}
+            anteriorVideo={"/ver/dororo-19"}
+          />
+        }
+      />
+      <Route
+        path="/ver/dororo-21"
+        element={
+          <Video
+            frame1={"https://sbthe.com/e/padn75r9pqem.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Dororo Capitulo 21"}
+            tituloPag={"Animekun"}
+            anime={"Dororo "}
+            numero={"21"}
+            siguienteVideo={"/ver/dororo-22"}
+            capitulosVideo={"/dororo"}
+            anteriorVideo={"/ver/dororo-20"}
+          />
+        }
+      />
+      <Route
+        path="/ver/dororo-22"
+        element={
+          <Video
+            frame1={"https://sbthe.com/e/llpwz7l4buon.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Dororo Capitulo 22"}
+            tituloPag={"Animekun"}
+            anime={"Dororo "}
+            numero={"22"}
+            siguienteVideo={"/ver/dororo-11"}
+            capitulosVideo={"/dororo"}
+            anteriorVideo={"/ver/dororo-9"}
+          />
+        }
+      />
+      <Route
+        path="/ver/dororo-23"
+        element={
+          <Video
+            frame1={"https://sbthe.com/e/pu94mu5x0vyc.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Dororo Capitulo 23"}
+            tituloPag={"Animekun"}
+            anime={"Dororo "}
+            numero={"23"}
+            siguienteVideo={"/ver/dororo-24"}
+            capitulosVideo={"/dororo"}
+            anteriorVideo={"/ver/dororo-22"}
+          />
+        }
+      />
+      <Route
+        path="/ver/dororo-24"
+        element={
+          <Video
+            frame1={"https://sbthe.com/e/taozp4ef780d.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
-            tituloAnime={" Capitulo 12"}
+            tituloAnime={"Dororo Capitulo 24"}
             tituloPag={"Animekun"}
-            anime={" "}
-            numero={"12"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-11"}
-          />
-        }
-      />
-      ----------------
-      <Route
-        path="/ver/-1"
-        element={
-          <Video
-            frame1={"https://sbthe.com/e/.html"}
-            contAnteriorClass="disable"
-            tituloAnime={" 1"}
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
-            tituloPag={"Animekun"}
-            anime={"Akudama Drive"}
-            numero={"1"}
-            siguienteVideo={"/ver/-2"}
-            capitulosVideo={"/"}
-          />
-        }
-      />
-      <Route
-        path="/ver/-2"
-        element={
-          <Video
-            frame1={"https://sbthe.com/e/.html"}
-            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
-            tituloAnime={" Capitulo 2"}
-            tituloPag={"Animekun"}
-            anime={" "}
-            numero={"2"}
-            siguienteVideo={"/ver/-3"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/1"}
-          />
-        }
-      />
-      <Route
-        path="/ver/-3"
-        element={
-          <Video
-            frame1={"https://sbthe.com/e/.html"}
-            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
-            tituloAnime={" Capitulo 3"}
-            tituloPag={"Animekun"}
-            anime={" "}
-            numero={"3"}
-            siguienteVideo={"/ver/-4"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-2"}
-          />
-        }
-      />
-      <Route
-        path="/ver/-4"
-        element={
-          <Video
-            frame1={"https://sbthe.com/e/.html"}
-            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
-            tituloAnime={" Capitulo 4"}
-            tituloPag={"Animekun"}
-            anime={" "}
-            numero={"4"}
-            siguienteVideo={"/ver/-5"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-3"}
-          />
-        }
-      />
-      <Route
-        path="/ver/-5"
-        element={
-          <Video
-            frame1={"https://sbthe.com/e/.html"}
-            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
-            tituloAnime={" Capitulo 5"}
-            tituloPag={"Animekun"}
-            anime={" "}
-            numero={"5"}
-            siguienteVideo={"/ver/-6"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-4"}
-          />
-        }
-      />
-      <Route
-        path="/ver/-6"
-        element={
-          <Video
-            frame1={"https://sbthe.com/e/.html"}
-            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
-            tituloAnime={" Capitulo 6"}
-            tituloPag={"Animekun"}
-            anime={" "}
-            numero={"6"}
-            siguienteVideo={"/ver/-7"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-5"}
-          />
-        }
-      />
-      <Route
-        path="/ver/-7"
-        element={
-          <Video
-            frame1={"https://sbthe.com/e/.html"}
-            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
-            tituloAnime={" Capitulo 7"}
-            tituloPag={"Animekun"}
-            anime={" "}
-            numero={"7"}
-            siguienteVideo={"/ver/-8"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-6"}
-          />
-        }
-      />
-      <Route
-        path="/ver/-8"
-        element={
-          <Video
-            frame1={"https://sbthe.com/e/.html"}
-            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
-            tituloAnime={" Capitulo 8"}
-            tituloPag={"Animekun"}
-            anime={" "}
-            numero={"8"}
-            siguienteVideo={"/ver/-9"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-7"}
-          />
-        }
-      />
-      <Route
-        path="/ver/-9"
-        element={
-          <Video
-            frame1={"https://sbthe.com/e/.html"}
-            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
-            tituloAnime={" Capitulo 9"}
-            tituloPag={"Animekun"}
-            anime={" "}
-            numero={"9"}
-            siguienteVideo={"/ver/-10"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-8"}
-          />
-        }
-      />
-      <Route
-        path="/ver/-10"
-        element={
-          <Video
-            frame1={"https://sbthe.com/e/.html"}
-            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
-            tituloAnime={" Capitulo 10"}
-            tituloPag={"Animekun"}
-            anime={" "}
-            numero={"10"}
-            siguienteVideo={"/ver/-11"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-9"}
-          />
-        }
-      />
-      <Route
-        path="/ver/-11"
-        element={
-          <Video
-            frame1={"https://sbthe.com/e/.html"}
-            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={
-              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
-            }
-            tituloAnime={" Capitulo 11"}
-            tituloPag={"Animekun"}
-            anime={" "}
-            numero={"11"}
-            siguienteVideo={"/ver/-12"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-10"}
-          />
-        }
-      />
-      <Route
-        path="/ver/-12"
-        element={
-          <Video
-            frame1={"https://sbthe.com/e/.html"}
-            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={"disable"}
-            tituloAnime={" Capitulo 12"}
-            tituloPag={"Animekun"}
-            anime={" "}
-            numero={"12"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-11"}
+            anime={"Dororo "}
+            numero={"24"}
+            capitulosVideo={"/dororo"}
+            anteriorVideo={"/ver/dororo-23"}
           />
         }
       />
