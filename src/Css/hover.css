@@ -14,7 +14,6 @@
   opacity: 0.1;
   margin-left: -23px;
   height: 100%;
-  aspect-ratio: 16/9;
 }
 
 @media (max-width: 999px) {
