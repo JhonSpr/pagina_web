@@ -42,7 +42,9 @@ const PerfilPag = () => {
               </li>
               <hr />
               <li>
-                <p className="nickname">Password: {String(user.password)}</p>
+                <p className="nickname">
+                  Password: {String(user.user_metadata.name)}
+                </p>
               </li>
             </ul>
 
