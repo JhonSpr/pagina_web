@@ -18,6 +18,7 @@
   height: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  aspect-ratio: 16/9;
 }
 
 @media (max-width: 999px) {
