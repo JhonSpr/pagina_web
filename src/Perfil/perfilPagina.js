@@ -41,15 +41,10 @@ const PerfilPag = () => {
                 </p>
               </li>
               <hr />
-              <li>
-                <p className="nickname">
-                  Password: {String(user.user_metadata.name)}
-                </p>
-              </li>
             </ul>
 
             <button
-              className="button is-orange"
+              className="button"
               type="button"
               disabled
               onClick={() => loginWithRedirect()}
@@ -58,7 +53,7 @@ const PerfilPag = () => {
             </button>
             <button
               onClick={() => logout({ returnTo: window.location.origin })}
-              className="button is-orange"
+              className="button"
             >
               Cerrar Session
             </button>
