@@ -56,7 +56,7 @@ export function Animes13({
   return (
     <>
       <title>{anime} Online HD</title>
-      <div>
+      <div style={{ width: "100%", height: "100%" }}>
         <Banner />
       </div>
       <section className="section">
