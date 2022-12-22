@@ -40,36 +40,16 @@ export function Video({
                   </Breadcrumb.Item>
                 </Breadcrumb>
               </div>
-              <div class="tabs is-toggle is-toggle-roundedX is-small episode-page__servers">
-                <ul class="is-borderless episode-page__servers-list">
-                  <li>
-                    <a title="M" href="#div1">
-                      <span class="icon is-small">
-                        <i class="fas fa-play"></i>
-                      </span>
-                      <span>M</span>
-                    </a>
-                  </li>
-                  <li>
-                    <a title="YourUpload" href="#vid2">
-                      <span class="icon is-small">
-                        <i class="fas fa-play"></i>
-                      </span>
-                      <span>YourUpload</span>
-                    </a>
-                  </li>
-                </ul>
-              </div>
+
               <div className="column is-12-mobile is-9-tablet is-9-desktop">
                 <div className="player-container">
                   <div className="iframe-container" id="video_player">
-                    {/* <iframe
+                    <iframe
                       src={frame1}
                       id="div1"
-                      scrolling="no"
                       allowFullScreen
                       picture-in-picture
-                    ></iframe> */}
+                    ></iframe>
                   </div>
 
                   <div className="column is-12-mobile is-4-tablet is-3-desktop">
