@@ -13648,7 +13648,7 @@ function Videos() {
         path="/ver/hoshi-no-samidare-1"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbthe.com/e/il1ii6eh334l.html"}
             contAnteriorClass="disable"
             tituloAnime={"Hoshi no samidare Capitulo 1"}
             contSiguienteClass={
@@ -13665,7 +13665,7 @@ function Videos() {
         path="/ver/hoshi-no-samidare-2"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/n2oz6324s7ds	.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -13684,7 +13684,7 @@ function Videos() {
         path="/ver/hoshi-no-samidare-3"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/3o7uzcadowex.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -13703,7 +13703,7 @@ function Videos() {
         path="/ver/hoshi-no-samidare-4"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/3p3qzag9uk1u.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -13721,7 +13721,7 @@ function Videos() {
         path="/ver/hoshi-no-samidare-5"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/7akrkm0t02wb.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -13739,7 +13739,7 @@ function Videos() {
         path="/ver/hoshi-no-samidare-6"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/b1rmdfqtrb2i.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -13758,7 +13758,7 @@ function Videos() {
         path="/ver/hoshi-no-samidare-7"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/plqwqmxqjd0y.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -13777,7 +13777,7 @@ function Videos() {
         path="/ver/hoshi-no-samidare-8"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/wt2270etp4t8.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -13796,13 +13796,12 @@ function Videos() {
         path="/ver/hoshi-no-samidare-9"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/qej97vzb120j.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
             tituloAnime={"Hoshi no samidare Capitulo 9"}
-            tituloPag={"Animekun"}
             anime={"Hoshi no samidare "}
             numero={"9"}
             siguienteVideo={"/ver/hoshi-no-samidare-10"}
@@ -13815,13 +13814,12 @@ function Videos() {
         path="/ver/hoshi-no-samidare-10"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/wruzn18wbkrv.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
             tituloAnime={" Capitulo 10"}
-            tituloPag={"Animekun"}
             anime={"Hoshi no samidare "}
             numero={"10"}
             siguienteVideo={"/ver/hoshi-no-samidare-11"}
@@ -13834,13 +13832,12 @@ function Videos() {
         path="/ver/hoshi-no-samidare-11"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/7ue8fgwoxwlj.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
             tituloAnime={"Hoshi no samidare Capitulo 11"}
-            tituloPag={"Animekun"}
             anime={"Hoshi no samidare "}
             numero={"11"}
             siguienteVideo={"/ver/hoshi-no-samidare-12"}
@@ -13853,7 +13850,7 @@ function Videos() {
         path="/ver/hoshi-no-samidare-12"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/n5aeym51zkco.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -13871,7 +13868,7 @@ function Videos() {
         path="/ver/hoshi-no-samidare-13"
         element={
           <Video
-            frame1={""}
+            frame1={"https://sbthe.com/e/dvvxgsfxgqh3.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             tituloAnime={"Hoshi no samidare Capitulo 13"}
             contSiguienteClass={
@@ -13889,7 +13886,7 @@ function Videos() {
         path="/ver/hoshi-no-samidare-14"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/1fhr49fuy7xu.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -13907,7 +13904,7 @@ function Videos() {
         path="/ver/hoshi-no-samidare-15"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/8yp14yz5kmgz.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -13925,7 +13922,7 @@ function Videos() {
         path="/ver/hoshi-no-samidare-16"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/dhp77ie6w9j0.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -13943,7 +13940,7 @@ function Videos() {
         path="/ver/hoshi-no-samidare-17"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/btixupxcequm.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -13961,7 +13958,7 @@ function Videos() {
         path="/ver/hoshi-no-samidare-18"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/n67a0xjm7l6t.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -13979,7 +13976,7 @@ function Videos() {
         path="/ver/hoshi-no-samidare-19"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/llphngakkahr.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -13997,7 +13994,7 @@ function Videos() {
         path="/ver/hoshi-no-samidare-20"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/qgt9wai327ai.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -14016,7 +14013,7 @@ function Videos() {
         path="/ver/hoshi-no-samidare-21"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/o0cgtchedxz1.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -14035,13 +14032,12 @@ function Videos() {
         path="/ver/hoshi-no-samidare-22"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/hk0a3b81sqp9.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
             tituloAnime={"Hoshi no samidare Capitulo 22"}
-            tituloPag={"Animekun"}
             anime={"Hoshi no samidare "}
             numero={"22"}
             siguienteVideo={"/ver/hoshi-no-samidare-23"}
@@ -14054,7 +14050,7 @@ function Videos() {
         path="/ver/hoshi-no-samidare-23"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame1={"https://sbthe.com/e/5mjv3y6e0iys.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
