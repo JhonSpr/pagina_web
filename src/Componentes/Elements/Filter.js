@@ -34,18 +34,12 @@ export class Filter extends React.Component {
         }
       >
         <select value={this.state.value} onChange={this.handleChange}>
-          <div className="btn-group">
-            <button className="multiselect dropdown-toggle button is-small is-light">
-              {Estados.map((estado) => (
-                <option key={estado.value} value={estado.value}>
-                  <span className="multiselect-selected-text">
-                    {estado.name}
-                  </span>
-                  <i className="fas fa-chevron-down"></i>
-                </option>
-              ))}
-            </button>
-          </div>
+          {Estados.map((estado) => (
+            <option key={estado.value} value={estado.value}>
+              <span className="multiselect-selected-text">{estado.name}</span>
+              <i className="fas fa-chevron-down"></i>
+            </option>
+          ))}
         </select>
 
         <input type="submit" />
