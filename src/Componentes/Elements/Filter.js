@@ -14,7 +14,7 @@ const Estados = [
 export class Filter extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { value: "en emisiones" };
+    this.state = { value: " " };
 
     this.handleChange = this.handleChange.bind(this);
   }
