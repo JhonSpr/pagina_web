@@ -44,16 +44,14 @@ export class Filter extends React.Component {
           "https://animekuns.netlify.app/" + this.state.value.toLowerCase()
         }
       >
-        <label>
-          Elije un país:{" "}
-          <select value={this.state.value} onChange={this.handleChange}>
-            {countries.map((country) => (
-              <option key={country.value} value={country.value}>
-                {country.name}
-              </option>
-            ))}
-          </select>
-        </label>
+        <select value={this.state.value} onChange={this.handleChange}>
+          {countries.map((country) => (
+            <option key={country.value} value={country.value}>
+              {country.name}
+            </option>
+          ))}
+        </select>
+
         <input type="submit" value="Submit" />
       </form>
     );
