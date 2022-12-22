@@ -56,7 +56,7 @@ export function Video({
                       <div className={contAnteriorClass}>
                         <a
                           href={anteriorVideo}
-                          className="is-fullwidth before-button"
+                          className="button is-orange is-fullwidth"
                         >
                           <i className="fa fa-arrow-left"></i>&nbsp;
                         </a>
@@ -71,7 +71,7 @@ export function Video({
                       <div className={contSiguienteClass}>
                         <a
                           href={siguienteVideo}
-                          className="is-fullwidth after-button"
+                          className="is-fullwidth button is-orange"
                         >
                           <i className="fa fa-arrow-right"></i>&nbsp;
                         </a>
