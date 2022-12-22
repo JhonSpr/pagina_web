@@ -5,9 +5,5 @@ import { useAuth0 } from "@auth0/auth0-react";
 export const LoginButtonMobile = () => {
   const { loginWithRedirect } = useAuth0();
 
-  return (
-    <li className="navbar-item item-nav btn-mobile">
-      <button onClick={() => loginWithRedirect()}>Iniciar Sesion</button>
-    </li>
-  );
+  return <a onClick={() => loginWithRedirect()}>Iniciar Sesion</a>;
 };

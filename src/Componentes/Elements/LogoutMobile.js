@@ -6,11 +6,9 @@ const LogoutButtonMobile = () => {
   const { logout } = useAuth0();
 
   return (
-    <li className="navbar-item item-nav btn-mobile">
-      <button onClick={() => logout({ returnTo: window.location.origin })}>
-        Cerrar Session
-      </button>
-    </li>
+    <a onClick={() => logout({ returnTo: window.location.origin })}>
+      Cerrar Session
+    </a>
   );
 };
 
