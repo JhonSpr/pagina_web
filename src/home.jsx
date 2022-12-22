@@ -1843,37 +1843,46 @@ function App() {
           }
         />
         <Route
-          path=""
+          path="/hoshi-no-samidare"
           element={
-            <Numero12
-              anime={""}
+            <Capitulos24
+              anime={"Hoshi no samidare"}
               tipo={"TV"}
-              estado={""}
-              numeroEpisodios={"12"}
-              descripcion={""}
-              imagenAnime={""}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              hrefGenre1={""}
-              hrefGenre2={""}
-              hrefGenre3={""}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"button is-small is-orange is-outlined is-roundedX"}
-              capituloAnime1={""}
-              capituloAnime2={""}
-              capituloAnime3={""}
-              capituloAnime4={""}
-              capituloAnime5={""}
-              capituloAnime6={""}
-              capituloAnime7={""}
-              capituloAnime8={""}
-              capituloAnime9={""}
-              capituloAnime10={""}
-              capituloAnime11={""}
-              capituloAnime12={""}
+              estado={"Finalizado"}
+              numeroEpisodios={"24"}
+              descripcion={
+                "Yuuhi Asamiya es un estudiante universitario cualquiera ante el cual un día aparece un lagarto que le dice que necesita su ayuda para salvar el mundo. Yuuhi descubre que ha obtenido un anillo que le otorga ciertos poderes, pero tras un primer ataque del enemigo se salva de milagro gracias a la intervención de la 'princesa' de la que le hablaba el lagarto, quien por cierto, es un caballero. ¡Y la princesa es su vecina! Pero ¿qué planes tiene esta chica, Samidare? Una comedia que combina lo más ordinario con lo más extraño y sobrenatural del mundo."
+              }
+              imagenAnime={
+                "https://i.postimg.cc/mrM19VRw/hoshinosamidare-KV-1.jpg"
+              }
+              sec1="disable"
+              sec2={"disable"}
+              sec3="disable"
+              capituloAnime1={"/ver/hoshi-no-samidare-1"}
+              capituloAnime2={"/ver/hoshi-no-samidare-2"}
+              capituloAnime3={"/ver/hoshi-no-samidare-3"}
+              capituloAnime4={"/ver/hoshi-no-samidare-4"}
+              capituloAnime5={"/ver/hoshi-no-samidare-5"}
+              capituloAnime6={"/ver/hoshi-no-samidare-6"}
+              capituloAnime7={"/ver/hoshi-no-samidare-7"}
+              capituloAnime8={"/ver/hoshi-no-samidare-8"}
+              capituloAnime9={"/ver/hoshi-no-samidare-9"}
+              capituloAnime10={"/ver/hoshi-no-samidare-10"}
+              capituloAnime11={"/ver/hoshi-no-samidare-11"}
+              capituloAnime12={"/ver/hoshi-no-samidare-12"}
+              capituloAnime13={"/ver/hoshi-no-samidare-13"}
+              capituloAnime14={"/ver/hoshi-no-samidare-14"}
+              capituloAnime15={"/ver/hoshi-no-samidare-15"}
+              capituloAnime16={"/ver/hoshi-no-samidare-16"}
+              capituloAnime17={"/ver/hoshi-no-samidare-17"}
+              capituloAnime18={"/ver/hoshi-no-samidare-18"}
+              capituloAnime19={"/ver/hoshi-no-samidare-19"}
+              capituloAnime20={"/ver/hoshi-no-samidare-20"}
+              capituloAnime21={"/ver/hoshi-no-samidare-21"}
+              capituloAnime22={"/ver/hoshi-no-samidare-22"}
+              capituloAnime23={"/ver/hoshi-no-samidare-23"}
+              capituloAnime24={"/ver/hoshi-no-samidare-24"}
             />
           }
         />
