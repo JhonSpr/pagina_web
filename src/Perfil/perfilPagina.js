@@ -41,6 +41,10 @@ const PerfilPag = () => {
                 </p>
               </li>
               <hr />
+
+              <li>
+                <p className="nickname">ID: {String(user.user_id)}</p>
+              </li>
             </ul>
 
             <button
