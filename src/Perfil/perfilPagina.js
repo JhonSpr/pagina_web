@@ -26,17 +26,22 @@ const PerfilPag = () => {
           </div>
           <div className="container-informacion">
             <ul>
+              <hr />
               <li>
                 <p className="nickname">Usuario: {user.nickname}</p>
               </li>
+              <hr />
               <li>
                 <p className="nickname">Correo Electronico: {user.email}</p>
               </li>
+              <hr />
+
               <li>
                 <p className="nickname">
                   Correo Electronico Verificado: {String(user.email_verified)}
                 </p>
               </li>
+              <hr />
             </ul>
 
             <button
