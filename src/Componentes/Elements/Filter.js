@@ -53,7 +53,7 @@ export class Filter extends React.Component {
           ))}
         </select>
 
-        <input type="submit" value="Submit" />
+        <input type="submit" />
       </form>
     );
   }
