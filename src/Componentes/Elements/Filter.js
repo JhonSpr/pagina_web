@@ -1,25 +1,13 @@
 import React from "react";
 
-const countries = [
+const Estados = [
   {
     value: "en-emision",
     name: "En emision",
   },
   {
-    value: "mexico",
-    name: "México",
-  },
-  {
-    value: "uruguay",
-    name: "Uruguay",
-  },
-  {
-    value: "peru",
-    name: "Perú",
-  },
-  {
-    value: "argentina",
-    name: "Argentina",
+    value: "proximamente",
+    name: "Proximos",
   },
 ];
 
@@ -46,9 +34,9 @@ export class Filter extends React.Component {
         }
       >
         <select value={this.state.value} onChange={this.handleChange}>
-          {countries.map((country) => (
-            <option key={country.value} value={country.value}>
-              {country.name}
+          {Estados.map((estado) => (
+            <option key={estado.value} value={estado.value}>
+              {estado.name}
             </option>
           ))}
         </select>
