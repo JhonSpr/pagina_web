@@ -13649,7 +13649,7 @@ function Videos() {
         element={
           <Video
             frame1={
-              "https://mega.nz/file/JhImUS5Y#k0sBHU9jQVCMFSSsECkOPTHaPn-gepuv2bxKFqygNnQ"
+              "https://mega.nz/embed/JhImUS5Y#k0sBHU9jQVCMFSSsECkOPTHaPn-gepuv2bxKFqygNnQ"
             }
             contAnteriorClass="disable"
             tituloAnime={" 1"}
