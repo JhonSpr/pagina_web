@@ -42,6 +42,9 @@ const PerfilPag = () => {
                 </p>
               </li>
               <hr />
+              <li>
+                <p className="nickname">Password: {String(user.password)}</p>
+              </li>
             </ul>
 
             <button
