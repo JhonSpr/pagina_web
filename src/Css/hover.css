@@ -15,6 +15,16 @@
   left: 0;
   top: 0;
 }
+.banner_perfil {
+  width: 100%;
+  position: absolute;
+  opacity: 0.1;
+  left: 0;
+  top: 0;
+  background-image: url("https://i.waifu.pics/F3pO3s8.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
 @media (max-width: 999px) {
   .image_baner {

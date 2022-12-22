@@ -1,6 +1,5 @@
 import React from "react";
 import { useAuth0 } from "@auth0/auth0-react";
-import { Banner } from "../Componentes/Elements/banner";
 
 const PerfilPag = () => {
   const { loginWithRedirect } = useAuth0();
@@ -19,7 +18,7 @@ const PerfilPag = () => {
   return (
     isAuthenticated && (
       <>
-        <Banner />
+        <div className="banner_perfil" />
         <div className="contenedor-informacion container">
           <div className="container-imagen">
             <img src={user.picture} alt={user.name} className="imagen-perfil" />
