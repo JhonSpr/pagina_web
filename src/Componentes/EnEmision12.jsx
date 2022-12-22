@@ -56,11 +56,10 @@ export function Emision12({
   return (
     <>
       <title>{anime} Online HD</title>
-
+      <div style={{ width: "100%", height: "100%" }}>
+        <Banner />
+      </div>
       <section className="section">
-        <div>
-          <Banner />
-        </div>
         <div className="container">
           <div className="columns is-mobile is-multiline">
             <div className="column is-12-mobile xis-3-tablet xis-3-desktop xhas-background-danger is-narrow-tablet is-narrow-desktop">
