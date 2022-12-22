@@ -41,6 +41,12 @@ const PerfilPag = () => {
                 </p>
               </li>
               <hr />
+
+              <li>
+                <p className="nickname">
+                  Correo Electronico Verificado: {String(user.name)}
+                </p>
+              </li>
             </ul>
 
             <button
