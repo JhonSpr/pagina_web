@@ -76,6 +76,7 @@ export default function Menubar() {
               </div>
               <ul className="dropdown-menu dropdown-menu-dark menu-drop">
                 <Profile />
+                <hr />
                 <li>
                   {isAuthenticated ? (
                     <>
