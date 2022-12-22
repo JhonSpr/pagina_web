@@ -13645,27 +13645,24 @@ function Videos() {
       />
       ---------------- ----------------
       <Route
-        path="/ver/a-1"
+        path="/ver/hoshi-no-samidare-1"
         element={
           <Video
-            frame1={
-              "https://mega.nz/embed/AKFxBTAA#vMY3eP9hbYuKbt0X_T-4z5eg2W6Kg27T312Ek4ZFB9M"
-            }
+            frame1={""}
             contAnteriorClass="disable"
-            tituloAnime={" 1"}
+            tituloAnime={"Hoshi no samidare Capitulo 1"}
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloPag={"Animekun"}
-            anime={"Akudama Drive"}
+            anime={"Hoshi no samidare"}
             numero={"1"}
-            siguienteVideo={"/ver/-2"}
-            capitulosVideo={"/"}
+            siguienteVideo={"/ver/hoshi-no-samidare-2"}
+            capitulosVideo={"/hoshi-no-samidare"}
           />
         }
       />
       <Route
-        path="/ver/-2"
+        path="/ver/hoshi-no-samidare-2"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
@@ -13673,18 +13670,18 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 2"}
+            tituloAnime={"Hoshi no samidare Capitulo 2"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Hoshi no samidare "}
             numero={"2"}
-            siguienteVideo={"/ver/-3"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/1"}
+            siguienteVideo={"/verhoshi-no-samidare/-3"}
+            capitulosVideo={"/hoshi-no-samidare"}
+            anteriorVideo={"/ver/hoshi-no-samidare-1"}
           />
         }
       />
       <Route
-        path="/ver/-3"
+        path="/ver/hoshi-no-samidare-3"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
@@ -13692,18 +13689,18 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 3"}
+            tituloAnime={"Hoshi no samidare Capitulo 3"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Hoshi no samidare "}
             numero={"3"}
-            siguienteVideo={"/ver/-4"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-2"}
+            siguienteVideo={"/ver/hoshi-no-samidare-4"}
+            capitulosVideo={"/hoshi-no-samidare"}
+            anteriorVideo={"/ver/hoshi-no-samidare-2"}
           />
         }
       />
       <Route
-        path="/ver/-4"
+        path="/ver/hoshi-no-samidare-4"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
@@ -13711,18 +13708,17 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 4"}
-            tituloPag={"Animekun"}
-            anime={" "}
+            tituloAnime={"Hoshi no samidare Capitulo 4"}
+            anime={"Hoshi no samidare "}
             numero={"4"}
-            siguienteVideo={"/ver/-5"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-3"}
+            siguienteVideo={"/ver/hoshi-no-samidare-5"}
+            capitulosVideo={"/hoshi-no-samidare"}
+            anteriorVideo={"/ver/hoshi-no-samidare-3"}
           />
         }
       />
       <Route
-        path="/ver/-5"
+        path="/ver/hoshi-no-samidare-5"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
@@ -13730,18 +13726,17 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 5"}
-            tituloPag={"Animekun"}
-            anime={" "}
+            tituloAnime={"Hoshi no samidare Capitulo 5"}
+            anime={"Hoshi no samidare "}
             numero={"5"}
-            siguienteVideo={"/ver/-6"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-4"}
+            siguienteVideo={"/ver/hoshi-no-samidare-6"}
+            capitulosVideo={"/hoshi-no-samidare"}
+            anteriorVideo={"/ver/hoshi-no-samidare-4"}
           />
         }
       />
       <Route
-        path="/ver/-6"
+        path="/ver/hoshi-no-samidare-6"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
@@ -13749,18 +13744,18 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 6"}
+            tituloAnime={"Hoshi no samidare Capitulo 6"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Hoshi no samidare "}
             numero={"6"}
-            siguienteVideo={"/ver/-7"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-5"}
+            siguienteVideo={"/ver/hoshi-no-samidare-7"}
+            capitulosVideo={"/hoshi-no-samidare"}
+            anteriorVideo={"/ver/hoshi-no-samidare-5"}
           />
         }
       />
       <Route
-        path="/ver/-7"
+        path="/ver/hoshi-no-samidare-7"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
@@ -13768,18 +13763,18 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 7"}
+            tituloAnime={"Hoshi no samidare Capitulo 7"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Hoshi no samidare "}
             numero={"7"}
-            siguienteVideo={"/ver/-8"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-6"}
+            siguienteVideo={"/ver/hoshi-no-samidare-8"}
+            capitulosVideo={"/hoshi-no-samidare"}
+            anteriorVideo={"/ver/hoshi-no-samidare-6"}
           />
         }
       />
       <Route
-        path="/ver/-8"
+        path="/ver/hoshi-no-samidare-8"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
@@ -13787,18 +13782,18 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 8"}
+            tituloAnime={"Hoshi no samidare Capitulo 8"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Hoshi no samidare "}
             numero={"8"}
-            siguienteVideo={"/ver/-9"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-7"}
+            siguienteVideo={"/ver/hoshi-no-samidare-9"}
+            capitulosVideo={"/hoshi-no-samidare"}
+            anteriorVideo={"/ver/hoshi-no-samidare-7"}
           />
         }
       />
       <Route
-        path="/ver/-9"
+        path="/ver/hoshi-no-samidare-9"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
@@ -13806,18 +13801,18 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 9"}
+            tituloAnime={"Hoshi no samidare Capitulo 9"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Hoshi no samidare "}
             numero={"9"}
-            siguienteVideo={"/ver/-10"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-8"}
+            siguienteVideo={"/ver/hoshi-no-samidare-10"}
+            capitulosVideo={"/hoshi-no-samidare"}
+            anteriorVideo={"/ver/hoshi-no-samidare-8"}
           />
         }
       />
       <Route
-        path="/ver/-10"
+        path="/ver/hoshi-no-samidare-10"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
@@ -13827,16 +13822,16 @@ function Videos() {
             }
             tituloAnime={" Capitulo 10"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Hoshi no samidare "}
             numero={"10"}
-            siguienteVideo={"/ver/-11"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-9"}
+            siguienteVideo={"/ver/hoshi-no-samidare-11"}
+            capitulosVideo={"/hoshi-no-samidare"}
+            anteriorVideo={"/ver/hoshi-no-samidare-9"}
           />
         }
       />
       <Route
-        path="/ver/-11"
+        path="/ver/hoshi-no-samidare-11"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
@@ -13844,29 +13839,248 @@ function Videos() {
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
             }
-            tituloAnime={" Capitulo 11"}
+            tituloAnime={"Hoshi no samidare Capitulo 11"}
             tituloPag={"Animekun"}
-            anime={" "}
+            anime={"Hoshi no samidare "}
             numero={"11"}
-            siguienteVideo={"/ver/-12"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-10"}
+            siguienteVideo={"/ver/hoshi-no-samidare-12"}
+            capitulosVideo={"/hoshi-no-samidare"}
+            anteriorVideo={"/ver/hoshi-no-samidare-10"}
           />
         }
       />
       <Route
-        path="/ver/-12"
+        path="/ver/hoshi-no-samidare-12"
+        element={
+          <Video
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Hoshi no samidare Capitulo 12"}
+            anime={"Hoshi no samidare "}
+            numero={"12"}
+            capitulosVideo={"/hoshi-no-samidare"}
+            anteriorVideo={"/ver/hoshi-no-samidare-11"}
+            siguienteVideo="/ver/hoshi-no-samidare-13"
+          />
+        }
+      />
+      <Route
+        path="/ver/hoshi-no-samidare-13"
+        element={
+          <Video
+            frame1={""}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            tituloAnime={"Hoshi no samidare Capitulo 13"}
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            anime={"Hoshi no samidare"}
+            numero={"13"}
+            siguienteVideo={"/ver/hoshi-no-samidare-14"}
+            capitulosVideo={"/hoshi-no-samidare"}
+            anteriorVideo="/ver/hoshi-no-samidare-12"
+          />
+        }
+      />
+      <Route
+        path="/ver/hoshi-no-samidare-14"
+        element={
+          <Video
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Hoshi no samidare Capitulo 14"}
+            anime={"Hoshi no samidare "}
+            numero={"14"}
+            siguienteVideo={"/verhoshi-no-samidare/-15"}
+            capitulosVideo={"/hoshi-no-samidare"}
+            anteriorVideo={"/ver/hoshi-no-samidare-13"}
+          />
+        }
+      />
+      <Route
+        path="/ver/hoshi-no-samidare-15"
+        element={
+          <Video
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Hoshi no samidare Capitulo 15"}
+            anime={"Hoshi no samidare "}
+            numero={"15"}
+            siguienteVideo={"/ver/hoshi-no-samidare-16"}
+            capitulosVideo={"/hoshi-no-samidare"}
+            anteriorVideo={"/ver/hoshi-no-samidare-14"}
+          />
+        }
+      />
+      <Route
+        path="/ver/hoshi-no-samidare-16"
+        element={
+          <Video
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Hoshi no samidare Capitulo 16"}
+            anime={"Hoshi no samidare "}
+            numero={"16"}
+            siguienteVideo={"/ver/hoshi-no-samidare-17"}
+            capitulosVideo={"/hoshi-no-samidare"}
+            anteriorVideo={"/ver/hoshi-no-samidare-15"}
+          />
+        }
+      />
+      <Route
+        path="/ver/hoshi-no-samidare-17"
+        element={
+          <Video
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Hoshi no samidare Capitulo 17"}
+            anime={"Hoshi no samidare "}
+            numero={"17"}
+            siguienteVideo={"/ver/hoshi-no-samidare-18"}
+            capitulosVideo={"/hoshi-no-samidare"}
+            anteriorVideo={"/ver/hoshi-no-samidare-16"}
+          />
+        }
+      />
+      <Route
+        path="/ver/hoshi-no-samidare-18"
+        element={
+          <Video
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Hoshi no samidare Capitulo 18"}
+            anime={"Hoshi no samidare "}
+            numero={"18"}
+            siguienteVideo={"/ver/hoshi-no-samidare-19"}
+            capitulosVideo={"/hoshi-no-samidare"}
+            anteriorVideo={"/ver/hoshi-no-samidare-17"}
+          />
+        }
+      />
+      <Route
+        path="/ver/hoshi-no-samidare-19"
+        element={
+          <Video
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Hoshi no samidare Capitulo 19"}
+            anime={"Hoshi no samidare "}
+            numero={"19"}
+            siguienteVideo={"/ver/hoshi-no-samidare-20"}
+            capitulosVideo={"/hoshi-no-samidare"}
+            anteriorVideo={"/ver/hoshi-no-samidare-18"}
+          />
+        }
+      />
+      <Route
+        path="/ver/hoshi-no-samidare-20"
+        element={
+          <Video
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Hoshi no samidare Capitulo 20"}
+            tituloPag={"Animekun"}
+            anime={"Hoshi no samidare "}
+            numero={"20"}
+            siguienteVideo={"/ver/hoshi-no-samidare-21"}
+            capitulosVideo={"/hoshi-no-samidare"}
+            anteriorVideo={"/ver/hoshi-no-samidare-19"}
+          />
+        }
+      />
+      <Route
+        path="/ver/hoshi-no-samidare-21"
+        element={
+          <Video
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Hoshi no samidare Capitulo 21"}
+            tituloPag={"Animekun"}
+            anime={"Hoshi no samidare "}
+            numero={"21"}
+            siguienteVideo={"/ver/hoshi-no-samidare-22"}
+            capitulosVideo={"/hoshi-no-samidare"}
+            anteriorVideo={"/ver/hoshi-no-samidare-20"}
+          />
+        }
+      />
+      <Route
+        path="/ver/hoshi-no-samidare-22"
+        element={
+          <Video
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Hoshi no samidare Capitulo 22"}
+            tituloPag={"Animekun"}
+            anime={"Hoshi no samidare "}
+            numero={"22"}
+            siguienteVideo={"/ver/hoshi-no-samidare-23"}
+            capitulosVideo={"/hoshi-no-samidare"}
+            anteriorVideo={"/ver/hoshi-no-samidare-21"}
+          />
+        }
+      />
+      <Route
+        path="/ver/hoshi-no-samidare-23"
+        element={
+          <Video
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
+            }
+            tituloAnime={"Hoshi no samidare Capitulo 23"}
+            anime={"Hoshi no samidare "}
+            numero={"23"}
+            siguienteVideo={"/ver/hoshi-no-samidare-24"}
+            capitulosVideo={"/hoshi-no-samidare"}
+            anteriorVideo={"/ver/hoshi-no-samidare-22"}
+          />
+        }
+      />
+      <Route
+        path="/ver/hoshi-no-samidare-24"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
-            tituloAnime={" Capitulo 12"}
+            tituloAnime={"Hoshi no samidare Capitulo 24"}
             tituloPag={"Animekun"}
-            anime={" "}
-            numero={"12"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-11"}
+            anime={"Hoshi no samidare "}
+            numero={"24"}
+            capitulosVideo={"/hoshi-no-samidare"}
+            anteriorVideo={"/ver/hoshi-no-samidare-23"}
           />
         }
       />
