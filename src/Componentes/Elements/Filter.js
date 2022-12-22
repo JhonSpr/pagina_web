@@ -2,8 +2,8 @@ import React from "react";
 
 const countries = [
   {
-    value: "finalizado",
-    name: "finalizado",
+    value: "en-emision",
+    name: "En emision",
   },
   {
     value: "mexico",
