@@ -41,7 +41,8 @@ export class Filter extends React.Component {
     return (
       <form
         action={
-          "https://animekuns.netlify.app/" + this.state.value.toLowerCase()
+          "https://animekuns.netlify.app/" +
+          this.state.value.toLowerCase().replace(/ /g, "-")
         }
       >
         <select value={this.state.value} onChange={this.handleChange}>
