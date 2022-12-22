@@ -13674,7 +13674,7 @@ function Videos() {
             tituloPag={"Animekun"}
             anime={"Hoshi no samidare "}
             numero={"2"}
-            siguienteVideo={"/verhoshi-no-samidare/-3"}
+            siguienteVideo={"/ver/hoshi-no-samidare-3"}
             capitulosVideo={"/hoshi-no-samidare"}
             anteriorVideo={"/ver/hoshi-no-samidare-1"}
           />
