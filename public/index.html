@@ -84,27 +84,8 @@
     </style>
   </head>
   <body>
-    <div id="root"> var tabsArray = new Object(); tabsArray['1'] = "
-      <iframe
-        width="100%"
-        height="100%"
-        src="https://animefenix.tv/redirect.php?player=15&amp;code=BupxTDLa%23ONaVREfBsV_tIO2XF5HBqLOqmEDSs5pPB860zVLZoxY&amp;thumbnail=https%3A%2F%2Fanimefenix.tv%2Fcdn%2Fanimes%2Fscreenshot%2F632a66239985f%2Fchainsaw-man.jpg"
-        frameborder="0"
-        noresize
-        scrolling="no"
-        allowfullscreen
-      ></iframe>
-      "; tabsArray['2'] = "
-      <iframe
-        width="100%"
-        height="100%"
-        src="https://animefenix.tv/redirect.php?player=6&amp;code=Hd44J6683U0c&amp;thumbnail=https%3A%2F%2Fanimefenix.tv%2Fcdn%2Fanimes%2Fscreenshot%2F632a66239985f%2Fchainsaw-man.jpg"
-        frameborder="0"
-        noresize
-        scrolling="no"
-        allowfullscreen
-      ></iframe>
-      "</div>
+    <div id="root"> 
+      </div>
 
     <!-- JavaScript Bundle with Popper -->
 
@@ -115,33 +96,6 @@
     ></script>
     <script id="dsq-count-scr" src="//animekuns-1.disqus.com/count.js" async></script>
 
-    <script>
-      $(document).ready(function() {
-  
-  $('.episode-page__servers-list a:first').parent().addClass('is-active').show();
-  var firstTabNumber = $('.episode-page__servers-list a:first').attr('href').substring(4);
-
-  $('#video_player').html(tabsArray[firstTabNumber]);
-
-  $('.episode-page__servers-list a').on('click', function(e) {
-      e.preventDefault();
-
-      $('.episode-page__servers-list li').removeClass('is-active');
-      $(this).parent().addClass('is-active');
-
-      var activeTabNumber = $(this).attr('href').substring(4);
-      $('#video_player').html(tabsArray[activeTabNumber]);
-      console.log("activetab val: " + activeTabNumber);
-  });
-
-  $(".showModal").click(function() {
-      $(".modal").addClass("is-active");
-  });
-
-  $(".delete, .modal-background").click(function() {
-      $(".modal").removeClass("is-active");
-  });
-});
-  </script>
+    
     
 </html>
