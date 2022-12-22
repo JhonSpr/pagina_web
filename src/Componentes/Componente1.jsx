@@ -1,5 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import AnimePage1 from "../pages/AnimePage1";
+import { Filter } from "./Elements/Filter";
 
 export function Page1() {
   return (
@@ -60,6 +61,7 @@ export function Page1() {
               </li>
             </ul>
           </div>
+          <Filter />
         </section>
         <div className="list-series">
           <AnimePage1 />
