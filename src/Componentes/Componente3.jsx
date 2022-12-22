@@ -63,13 +63,36 @@ export function Video({
               <div className="column is-12-mobile is-9-tablet is-9-desktop">
                 <div className="player-container">
                   <div className="iframe-container" id="video_player">
-                    <iframe
+                    {/* <iframe
                       src={frame1}
                       id="div1"
                       scrolling="no"
                       allowFullScreen
                       picture-in-picture
-                    ></iframe>
+                    ></iframe> */}
+                    <script>
+                      var tabsArray = new Object(); tabsArray['1'] = "
+                      <iframe
+                        width="100%"
+                        height="100%"
+                        src="https://animefenix.tv/redirect.php?player=15&amp;code=BupxTDLa%23ONaVREfBsV_tIO2XF5HBqLOqmEDSs5pPB860zVLZoxY&amp;thumbnail=https%3A%2F%2Fanimefenix.tv%2Fcdn%2Fanimes%2Fscreenshot%2F632a66239985f%2Fchainsaw-man.jpg"
+                        frameborder="0"
+                        noresize
+                        scrolling="no"
+                        allowfullscreen
+                      ></iframe>
+                      "; tabsArray['2'] = "
+                      <iframe
+                        width="100%"
+                        height="100%"
+                        src="https://animefenix.tv/redirect.php?player=6&amp;code=Hd44J6683U0c&amp;thumbnail=https%3A%2F%2Fanimefenix.tv%2Fcdn%2Fanimes%2Fscreenshot%2F632a66239985f%2Fchainsaw-man.jpg"
+                        frameborder="0"
+                        noresize
+                        scrolling="no"
+                        allowfullscreen
+                      ></iframe>
+                      "
+                    </script>
                   </div>
 
                   <div className="column is-12-mobile is-4-tablet is-3-desktop">
