@@ -21,11 +21,11 @@ const Tipos = [
   },
   {
     value: "emisiones",
-    name: "Emisiones",
+    name: ": Emisiones",
   },
   {
     value: "proximamente",
-    name: "Proximos",
+    name: ": Proximos",
   },
 ];
 
@@ -73,7 +73,7 @@ export class Filter extends React.Component {
           {Tipos.map((type) => (
             <option key={type.value} value={type.value}>
               <span className="multiselect-selected-text">
-                Type: {type.name}
+                Type {type.name}
               </span>
               <i className="fas fa-chevron-down"></i>
             </option>
