@@ -18,7 +18,7 @@ const Estados = [
 export class Filter extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { value: "anime" };
+    this.state = { value: "animes" };
 
     this.handleChange = this.handleChange.bind(this);
   }
