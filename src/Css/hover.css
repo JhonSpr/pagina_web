@@ -137,3 +137,11 @@ select {
   font-size: 15px;
   border-radius: 5px;
 }
+
+footer h1 {
+  margin-left: 2px;
+  margin-bottom: 5px;
+}
+footer {
+  text-align: justify;
+}
