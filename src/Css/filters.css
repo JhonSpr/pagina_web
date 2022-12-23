@@ -3,6 +3,9 @@
   background-color: #fff;
   border-radius: 4px;
 }
+.select {
+  background-color: #ee3a27 !important;
+}
 
 .open > .dropdown-menu {
   display: block;
@@ -30,7 +33,7 @@
   margin-bottom: 15px !important;
 }
 
-.filters .multiselect-native-select {
+.select {
   display: inline-block;
   vertical-align: top;
   margin-right: 5px;

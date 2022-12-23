@@ -1,50 +1,17 @@
 import React from "react";
 
-const Estados = [
-  {
-    value: "",
-    name: "",
-  },
-  {
-    value: "emisiones",
-    name: ": Emisiones",
-  },
-  {
-    value: "proximamente",
-    name: ": Proximos",
-  },
-];
-const Tipos = [
-  {
-    value: "",
-    name: "",
-  },
-  {
-    value: "type=[]=TV",
-    name: ": TV",
-  },
-  {
-    value: "type=[]=ova",
-    name: ": OVA",
-  },
-  {
-    value: "type=[]=pelicula",
-    name: ": PELICULA",
-  },
-];
-
 export class Filter extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { value: "animes" };
+    this.state = { value: "" };
 
     this.handleChange = this.handleChange.bind(this);
   }
 
   handleChange(event) {
-    console.log(`Seleccionaste ${event.target.value}`);
+    console.log(`Seleccionaste: ${event.target.value}`);
     this.setState({ value: event.target.value });
-    setTimeout(() => console.clear(), 1000);
+    setTimeout(() => console.clear(), 55000);
   }
 
   render() {
@@ -60,28 +27,21 @@ export class Filter extends React.Component {
           onChange={this.handleChange}
           className="select"
         >
-          {Estados.map((estado) => (
-            <option key={estado.value} value={estado.value}>
-              <span className="multiselect-selected-text">
-                Status {estado.name}
-              </span>
-              <i className="fas fa-chevron-down"></i>
-            </option>
-          ))}
+          <option>Estados</option>
+          <option value="emisiones">En emision</option>
+          <option value="finalizados">Finalizados</option>
+          <option value="Proximamente">Proximamente</option>
         </select>
+
         <select
           value={this.state.value}
           onChange={this.handleChange}
           className="select"
         >
-          {Tipos.map((type) => (
-            <option key={type.value} value={type.value}>
-              <span className="multiselect-selected-text">
-                Type {type.name}
-              </span>
-              <i className="fas fa-chevron-down"></i>
-            </option>
-          ))}
+          <option>Tipo</option>
+          <option value="TV">TV</option>
+          <option value="OVA">OVA</option>
+          <option value="Screen">Pelicula</option>
         </select>
 
         <button type="submit" className="button is-small is-orange">
