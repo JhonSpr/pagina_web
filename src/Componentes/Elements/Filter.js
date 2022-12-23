@@ -37,7 +37,11 @@ export class Filter extends React.Component {
           this.state.value.toLowerCase().replace(/ /g, "-")
         }
       >
-        <select value={this.state.value} onChange={this.handleChange}>
+        <select
+          value={this.state.value}
+          onChange={this.handleChange}
+          className="multiselect-native-select"
+        >
           {Estados.map((estado) => (
             <option key={estado.value} value={estado.value}>
               <span className="multiselect-selected-text">{estado.name}</span>
