@@ -17,7 +17,7 @@ const Estados = [
 const Tipos = [
   {
     value: "animes",
-    name: "Tipo: ",
+    name: "Tipo",
   },
   {
     value: "emisiones",
@@ -58,7 +58,9 @@ export class Filter extends React.Component {
         >
           {Estados.map((estado) => (
             <option key={estado.value} value={estado.value}>
-              <span className="multiselect-selected-text">{estado.name}</span>
+              <span className="multiselect-selected-text">
+                Statu: {estado.name}
+              </span>
               <i className="fas fa-chevron-down"></i>
             </option>
           ))}
@@ -71,8 +73,7 @@ export class Filter extends React.Component {
           {Tipos.map((type) => (
             <option key={type.value} value={type.value}>
               <span className="multiselect-selected-text">
-                {" "}
-                Selecccionado : {type.name}
+                Type: {type.name}
               </span>
               <i className="fas fa-chevron-down"></i>
             </option>
