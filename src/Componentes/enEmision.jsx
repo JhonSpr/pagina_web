@@ -1,6 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
 import { Emision1 } from "../pages/AnimePage1";
+import { Filter } from "./Elements/Filter";
 
 export function EmisionesPage1() {
   return (
@@ -14,53 +15,7 @@ export function EmisionesPage1() {
             <i className="fa-solid fa-filter"></i>
           </h1>
 
-          <div className="dropdown filter-item">
-            <div
-              className="btn btn-secondary dropdown-toggle"
-              data-bs-toggle="dropdown"
-              aria-expanded="false"
-            >
-              Estado
-            </div>
-            <ul className="dropdown-menu dropdown-menu-dark">
-              <li>
-                <a className="dropdown-item active" href="/emisiones">
-                  EN EMISIÓN
-                </a>
-              </li>
-              <li>
-                <a className="dropdown-item" href="/proximos">
-                  PROXIMAMENTE
-                </a>
-              </li>
-            </ul>
-          </div>
-          <div className="dropdown filter-item">
-            <div
-              className="btn btn-secondary dropdown-toggle"
-              data-bs-toggle="dropdown"
-              aria-expanded="false"
-            >
-              Tipo
-            </div>
-            <ul className="dropdown-menu dropdown-menu-dark">
-              <li>
-                <a className="dropdown-item" href="/animes">
-                  TV ( Predeterminado )
-                </a>
-              </li>
-              <li>
-                <a className="dropdown-item" href="/animes type[]=ova">
-                  OVA
-                </a>
-              </li>
-              <li>
-                <a className="dropdown-item" href="/animes type[]=pelicula">
-                  PELICULA
-                </a>
-              </li>
-            </ul>
-          </div>
+          <Filter />
         </section>
         <div className="list-series">
           <Emision1 />
