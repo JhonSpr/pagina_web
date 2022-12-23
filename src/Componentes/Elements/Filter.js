@@ -14,6 +14,20 @@ const Estados = [
     name: "Proximos",
   },
 ];
+const Tipos = [
+  {
+    value: "animes",
+    name: "Tipo: ",
+  },
+  {
+    value: "emisiones",
+    name: "Emisiones",
+  },
+  {
+    value: "proximamente",
+    name: "Proximos",
+  },
+];
 
 export class Filter extends React.Component {
   constructor(props) {
