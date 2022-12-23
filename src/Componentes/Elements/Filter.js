@@ -63,6 +63,18 @@ export class Filter extends React.Component {
             </option>
           ))}
         </select>
+        <select
+          value={`Seleccionado: ` + this.state.value}
+          onChange={this.handleChange}
+          className="multiselect-native-select"
+        >
+          {Tipos.map((type) => (
+            <option key={type.value} value={type.value}>
+              <span className="multiselect-selected-text">{type.name}</span>
+              <i className="fas fa-chevron-down"></i>
+            </option>
+          ))}
+        </select>
 
         <button type="submit" className="button is-small is-orange">
           <span class="fa fa-filter" aria-hidden="true">
