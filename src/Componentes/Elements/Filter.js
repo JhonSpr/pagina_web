@@ -2,8 +2,12 @@ import React from "react";
 
 const Estados = [
   {
+    value: "anime",
+    name: "Estado",
+  },
+  {
     value: "emisiones",
-    name: "En emision",
+    name: "Emisiones",
   },
   {
     value: "proximamente",
@@ -14,7 +18,7 @@ const Estados = [
 export class Filter extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { value: " " };
+    this.state = { value: "anime" };
 
     this.handleChange = this.handleChange.bind(this);
   }
