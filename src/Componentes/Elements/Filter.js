@@ -52,7 +52,7 @@ export class Filter extends React.Component {
         }
       >
         <select
-          value={this.state.value}
+          value={`Seleccionado: ` + this.state.value}
           onChange={this.handleChange}
           className="multiselect-native-select"
         >
