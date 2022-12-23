@@ -25,7 +25,7 @@ export class Filter extends React.Component {
         <select
           value={this.state.value}
           onChange={this.handleChange}
-          className="select"
+          className="select is-small is-orange"
         >
           <option>Estados</option>
           <option value="emisiones">En emision</option>
@@ -36,7 +36,7 @@ export class Filter extends React.Component {
         <select
           value={this.state.value}
           onChange={this.handleChange}
-          className="select"
+          className="select is-small"
         >
           <option>Tipo</option>
           <option value="TV">TV</option>
@@ -45,7 +45,7 @@ export class Filter extends React.Component {
         </select>
 
         <button type="submit" className="button is-small is-orange">
-          <span class="fa fa-filter" aria-hidden="true"></span>
+          <span class="fa fa-filter" aria-hidden="true"></span>filtrar
         </button>
       </form>
     );
