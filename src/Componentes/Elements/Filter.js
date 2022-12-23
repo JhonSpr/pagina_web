@@ -58,7 +58,7 @@ export class Filter extends React.Component {
         <select
           value={this.state.value}
           onChange={this.handleChange}
-          className="multiselect-native-select"
+          className="select"
         >
           {Estados.map((estado) => (
             <option key={estado.value} value={estado.value}>
@@ -72,7 +72,7 @@ export class Filter extends React.Component {
         <select
           value={this.state.value}
           onChange={this.handleChange}
-          className="multiselect-native-select"
+          className="select"
         >
           {Tipos.map((type) => (
             <option key={type.value} value={type.value}>
