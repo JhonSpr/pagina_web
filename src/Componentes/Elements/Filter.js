@@ -17,7 +17,7 @@ const Estados = [
 const Tipos = [
   {
     value: "animes",
-    name: "Tipo",
+    name: " ",
   },
   {
     value: "emisiones",
