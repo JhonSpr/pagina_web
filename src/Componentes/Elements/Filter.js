@@ -52,7 +52,7 @@ export class Filter extends React.Component {
         }
       >
         <select
-          value={`Seleccionado: ` + this.state.value}
+          value={this.state.value}
           onChange={this.handleChange}
           className="multiselect-native-select"
         >
@@ -64,13 +64,16 @@ export class Filter extends React.Component {
           ))}
         </select>
         <select
-          value={`Seleccionado: ` + this.state.value}
+          value={this.state.value}
           onChange={this.handleChange}
           className="multiselect-native-select"
         >
           {Tipos.map((type) => (
             <option key={type.value} value={type.value}>
-              <span className="multiselect-selected-text">{type.name}</span>
+              <span className="multiselect-selected-text">
+                {" "}
+                Selecccionado : {type.name}
+              </span>
               <i className="fas fa-chevron-down"></i>
             </option>
           ))}
