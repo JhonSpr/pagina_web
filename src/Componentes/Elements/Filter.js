@@ -2,22 +2,8 @@ import React from "react";
 
 const Estados = [
   {
-    value: "anime",
-    name: "Estado",
-  },
-  {
-    value: "emisiones",
-    name: "Emisiones",
-  },
-  {
-    value: "proximamente",
-    name: "Proximos",
-  },
-];
-const Tipos = [
-  {
-    value: "animes",
-    name: " ",
+    value: "",
+    name: "",
   },
   {
     value: "emisiones",
@@ -26,6 +12,24 @@ const Tipos = [
   {
     value: "proximamente",
     name: ": Proximos",
+  },
+];
+const Tipos = [
+  {
+    value: "",
+    name: "",
+  },
+  {
+    value: "type=[]=TV",
+    name: ": TV",
+  },
+  {
+    value: "type=[]=ova",
+    name: ": OVA",
+  },
+  {
+    value: "type=[]=pelicula",
+    name: ": PELICULA",
   },
 ];
 
