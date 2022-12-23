@@ -43,7 +43,7 @@ const PerfilPag = () => {
               <hr />
 
               <li>
-                <p className="nickname">ID: {String(user.user_id)}</p>
+                <p className="nickname">ID: {Math.random() * 10000}</p>
               </li>
             </ul>
 
