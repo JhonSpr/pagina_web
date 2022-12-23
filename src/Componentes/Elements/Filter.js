@@ -46,7 +46,7 @@ export class Filter extends React.Component {
           ))}
         </select>
 
-        <input type="submit" />
+        <input type="submit" className="button is-orange" value={"filter"} />
       </form>
     );
   }
