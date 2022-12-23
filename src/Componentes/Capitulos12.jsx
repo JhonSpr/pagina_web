@@ -1,4 +1,3 @@
-import { Banner } from "./Elements/banner";
 import Disqus from "./Elements/disqus";
 
 export function Numero12({
@@ -38,9 +37,14 @@ export function Numero12({
     <>
       <title>{anime} Online HD</title>
       <section className="section">
-        <div>
-          <Banner />
-        </div>
+        <div
+          className="serie-background"
+          style={{
+            background: `url(${imagenAnime})`,
+            backgroundRepeat: "no-repeat",
+            backgroundSize: "cover",
+          }}
+        ></div>
         <div className="container">
           <div className="columns is-mobile is-multiline">
             <div className="column is-12-mobile xis-3-tablet xis-3-desktop xhas-background-danger is-narrow-tablet is-narrow-desktop">

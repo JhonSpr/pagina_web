@@ -1,7 +1,6 @@
 /* eslint-disable react/style-prop-object */
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
-import { Banner } from "./Elements/banner";
 import Disqus from "./Elements/disqus";
 
 /* eslint-disable jsx-a11y/iframe-has-title */
@@ -159,9 +158,14 @@ export function Capitulos12({
       <title>{anime} Online HD</title>
 
       <section className="section">
-        <div>
-          <Banner />
-        </div>
+        <div
+          className="serie-background"
+          style={{
+            background: `url(${imagenAnime})`,
+            backgroundRepeat: "no-repeat",
+            backgroundSize: "cover",
+          }}
+        ></div>
         <div className="container">
           <div className="columns is-mobile is-multiline">
             <div className="column is-12-mobile xis-3-tablet xis-3-desktop xhas-background-danger is-narrow-tablet is-narrow-desktop">

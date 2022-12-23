@@ -5,11 +5,5 @@ export function Banner() {
   let RandomNumber = Math.floor(Math.random() * end);
   console.log(RandomNumber);
 
-  return (
-    <img
-      src={banner && banner[RandomNumber].image}
-      className="image_baner"
-      alt="banners"
-    />
-  );
+  return <div>{banner && banner[RandomNumber].image} </div>;
 }
