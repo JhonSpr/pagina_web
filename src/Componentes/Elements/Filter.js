@@ -63,7 +63,7 @@ export class Filter extends React.Component {
           {Estados.map((estado) => (
             <option key={estado.value} value={estado.value}>
               <span className="multiselect-selected-text">
-                Statu: {estado.name}
+                Status {estado.name}
               </span>
               <i className="fas fa-chevron-down"></i>
             </option>
