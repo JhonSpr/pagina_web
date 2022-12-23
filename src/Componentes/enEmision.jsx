@@ -27,15 +27,6 @@ export function EmisionesPage1() {
           <li className="active">
             <a href="/emisiones">1</a>
           </li>
-          <li className="paginacion">
-            <a href="/emisiones page=2">2</a>
-          </li>
-          <li className="paginacion">
-            <a href="/emisiones page=3">3</a>
-          </li>
-          <a href="/emisiones page=2" className="siguiente">
-            Siguiente
-          </a>
         </ul>
       </div>
     </>
