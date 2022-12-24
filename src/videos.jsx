@@ -10,7 +10,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbfull.com/e/2dlhg80oowou.html"}
-            contAnteriorClass="primer-capitulo"
+            contAnteriorClass="disable"
             tituloAnime={"Akudama Drive Capitulo 1"}
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -233,7 +233,7 @@ function Videos() {
           <Video
             frame1={"https://sbfull.com/e/53uon5p5bskt.html"}
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
-            contSiguienteClass={"ultimo-cap"}
+            contSiguienteClass={"disable"}
             tituloAnime={"Akudama Drive Capitulo 12"}
             tituloPag={"Animekun"}
             anime={"Akudama Drive"}
