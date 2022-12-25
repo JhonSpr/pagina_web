@@ -20,13 +20,6 @@ export function Video({
   contSiguienteClass,
   frame1,
 }) {
-  fetch(
-    "https://crossfit-wod-api-production-4bd7.up.railway.app/api/v1/workouts"
-  )
-    .then((res) => res.json())
-    .then((Response) => {
-      console.log(Response);
-    });
   return (
     <>
       <title>
