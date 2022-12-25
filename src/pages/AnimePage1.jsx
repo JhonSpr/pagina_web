@@ -6,10 +6,10 @@ import proximos from "../Json/Proximamente.json";
 export default function AnimePage1() {
   return Animes.slice(0, 24).map((anime) => {
     return (
-      <article className="serie-card" title={anime.title} key={anime.id}>
+      <article className="serie-card" title={anime.data.title} key={anime.id}>
         <figure className="image overarchingdiv2">
-          <a href={anime.link}>
-            <img src={anime.img} alt={anime.title} />
+          <a href={anime.data.link}>
+            <img src={anime.data.img} alt={anime.data.title} />
             <div className="overlay-dark"></div>
             <div className="hoveroverlay">
               <i className="fas fa-play pgnav activehov"></i>
@@ -17,14 +17,14 @@ export default function AnimePage1() {
           </a>
           <span className="tag year is-dark">{anime.year}</span>
           <span className="tag is-danger type">TV</span>
-          <span className={anime.classEstado}>{anime.estado}</span>
+          <span className={anime.data.classEstado}>{anime.data.estado}</span>
           <div className="title">
             <h3>
               <a
-                href={anime.link}
+                href={anime.data.link}
                 className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
               >
-                {anime.title}
+                {anime.data.title}
               </a>
             </h3>
           </div>
