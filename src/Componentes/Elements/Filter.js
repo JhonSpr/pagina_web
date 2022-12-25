@@ -17,7 +17,7 @@ export class Filter extends React.Component {
   render() {
     return (
       <form action={"/" + this.state.value.toLowerCase().replace(/ /g, "-")}>
-        <h1>{`seleccionastes: ${this.handleChange}`}</h1>
+        <h1>{`seleccionastes: ${this.state.value}`}</h1>
         <select
           value={this.state.value}
           onChange={this.handleChange}
@@ -37,7 +37,7 @@ export class Filter extends React.Component {
           <option>Tipo</option>
           <option value="TV">TV</option>
           <option value="OVA">OVA</option>
-          <option value="Screen">Pelicula</option>
+          <option value="PELICULA">Pelicula</option>
         </select>
 
         <button type="submit" className="button is-small is-orange">
