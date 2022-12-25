@@ -1,3 +1,4 @@
+import { Filter } from "../Componentes/Elements/Filter";
 import AnimePage4 from "../pages/AnimePage4";
 
 export function Page4() {
@@ -12,53 +13,7 @@ export function Page4() {
             <i className="fa-solid fa-filter"></i>
           </h1>
 
-          <div className="dropdown filter-item">
-            <div
-              className="btn btn-secondary dropdown-toggle"
-              data-bs-toggle="dropdown"
-              aria-expanded="false"
-            >
-              Estado
-            </div>
-            <ul className="dropdown-menu dropdown-menu-dark">
-              <li>
-                <a className="dropdown-item" href="/en-emision">
-                  EN EMISIÓN
-                </a>
-              </li>
-              <li>
-                <a className="dropdown-item" href="/proximamente">
-                  PROXIMAMENTE
-                </a>
-              </li>
-            </ul>
-          </div>
-          <div className="dropdown filter-item">
-            <div
-              className="btn btn-secondary dropdown-toggle"
-              data-bs-toggle="dropdown"
-              aria-expanded="false"
-            >
-              Tipo
-            </div>
-            <ul className="dropdown-menu dropdown-menu-dark">
-              <li>
-                <a className="dropdown-item active" href="/animes">
-                  TV ( Predeterminado )
-                </a>
-              </li>
-              <li>
-                <a className="dropdown-item" href="/animes type[]=ova">
-                  OVA
-                </a>
-              </li>
-              <li>
-                <a className="dropdown-item" href="/animes type[]=pelicula">
-                  PELICULA
-                </a>
-              </li>
-            </ul>
-          </div>
+          <Filter />
         </section>
         <div className="list-series">
           <AnimePage4 />
