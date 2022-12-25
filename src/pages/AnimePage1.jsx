@@ -8,7 +8,7 @@ export default function AnimePage1() {
     .slice(0, 24)
     .map(({ id, img, classEstado, estado, title, year, link }) => {
       return (
-        <article className="serie-card" title={anime.data.title} key={id}>
+        <article className="serie-card" title={title} key={id}>
           <figure className="image overarchingdiv2">
             <a href={link}>
               <img src={img} alt={title} />
