@@ -4,36 +4,34 @@ import emisiones from "../Json/EnEmision.json";
 import proximos from "../Json/Proximamente.json";
 
 export default function AnimePage1() {
-  return data
-    .slice(0, 24)
-    .map(({ id, img, classEstado, estado, title, year, link }) => {
-      return (
-        <article className="serie-card" title={title} key={id}>
-          <figure className="image overarchingdiv2">
-            <a href={link}>
-              <img src={img} alt={title} />
-              <div className="overlay-dark"></div>
-              <div className="hoveroverlay">
-                <i className="fas fa-play pgnav activehov"></i>
-              </div>
-            </a>
-            <span className="tag year is-dark">{year}</span>
-            <span className="tag is-danger type">TV</span>
-            <span className={classEstado}>{estado}</span>
-            <div className="title">
-              <h3>
-                <a
-                  href={link}
-                  className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
-                >
-                  {title}
-                </a>
-              </h3>
+  return data.slice(0, 24).map((tv) => {
+    return (
+      <article className="serie-card" title={tv.title} key={tv.id}>
+        <figure className="image overarchingdiv2">
+          <a href={tv.link}>
+            <img src={tv.img} alt={tv.title} />
+            <div className="overlay-dark"></div>
+            <div className="hoveroverlay">
+              <i className="fas fa-play pgnav activehov"></i>
             </div>
-          </figure>
-        </article>
-      );
-    });
+          </a>
+          <span className="tag year is-dark">{tv.year}</span>
+          <span className="tag is-danger type">TV</span>
+          <span className={tv.classEstado}>{tv.estado}</span>
+          <div className="title">
+            <h3>
+              <a
+                href={tv.link}
+                className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
+              >
+                {tv.title}
+              </a>
+            </h3>
+          </div>
+        </figure>
+      </article>
+    );
+  });
 }
 export function Emision1() {
   return emisiones.slice(0, 24).map((emision) => {
