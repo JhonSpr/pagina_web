@@ -17,7 +17,6 @@ export function Capitulos24({
   hrefSecuela,
   textoSecuela,
   nombreSecuela,
-  tituloAnime,
   imagenAnime,
   descripcion,
   anime,
