@@ -1,10 +1,10 @@
 import React from "react";
-import Animes from "../Json/Data.json";
+import data from "../Json/Data.json";
 import emisiones from "../Json/EnEmision.json";
 import proximos from "../Json/Proximamente.json";
 
 export default function AnimePage1() {
-  return Animes.slice(0, 24).map((anime) => {
+  return data.slice(0, 24).map((anime) => {
     return (
       <article className="serie-card" title={anime.data.title} key={anime.id}>
         <figure className="image overarchingdiv2">
