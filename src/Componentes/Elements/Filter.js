@@ -18,8 +18,8 @@ export class Filter extends React.Component {
     return (
       <form action={"/" + this.state.value.toLowerCase().replace(/ /g, "-")}>
         <select
-          value={this.state.value}
-          onChange={"Seleccion:" + this.handleChange}
+          value={"Seleccion" + this.state.value}
+          onChange={this.handleChange}
           className="select is-small is-orange"
         >
           <option>Estados</option>
