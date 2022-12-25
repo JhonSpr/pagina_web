@@ -17,6 +17,7 @@ export class Filter extends React.Component {
   render() {
     return (
       <form action={"/" + this.state.value.toLowerCase().replace(/ /g, "-")}>
+        <h1>{`seleccionastes: ${this.state.value}`}</h1>
         <select
           value={this.state.value}
           onChange={this.handleChange}
