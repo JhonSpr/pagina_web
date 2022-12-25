@@ -4,7 +4,7 @@ import emisiones from "../Json/EnEmision.json";
 import proximos from "../Json/Proximamente.json";
 import Animes from "../Colletion/animes";
 export default function AnimePage1() {
-  return data.slice(0, 24).map((tv) => {
+  return data.slice(0, 25).map((tv) => {
     return (
       <Animes
         title={tv.title}
