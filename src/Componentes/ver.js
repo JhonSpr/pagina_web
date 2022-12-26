@@ -7,7 +7,6 @@ export function Ver() {
       <Routes>
         <Route path="/ver" element={<h2>UPS NO SE ENCONTRO LA PAGINA</h2>} />
       </Routes>
-      .
     </>
   );
 }
