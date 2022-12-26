@@ -1,3 +1,4 @@
+import { Banners } from "./Elements/banner";
 import Disqus from "./Elements/disqus";
 
 export function Numero12({
@@ -40,11 +41,12 @@ export function Numero12({
         <div
           className="serie-background"
           style={{
-            background: `url("https://i.waifu.pics/-oA3loc.png")`,
             backgroundRepeat: "no-repeat",
             backgroundSize: "cover",
           }}
-        ></div>
+        >
+          <Banners />
+        </div>
         <div className="container">
           <div className="columns is-mobile is-multiline">
             <div className="column is-12-mobile xis-3-tablet xis-3-desktop xhas-background-danger is-narrow-tablet is-narrow-desktop">
