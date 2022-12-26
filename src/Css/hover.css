@@ -164,4 +164,7 @@ footer {
   .hoveroverlay {
     display: none !important;
   }
+  .nav-link {
+    transform: none !important;
+  }
 }
