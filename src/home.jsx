@@ -8,6 +8,7 @@ import { Page2 } from "./Page/Page2";
 import { Page3 } from "./Page/Page3";
 import { Page4 } from "./Page/Page4";
 import { PerfilPaginaMenu } from "./Perfil/perfil.jsx";
+import { Ver } from "./Componentes/Ver";
 import { Page5 } from "./Page/Page5";
 import { Page10 } from "./Page/Page10";
 import { Page9 } from "./Page/Page9";
@@ -27,7 +28,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Inicio />} />
         <Route path="/perfil/:user" element={<PerfilPaginaMenu />} />
-
+        <Route path="/ver/*" element={<Ver />} />
         {/* capitulos Animes */}
         <Route
           path="/sasaki-to-miyano"
