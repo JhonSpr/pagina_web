@@ -29,8 +29,6 @@ export class Filter extends React.Component {
             <option value="Finalizados">Finalizados</option>
             <option value="Proximamente">Proximamente</option>
           </select>
-        </form>
-        <form action={`/animes=type[${this.state.value.toLocaleLowerCase()}]`}>
           <select
             value={this.state.value}
             onChange={this.handleChange}
@@ -59,10 +57,10 @@ export class Filter extends React.Component {
               ></i>
             </option>
           </select>
+          <button type="submit" className="button is-small is-orange">
+            <span class="fa fa-filter" aria-hidden="true"></span>filtrar
+          </button>
         </form>
-        <button type="submit" className="button is-small is-orange">
-          <span class="fa fa-filter" aria-hidden="true"></span>filtrar
-        </button>
       </>
     );
   }
