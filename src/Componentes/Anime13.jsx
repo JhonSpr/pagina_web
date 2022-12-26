@@ -2,7 +2,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
 import Disqus from "./Elements/disqus";
-
+import banner from "../Json/Banners.json";
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Animes13({
   Fecha,
@@ -51,6 +51,8 @@ export function Animes13({
   capituloAnime12,
   capituloAnime13,
 }) {
+  let end = 83;
+  let RandomNumber = Math.floor(Math.random() * end);
   return (
     <>
       <title>{anime} Online HD</title>
@@ -58,13 +60,13 @@ export function Animes13({
         <div
           className="serie-background"
           style={{
-            background: `url(${imagenAnime})`,
+            background: `url(${banner && banner[RandomNumber].image})`,
             backgroundRepeat: "no-repeat",
             backgroundSize: "cover",
           }}
         ></div>
         <div className="container">
-          <div className="columns is-mobile is-multiline">
+          <div className="columns is-mobile is-multiline info">
             <div className="column is-12-mobile xis-3-tablet xis-3-desktop xhas-background-danger is-narrow-tablet is-narrow-desktop">
               <figure className="image is-2by4 image_2">
                 <img src={imagenAnime} alt={anime} />

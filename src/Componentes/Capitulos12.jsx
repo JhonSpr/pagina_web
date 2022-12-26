@@ -33,9 +33,8 @@ export function Numero12({
   imagenAnime,
   li12,
 }) {
-  let end = 3;
+  let end = 83;
   let RandomNumber = Math.floor(Math.random() * end);
-  console.log(RandomNumber);
   return (
     <>
       <title>{anime} Online HD</title>
