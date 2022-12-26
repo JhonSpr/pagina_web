@@ -1,3 +1,4 @@
+import { Banners } from "./Elements/banner";
 import Disqus from "./Elements/disqus";
 
 export function Numero12({
@@ -40,7 +41,7 @@ export function Numero12({
         <div
           className="serie-background"
           style={{
-            background: `url(${imagenAnime})`,
+            background: `url(${(<Banners />)})`,
             backgroundRepeat: "no-repeat",
             backgroundSize: "cover",
           }}
