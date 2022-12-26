@@ -1,5 +1,5 @@
 import Disqus from "./Elements/disqus";
-import banner from "../../Json/Banners.json";
+import banner from "../Json/Banners.json";
 export function Numero12({
   sec1,
   sec2,
