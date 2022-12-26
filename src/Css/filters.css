@@ -6,9 +6,7 @@
 .select {
   background-color: #ee3a27 !important;
 }
-form {
-  display: inline-block;
-}
+
 .open > .dropdown-menu {
   display: block;
 }
