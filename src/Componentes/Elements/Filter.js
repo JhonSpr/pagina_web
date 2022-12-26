@@ -24,7 +24,9 @@ export class Filter extends React.Component {
           this.state.value.toLocaleLowerCase().replace(/ /g, "-")
         }
       >
-        <h1>{`seleccionastes: ${this.state.value}`}</h1>
+        <h1
+          style={{ color: "#00f4f8" }}
+        >{`seleccionastes: ${this.state.value}`}</h1>
         <select
           value={this.state.value}
           onChange={this.handleChange}
