@@ -5,5 +5,5 @@ export function Banners() {
   let RandomNumber = Math.floor(Math.random() * end);
   console.log(RandomNumber);
 
-  return <div>{banner && banner[RandomNumber].image} </div>;
+  return <>{banner && banner[RandomNumber].image} </>;
 }
