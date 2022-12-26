@@ -37,6 +37,7 @@ export function AnimeRecommend2() {
     </a>
   );
 }
+
 export function AnimeRecommend3() {
   let end = 120 + 1;
   let RandomNumber = Math.floor(Math.random() * end);
