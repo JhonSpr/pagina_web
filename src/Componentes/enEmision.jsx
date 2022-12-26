@@ -23,7 +23,7 @@ export function EmisionesPage1() {
       <div className="paginacion-contenedor">
         <ul>
           <li className="active">
-            <a href="/emisiones">1</a>
+            <a href="/en-emision">1</a>
           </li>
         </ul>
       </div>{" "}
