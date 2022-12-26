@@ -85,44 +85,32 @@ const Page2 = () => {
 
   return (
     <>
-      <section className="container items-animes">
-        {/* <input
-          type="text"
-          onChange={handleFilter}
-          value={wordEntered}
-          className="input is-orange"
-          placeholder="BUSCA UN ANIME..."
-        /> */}
-
-        <div className="list-series">
-          {info.slice(24, 48).map((data) => (
-            <article className="serie-card" title={data.name} key={data.id}>
-              <figure className="image overarchingdiv2">
-                <a href={data.link}>
-                  <img src={data.image} alt={data.name} />
-                  <div className="overlay-dark"></div>
-                  <div className="hoveroverlay">
-                    <i className="fas fa-play pgnav activehov"></i>
-                  </div>
+      {info.slice(24, 48).map((data) => (
+        <article className="serie-card" title={data.name} key={data.id}>
+          <figure className="image overarchingdiv2">
+            <a href={data.link}>
+              <img src={data.image} alt={data.name} />
+              <div className="overlay-dark"></div>
+              <div className="hoveroverlay">
+                <i className="fas fa-play pgnav activehov"></i>
+              </div>
+            </a>
+            <span className="tag year is-dark">{data.year}</span>
+            <span className="tag is-danger type">TV</span>
+            <span className={data.classEstado}>{data.estado}</span>
+            <div className="title">
+              <h3>
+                <a
+                  href={data.link}
+                  className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
+                >
+                  {data.name}
                 </a>
-                <span className="tag year is-dark">{data.year}</span>
-                <span className="tag is-danger type">TV</span>
-                <span className={data.classEstado}>{data.estado}</span>
-                <div className="title">
-                  <h3>
-                    <a
-                      href={data.link}
-                      className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
-                    >
-                      {data.name}
-                    </a>
-                  </h3>
-                </div>
-              </figure>
-            </article>
-          ))}
-        </div>
-      </section>
+              </h3>
+            </div>
+          </figure>
+        </article>
+      ))}
     </>
   );
 };
