@@ -167,4 +167,7 @@ footer {
   .nav-link {
     transform: none !important;
   }
+  .nav-link:hover {
+    transform: none !important;
+  }
 }
