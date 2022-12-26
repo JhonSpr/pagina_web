@@ -33,32 +33,16 @@ export function Emision1() {
 }
 
 export function Proximos() {
-  return proximos.slice(0, 24).map((anime) => {
+  return proximos.slice(0, 24).map((tv) => {
     return (
-      <article className="serie-card" title={anime.title} key={anime.id}>
-        <figure className="image overarchingdiv2">
-          <a href={anime.link}>
-            <img src={anime.img} alt={anime.title} />
-            <div className="overlay-dark"></div>
-            <div className="hoveroverlay">
-              <i className="fas fa-play pgnav activehov"></i>
-            </div>
-          </a>
-          <span className="tag year is-dark">{anime.year}</span>
-          <span className="tag is-danger type">TV</span>
-          <span className={anime.classEstado}>{anime.estado}</span>
-          <div className="title">
-            <h3>
-              <a
-                href={anime.link}
-                className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
-              >
-                {anime.title}
-              </a>
-            </h3>
-          </div>
-        </figure>
-      </article>
+      <Animes
+        title={tv.title}
+        year={tv.year}
+        estado={tv.estado}
+        classEstado={tv.classEstado}
+        img={tv.img}
+        link={tv.link}
+      />
     );
   });
 }
