@@ -48,7 +48,7 @@ export function Numero12({
           <Banners />
         </div>
         <div className="container">
-          <div className="columns is-mobile is-multiline">
+          <div className="columns is-mobile is-multiline info">
             <div className="column is-12-mobile xis-3-tablet xis-3-desktop xhas-background-danger is-narrow-tablet is-narrow-desktop">
               <figure className="image is-2by4 image_2">
                 <img src={imagenAnime} alt={anime} />
