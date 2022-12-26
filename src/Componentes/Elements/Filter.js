@@ -32,6 +32,9 @@ export class Filter extends React.Component {
             <option value="Finalizados">Finalizados</option>
             <option value="Proximamente">Proximamente</option>
           </select>
+          <button type="submit" className="button is-small is-orange">
+            <span class="fa fa-filter" aria-hidden="true"></span>filtrar
+          </button>
         </form>
         <form action="">
           <select
