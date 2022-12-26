@@ -2457,7 +2457,7 @@ function App() {
           }
         />
         {/* Pages */}
-        <Route path="/en-emision" element={<EmisionesPage1 />} />
+        <Route path="/en-emisión" element={<EmisionesPage1 />} />
 
         <Route path="/animes%20year[]=2022&page=2" element={<Page10 />} />
         <Route path="/animes=type[]" element={<Page10 />} />
