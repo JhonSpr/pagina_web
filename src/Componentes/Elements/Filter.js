@@ -17,7 +17,10 @@ export class Filter extends React.Component {
   render() {
     return (
       <>
-        <h1 style={{ color: "#00f4f8" }}>{`Selección: ${this.state.value}`}</h1>
+        <h1 style={{ color: "#00f4f8" }}>
+          {`Selección:`}{" "}
+          <h2 style={{ color: "#363636" }}>{this.state.value}</h2>
+        </h1>
         <form action={"/" + this.state.value.toLowerCase().replace(/ /g, "-")}>
           <select
             value={this.state.value}
