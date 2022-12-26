@@ -33,7 +33,7 @@ export class Filter extends React.Component {
             <option value="Proximamente">Proximamente</option>
           </select>
         </form>
-        <form action="">
+        <form action={`/animes=type[${this.state.value.toLocaleLowerCase()}]`}>
           <select
             value={this.state.value}
             onChange={this.handleChange}
