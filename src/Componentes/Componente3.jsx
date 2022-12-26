@@ -1,6 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 /* eslint-disable react/style-prop-object */
 import Breadcrumb from "react-bootstrap/Breadcrumb";
+import Footer from "../Colletion/Footer";
 import {
   AnimeRecommend1,
   AnimeRecommend2,
@@ -102,27 +103,7 @@ export function Video({
         </section>
       </div>{" "}
       <hr />
-      <footer>
-        <span
-          className="has-text-weight-semibold has-text-orange"
-          style={{ display: "inline-block" }}
-        >
-          <i class="fa-regular fa-copyright"></i> Animekuns
-        </span>
-        <h1 className="has-text-orange" style={{ display: "inline-block" }}>
-          Disfruta del anime Online
-        </h1>
-
-        <h3
-          style={{
-            color: "#363636",
-            marginLeft: "20px",
-            fontWeight: "100",
-          }}
-        >
-          Ningún vídeo se encuentra alojado en nuestros servidores.
-        </h3>
-      </footer>
+      <Footer />
     </>
   );
 }

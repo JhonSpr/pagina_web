@@ -3,6 +3,7 @@
 
 import Disqus from "./Elements/disqus";
 import banner from "../Json/Banners.json";
+import Footer from "../Colletion/Footer";
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Emision12({
   Fecha,
@@ -262,27 +263,7 @@ export function Emision12({
         </div>
       </section>{" "}
       <hr />
-      <footer>
-        <span
-          className="has-text-weight-semibold has-text-orange"
-          style={{ display: "inline-block" }}
-        >
-          <i class="fa-regular fa-copyright"></i> Animekuns
-        </span>
-        <h1 className="has-text-orange" style={{ display: "inline-block" }}>
-          Disfruta del anime Online
-        </h1>
-
-        <h3
-          style={{
-            color: "#363636",
-            marginLeft: "20px",
-            fontWeight: "100",
-          }}
-        >
-          Ningún vídeo se encuentra alojado en nuestros servidores.
-        </h3>
-      </footer>
+      <Footer />
     </>
   );
 }
