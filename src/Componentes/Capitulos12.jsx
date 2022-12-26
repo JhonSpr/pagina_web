@@ -41,7 +41,7 @@ export function Numero12({
         <div
           className="serie-background"
           style={{
-            background: `url(${(<Banners />)})`,
+            background: `url("https://i.waifu.pics/-oA3loc.png")`,
             backgroundRepeat: "no-repeat",
             backgroundSize: "cover",
           }}
