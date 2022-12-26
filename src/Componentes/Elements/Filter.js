@@ -19,7 +19,9 @@ export class Filter extends React.Component {
       <>
         <h1 style={{ color: "#00f4f8" }}>
           {`Selección:`}{" "}
-          <h2 style={{ color: "#363636" }}>{this.state.value}</h2>
+          <h2 style={{ color: "#363636", display: "inline-block" }}>
+            {this.state.value}
+          </h2>
         </h1>
         <form action={"/" + this.state.value.toLowerCase().replace(/ /g, "-")}>
           <select
