@@ -41,6 +41,7 @@ export function Numero12({
         <div
           className="serie-background"
           style={{
+            background: `url(${imagenAnime})`,
             backgroundRepeat: "no-repeat",
             backgroundSize: "cover",
           }}
