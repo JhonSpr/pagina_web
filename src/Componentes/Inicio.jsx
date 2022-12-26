@@ -22,6 +22,9 @@ export function Inicio() {
       comments powered by Disqus.
     </a>
   </noscript>;
+  fetch("http://localhost:5000/api/v1/workouts/")
+    .then((response) => console.log(response.json()))
+    .then((res) => console.log(res));
   return (
     <>
       <title>Animekuns - animes online HD</title>
