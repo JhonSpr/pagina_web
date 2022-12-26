@@ -1,4 +1,3 @@
-import { Banners } from "./Elements/banner";
 import Disqus from "./Elements/disqus";
 
 export function Numero12({
