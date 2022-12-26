@@ -16,20 +16,16 @@ export class Filter extends React.Component {
 
   render() {
     return (
-      <form
-        action={
-          "/" + this.state.value.toLowerCase().replace(/ /g, "-") + "?type="
-        }
-      >
+      <form action={"/" + this.state.value.toLowerCase().replace(/ /g, "-")}>
         <h1>{`seleccionastes: ${this.state.value}`}</h1>
         <select
           value={this.state.value}
           onChange={this.handleChange}
           className="select is-small is-orange"
         >
-          <option>Estados</option>
-          <option value="emisiones">En emision</option>
-          <option value="finalizados">Finalizados</option>
+          <option>Elige el estado</option>
+          <option value="En Emisión">En emision</option>
+          <option value="Finalizados">Finalizados</option>
           <option value="Proximamente">Proximamente</option>
         </select>
 
@@ -38,10 +34,10 @@ export class Filter extends React.Component {
           onChange={this.handleChange}
           className="select is-small"
         >
-          <option>Tipo</option>
+          <option>Elige el tipo</option>
           <option value="TV">TV</option>
           <option value="OVA">OVA</option>
-          <option value="PELICULA">Pelicula</option>
+          <option value="Pelicula">Pelicula</option>
         </select>
 
         <button type="submit" className="button is-small is-orange">
