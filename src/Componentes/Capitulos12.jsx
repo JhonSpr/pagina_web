@@ -1,6 +1,6 @@
 import { Banners } from "./Elements/banner";
 import Disqus from "./Elements/disqus";
-
+import banner from "../../Json/Banners.json";
 export function Numero12({
   sec1,
   sec2,
@@ -34,6 +34,9 @@ export function Numero12({
   imagenAnime,
   li12,
 }) {
+  let end = 3;
+  let RandomNumber = Math.floor(Math.random() * end);
+  console.log(RandomNumber);
   return (
     <>
       <title>{anime} Online HD</title>
@@ -41,7 +44,7 @@ export function Numero12({
         <div
           className="serie-background"
           style={{
-            background: `url(${(<Banners />)})`,
+            background: `url(${banner && banner[RandomNumber].image})`,
             backgroundRepeat: "no-repeat",
             backgroundSize: "cover",
           }}
