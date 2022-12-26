@@ -57,7 +57,7 @@ export default function Menubar() {
                 </a>
               </li>
               <li className="navbar-item item-nav nav_item">
-                <a href={"/emisiones"} className="nav-link item-nav">
+                <a href={"/en-emision"} className="nav-link item-nav">
                   Emisiones
                 </a>
               </li>
