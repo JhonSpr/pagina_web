@@ -158,7 +158,10 @@ footer {
   .serie-card {
     transform: none !important;
   }
-  .overlay {
+  .overlay-dark {
+    display: none !important;
+  }
+  .hoveroverlay {
     display: none !important;
   }
 }
