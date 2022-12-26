@@ -36,7 +36,7 @@ export class Filter extends React.Component {
           onChange={this.handleChange}
           className="select is-small"
         >
-          <option>Elige el tipo</option>
+          <option value="">Elige el tipo</option>
           <option value="TV">
             TV{" "}
             <i
