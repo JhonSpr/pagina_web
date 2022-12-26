@@ -44,9 +44,27 @@ export class Filter extends React.Component {
           className="select is-small"
         >
           <option>Elige el tipo</option>
-          <option value="TV">TV</option>
-          <option value="OVA">OVA</option>
-          <option value="Pelicula">Pelicula</option>
+          <option value="TV">
+            TV{" "}
+            <i
+              style={{ color: "#00f4f8" }}
+              class="fa-sharp fa-solid fa-check"
+            ></i>
+          </option>
+          <option value="OVA">
+            OVA{" "}
+            <i
+              style={{ color: "#00f4f8" }}
+              class="fa-sharp fa-solid fa-check"
+            ></i>
+          </option>
+          <option value="Pelicula">
+            Pelicula{" "}
+            <i
+              style={{ color: "#00f4f8" }}
+              class="fa-sharp fa-solid fa-check"
+            ></i>
+          </option>
         </select>
 
         <button type="submit" className="button is-small is-orange">
