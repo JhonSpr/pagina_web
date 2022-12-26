@@ -16,7 +16,11 @@ export class Filter extends React.Component {
 
   render() {
     return (
-      <form action={"/" + this.state.value.toLowerCase().replace(/ /g, "-")}>
+      <form
+        action={
+          "/" + this.state.value.toLowerCase().replace(/ /g, "-") + "?type="
+        }
+      >
         <h1>{`seleccionastes: ${this.state.value}`}</h1>
         <select
           value={this.state.value}
