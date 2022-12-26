@@ -17,8 +17,8 @@ export class Filter extends React.Component {
   render() {
     return (
       <>
-        <h1 style={{ color: "#00f4f8" }}>
-          {`Selección:`}{" "}
+        <h1>
+          {`Selección:`}
           <h2 style={{ color: "#363636", display: "inline-block" }}>
             {this.state.value}
           </h2>
