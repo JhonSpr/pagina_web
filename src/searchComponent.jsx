@@ -20,7 +20,7 @@ function SearchBar({ placeholder, data }) {
   };
 
   return (
-    <form onSubmit={`/` + wordEntered.replace(/ /g, "-").toLocaleLowerCase()}>
+    <form action={`/` + wordEntered.replace(/ /g, "-").toLocaleLowerCase()}>
       <div className="search">
         <div className="searchInputs">
           <li className="navbar-item">
