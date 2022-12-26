@@ -30,7 +30,7 @@ export class Filter extends React.Component {
             className="select is-small is-orange"
           >
             <option>Elige el estado</option>
-            <option value="En Emision">En emision</option>
+            <option value="En Emision">En emisión</option>
             <option value="Finalizados">Finalizados</option>
             <option value="Proximamente">Proximamente</option>
           </select>
