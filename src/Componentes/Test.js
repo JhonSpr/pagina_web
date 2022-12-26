@@ -3,18 +3,20 @@ import { Filter } from "./Elements/Filter";
 import { Page1, Page2 } from "./Testing";
 export default function Testing() {
   return (
-    <section className="container items-animes">
-      <section className="filtrador">
-        <h1>
-          Filtrador
-          <i className="fa-solid fa-filter"></i>
-        </h1>
+    <>
+      <section className="container items-animes">
+        <section className="filtrador">
+          <h1>
+            Filtrador
+            <i className="fa-solid fa-filter"></i>
+          </h1>
 
-        <Filter />
+          <Filter />
+        </section>
+        <div className="list-series">
+          <Page1 />
+        </div>
       </section>
-      <div className="list-series">
-        <Page1 />
-      </div>
       <div className="paginacion-contenedor">
         <ul>
           <li className="active">
@@ -46,7 +48,7 @@ export default function Testing() {
       </div>
       <hr />
       <Footer />
-    </section>
+    </>
   );
 }
 export function Pagina2() {
