@@ -27,7 +27,6 @@ function App() {
     <div>
       <Routes>
         <Route path="/" element={<Inicio />} />
-
         {/* Pages */}
         <Route path="/en-emision" element={<EmisionesPage1 />} />
         <Route path="/animes" element={<Pagina1 />} />
@@ -398,7 +397,6 @@ function App() {
             />
           }
         />
-
         <Route
           path="/ao-no-exorcist:-kyoto-fujouou-hen"
           element={
@@ -1426,7 +1424,6 @@ function App() {
             />
           }
         />
-
         <Route
           path="/dolls-frontline"
           element={
@@ -1938,7 +1935,6 @@ function App() {
             />
           }
         />
-
         {/* EN EMISION CAPITULOS*/}
         <Route
           path="/isekai-ojisan"
@@ -1974,52 +1970,180 @@ function App() {
               li13={"disable"}
             />
           }
-        />
+        />{" "}
         <Route
-          path=""
+          path="/toaru-majutsu-no-index"
           element={
-            <Emision12
-              descripcion={""}
-              anime={""}
-              imagenAnime={""}
-              tituloAnime={""}
-              genero1={""}
-              genero2={""}
-              genero3={""}
+            <Capitulos24
+              descripcion={
+                "Imaginen un mundo donde la ciencia y la religión en vez de tener las peleas de siempre, esas donde tratan de explicar el origen del universo; la ciencia canalizará grandes poderes destructivos y la iglesia la mágica magia. En este alocado mundo se encuentra nuestro protagonista Toma Kamijo, que no sabe nada del tema hasta que se encuentra con una misteriosa chica…"
+              }
+              anime={"Toaru Majutsu no Index"}
+              imagenAnime={
+                "https://i.postimg.cc/8zjCNBxm/toaru-majutsu-no-index.jpg"
+              }
               sec1={"disable"}
               sec2={"disable"}
               sec3={"disable"}
-              hrefGenre1={"/generos[]="}
-              hrefGenre2={"/generos[]="}
-              hrefGenre3={"/generos[]="}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
               tipo={"TV"}
-              estado={"En Emisión"}
-              numeroEpisodios={""}
-              Fecha={""}
-              capituloAnime1={"/ver/-1"}
-              capituloAnime2={"/ver/-2"}
-              capituloAnime3={"/ver/-3"}
-              capituloAnime4={"/ver/-4"}
-              capituloAnime5={"/ver/-5"}
-              capituloAnime6={"/ver/-6"}
-              capituloAnime7={"/ver/-7"}
-              capituloAnime8={"/ver/-8"}
-              capituloAnime9={"/ver/-9"}
-              capituloAnime10={"/ver/-10"}
-              capituloAnime11={"/ver/-11"}
-              capituloAnime12={"/ver/-12"}
-              capituloAnime13={"/ver/-13"}
-              li8={"disable"}
-              li9={"disable"}
-              li10={"disable"}
-              li11={"disable"}
-              li12={"disable"}
-              li13={"disable"}
+              estado={"Finalizado"}
+              numeroEpisodios={"24"}
+              capituloAnime1={"/ver/toaru-majutsu-no-index-1"}
+              capituloAnime2={"/ver/toaru-majutsu-no-index-2"}
+              capituloAnime3={"/ver/toaru-majutsu-no-index-3"}
+              capituloAnime4={"/ver/toaru-majutsu-no-index-4"}
+              capituloAnime5={"/ver/toaru-majutsu-no-index-5"}
+              capituloAnime6={"/ver/toaru-majutsu-no-index-6"}
+              capituloAnime7={"/ver/toaru-majutsu-no-index-7"}
+              capituloAnime8={"/ver/toaru-majutsu-no-index-8"}
+              capituloAnime9={"/ver/toaru-majutsu-no-index-9"}
+              capituloAnime10={"/ver/toaru-majutsu-no-index-10"}
+              capituloAnime11={"/ver/toaru-majutsu-no-index-11"}
+              capituloAnime12={"/ver/toaru-majutsu-no-index-12"}
+              capituloAnime13={"/ver/toaru-majutsu-no-index-13"}
+              capituloAnime14="/ver/toaru-majutsu-no-index-14"
+              capituloAnime15={"/ver/toaru-majutsu-no-index-15"}
+              capituloAnime16="/ver/toaru-majutsu-no-index-16"
+              capituloAnime17={"/ver/toaru-majutsu-no-index-17"}
+              capituloAnime18="/ver/toaru-majutsu-no-index-18"
+              capituloAnime19={"/ver/toaru-majutsu-no-index-19"}
+              capituloAnime20={"/ver/toaru-majutsu-no-index-20"}
+              capituloAnime21={"/ver/toaru-majutsu-no-index-21"}
+              capituloAnime22={"/ver/toaru-majutsu-no-index-22"}
+              capituloAnime23={"/ver/toaru-majutsu-no-index-23"}
+              capituloAnime24={"/ver/toaru-majutsu-no-index-24"}
+            />
+          }
+        />
+        <Route
+          path="/toaru-majutsu-no-index-II"
+          element={
+            <Capitulos24
+              descripcion={
+                "Una estudiante de secundaria con poderes únicos se encuentra con una joven monja que posee una gran cantidad de conocimiento mágico prohibido en su memoria."
+              }
+              anime={"Toaru Majutsu no Index II"}
+              imagenAnime={
+                "https://i.postimg.cc/hvymv4sJ/toaru-majutsu-no-index-ii.jpg"
+              }
+              hrefSecuela="
+            /toaru-majutsu-no-index"
+              textoSecuela={"Toru Majutsu no Index"}
+              nombreSecuela="Precuela"
+              hrefSecuela2={"/toaru-majutsu-no-index-III"}
+              textoSecuela2="Toaru Majutsu no Index III"
+              nombreSecuela2={"Secuela"}
+              sec3={"disable"}
+              tipo={"TV"}
+              estado={"Finalizado"}
+              numeroEpisodios={"24"}
+              capituloAnime1={"/ver/toaru-majutsu-no-index-II-1"}
+              capituloAnime2={"/ver/toaru-majutsu-no-index-II-2"}
+              capituloAnime3={"/ver/toaru-majutsu-no-index-II-3"}
+              capituloAnime4={"/ver/toaru-majutsu-no-index-II-4"}
+              capituloAnime5={"/ver/toaru-majutsu-no-index-II-5"}
+              capituloAnime6={"/ver/toaru-majutsu-no-index-II-6"}
+              capituloAnime7={"/ver/toaru-majutsu-no-index-II-7"}
+              capituloAnime8={"/ver/toaru-majutsu-no-index-II-8"}
+              capituloAnime9={"/ver/toaru-majutsu-no-index-II-9"}
+              capituloAnime10={"/ver/toaru-majutsu-no-index-II-10"}
+              capituloAnime11={"/ver/toaru-majutsu-no-index-II-11"}
+              capituloAnime12={"/ver/toaru-majutsu-no-index-II-12"}
+              capituloAnime13={"/ver/toaru-majutsu-no-index-II-13"}
+              capituloAnime14="/ver/toaru-majutsu-no-index-II-14"
+              capituloAnime15={"/ver/toaru-majutsu-no-index-II-15"}
+              capituloAnime16="/ver/toaru-majutsu-no-index-II-16"
+              capituloAnime17={"/ver/toaru-majutsu-no-index-II-17"}
+              capituloAnime18="/ver/toaru-majutsu-no-index-II-18"
+              capituloAnime19={"/ver/toaru-majutsu-no-index-II-19"}
+              capituloAnime20={"/ver/toaru-majutsu-no-index-II-20"}
+              capituloAnime21={"/ver/toaru-majutsu-no-index-II-21"}
+              capituloAnime22={"/ver/toaru-majutsu-no-index-II-22"}
+              capituloAnime23={"/ver/toaru-majutsu-no-index-II-23"}
+              capituloAnime24={"/ver/toaru-majutsu-no-index-II-24"}
+            />
+          }
+        />{" "}
+        <Route
+          path="/toaru-majutsu-no-index-III"
+          element={
+            <Capitulos12
+              descripcion={"Tercera temporada de Toaru Majutsu no Index"}
+              anime={"Toaru Majutsu no Index III"}
+              imagenAnime={
+                "https://i.postimg.cc/65G9P5ZM/toaru-majutsu-no-index-iii.jpg"
+              }
+              hrefSecuela="
+          /toaru-majutsu-no-index-II"
+              textoSecuela={"Toru Majutsu no Index II"}
+              nombreSecuela="Precuela"
+              sec2="disable"
+              sec3={"disable"}
+              tipo={"TV"}
+              estado={"Finalizado"}
+              numeroEpisodios={"26"}
+              capituloAnime1={"/ver/toaru-majutsu-no-index-III-1"}
+              capituloAnime2={"/ver/toaru-majutsu-no-index-III-2"}
+              capituloAnime3={"/ver/toaru-majutsu-no-index-III-3"}
+              capituloAnime4={"/ver/toaru-majutsu-no-index-III-4"}
+              capituloAnime5={"/ver/toaru-majutsu-no-index-III-5"}
+              capituloAnime6={"/ver/toaru-majutsu-no-index-III-6"}
+              capituloAnime7={"/ver/toaru-majutsu-no-index-III-7"}
+              capituloAnime8={"/ver/toaru-majutsu-no-index-III-8"}
+              capituloAnime9={"/ver/toaru-majutsu-no-index-III-9"}
+              capituloAnime10={"/ver/toaru-majutsu-no-index-III-10"}
+              capituloAnime11={"/ver/toaru-majutsu-no-index-III-11"}
+              capituloAnime12={"/ver/toaru-majutsu-no-index-III-12"}
+              capituloAnime13={"/ver/toaru-majutsu-no-index-III-13"}
+              capituloAnime14="/ver/toaru-majutsu-no-index-III-14"
+              capituloAnime15={"/ver/toaru-majutsu-no-index-III-15"}
+              capituloAnime16="/ver/toaru-majutsu-no-index-III-16"
+              capituloAnime17={"/ver/toaru-majutsu-no-index-III-17"}
+              capituloAnime18="/ver/toaru-majutsu-no-index-III-18"
+              capituloAnime19={"/ver/toaru-majutsu-no-index-III-19"}
+              capituloAnime20={"/ver/toaru-majutsu-no-index-III-20"}
+              capituloAnime21={"/ver/toaru-majutsu-no-index-III-21"}
+              capituloAnime22={"/ver/toaru-majutsu-no-index-III-22"}
+              capituloAnime23={"/ver/toaru-majutsu-no-index-III-23"}
+              capituloAnime24={"/ver/toaru-majutsu-no-index-III-24"}
+              li27="disable"
+              li28="disable"
+              li29="disable"
+              li30="disable"
+              li31="disable"
+              li32="disable"
+              li33="disable"
+              li34="disable"
+              li35="disable"
+              li36="disable"
+              li37="disable"
+              li38="disable"
+              li39="disable"
+              li40="disable"
+              li41="disable"
+              li42="disable"
+              li43="disable"
+              li44="disable"
+              li45="disable"
+              li46="disable"
+              li47="disable"
+              li48="disable"
+              li49="disable"
+              li50="disable"
+              li51="disable"
+              li52="disable"
+              li53="disable"
+              li54="disable"
+              li55="disable"
+              li56="disable"
+              li57="disable"
+              li58="disable"
+              li59="disable"
+              li60="disable"
+              li61="disable"
+              li62="disable"
+              li63="disable"
+              li64="disable"
             />
           }
         />
@@ -2071,7 +2195,54 @@ function App() {
             />
           }
         />
-
+        <Route
+          path=""
+          element={
+            <Emision12
+              descripcion={""}
+              anime={""}
+              imagenAnime={""}
+              tituloAnime={""}
+              genero1={""}
+              genero2={""}
+              genero3={""}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
+              hrefGenre1={"/generos[]="}
+              hrefGenre2={"/generos[]="}
+              hrefGenre3={"/generos[]="}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"disable"}
+              genre5={"disable"}
+              tipo={"TV"}
+              estado={"En Emisión"}
+              numeroEpisodios={""}
+              Fecha={""}
+              capituloAnime1={"/ver/-1"}
+              capituloAnime2={"/ver/-2"}
+              capituloAnime3={"/ver/-3"}
+              capituloAnime4={"/ver/-4"}
+              capituloAnime5={"/ver/-5"}
+              capituloAnime6={"/ver/-6"}
+              capituloAnime7={"/ver/-7"}
+              capituloAnime8={"/ver/-8"}
+              capituloAnime9={"/ver/-9"}
+              capituloAnime10={"/ver/-10"}
+              capituloAnime11={"/ver/-11"}
+              capituloAnime12={"/ver/-12"}
+              capituloAnime13={"/ver/-13"}
+              li8={"disable"}
+              li9={"disable"}
+              li10={"disable"}
+              li11={"disable"}
+              li12={"disable"}
+              li13={"disable"}
+            />
+          }
+        />
         <Route
           path="/mob-psycho-100-III"
           element={
@@ -2110,7 +2281,6 @@ function App() {
             />
           }
         />
-
         <Route
           path="/spy-x-family-2nd-temporada"
           element={
@@ -2384,7 +2554,6 @@ function App() {
             />
           }
         />
-
         <Route
           path="/bleach-sennen-kessen-hen"
           element={
@@ -2466,7 +2635,6 @@ function App() {
             />
           }
         />
-
         {/* Animes */}
         <Route path="/animes" element={<Page1 />} />
         <Route path="/policy-comments" element={<Policy />} />
