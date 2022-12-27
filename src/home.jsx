@@ -4,17 +4,8 @@ import { Capitulos12 } from "./Componentes/Componente2";
 // import { Filter } from "./Componentes/DropDown";
 // import { EnEmision } from "./Componentes/enEmision";
 import { NoExiste } from "./Componentes/NoExiste";
-import { Page2 } from "./Page/Page2";
-import { Page3 } from "./Page/Page3";
-import { Page4 } from "./Page/Page4";
 import { PerfilPaginaMenu } from "./Perfil/perfil.jsx";
 import { Ver } from "./Componentes/ver";
-import { Page5 } from "./Page/Page5";
-import { Page10 } from "./Page/Page10";
-import { Page9 } from "./Page/Page9";
-import { Page8 } from "./Page/Page8";
-import { Page7 } from "./Page/Page7";
-import { Page6 } from "./Page/Page6";
 import { Numero12 } from "./Componentes/Capitulos12";
 import { Emision12 } from "./Componentes/EnEmision12";
 import { Animes13 } from "./Componentes/Anime13";
@@ -22,15 +13,30 @@ import { Capitulos24 } from "./Componentes/Capitulos24";
 import { Inicio } from "./Componentes/Inicio";
 import { Policy } from "./Componentes/Policy";
 import { EmisionesPage1 } from "./Componentes/enEmision";
-import Testing, { Pagina2 } from "./Componentes/Test";
+import {
+  Pagina1,
+  Pagina2,
+  Pagina3,
+  Pagina4,
+  Pagina5,
+  Pagina6,
+  Pagina7,
+} from "./Componentes/Pages";
 function App() {
   return (
     <div>
       <Routes>
         <Route path="/" element={<Inicio />} />
-        <Route path="/test-page=2" element={<Pagina2 />} />
-        <Route path="/test" element={<Testing />} />
 
+        {/* Pages */}
+        <Route path="/en-emision" element={<EmisionesPage1 />} />
+        <Route path="/animes" element={<Pagina1 />} />
+        <Route path="/animes%20page=2" element={<Pagina2 />} />
+        <Route path="/animes%20page=3" element={<Pagina3 />} />
+        <Route path="/animes%20page=4" element={<Pagina4 />} />
+        <Route path="/animes%20page=5" element={<Pagina5 />} />
+        <Route path="/animes%20page=6" element={<Pagina6 />} />
+        <Route path="/animes%20page=7" element={<Pagina7 />} />
         <Route path="/perfil/:user" element={<PerfilPaginaMenu />} />
         <Route path="/ver/*" element={<Ver />} />
         {/* capitulos Animes */}
@@ -2460,21 +2466,8 @@ function App() {
             />
           }
         />
-        {/* Pages */}
-        <Route path="/en-emision" element={<EmisionesPage1 />} />
 
-        <Route path="/animes%20year[]=2022&page=2" element={<Page10 />} />
-        <Route path="/animes=type[]" element={<Page10 />} />
         {/* Animes */}
-        <Route path="/animes%20page=10" element={<Page10 />} />
-        <Route path="/animes%20page=9" element={<Page9 />} />
-        <Route path="/animes%20page=8" element={<Page8 />} />
-        <Route path="/animes%20page=7" element={<Page7 />} />
-        <Route path="/animes%20page=6" element={<Page6 />} />
-        <Route path="/animes%20page=5" element={<Page5 />} />
-        <Route path="/animes%20page=4" element={<Page4 />} />
-        <Route path="/animes%20page=3" element={<Page3 />} />
-        <Route path="/animes%20page=2" element={<Page2 />} />
         <Route path="/animes" element={<Page1 />} />
         <Route path="/policy-comments" element={<Policy />} />
         <Route path="*" element={<NoExiste />} />
