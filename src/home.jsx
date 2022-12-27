@@ -2225,7 +2225,7 @@ function App() {
               }
               anime={"Shadows House"}
               imagenAnime={"https://i.postimg.cc/sD11ZwKQ/shadows-house.jpg"}
-              hrefSecuela="/orient-segunda-temporada"
+              hrefSecuela="/shadows-house-segunda-temporada"
               textoSecuela={"Secuela"}
               nombreSecuela="Shadows House 2nd Temporada"
               sec2={"disable"}
