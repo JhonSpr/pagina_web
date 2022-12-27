@@ -952,8 +952,7 @@
     "link": "/spy-x-family-2nd-temporada",
     "title": "SPY x FAMILY 2nd Temporada",
     "year": 2022,
-    "estado": "En Emision",
-    "classEstado": "tag is-success airing"
+    "estado": "Finalizado"
   },
   {
     "id": "139",
@@ -1042,8 +1041,7 @@
     "link": "/mob-psycho-100-III",
     "title": "Mob Psycho 100 III",
     "year": 2022,
-    "estado": "En Emision",
-    "classEstado": "tag is-success airing"
+    "estado": "Finalizado"
   },
   {
     "id": 153,
@@ -1060,8 +1058,7 @@
     "link": "/bleach-sennen-kessen-hen",
     "title": "BLEACH: Sennen Kessen-hen",
     "year": 2022,
-    "estado": "En Emision",
-    "classEstado": "tag is-success airing"
+    "estado": "Finalizado"
   },
   {
     "id": 155,
@@ -1139,6 +1136,14 @@
     "img": "https://i.postimg.cc/sD11ZwKQ/shadows-house.jpg",
     "link": "/shadows-house",
     "title": "Shadows House",
+    "year": 2021,
+    "estado": "Finalizado"
+  },
+  {
+    "id": 164,
+    "img": "https://i.postimg.cc/HsjD5j2d/tensei-shitara-slime-datta-ken-2nd-season-part-2.jpg",
+    "link": "/tensei-shitara-slime-datta-ken-segunda-temporada-parte-2",
+    "title": "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2",
     "year": 2021,
     "estado": "Finalizado"
   }

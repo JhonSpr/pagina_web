@@ -7,7 +7,7 @@ import {
   AnimeRecommend2,
   AnimeRecommend3,
   AnimeRecommend4,
-} from "./AnimesRecommend";
+} from "./Elements/AnimesRecommend";
 import Disqus from "./Elements/disqus";
 
 /* eslint-disable jsx-a11y/iframe-has-title */

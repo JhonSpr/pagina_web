@@ -1,15 +1,13 @@
 import { Route, Routes } from "react-router-dom";
 import { Page1 } from "./Componentes/Componente1";
 import { Capitulos12 } from "./Componentes/Componente2";
-// import { Filter } from "./Componentes/DropDown";
-// import { EnEmision } from "./Componentes/enEmision";
 import { NoExiste } from "./Componentes/NoExiste";
 import { PerfilPaginaMenu } from "./Perfil/perfil.jsx";
 import { Ver } from "./Componentes/ver";
-import { Numero12 } from "./Componentes/Capitulos12";
+import { Numero12 } from "./Componentes/Capitulos.js/Capitulos12";
 import { Emision12 } from "./Componentes/EnEmision12";
-import { Animes13 } from "./Componentes/Anime13";
-import { Capitulos24 } from "./Componentes/Capitulos24";
+import { Animes13 } from "./Componentes/Capitulos.js/Anime13";
+import { Capitulos24 } from "./Componentes/Capitulos.js/Capitulos24";
 import { Inicio } from "./Componentes/Inicio";
 import { Policy } from "./Componentes/Policy";
 import { EmisionesPage1 } from "./Componentes/enEmision";
@@ -54,7 +52,7 @@ function App() {
               tipo={"TV"}
               numeroEpisodios={"13"}
               estado={"Finalizado"}
-              anime={"Sasaki to Miyano "}
+              anime={"Sasaki to Miyano"}
               capituloAnime1={"/sasaki-to-miyano-1"}
               capituloAnime2={"/sasaki-to-miyano-2"}
               capituloAnime3={"/sasaki-to-miyano-3"}
@@ -76,7 +74,7 @@ function App() {
           exact
           element={
             <Numero12
-              tituloAnime={"Akudama Drive "}
+              tituloAnime={"Akudama Drive"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
@@ -107,7 +105,7 @@ function App() {
           path="/hanyo-no-yashahime-ni-no-shou"
           element={
             <Capitulos24
-              tituloAnime={"Hanyo no Yashahime ni no Shou "}
+              tituloAnime={"Hanyo no Yashahime ni no Shou"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
@@ -152,14 +150,14 @@ function App() {
           path="/heion-sedai-no-idaten-tachi"
           element={
             <Numero12
-              tituloAnime={"Heion Sedai no Idaten Tachi "}
+              tituloAnime={"Heion Sedai no Idaten Tachi"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
               descripcion={
                 "En la historia de este manga, los dioses aparecieron cuando la humanidad estaba al borde de la aniquilación por parte de los demonios. Deidades llamadas “Idaten” pelearon y sellaron a los demonios hace 800 años. Ahora, los “Idaten” ya no tiene experiencia en peleas y viven vidas pacíficas. Pero, al mismo tiempo, los demonios están reviviendo, y la batalla entre humanos, dioses y demonios está a punto de comenzar. ¿Cuál será el bando que se alce con la victoria en esta ocasión con las condiciones tan cambiadas?"
               }
-              anime={"Heion Sedai no Idaten Tachi "}
+              anime={"Heion Sedai no Idaten Tachi"}
               tipo={"TV"}
               numeroEpisodios={"11"}
               estado={"Finalizado"}
@@ -186,7 +184,7 @@ function App() {
           element={
             <Animes13
               tituloAnime={
-                "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 "
+                "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2"
               }
               descripcion={"Segunda parte de la segunda temporada del slime"}
               sec2={"sec"}
@@ -198,7 +196,9 @@ function App() {
               tipo={"TV"}
               numeroEpisodios={"13"}
               estado={"Finalizado"}
-              imagenAnime={""}
+              imagenAnime={
+                "https://i.postimg.cc/HsjD5j2d/tensei-shitara-slime-datta-ken-2nd-season-part-2.jpg"
+              }
               capituloAnime1={
                 "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-parte-2-1"
               }
@@ -245,7 +245,7 @@ function App() {
           path="/peach-boy-riverside"
           element={
             <Numero12
-              tituloAnime={"Peach Boy Riverside "}
+              tituloAnime={"Peach Boy Riverside"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
@@ -278,7 +278,7 @@ function App() {
           path="/jujutsu-kaisen"
           element={
             <Capitulos24
-              tituloAnime={"Jujutsu Kaisen "}
+              tituloAnime={"Jujutsu Kaisen"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
@@ -321,7 +321,7 @@ function App() {
           path="/shingeki-no-bahamut:virgin-soul"
           element={
             <Capitulos24
-              tituloAnime={"Shingeki no Bahamut:Virgin Soul "}
+              tituloAnime={"Shingeki no Bahamut:Virgin Soul"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
@@ -366,7 +366,6 @@ function App() {
           path="/castlevania-segunda-temporada"
           element={
             <Numero12
-              tituloAnime={"Castlevania Segunda Temporada "}
               descripcion={"Segunda temporada de Castlevania."}
               sec3={"sec"}
               hrefSecuela={"/castlevania"}
@@ -379,7 +378,7 @@ function App() {
               li10={"li"}
               li11={"li"}
               li12={"li"}
-              anime={"Castlevania 2nd Temporada "}
+              anime={"Castlevania 2nd Temporada"}
               tipo={"TV"}
               numeroEpisodios={"8"}
               estado={"Finalizado"}
@@ -401,7 +400,6 @@ function App() {
           path="/ao-no-exorcist:-kyoto-fujouou-hen"
           element={
             <Animes13
-              tituloAnime={"Ao no Exorcist Kyoto Fujouou Hen "}
               sec2={"sec"}
               sec3={"sec"}
               textoSecuela={"Precuela"}
@@ -410,7 +408,7 @@ function App() {
               descripcion={
                 "A finales de la era Edo, un demonio conocido como el Rey Impuro mató a miles de personas. Tras vencer al demonio, los Caballeros de la Verdadera Cruz mantuvieron su ojo izquierdo sellado a salvo en la Academia, pero ahora ha sido robado. Al escuchar que el ladrón ha tomado por rehén a un niño, Yukio y Rin parten a ayudar. La investigación y la persecución llevará a Rin y a sus amigos hasta Kyoto, donde se verán involucrados en una oscura trama."
               }
-              anime={"Ao no Exorcist Kyoto Fujouou Hen "}
+              anime={"Ao no Exorcist Kyoto Fujouou Hen"}
               tipo={"TV"}
               numeroEpisodios={"13"}
               estado={"Finalizado"}
@@ -437,11 +435,10 @@ function App() {
           path="/fairy-gone"
           element={
             <Numero12
-              tituloAnime={"Fairy Gone "}
               descripcion={
                 "La historia nos trasladará a un mundo en el que las hadas poseen y residen en animales, proporcionándoles poderes especiales. Extrayendo quirúrgicamente los órganos a uno de estos animales e implantándoselos a un humano, los humanos pueden invocar parcialmente a las hadas y usarlas como armas. Estos humanos participarán en las guerras y serán conocidos como 'Soldados Hada'. Tras el fin de una larga guerra, estos Soldados Hada pierden su propósito y deben reintegrarse en la sociedad, aunque no todos tomarán el camino de la justicia. Nueve años después del fin de la guerra conocemos a Marlya, una nueva recluta en Dorothea, una organización dedicada a investigar y contrarrestar crímenes relacionados con hadas. Aun en tiempo de paz, la inestabilidad de la guerra todavía afecta al gobierno. Muchos criminales cargan con heridas de la guerra y los grupos terroristas buscan venganza por los actos de entonces. Una historia de soldados hada persiguiendo su propia justicia en un mundo caótico que intenta dejar atrás un conflicto."
               }
-              anime={"Fairy Gone "}
+              anime={"Fairy Gone"}
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
@@ -470,11 +467,10 @@ function App() {
           path="/dr-stone-ryusui"
           element={
             <Numero12
-              tituloAnime={"Dr Stone Ryusui "}
               descripcion={
                 "Episodio que sirve como puente entre la segunda y tercera temporada de Dr. Stone."
               }
-              anime={"Dr Stone Ryusui "}
+              anime={"Dr Stone Ryusui"}
               tipo={"Especial"}
               numeroEpisodios={"1"}
               estado={"Finalizado"}
@@ -503,11 +499,10 @@ function App() {
           path="/isekai-yakkyoku"
           element={
             <Numero12
-              tituloAnime={"Isekai Yakkyoku "}
               descripcion={
                 "Un joven farmacólogo e investigador en Japón murió por exceso de trabajo y reencarnó en una Europa paralela medieval. Se reencarnó como un aprendiz de 10 años de un famoso farmacéutico de la Corte Real, había alcanzado habilidades inhumanas de capacidad para ver a través de enfermedades, creación material y destrucción material. En una sociedad en la que proliferan las prácticas médicas dudosas, los precios se disparan a través del monopolio del gremio farmacéutico y los buenos medicamentos no están disponibles para los plebeyos. Fue reconocido por el Emperador en ese momento y abrió una Farmacia en la esquina del pueblo. Eliminará el fraude que se ha extendido por el mundo y entregará a los plebeyos una medicina verdaderamente efectiva que se desarrolló utilizando la farmacología actual. Así, el niño farmacéutico hará trampa utilizando sus conocimientos previos para crear medicamentos innovadores mientras ayuda a las personas del mundo paralelo, una historia sobre vivir su nueva vida al máximo esta vez."
               }
-              anime={"Isekai Yakkyoku "}
+              anime={"Isekai Yakkyoku"}
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
@@ -534,11 +529,10 @@ function App() {
           path="/kuro-no-shoukanshi"
           element={
             <Numero12
-              tituloAnime={"Kuro no Shoukanshi "}
               descripcion={
                 'Cuando Kelvin se despierta, se encuentra en un lugar desconocido sin ningún recuerdo de su vida anterior. Resulta que se había reencarnado en otro mundo pero había cambiado sus recuerdos del pasado por poderosas habilidades. Ahora que es un invocador, emprende un viaje con la diosa que lo trajo al nuevo mundo, quien también es su primera "seguidora".'
               }
-              anime={"Kuro no Shoukanshi "}
+              anime={"Kuro no Shoukanshi"}
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
@@ -567,9 +561,8 @@ function App() {
           path="/fairy-gone-segunda-temporada"
           element={
             <Numero12
-              tituloAnime={"Fairy Gone Segunda Temporada "}
               descripcion={"Segunda temporada de Fairy Gone."}
-              anime={"Fairy Gone Segunda Temporada "}
+              anime={"Fairy Gone 2nd Temporada"}
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
@@ -600,7 +593,7 @@ function App() {
           path="/isekai-meikyuu-de-harem-wo"
           element={
             <Numero12
-              tituloAnime={"Isekai Meikyuu de Harem wo "}
+              tituloAnime={"Isekai Meikyuu de Harem wo"}
               descripcion={
                 " Luchando con la vida y la sociedad, el estudiante de secundaria Michio Kaga deambula por Internet y aterriza en un sitio web extraño. El sitio web, que presenta una serie de preguntas y un sistema basado en puntos, permite crear habilidades y destrezas para un personaje. Al completar su personaje, Kaga fue transportado a un mundo de fantasía similar a un juego y renació como un hombre fuerte que puede reclamar chicas de nivel ídolo. ¡Así comienza la leyenda del engaño y el harén de un hombre renacido!"
               }
@@ -633,14 +626,11 @@ function App() {
           path="/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada"
           element={
             <Animes13
-              tituloAnime={
-                "Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e Segunda Temporada "
-              }
               descripcion={
                 "La Escuela Secundaria de Educación Avanzada Metropolitana de Tokio parece un paraíso, pero en realidad es una meritocracia extrema. En la clase de bajo rendimiento, Kiyotaka ha comenzado a trabajar con Suzune, que busca ascender más alto. Después de una prueba de supervivencia en una isla deshabitada, pueden disfrutar de un transatlántico de lujo, ¡pero comenzará una nueva prueba de codificación de clases! ¿Trabajarás para tu clase, tu grupo o para ti mismo?"
               }
               anime={
-                "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Temporada 2 "
+                "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Temporada 2"
               }
               tipo={"TV"}
               numeroEpisodios={"13"}
@@ -696,11 +686,10 @@ function App() {
           path="/spy-x-family"
           element={
             <Numero12
-              tituloAnime={"Spy x Family "}
               descripcion={
                 'Todo el mundo tiene una parte de sí mismo que no puede mostrar a nadie más. En un momento en que todas las naciones del mundo estaban involucradas en una feroz guerra de información que ocurría a puertas cerradas, Ostania y Westalis habían estado en un estado de guerra fría entre sí durante décadas. La División Enfocada en el Este (WISE) de los Servicios de Inteligencia de Westalis envía a su espía más talentoso, "Crepúsculo", en una misión ultrasecreta para investigar los movimientos de Donovan Desmond, el presidente del Partido de Unidad Nacional de Ostania, quien amenaza los esfuerzos de paz entre las dos naciones. Esta misión se conoce como "Operación Strix". Consiste en "armar una familia en una semana para infiltrarse en las reuniones sociales organizadas por la escuela de élite a la que asiste el hijo de Desmond". "Crepúsculo" asume la identidad del psiquiatra Loid Forger y comienza a buscar familiares. Pero Anya, la hija que adopta, resulta tener la capacidad de leer la mente de las personas, mientras que su esposa, Yor, ¡es una asesina! Dado que a cada uno le interesa mantener estos hechos ocultos, comienzan a vivir juntos mientras se ocultan sus verdaderas identidades. La paz mundial está ahora en manos de esta nueva familia mientras se embarcan en una aventura llena de sorpresas.'
               }
-              anime={"Spy x Family "}
+              anime={"Spy x Family"}
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
@@ -729,9 +718,8 @@ function App() {
           path="/date-a-live-IV"
           element={
             <Numero12
-              tituloAnime={"Date a Live IV "}
               descripcion={"Cuarta temporada de Date A Live"}
-              anime={"Date a Live IV "}
+              anime={"Date a Live IV"}
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
@@ -760,11 +748,10 @@ function App() {
           path="/tate-no-yuusha-no-naraigari-segunda-temporada"
           element={
             <Animes13
-              tituloAnime={"Tate no Yuusha no Naraigari Segunda Temporada "}
               descripcion={
                 'Naofumi Iwatani, un estudiante universitario ordinario, es convocado a otro mundo como uno de los Cuatro Héroes Cardinales: el "Héroe del Escudo". A pesar de las falsas acusaciones y una serie de desgracias, Naofumi unió fuerzas con sus queridas compañeras Raphtalia, Filo y Melty para proteger a las personas de las "Olas" de la Catástrofe. Con sus logros y la ayuda de la reina Melromarc, Naofumi recupera su honor y ahora posee un territorio. Se prepara para contrarrestar la próxima Ola. Sin embargo, se dice que la "Tortuga Espiritual", un monstruo que provocará un desastre sin precedentes, resucitó en el país del Reino de la Tortuga Espiritual, al este de Melromarc. A pedido de la Reina para someter a la Tortuga Espiritual, Naofumi se dirige al Reino de la Tortuga Espiritual, junto con su nuevo miembro del grupo, Lecia. Mientras las fuerzas aliadas se reúnen, Ost-Horai, concubina del Rey del Reino de las Tortugas Espirituales y regente del país, aparece ante Naofumi. Ella le informa a Naofumi de una persona que resucitó a la fuerza a la Tortuga Espiritual. ¿Naofumi someterá a la Tortuga Espiritual y llegará a la mente maestra? El Héroe del Escudo se levanta una vez más para proteger las cosas queridas para él.'
               }
-              anime={"Tate no Yuusha no Naraigari Segunda Temporada "}
+              anime={"Tate no Yuusha no Naraigari 2nd Temporada"}
               tipo={"TV"}
               numeroEpisodios={"13"}
               estado={"Finalizado"}
@@ -822,11 +809,10 @@ function App() {
           path="/tomodachi-game"
           element={
             <Numero12
-              tituloAnime={"Tomodachi Game "}
               descripcion={
                 'El estudiante de secundaria Katagiri Yuichi, que valora la amistad por encima de todo, disfruta de una vida plena con sus amigos cercanos Sawagiri Shiho, Mikasa Tenji, Shibe Makoto y Kokorogi Yutori. Sin embargo, después de un incidente en particular, se ven arrastrados a un juego de pago de deudas. La única manera de ganar el "Juego Tomodachi" es no dudar de sus amigos. Unidos por sólidas amistades, el juego debería haber sido fácil, pero... ¿Confiarán o traicionarán a sus preciosos amigos? ¡La verdadera naturaleza de la humanidad se expone en el último juego psicológico!'
               }
-              anime={"Tomodachi Game "}
+              anime={"Tomodachi Game"}
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
@@ -853,11 +839,10 @@ function App() {
           path="/baraou-no-souretsu"
           element={
             <Capitulos24
-              tituloAnime={"Baraou no Souretsu "}
               descripcion={
                 "Richard, el ambicioso tercer hijo de la Casa de York, cree que está maldito, condenado desde el nacimiento hasta la oscuridad eterna. Pero, ¿es realmente el destino lo que lo pone en el camino de la destrucción personal? ¿O sus propios anhelos atormentados? Basada en un primer borrador de Ricardo III de Shakespeare, esta oscura fantasía encuentra al hombre que podría ser rey entre mundos, entre clases, entre el bien y el mal."
               }
-              anime={"Baraou no Souretsu "}
+              anime={"Baraou no Souretsu"}
               tipo={"TV"}
               numeroEpisodios={"24"}
               estado={"Finalizado"}
@@ -898,11 +883,10 @@ function App() {
           path="/karakuri-circus"
           element={
             <Capitulos12
-              tituloAnime={"Karakuri Circus "}
               descripcion={
                 "El protagonista, Masaru, acaba de heredar una gran fortuna tras la muerte de su padre. Sin embargo, la gente está tratando de ponerlo en sus manos por cualquier medio necesario, incluso si eso significa matarlo. Narumi ayuda a Masaru a ser secuestrado después de luchar contra figuras extrañas. Descubre que no son humanos, sino títeres de madera con una fuerza increíble. Después de una dura lucha, Narumi se ve obligado a admitir que no es un oponente para ellos; y justo cuando empieza a pensar que Masaru será capturado, Shirogane, el vigilante de Masaru, llega de Francia con un arma, el títere Arlequin. Aquí comienza la historia de Karakuri Circus."
               }
-              anime={"Karakuri Circus "}
+              anime={"Karakuri Circus"}
               tipo={"TV"}
               numeroEpisodios={"36"}
               estado={"Finalizado"}
@@ -987,14 +971,13 @@ function App() {
           path="/extreme-hearts"
           element={
             <Numero12
-              tituloAnime={"Extreme Hearts "}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
               descripcion={
                 'La historia está ambientada en el futuro, no mucho después del día de hoy. Los hiperdeportes, que usan equipos extremos como elementos de apoyo, se han convertido en competencias de pasatiempos populares entre niños y adultos. Hiyori Hayama es una cantante de secundaria que no tiene nada que ver con Hyper Sports, pero cierto incidente pone en marcha la historia: "Esta es la historia de cómo conocimos a nuestros mejores amigos".'
               }
-              anime={"Extreme Hearts "}
+              anime={"Extreme Hearts"}
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
@@ -1019,7 +1002,6 @@ function App() {
           exact
           element={
             <Capitulos24
-              tituloAnime={"Golden Time "}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
@@ -1030,7 +1012,7 @@ function App() {
               tipo={"TV"}
               numeroEpisodios={"24"}
               estado={"Finalizado"}
-              anime={"Golden Time "}
+              anime={"Golden Time"}
               capituloAnime1={"/ver/golden-time-1"}
               capituloAnime2={"/ver/golden-time-2"}
               capituloAnime3={"/ver/golden-time-3"}
@@ -1063,7 +1045,6 @@ function App() {
           exact
           element={
             <Capitulos12
-              tituloAnime={"Fullmetal Alchemist Brotherhood "}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
@@ -1079,7 +1060,7 @@ function App() {
               tipo={"TV"}
               numeroEpisodios={"64"}
               estado={"Finalizado"}
-              anime={"Fullmetal Alchemist Brotherhood "}
+              anime={"Fullmetal Alchemist Brotherhood"}
               capituloAnime1={"/ver/fullmetal-alchemist-brotherhood-1"}
               capituloAnime2={"/ver/fullmetal-alchemist-brotherhood-2"}
               capituloAnime3={"/ver/fullmetal-alchemist-brotherhood-3"}
@@ -1151,7 +1132,6 @@ function App() {
           path="/muhyo-to-rouji-no-mahouritsu-soudan-jimusho"
           element={
             <Numero12
-              tituloAnime={"Muhyo to Rouji no Mahouritsu Soudan Jimusho "}
               hrefSecuela={
                 "/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-segunda-temporada"
               }
@@ -1168,7 +1148,7 @@ function App() {
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
-              anime={"Muhyo to Rouji no Mahouritsu Soudan Jimusho "}
+              anime={"Muhyo to Rouji no Mahouritsu Soudan Jimusho"}
               capituloAnime1={
                 "/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-1"
               }
@@ -1212,7 +1192,6 @@ function App() {
           path="/gensou-sangokushi-tenge-reishink"
           element={
             <Numero12
-              tituloAnime={"Gensou Sangokushi Tengen Reishink "}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
@@ -1223,7 +1202,7 @@ function App() {
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
-              anime={"Gensou Sangokushi Tengen Reishink "}
+              anime={"Gensou Sangokushi Tengen Reishink"}
               capituloAnime1={"/ver/gensou-sangokushi-tengen-reishink-1"}
               capituloAnime2={"/ver/gensou-sangokushi-tengen-reishink-2"}
               capituloAnime3={"/ver/gensou-sangokushi-tengen-reishink-3"}
@@ -1243,7 +1222,6 @@ function App() {
           path="/tate-no-yuusha-no-naraigari"
           element={
             <Capitulos12
-              tituloAnime={"Tate no Yuusha no Naraigari"}
               sec2={"sec"}
               sec3={"sec"}
               li26={"li"}
@@ -1337,7 +1315,6 @@ function App() {
           exact
           element={
             <Numero12
-              tituloAnime={"Tribe Nine"}
               sec2={"sec"}
               sec3={"sec"}
               sec1={"sec"}
@@ -1348,7 +1325,7 @@ function App() {
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
-              anime={"Tribe Nine "}
+              anime={"Tribe Nine"}
               capituloAnime1={"/ver/tribe-nine-1"}
               capituloAnime2={"/ver/tribe-nine-2"}
               capituloAnime3={"/ver/tribe-nine-3"}

@@ -1,36 +1,9 @@
 [
   {
-    "id": 3,
-    "img": "https://i.postimg.cc/RFxhPx33/spy-x-family-cour-2.jpg",
-    "link": "/spy-x-family-2nd-temporada",
-    "title": "SPY x FAMILY 2nd Temporada",
-    "year": 2022,
-    "estado": "En Emision",
-    "classEstado": "tag is-success airing"
-  },
-  {
-    "id": 4,
-    "img": "https://i.postimg.cc/Y9T3D966/chainsaw-man.jpg",
-    "link": "/chainsaw-man",
-    "title": "Chainsaw Man",
-    "year": 2022,
-    "estado": "En Emision",
-    "classEstado": "tag is-success airing"
-  },
-  {
     "id": 5,
     "img": "https://i.postimg.cc/q7s4vhRR/peter-grill-to-kenja-no-jikan-super-extra.jpg",
     "link": "/peter-grill-to-kenja-no-jikan-super-extra",
     "title": "Peter Grill to Kenja no Jikan Super Extra",
-    "year": 2022,
-    "estado": "En Emision",
-    "classEstado": "tag is-success airing"
-  },
-  {
-    "id": 6,
-    "img": "https://i.postimg.cc/zX4rwSHv/mob-psycho-100-iii.jpg",
-    "link": "/mob-psycho-100-III",
-    "title": "Mob Psycho 100 III",
     "year": 2022,
     "estado": "En Emision",
     "classEstado": "tag is-success airing"
@@ -49,15 +22,6 @@
     "img": "https://i.postimg.cc/vB2jYbWT/danmachi-iv.jpg",
     "link": "/danmachi-IV",
     "title": "Danmachi IV",
-    "year": 2022,
-    "estado": "En Emision",
-    "classEstado": "tag is-success airing"
-  },
-  {
-    "id": 9,
-    "img": "https://i.postimg.cc/qBYYWBJZ/bleach-sennen-kessen-hen.jpg",
-    "link": "/bleach-sennen-kessen-hen",
-    "title": "BLEACH: Sennen Kessen-hen",
     "year": 2022,
     "estado": "En Emision",
     "classEstado": "tag is-success airing"

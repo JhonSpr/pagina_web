@@ -1,4 +1,4 @@
-import Animes from "../Json/Data.json";
+import Animes from "../../Json/Data.json";
 
 export function AnimeRecommend1() {
   let end = 40;

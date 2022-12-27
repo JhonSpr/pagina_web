@@ -1,43 +1,23 @@
 /* eslint-disable react/style-prop-object */
 /* eslint-disable jsx-a11y/anchor-is-valid */
+import Footer from "../../Colletion/Footer";
+import banner from "../../Json/Banners.json";
+import Disqus from "../Elements/disqus";
+import Listas24 from "../Listas.js/Listas24";
 
-import Disqus from "./Elements/disqus";
-import banner from "../Json/Banners.json";
-import Footer from "../Colletion/Footer";
-import Listas13 from "./Listas.js/Listas13";
 /* eslint-disable jsx-a11y/iframe-has-title */
-export function Emision12({
-  Fecha,
-  sec1,
-  sec2,
-  sec3,
-  hrefSecuela2,
-  hrefSecuela3,
-  nombreSecuela2,
-  nombreSecuela3,
-  textoSecuela2,
-  textoSecuela3,
-  hrefSecuela,
-  textoSecuela,
-  nombreSecuela,
-  imagenAnime,
-  descripcion,
-  anime,
-  numeroEpisodios,
-  tipo,
-  estado,
-  ...props
-}) {
+export function Capitulos24({ anime, ...props }) {
   let end = 83;
   let RandomNumber = Math.floor(Math.random() * end);
   return (
     <>
       <title>{anime} Online HD</title>
       <section className="section">
+        {" "}
         <div
           className="serie-background"
           style={{
-            background: `url("${banner && banner[RandomNumber].image}")`,
+            background: `url(${banner && banner[RandomNumber].image})`,
             backgroundRepeat: "no-repeat",
             backgroundSize: "cover",
           }}
@@ -46,7 +26,7 @@ export function Emision12({
           <div className="columns is-mobile is-multiline info">
             <div className="column is-12-mobile xis-3-tablet xis-3-desktop xhas-background-danger is-narrow-tablet is-narrow-desktop">
               <figure className="image is-2by4 image_2">
-                <img src={imagenAnime} alt={anime} />
+                <img src={props.imagenAnime} alt={anime} />
               </figure>
               <br />
             </div>
@@ -62,7 +42,10 @@ export function Emision12({
               <h6 className="has-text-weight-semibold is-uppercase has-text-grey has-border-bottom">
                 Descripcion
               </h6>
-              <div className="has-text-light sinopsis">{descripcion}</div>
+              <div className="has-text-light sinopsis">{props.descripcion}</div>
+
+              <br />
+              <br />
 
               <p className="has-text-weight-semibold is-uppercase has-text-grey has-border-bottom">
                 Información general
@@ -72,46 +55,38 @@ export function Emision12({
                 <li>
                   <span className="has-text-weight-semibold has-text-grey is-uppercase">
                     Tipo:
-                  </span>{" "}
-                  {tipo}
+                  </span>
+                  {props.tipo}
                 </li>
                 <li>
                   <span className="has-text-weight-semibold has-text-grey is-uppercase">
                     Estado:
-                  </span>{" "}
-                  {estado}
+                  </span>
+                  {props.estado}
                 </li>
                 <li>
                   <span className="has-text-weight-semibold has-text-grey is-uppercase">
                     Episodios:
                   </span>{" "}
-                  {numeroEpisodios}
+                  {props.numeroEpisodios}
                 </li>
-                <li className={sec1}>
+                <li className={props.sec1}>
                   <span className="has-text-weight-semibold has-text-grey is-uppercase">
-                    {textoSecuela}:
+                    {props.textoSecuela}:
                   </span>
-                  <a href={hrefSecuela}>{nombreSecuela}</a>
+                  <a href={props.hrefSecuela}>{props.nombreSecuela}</a>
                 </li>
-                <li className={sec2}>
+                <li className={props.sec2}>
                   <span className="has-text-weight-semibold has-text-grey is-uppercase">
-                    {textoSecuela2}:
+                    {props.textoSecuela2}:
                   </span>
-                  <a href={hrefSecuela2}>{nombreSecuela2}</a>
+                  <a href={props.hrefSecuela2}>{props.nombreSecuela2}</a>
                 </li>
-                <li className={sec3}>
+                <li className={props.sec3}>
                   <span className="has-text-weight-semibold has-text-grey is-uppercase">
-                    {textoSecuela3}:
+                    {props.textoSecuela3}:
                   </span>
-                  <a href={hrefSecuela3}>{nombreSecuela3}</a>
-                </li>
-                <li>
-                  <span className="has-text-weight-semibold has-text-grey is-uppercase">
-                    Proximo Capitulo:
-                  </span>
-                  <span className="is-uppercase has-text-weight-semibold">
-                    {Fecha}
-                  </span>
+                  <a href={props.hrefSecuela3}>{props.nombreSecuela3}</a>
                 </li>
               </ul>
             </div>
@@ -127,7 +102,7 @@ export function Emision12({
                 <b> Lista de episodios </b>
               </h1>
 
-              <Listas13
+              <Listas24
                 anime={anime}
                 capituloAnime1={props.capituloAnime1}
                 capituloAnime2={props.capituloAnime2}
@@ -142,6 +117,17 @@ export function Emision12({
                 capituloAnime11={props.capituloAnime11}
                 capituloAnime12={props.capituloAnime12}
                 capituloAnime13={props.capituloAnime13}
+                capituloAnime14={props.capituloAnime14}
+                capituloAnime15={props.capituloAnime15}
+                capituloAnime16={props.capituloAnime16}
+                capituloAnime17={props.capituloAnime17}
+                capituloAnime18={props.capituloAnime19}
+                capituloAnime19={props.capituloAnime19}
+                capituloAnime20={props.capituloAnime20}
+                capituloAnime21={props.capituloAnime21}
+                capituloAnime22={props.capituloAnime22}
+                capituloAnime23={props.capituloAnime23}
+                capituloAnime24={props.capituloAnime24}
                 li1={props.li1}
                 li2={props.li2}
                 li3={props.li3}
@@ -155,12 +141,23 @@ export function Emision12({
                 li11={props.li11}
                 li12={props.li12}
                 li13={props.li13}
+                li14={props.li14}
+                li15={props.li15}
+                li16={props.li16}
+                li17={props.li17}
+                li18={props.li18}
+                li19={props.li19}
+                li20={props.li20}
+                li21={props.li21}
+                li22={props.li22}
+                li23={props.li23}
+                li24={props.li24}
               />
             </div>
           </div>
           <Disqus />
         </div>
-      </section>{" "}
+      </section>
       <hr />
       <Footer />
     </>
