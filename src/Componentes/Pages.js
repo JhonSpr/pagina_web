@@ -1,9 +1,11 @@
 /* eslint-disable no-unused-vars */
+
 import { useEffect, useState } from "react";
 import Footer from "../Colletion/Footer";
 import Loading from "../Colletion/Loading";
 import { Filter } from "./Elements/Filter";
 import { Page1, Page2, Page3, Page4, Page5, Page6, Page7 } from "./Testing";
+
 export function Pagina1() {
   return (
     <>
