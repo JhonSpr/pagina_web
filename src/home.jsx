@@ -2188,6 +2188,9 @@ function App() {
               imagenAnime={
                 "https://i.postimg.cc/xd2Bt9GN/shadows-house-2nd-season.jpg"
               }
+              sec1="disable"
+              sec2="disable"
+              sec3="disable"
               tipo={"TV"}
               estado={"Finalizado"}
               numeroEpisodios={"12"}
