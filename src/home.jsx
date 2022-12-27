@@ -2188,7 +2188,9 @@ function App() {
               imagenAnime={
                 "https://i.postimg.cc/xd2Bt9GN/shadows-house-2nd-season.jpg"
               }
-              sec1="disable"
+              hrefSecuela="/orient"
+              textoSecuela={"Shadows House "}
+              nombreSecuela="Preuela"
               sec2="disable"
               sec3="disable"
               tipo={"TV"}
@@ -2218,7 +2220,9 @@ function App() {
               }
               anime={"Shadows House"}
               imagenAnime={"https://i.postimg.cc/sD11ZwKQ/shadows-house.jpg"}
-              sec1={"disable"}
+              hrefSecuela="/orient-segunda-temporada"
+              textoSecuela={"Shadows House 2nd Temporada"}
+              nombreSecuela="Secuela"
               sec2={"disable"}
               sec3={"disable"}
               tipo={"TV"}
