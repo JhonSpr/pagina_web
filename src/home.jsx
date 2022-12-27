@@ -2148,6 +2148,288 @@ function App() {
           }
         />
         <Route
+          path="/saiyoki-reload-zeroin"
+          element={
+            <Animes13
+              descripcion={
+                "Una vez, la tierra de Togenkyo era una tierra pacífica, donde los humanos y los yokai vivían juntos. Luego, sin embargo, aparecieron hombres que intentaron revivir a Gyumaoh, el Gran Yokai que fue asesinado por el dios de la guerra Nataku Taishi y enterrado en el Castillo Houtou hace 500 años, usando una combinación prohibida de química y magia. Las ondas de energía negativa que esto creó se extendieron por Togenkyo, haciendo que el yokai se volviera loco y atacara a la humanidad. Para salvar la tierra, Kanzeon bosatsu ordena a Son Goku, Genjyo Sazno, Sha Gojyo y Cho Hakkai que vayan al oeste. Los cuatro emprendieron un viaje para detener el experimento de revivir a Gyumaoh. En el camino, se encuentran con Hazel Grouse, quien emplea magia extraña que usa almas yokai para revivir a los muertos, y su seguidor Gato. Los dos se unen a la fiesta. Y Ukoku Sanzo, un hombre con el que tienen una larga historia, se acerca en las sombras ... Personajes inolvidables, drama personal intenso y acción asombrosa en una historia sobre los vínculos entre cuatro hombres"
+              }
+              anime={"Saiyuki RELOAD -ZEROIN-"}
+              imagenAnime={
+                "https://i.postimg.cc/R0xxy7mF/saiyuki-reload-zeroin.jpg"
+              }
+              tipo={"TV"}
+              estado={"Finalizado"}
+              numeroEpisodios={"13"}
+              capituloAnime1={"/ver/saiyoki-reload-zeroin-1"}
+              capituloAnime2={"/ver/saiyoki-reload-zeroin-2"}
+              capituloAnime3={"/ver/saiyoki-reload-zeroin-3"}
+              capituloAnime4={"/ver/saiyoki-reload-zeroin-4"}
+              capituloAnime5={"/ver/saiyoki-reload-zeroin-5"}
+              capituloAnime6={"/ver/saiyoki-reload-zeroin-6"}
+              capituloAnime7={"/ver/saiyoki-reload-zeroin-7"}
+              capituloAnime8={"/ver/saiyoki-reload-zeroin-8"}
+              capituloAnime9={"/ver/saiyoki-reload-zeroin-9"}
+              capituloAnime10={"/ver/saiyoki-reload-zeroin-10"}
+              capituloAnime11={"/ver/saiyoki-reload-zeroin-11"}
+              capituloAnime12={"/ver/saiyoki-reload-zeroin-12"}
+              capituloAnime13={"/ver/saiyoki-reload-zeroin-13"}
+            />
+          }
+        />
+        <Route
+          path="/shadows-house-segunda-temporada"
+          element={
+            <Numero12
+              descripcion={
+                "La mansión tiene aún más secretos… Después de terminar su “debut”, Kate, Emilico y otras tres parejas que comenzaron con ellos comienzan una nueva vida como adultos. Con el misterio de la “Casa de las Sombras” aún sin resolver, ocurre un nuevo incidente en el ala de niños. Kate y Emilico, de quienes los Star Bearers sospechan que están descontentos, investigan a una misteriosa Sombra con túnica que puede ser la culpable. ¿Cuál es el objetivo de esta misteriosa Sombra?"
+              }
+              anime={"Shadows House Temporada 2"}
+              imagenAnime={
+                "https://i.postimg.cc/xd2Bt9GN/shadows-house-2nd-season.jpg"
+              }
+              tipo={"TV"}
+              estado={"Finalizado"}
+              numeroEpisodios={"12"}
+              capituloAnime1={"/ver/shadows-house-segunda-temporada-1"}
+              capituloAnime2={"/ver/shadows-house-segunda-temporada-2"}
+              capituloAnime3={"/ver/shadows-house-segunda-temporada-3"}
+              capituloAnime4={"/ver/shadows-house-segunda-temporada-4"}
+              capituloAnime5={"/ver/shadows-house-segunda-temporada-5"}
+              capituloAnime6={"/ver/shadows-house-segunda-temporada-6"}
+              capituloAnime7={"/ver/shadows-house-segunda-temporada-7"}
+              capituloAnime8={"/ver/shadows-house-segunda-temporada-8"}
+              capituloAnime9={"/ver/shadows-house-segunda-temporada-9"}
+              capituloAnime10={"/ver/shadows-house-segunda-temporada-10"}
+              capituloAnime11={"/ver/shadows-house-segunda-temporada-11"}
+              capituloAnime12={"/ver/shadows-house-segunda-temporada-12"}
+            />
+          }
+        />
+        <Route
+          path="/shadows-house"
+          element={
+            <Animes13
+              descripcion={
+                "Un clan sin rostro vive en una gran mansión, disfrazado de nobles. Sus cuidadores son muñecos vivientes que se pasan el día limpiando la suciedad que dejan los inquilinos. Pero hay un misterio más profundo en juego ... y se revelará el secreto de la casa"
+              }
+              anime={"Shadows House"}
+              imagenAnime={"https://i.postimg.cc/sD11ZwKQ/shadows-house.jpg"}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
+              tipo={"TV"}
+              estado={"Finalizado"}
+              numeroEpisodios={"13"}
+              capituloAnime1={"/ver/shadows-house-1"}
+              capituloAnime2={"/ver/shadows-house-2"}
+              capituloAnime3={"/ver/shadows-house-3"}
+              capituloAnime4={"/ver/shadows-house-4"}
+              capituloAnime5={"/ver/shadows-house-5"}
+              capituloAnime6={"/ver/shadows-house-6"}
+              capituloAnime7={"/ver/shadows-house-7"}
+              capituloAnime8={"/ver/shadows-house-8"}
+              capituloAnime9={"/ver/shadows-house-9"}
+              capituloAnime10={"/ver/shadows-house-10"}
+              capituloAnime11={"/ver/shadows-house-11"}
+              capituloAnime12={"/ver/shadows-house-12"}
+              capituloAnime13={"/ver/shadows-house-13"}
+            />
+          }
+        />
+        <Route
+          path=""
+          element={
+            <Emision12
+              descripcion={""}
+              anime={""}
+              imagenAnime={""}
+              tituloAnime={""}
+              genero1={""}
+              genero2={""}
+              genero3={""}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
+              hrefGenre1={"/generos[]="}
+              hrefGenre2={"/generos[]="}
+              hrefGenre3={"/generos[]="}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"disable"}
+              genre5={"disable"}
+              tipo={"TV"}
+              estado={"En Emisión"}
+              numeroEpisodios={""}
+              Fecha={""}
+              capituloAnime1={"/ver/-1"}
+              capituloAnime2={"/ver/-2"}
+              capituloAnime3={"/ver/-3"}
+              capituloAnime4={"/ver/-4"}
+              capituloAnime5={"/ver/-5"}
+              capituloAnime6={"/ver/-6"}
+              capituloAnime7={"/ver/-7"}
+              capituloAnime8={"/ver/-8"}
+              capituloAnime9={"/ver/-9"}
+              capituloAnime10={"/ver/-10"}
+              capituloAnime11={"/ver/-11"}
+              capituloAnime12={"/ver/-12"}
+              capituloAnime13={"/ver/-13"}
+              li8={"disable"}
+              li9={"disable"}
+              li10={"disable"}
+              li11={"disable"}
+              li12={"disable"}
+              li13={"disable"}
+            />
+          }
+        />
+        <Route
+          path=""
+          element={
+            <Emision12
+              descripcion={""}
+              anime={""}
+              imagenAnime={""}
+              tituloAnime={""}
+              genero1={""}
+              genero2={""}
+              genero3={""}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
+              hrefGenre1={"/generos[]="}
+              hrefGenre2={"/generos[]="}
+              hrefGenre3={"/generos[]="}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"disable"}
+              genre5={"disable"}
+              tipo={"TV"}
+              estado={"En Emisión"}
+              numeroEpisodios={""}
+              Fecha={""}
+              capituloAnime1={"/ver/-1"}
+              capituloAnime2={"/ver/-2"}
+              capituloAnime3={"/ver/-3"}
+              capituloAnime4={"/ver/-4"}
+              capituloAnime5={"/ver/-5"}
+              capituloAnime6={"/ver/-6"}
+              capituloAnime7={"/ver/-7"}
+              capituloAnime8={"/ver/-8"}
+              capituloAnime9={"/ver/-9"}
+              capituloAnime10={"/ver/-10"}
+              capituloAnime11={"/ver/-11"}
+              capituloAnime12={"/ver/-12"}
+              capituloAnime13={"/ver/-13"}
+              li8={"disable"}
+              li9={"disable"}
+              li10={"disable"}
+              li11={"disable"}
+              li12={"disable"}
+              li13={"disable"}
+            />
+          }
+        />
+        <Route
+          path=""
+          element={
+            <Emision12
+              descripcion={""}
+              anime={""}
+              imagenAnime={""}
+              tituloAnime={""}
+              genero1={""}
+              genero2={""}
+              genero3={""}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
+              hrefGenre1={"/generos[]="}
+              hrefGenre2={"/generos[]="}
+              hrefGenre3={"/generos[]="}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"disable"}
+              genre5={"disable"}
+              tipo={"TV"}
+              estado={"En Emisión"}
+              numeroEpisodios={""}
+              Fecha={""}
+              capituloAnime1={"/ver/-1"}
+              capituloAnime2={"/ver/-2"}
+              capituloAnime3={"/ver/-3"}
+              capituloAnime4={"/ver/-4"}
+              capituloAnime5={"/ver/-5"}
+              capituloAnime6={"/ver/-6"}
+              capituloAnime7={"/ver/-7"}
+              capituloAnime8={"/ver/-8"}
+              capituloAnime9={"/ver/-9"}
+              capituloAnime10={"/ver/-10"}
+              capituloAnime11={"/ver/-11"}
+              capituloAnime12={"/ver/-12"}
+              capituloAnime13={"/ver/-13"}
+              li8={"disable"}
+              li9={"disable"}
+              li10={"disable"}
+              li11={"disable"}
+              li12={"disable"}
+              li13={"disable"}
+            />
+          }
+        />
+        <Route
+          path=""
+          element={
+            <Emision12
+              descripcion={""}
+              anime={""}
+              imagenAnime={""}
+              tituloAnime={""}
+              genero1={""}
+              genero2={""}
+              genero3={""}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
+              hrefGenre1={"/generos[]="}
+              hrefGenre2={"/generos[]="}
+              hrefGenre3={"/generos[]="}
+              genre1={"button is-small is-orange is-outlined is-roundedX"}
+              genre2={"button is-small is-orange is-outlined is-roundedX"}
+              genre3={"button is-small is-orange is-outlined is-roundedX"}
+              genre4={"disable"}
+              genre5={"disable"}
+              tipo={"TV"}
+              estado={"En Emisión"}
+              numeroEpisodios={""}
+              Fecha={""}
+              capituloAnime1={"/ver/-1"}
+              capituloAnime2={"/ver/-2"}
+              capituloAnime3={"/ver/-3"}
+              capituloAnime4={"/ver/-4"}
+              capituloAnime5={"/ver/-5"}
+              capituloAnime6={"/ver/-6"}
+              capituloAnime7={"/ver/-7"}
+              capituloAnime8={"/ver/-8"}
+              capituloAnime9={"/ver/-9"}
+              capituloAnime10={"/ver/-10"}
+              capituloAnime11={"/ver/-11"}
+              capituloAnime12={"/ver/-12"}
+              capituloAnime13={"/ver/-13"}
+              li8={"disable"}
+              li9={"disable"}
+              li10={"disable"}
+              li11={"disable"}
+              li12={"disable"}
+              li13={"disable"}
+            />
+          }
+        />
+        <Route
           path=""
           element={
             <Emision12
@@ -2557,7 +2839,7 @@ function App() {
         <Route
           path="/bleach-sennen-kessen-hen"
           element={
-            <Emision12
+            <Animes13
               tituloAnime={"BLEACH: Sennen Kessen-hen "}
               imagenAnime={
                 "https://i.postimg.cc/qBYYWBJZ/bleach-sennen-kessen-hen.jpg"
@@ -2568,9 +2850,8 @@ function App() {
               sec1="disable"
               sec2="disable"
               sec3={"disable"}
-              estado={"En emision"}
-              numeroEpisodios={"10"}
-              Fecha="Lunes 19 de Diciembre"
+              estado={"Finalizado"}
+              numeroEpisodios={"13"}
               capituloAnime1={"/ver/bleach-sennen-kessen-hen-1"}
               capituloAnime2={"/ver/bleach-sennen-kessen-hen-2"}
               capituloAnime3={"/ver/bleach-sennen-kessen-hen-3"}
@@ -2584,9 +2865,6 @@ function App() {
               capituloAnime11={"/ver/bleach-sennen-kessen-hen-11"}
               capituloAnime12={"/ver/bleach-sennen-kessen-hen-12"}
               capituloAnime13={"/ver/bleach-sennen-kessen-hen-13"}
-              li11="disable"
-              li12="disable"
-              li13="disable"
             />
           }
         />
