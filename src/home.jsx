@@ -1982,7 +1982,9 @@ function App() {
               imagenAnime={
                 "https://i.postimg.cc/8zjCNBxm/toaru-majutsu-no-index.jpg"
               }
-              sec1={"disable"}
+              textoSecuela="Secuela"
+              hrefSecuela={"/toaru-majutsu-no-index-II"}
+              nombreSecuela="Toru Majutsu no Index II"
               sec2={"disable"}
               sec3={"disable"}
               tipo={"TV"}
@@ -2028,11 +2030,11 @@ function App() {
               }
               hrefSecuela="
             /toaru-majutsu-no-index"
-              textoSecuela={"Toru Majutsu no Index"}
-              nombreSecuela="Precuela"
+              textoSecuela={"Precuela"}
+              nombreSecuela="Toru Majutsu no Index"
               hrefSecuela2={"/toaru-majutsu-no-index-III"}
-              textoSecuela2="Toaru Majutsu no Index III"
-              nombreSecuela2={"Secuela"}
+              textoSecuela2="Secuela"
+              nombreSecuela2={"Toaru Majutsu no Index III"}
               sec3={"disable"}
               tipo={"TV"}
               estado={"Finalizado"}
@@ -2075,8 +2077,8 @@ function App() {
               }
               hrefSecuela="
           /toaru-majutsu-no-index-II"
-              textoSecuela={"Toru Majutsu no Index II"}
-              nombreSecuela="Precuela"
+              textoSecuela={"Precuela"}
+              nombreSecuela="Toru Majutsu no Index II"
               sec2="disable"
               sec3={"disable"}
               tipo={"TV"}
@@ -2158,6 +2160,9 @@ function App() {
               imagenAnime={
                 "https://i.postimg.cc/R0xxy7mF/saiyuki-reload-zeroin.jpg"
               }
+              sec1="disable"
+              sec2={"disable"}
+              sec3="disable"
               tipo={"TV"}
               estado={"Finalizado"}
               numeroEpisodios={"13"}
@@ -2189,8 +2194,8 @@ function App() {
                 "https://i.postimg.cc/xd2Bt9GN/shadows-house-2nd-season.jpg"
               }
               hrefSecuela="/orient"
-              textoSecuela={"Shadows House "}
-              nombreSecuela="Preuela"
+              textoSecuela={"Preuela "}
+              nombreSecuela="Shadows House"
               sec2="disable"
               sec3="disable"
               tipo={"TV"}
@@ -2221,8 +2226,8 @@ function App() {
               anime={"Shadows House"}
               imagenAnime={"https://i.postimg.cc/sD11ZwKQ/shadows-house.jpg"}
               hrefSecuela="/orient-segunda-temporada"
-              textoSecuela={"Shadows House 2nd Temporada"}
-              nombreSecuela="Secuela"
+              textoSecuela={"Secuela"}
+              nombreSecuela="Shadows House 2nd Temporada"
               sec2={"disable"}
               sec3={"disable"}
               tipo={"TV"}
