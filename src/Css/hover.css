@@ -171,3 +171,17 @@ footer {
     transform: none !important;
   }
 }
+.container_search {
+  align-items: center !important;
+  justify-content: center !important;
+  justify-items: center !important;
+  text-align: center !important;
+}
+.search_anime {
+  display: block !important;
+  background-color: #363636 !important;
+  border-radius: 5px !important;
+  margin: 30px auto;
+  justify-content: center !important;
+  width: 50% !important;
+}
