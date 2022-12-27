@@ -2241,50 +2241,34 @@ function App() {
           }
         />
         <Route
-          path=""
+          path="/orient-segunda-temporada"
           element={
-            <Emision12
-              descripcion={""}
-              anime={""}
-              imagenAnime={""}
-              tituloAnime={""}
-              genero1={""}
-              genero2={""}
-              genero3={""}
-              sec1={"disable"}
+            <Numero12
+              descripcion={
+                "¡La feroz batalla de la isla Awaji comienza ahora! Con la aparición del todopoderoso Kishin, la tierra de Hinomoto ahora está dominada por oni, en lugar de humanos. Musashi y Kanemaki Kojiro partieron de su ciudad natal jurando formar la banda Bushi más fuerte de todos los tiempos, y después de encontrarse con Hattori Tsugumi en su viaje, los tres encontraron el Kanemaki Bushi. Después de obtener las únicas armas que pueden matar oni, Kitetsu Blades, han dado el primer gran paso hacia su sueño. En Harima, el grupo de Musashi se encontrará con la enorme banda de Uesugui Bushi y su líder Uesugi Tatsuomi. Se han reunido para matar al gigante Kishin que amenaza con consumir la isla Awaji: Yamata no Orochi, el Artillery Wyrm. Junto a ellos están Takeda Naotora y Takeda Bushi, junto con varios Bushi de la misma edad que Musashi como Shimazu Akihiro y Amako Katsumi. También está la princesa tímida y ligeramente protegida, Saruwatari Michiru. Mientras diferentes agendas giran e interactúan, Musashi y sus amigos se unen a la caza de Kishin. Yamata no Orochi es un dios demonio imparable que nunca antes había sido arañado. Y así, comienza la batalla más feroz de todas..."
+              }
+              anime={"Orient 2nd Temporada"}
+              imagenAnime={"https://i.postimg.cc/fLsWc7Fm/orient-2nd-cour.jpg"}
+              hrefSecuela="/orient"
+              textoSecuela={"Orient"}
+              nombreSecuela="Precuela"
               sec2={"disable"}
               sec3={"disable"}
-              hrefGenre1={"/generos[]="}
-              hrefGenre2={"/generos[]="}
-              hrefGenre3={"/generos[]="}
-              genre1={"button is-small is-orange is-outlined is-roundedX"}
-              genre2={"button is-small is-orange is-outlined is-roundedX"}
-              genre3={"button is-small is-orange is-outlined is-roundedX"}
-              genre4={"disable"}
-              genre5={"disable"}
               tipo={"TV"}
-              estado={"En Emisión"}
-              numeroEpisodios={""}
-              Fecha={""}
-              capituloAnime1={"/ver/-1"}
-              capituloAnime2={"/ver/-2"}
-              capituloAnime3={"/ver/-3"}
-              capituloAnime4={"/ver/-4"}
-              capituloAnime5={"/ver/-5"}
-              capituloAnime6={"/ver/-6"}
-              capituloAnime7={"/ver/-7"}
-              capituloAnime8={"/ver/-8"}
-              capituloAnime9={"/ver/-9"}
-              capituloAnime10={"/ver/-10"}
-              capituloAnime11={"/ver/-11"}
-              capituloAnime12={"/ver/-12"}
-              capituloAnime13={"/ver/-13"}
-              li8={"disable"}
-              li9={"disable"}
-              li10={"disable"}
-              li11={"disable"}
-              li12={"disable"}
-              li13={"disable"}
+              estado={"Finalizado"}
+              numeroEpisodios={"12"}
+              capituloAnime1={"/ver/orient-segunda-temporada-1"}
+              capituloAnime2={"/ver/orient-segunda-temporada-2"}
+              capituloAnime3={"/ver/orient-segunda-temporada-3"}
+              capituloAnime4={"/ver/orient-segunda-temporada-4"}
+              capituloAnime5={"/ver/orient-segunda-temporada-5"}
+              capituloAnime6={"/ver/orient-segunda-temporada-6"}
+              capituloAnime7={"/ver/orient-segunda-temporada-7"}
+              capituloAnime8={"/ver/orient-segunda-temporada-8"}
+              capituloAnime9={"/ver/orient-segunda-temporada-9"}
+              capituloAnime10={"/ver/orient-segunda-temporada-10"}
+              capituloAnime11={"/ver/orient-segunda-temporada-11"}
+              capituloAnime12={"/ver/orient-segunda-temporada-12"}
             />
           }
         />
