@@ -2193,7 +2193,7 @@ function App() {
               imagenAnime={
                 "https://i.postimg.cc/xd2Bt9GN/shadows-house-2nd-season.jpg"
               }
-              hrefSecuela="/orient"
+              hrefSecuela="/shadows-house"
               textoSecuela={"Preuela "}
               nombreSecuela="Shadows House"
               sec2="disable"
