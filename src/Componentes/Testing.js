@@ -33,7 +33,7 @@ const Page1 = () => {
           onChange={handleFilter}
           value={wordEntered}
           className="search_anime"
-          placeholder="Buscados"
+          placeholder="Buscador de anime"
         />
       </section>
       {info.slice(0, 25).map((data) => (
