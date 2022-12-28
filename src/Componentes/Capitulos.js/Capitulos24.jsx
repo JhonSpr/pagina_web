@@ -1,8 +1,8 @@
 /* eslint-disable react/style-prop-object */
 /* eslint-disable jsx-a11y/anchor-is-valid */
+import ButtonDisqus from "../../Colletion/Button_Disqus";
 import Footer from "../../Colletion/Footer";
 import banner from "../../Json/Banners.json";
-import Disqus from "../Elements/disqus";
 import Listas24 from "../Listas.js/Listas24";
 
 /* eslint-disable jsx-a11y/iframe-has-title */
@@ -155,7 +155,7 @@ export function Capitulos24({ anime, ...props }) {
               />
             </div>
           </div>
-          <Disqus />
+          <ButtonDisqus />
         </div>
       </section>
       <hr />

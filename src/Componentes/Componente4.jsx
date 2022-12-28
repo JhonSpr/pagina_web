@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 /* eslint-disable jsx-a11y/iframe-has-title */
+import ButtonDisqus from "../Colletion/Button_Disqus";
 import Footer from "../Colletion/Footer";
-import Disqus from "../Componentes/Elements/disqus";
 export function Capitulos24({
   tituloAnime,
   imagenAnime,
@@ -364,7 +364,7 @@ export function Capitulos24({
               </ul>
             </div>
           </div>
-          <Disqus />
+          <ButtonDisqus />
         </div>
       </section>{" "}
       <hr />

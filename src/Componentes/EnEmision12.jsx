@@ -1,10 +1,10 @@
 /* eslint-disable react/style-prop-object */
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
-import Disqus from "./Elements/disqus";
 import banner from "../Json/Banners.json";
 import Footer from "../Colletion/Footer";
 import Listas13 from "./Listas.js/Listas13";
+import ButtonDisqus from "../Colletion/Button_Disqus";
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Emision12({
   Fecha,
@@ -158,7 +158,7 @@ export function Emision12({
               />
             </div>
           </div>
-          <Disqus />
+          <ButtonDisqus />
         </div>
       </section>{" "}
       <hr />

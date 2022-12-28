@@ -1,7 +1,7 @@
-import Disqus from "../Elements/disqus";
 import banner from "../../Json/Banners.json";
 import Footer from "../../Colletion/Footer";
 import Listas from "../Listas.js/Listas12";
+import ButtonDisqus from "../../Colletion/Button_Disqus";
 export function Numero12({ descripcion, anime, ...props }) {
   let end = 83;
   let RandomNumber = Math.floor(Math.random() * end);
@@ -126,7 +126,7 @@ export function Numero12({ descripcion, anime, ...props }) {
               />
             </div>
           </div>
-          <Disqus />
+          <ButtonDisqus />
         </div>
       </section>{" "}
       <hr />

@@ -1,9 +1,9 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
 import PauseOnHover from "./Elements/Scroll";
-import Disqus from "./Elements/disqus";
 import Footer from "../Colletion/Footer";
 import { useEffect, useState } from "react";
+import ButtonDisqus from "../Colletion/Button_Disqus";
 
 /* eslint-disable jsx-a11y/no-distracting-elements */
 export function Inicio() {
@@ -229,7 +229,7 @@ export function Inicio() {
                       </ul>
                     </article>
                   </div>
-                  <Disqus />
+                  <ButtonDisqus />
                   <div id="disqus_recommendations"></div>
                 </div>
               </div>

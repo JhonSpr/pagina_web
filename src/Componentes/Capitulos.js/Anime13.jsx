@@ -1,7 +1,7 @@
 /* eslint-disable react/style-prop-object */
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
-import Disqus from "../Elements/disqus";
+import ButtonDisqus from "../../Colletion/Button_Disqus";
 import banner from "../../Json/Banners.json";
 import Listas13 from "../Listas.js/Listas13";
 /* eslint-disable jsx-a11y/iframe-has-title */
@@ -131,7 +131,7 @@ export function Animes13({ anime, ...props }) {
               />
             </div>
           </div>
-          <Disqus />
+          <ButtonDisqus />
         </div>
       </section>{" "}
       <hr />

@@ -1,8 +1,8 @@
 /* eslint-disable react/style-prop-object */
 /* eslint-disable jsx-a11y/anchor-is-valid */
+import ButtonDisqus from "../Colletion/Button_Disqus";
 import Footer from "../Colletion/Footer";
 import banner from "../Json/Banners.json";
-import Disqus from "./Elements/disqus";
 
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Capitulos12({
@@ -766,7 +766,7 @@ export function Capitulos12({
               </ul>
             </div>
           </div>
-          <Disqus />
+          <ButtonDisqus />
         </div>
       </section>
       <hr />
