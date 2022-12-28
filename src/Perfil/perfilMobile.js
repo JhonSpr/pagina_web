@@ -7,10 +7,10 @@ const ProfileMobile = () => {
   if (isLoading) {
     return (
       <div
-        class="spinner-border spinner-border-sm spinner-container spinner-mobile"
+        className="spinner-border spinner-border-sm spinner-container spinner-mobile"
         role="status"
       >
-        <span class="visually-hidden">Loading...</span>
+        <span className="visually-hidden">Loading...</span>
       </div>
     );
   }

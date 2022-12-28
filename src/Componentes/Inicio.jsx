@@ -32,7 +32,7 @@ export function Inicio() {
       .then((json) => setInfo(json))
       //imprimir los datos en la consola
       .catch((err) => console.log("Solicitud fallida", err)); // CaA
-  }, []);
+  }, [setInfo]);
   return (
     <>
       <title>Animekuns - animes online HD</title>

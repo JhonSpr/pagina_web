@@ -17,7 +17,7 @@ export default function Menubar() {
 
   return (
     <>
-      <nav class="navbar navbar-expand-lg bg-dark">
+      <nav className="navbar navbar-expand-lg bg-dark">
         <div className="container-fluid">
           <a className="navbar-brand item-nav logo-cont" href={"/"}>
             <h1 className="letraA">A</h1> <h2 className="letraN">n</h2>{" "}
@@ -44,8 +44,8 @@ export default function Menubar() {
               <span className="line3"></span>
             </a>
           </div>
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0 cont-ul">
+          <div className="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul className="navbar-nav me-auto mb-2 mb-lg-0 cont-ul">
               <li className="navbar-item mobile item-nav nav_item">
                 <a href={"/"} className="nav-link item-nav">
                   Inicio

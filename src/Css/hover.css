@@ -34,11 +34,90 @@
   .nav-link {
     background-color: transparent !important;
   }
+  .container_news {
+    padding: 20px;
+    text-align: center;
+  }
+  .card {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #d1d1d1;
+    width: 120px;
+    height: 130px;
+    padding: 2px 2px;
+    display: flex;
+    align-items: center;
+    margin: 10px 3px;
+    overflow: hidden;
+    display: inline-block;
+  }
+  .title_news {
+    font-size: 12px;
+  }
+  .card:hover .title_news {
+    color: #00f4f8;
+  }
+  .card:hover img {
+    opacity: 0.5;
+  }
+  .list_server_options button {
+    background-color: #363636;
+    border: 0;
+    margin: 0 1px;
+    color: #d1d1d1;
+    font-weight: bold;
+    cursor: pointer !important;
+    border-radius: 2px;
+    font-size: 12px;
+  }
+  .list_server_options button:hover {
+    color: #dbdbdb;
+  }
 }
 @media (min-width: 1000px) {
   .nav-link:hover {
     color: #f1f1f1 !important;
     background-color: #363636 !important;
+  }
+  .container_news {
+    padding: 20px;
+    text-align: center;
+  }
+  .card {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #d1d1d1;
+    width: 120px;
+    height: 130px;
+    padding: 2px 2px;
+    display: flex;
+    align-items: center;
+    margin: 10px 3px;
+    overflow: hidden;
+    display: inline-block;
+  }
+  .title_news {
+    font-size: 12px;
+  }
+  .card:hover .title_news {
+    color: #00f4f8;
+  }
+  .card:hover img {
+    opacity: 0.5;
+  }
+  .list_server_options {
+    border-bottom: #464646 1px solid;
+  }
+  .list_server_options button {
+    background-color: #363636;
+    border: 0;
+    margin: 0 1px 4px 0;
+    color: #d1d1d1;
+    font-weight: bold;
+    cursor: pointer !important;
+    border-radius: 2px;
+    font-size: 13px;
+  }
+  .list_server_options button:hover {
+    color: #00f4f8;
   }
 }
 .nav-link {
@@ -205,23 +284,17 @@ footer {
   margin-bottom: 9px;
   position: relative;
 }
-.list_server_options button {
-  background-color: #363636;
-  border: 0;
-  margin: 0 1px;
-  color: #d1d1d1;
-  font-weight: 500;
-  cursor: pointer !important;
-  border-radius: 2px;
-  font-size: 15px;
-}
-.list_server_options button:hover {
-  color: #dbdbdb;
-}
+
 .encabezado {
   margin-bottom: -20px !important;
 }
 
+.breadcrumb-item {
+  font-size: 12px;
+}
+.breadcrumb-item.active {
+  color: #00f4f8 !important;
+}
 .title_comments {
   color: #d1d1d1;
   text-align: center;
@@ -229,4 +302,7 @@ footer {
 }
 .container_comments {
   padding: 20px 6px;
+}
+.news_title {
+  text-align: center;
 }

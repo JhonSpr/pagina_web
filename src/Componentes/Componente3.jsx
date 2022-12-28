@@ -3,12 +3,13 @@
 import { useState } from "react";
 import Breadcrumb from "react-bootstrap/Breadcrumb";
 import Footer from "../Colletion/Footer";
-import {
-  AnimeRecommend1,
-  AnimeRecommend2,
-  AnimeRecommend3,
-  AnimeRecommend4,
-} from "./Elements/AnimesRecommend";
+import News from "../Colletion/News";
+// import {
+//   AnimeRecommend1,
+//   AnimeRecommend2,
+//   AnimeRecommend3,
+//   AnimeRecommend4,
+// } from "./Elements/AnimesRecommend";
 import Disqus from "./Elements/disqus";
 
 /* eslint-disable jsx-a11y/iframe-has-title */
@@ -63,27 +64,28 @@ export function Video({
               </div>
 
               <div className="column is-12-mobile is-9-tablet is-9-desktop">
-                <div className="list_server_options">
-                  <button
-                    style={{ cursor: "pointer" }}
-                    onClick={showFirstOptions}
-                  >
-                    Opcion 1
-                  </button>
-                  <button
-                    style={{ cursor: "pointer" }}
-                    onClick={showSecondOptions}
-                  >
-                    Opcion 2
-                  </button>
-                  <button
-                    style={{ cursor: "pointer" }}
-                    onClick={showSecondOptions}
-                  >
-                    Opcion 3
-                  </button>
-                </div>
                 <div className="player-container">
+                  {" "}
+                  <div className="list_server_options">
+                    <button
+                      style={{ cursor: "pointer" }}
+                      onClick={showFirstOptions}
+                    >
+                      <i class="fa-sharp fa-solid fa-play"></i> Opcion 1
+                    </button>
+                    <button
+                      style={{ cursor: "pointer" }}
+                      onClick={showSecondOptions}
+                    >
+                      <i class="fa-sharp fa-solid fa-play"></i> Opcion 2
+                    </button>
+                    <button
+                      style={{ cursor: "pointer" }}
+                      onClick={showSecondOptions}
+                    >
+                      <i class="fa-sharp fa-solid fa-play"></i> Opcion 3
+                    </button>
+                  </div>
                   <div className="iframe-container" id="video_player">
                     {loadingFirstOption ? (
                       <iframe
@@ -116,7 +118,6 @@ export function Video({
                       ></iframe>
                     )}
                   </div>
-
                   <div className="column is-12-mobile is-4-tablet is-3-desktop">
                     <div className="columns is-variable is-1 cont-opciones">
                       <div className={contAnteriorClass}>
@@ -171,14 +172,17 @@ export function Video({
 
               <div className="column is-12-mobile is-3-tablet is-3-deskop">
                 <div className="column is-12-mobile is-12-tablet is-12-desktop is-paddingless">
-                  <h5 className="has-text-light text-centered titlo-otros_animes">
-                    OTROS ANIMES
+                  <h5 className="news_title" style={{ color: "#d1d1d1" }}>
+                    Noticias sobre anime
                   </h5>
                   <div className="columns is-mobile is-multiline is-variable is-1">
-                    <AnimeRecommend1 />
+                    {/* <AnimeRecommend1 />
                     <AnimeRecommend2 />
                     <AnimeRecommend3 />
-                    <AnimeRecommend4 />
+                    <AnimeRecommend4 /> */}
+                    <main className="container_news">
+                      <News />
+                    </main>
                   </div>
                 </div>
               </div>

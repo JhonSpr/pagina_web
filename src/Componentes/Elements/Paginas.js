@@ -73,7 +73,7 @@ const Page2 = () => {
       .then((response) => response.json()) // convertir a json
       .then((json) => setInfo(json)) //imprimir los datos en la consola
       .catch((err) => console.log("Solicitud fallida", err)); // CaA
-  }, []);
+  }, [setInfo]);
   return (
     <>
       {info.slice(25, 50).map((data) => (
@@ -114,7 +114,7 @@ const Page3 = () => {
       .then((response) => response.json()) // convertir a json
       .then((json) => setInfo(json)) //imprimir los datos en la consola
       .catch((err) => console.log("Solicitud fallida", err)); // CaA
-  }, []);
+  }, [setInfo]);
 
   return (
     <>
@@ -155,7 +155,7 @@ const Page4 = () => {
       .then((response) => response.json()) // convertir a json
       .then((json) => setInfo(json)) //imprimir los datos en la consola
       .catch((err) => console.log("Solicitud fallida", err)); // CaA
-  }, []);
+  }, [setInfo]);
 
   return (
     <>
@@ -196,7 +196,7 @@ const Page5 = () => {
       .then((response) => response.json()) // convertir a json
       .then((json) => setInfo(json)) //imprimir los datos en la consola
       .catch((err) => console.log("Solicitud fallida", err)); // CaA
-  }, []);
+  }, [setInfo]);
 
   return (
     <>
@@ -237,7 +237,7 @@ const Page6 = () => {
       .then((response) => response.json()) // convertir a json
       .then((json) => setInfo(json)) //imprimir los datos en la consola
       .catch((err) => console.log("Solicitud fallida", err)); // CaA
-  }, []);
+  }, [setInfo]);
 
   return (
     <>
@@ -278,7 +278,7 @@ const Page7 = () => {
       .then((response) => response.json()) // convertir a json
       .then((json) => setInfo(json)) //imprimir los datos en la consola
       .catch((err) => console.log("Solicitud fallida", err)); // CaA
-  }, []);
+  }, [setInfo]);
 
   return (
     <>
