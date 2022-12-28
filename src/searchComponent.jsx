@@ -6,6 +6,8 @@ import Datas from "./Json/Data.json";
 function SearchBar({ placeholder, data }) {
   const [filteredData, setFilteredData] = useState([]);
   const [wordEntered, setWordEntered] = useState("");
+  const [figura, setFigura] = useState(true);
+
   const handleFilter = (event) => {
     const searchWord = event.target.value;
     setWordEntered(searchWord);
@@ -16,6 +18,11 @@ function SearchBar({ placeholder, data }) {
       setFilteredData([]);
     } else {
       setFilteredData(newFilter);
+    }
+    if (searchWord === "") {
+      setFigura(false);
+    } else {
+      setFigura(true);
     }
   };
 
@@ -36,6 +43,7 @@ function SearchBar({ placeholder, data }) {
             <i className="fa-solid fa-search"></i>
           </li>
         </div>
+        {figura ? <div className="figura_search"></div> : <></>}
 
         {filteredData.length != 0 &&
           Datas.map(() => {
