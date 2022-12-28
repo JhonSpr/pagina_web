@@ -33,7 +33,7 @@ export function Pagina1Finalizados() {
           <li className="active">
             <a href="/finalizados">1</a>
           </li>
-          {/* <li>
+          <li>
             <a href="/finalizados page=2">2</a>
           </li>
           <li>
@@ -54,7 +54,7 @@ export function Pagina1Finalizados() {
 
           <a href="/finalizados page=2" className="siguiente">
             »
-          </a> */}
+          </a>
         </ul>
       </div>
       <hr />
