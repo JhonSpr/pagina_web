@@ -1,9 +1,9 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
-import { Agregados } from "./Noticias";
 
 import PauseOnHover from "./Elements/Scroll";
 import Disqus from "./Elements/disqus";
 import Footer from "../Colletion/Footer";
+import { useEffect, useState } from "react";
 
 /* eslint-disable jsx-a11y/no-distracting-elements */
 export function Inicio() {
@@ -22,9 +22,17 @@ export function Inicio() {
       comments powered by Disqus.
     </a>
   </noscript>;
-  fetch("http://localhost:5000/api/v1/workouts/")
-    .then((response) => console.log(response.json()))
-    .then((res) => console.log(res));
+  const [info, setInfo] = useState([]);
+
+  useEffect(() => {
+    fetch("https://api-rest.up.railway.app/api/v1/workouts")
+      // Exito
+      .then((response) => response.json())
+      // convertir a json
+      .then((json) => setInfo(json))
+      //imprimir los datos en la consola
+      .catch((err) => console.log("Solicitud fallida", err)); // CaA
+  }, []);
   return (
     <>
       <title>Animekuns - animes online HD</title>
@@ -56,7 +64,36 @@ export function Inicio() {
               </h1>
               <hr />
               <div className="list-series">
-                <Agregados />
+                {info.slice(150, 168).map((data) => (
+                  <article
+                    className="serie-card"
+                    title={data.name}
+                    key={data.id}
+                  >
+                    <figure className="image overarchingdiv2">
+                      <a href={data.link}>
+                        <img src={data.image} alt={data.name} />
+                        <div className="overlay-dark"></div>
+                        <div className="hoveroverlay">
+                          <i className="fas fa-play pgnav activehov"></i>
+                        </div>
+                      </a>
+                      <span className="tag year is-dark">{data.year}</span>
+                      <span className="tag is-danger type">TV</span>
+                      <span className={data.classEstado}>{data.estado}</span>
+                      <div className="title">
+                        <h3>
+                          <a
+                            href={data.link}
+                            className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
+                          >
+                            {data.name}
+                          </a>
+                        </h3>
+                      </div>
+                    </figure>
+                  </article>
+                ))}
               </div>
             </div>
           </section>

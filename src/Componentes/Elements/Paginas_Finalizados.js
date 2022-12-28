@@ -12,7 +12,7 @@ const Page1 = () => {
     }
   };
 
-  const URL = `https://api-rest.up.railway.app/api/v1/workouts?name=${wordEntered.toLowerCase()}`;
+  const URL = `https://api-rest.up.railway.app/api/v1/finalizados?name=${wordEntered.toLowerCase()}`;
   const [info, setInfo] = useState([]);
 
   useEffect(() => {
@@ -66,14 +66,16 @@ const Page1 = () => {
   );
 };
 const Page2 = () => {
+  const URL = `https://api-rest.up.railway.app/api/v1/finalizados?mode=finalizados`;
   const [info, setInfo] = useState([]);
   useEffect(() => {
-    fetch("https://api-rest.up.railway.app/api/v1/workouts")
+    fetch(URL)
       // Exito
       .then((response) => response.json()) // convertir a json
       .then((json) => setInfo(json)) //imprimir los datos en la consola
       .catch((err) => console.log("Solicitud fallida", err)); // CaA
-  }, []);
+  });
+
   return (
     <>
       {info.slice(25, 50).map((data) => (
@@ -105,16 +107,16 @@ const Page2 = () => {
     </>
   );
 };
-
 const Page3 = () => {
+  const URL = `https://api-rest.up.railway.app/api/v1/finalizados?mode=finalizados`;
   const [info, setInfo] = useState([]);
   useEffect(() => {
-    fetch("https://api-rest.up.railway.app/api/v1/workouts")
+    fetch(URL)
       // Exito
       .then((response) => response.json()) // convertir a json
       .then((json) => setInfo(json)) //imprimir los datos en la consola
       .catch((err) => console.log("Solicitud fallida", err)); // CaA
-  }, []);
+  });
 
   return (
     <>
@@ -148,14 +150,15 @@ const Page3 = () => {
   );
 };
 const Page4 = () => {
+  const URL = `https://api-rest.up.railway.app/api/v1/finalizados?mode=finalizados`;
   const [info, setInfo] = useState([]);
   useEffect(() => {
-    fetch("https://api-rest.up.railway.app/api/v1/workouts")
+    fetch(URL)
       // Exito
       .then((response) => response.json()) // convertir a json
       .then((json) => setInfo(json)) //imprimir los datos en la consola
       .catch((err) => console.log("Solicitud fallida", err)); // CaA
-  }, []);
+  });
 
   return (
     <>
@@ -189,14 +192,15 @@ const Page4 = () => {
   );
 };
 const Page5 = () => {
+  const URL = `https://api-rest.up.railway.app/api/v1/finalizados?mode=finalizados`;
   const [info, setInfo] = useState([]);
   useEffect(() => {
-    fetch("https://api-rest.up.railway.app/api/v1/workouts")
+    fetch(URL)
       // Exito
       .then((response) => response.json()) // convertir a json
       .then((json) => setInfo(json)) //imprimir los datos en la consola
       .catch((err) => console.log("Solicitud fallida", err)); // CaA
-  }, []);
+  });
 
   return (
     <>
@@ -229,15 +233,17 @@ const Page5 = () => {
     </>
   );
 };
+
 const Page6 = () => {
+  const URL = `https://api-rest.up.railway.app/api/v1/finalizados?mode=finalizados`;
   const [info, setInfo] = useState([]);
   useEffect(() => {
-    fetch("https://api-rest.up.railway.app/api/v1/workouts")
+    fetch(URL)
       // Exito
       .then((response) => response.json()) // convertir a json
       .then((json) => setInfo(json)) //imprimir los datos en la consola
       .catch((err) => console.log("Solicitud fallida", err)); // CaA
-  }, []);
+  });
 
   return (
     <>
@@ -271,14 +277,15 @@ const Page6 = () => {
   );
 };
 const Page7 = () => {
+  const URL = `https://api-rest.up.railway.app/api/v1/finalizados?mode=finalizados`;
   const [info, setInfo] = useState([]);
   useEffect(() => {
-    fetch("https://api-rest.up.railway.app/api/v1/workouts")
+    fetch(URL)
       // Exito
       .then((response) => response.json()) // convertir a json
       .then((json) => setInfo(json)) //imprimir los datos en la consola
       .catch((err) => console.log("Solicitud fallida", err)); // CaA
-  }, []);
+  });
 
   return (
     <>

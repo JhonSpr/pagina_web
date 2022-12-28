@@ -7,7 +7,6 @@ export class Filter extends React.Component {
 
     this.handleChange = this.handleChange.bind(this);
   }
-
   handleChange(event) {
     console.log(`Seleccionaste: ${event.target.value}`);
     this.setState({ value: event.target.value });
@@ -41,7 +40,7 @@ export class Filter extends React.Component {
             onChange={this.handleChange}
             className="select is-small is-orange"
           >
-            <option>Elige el estado</option>
+            <option value="">Elige el estado</option>
             <option value="En Emision">En emisión</option>
             <option value="Finalizados">Finalizados</option>
             <option value="Proximamente">Proximamente</option>

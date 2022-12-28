@@ -1,5 +1,4 @@
 import { Route, Routes } from "react-router-dom";
-import { Page1 } from "./Componentes/Componente1";
 import { Capitulos12 } from "./Componentes/Componente2";
 import { NoExiste } from "./Componentes/NoExiste";
 import { PerfilPaginaMenu } from "./Perfil/perfil.jsx";
@@ -10,7 +9,6 @@ import { Animes13 } from "./Componentes/Capitulos.js/Anime13";
 import { Capitulos24 } from "./Componentes/Capitulos.js/Capitulos24";
 import { Inicio } from "./Componentes/Inicio";
 import { Policy } from "./Componentes/Policy";
-import { EmisionesPage1 } from "./Componentes/enEmision";
 import {
   Pagina1,
   Pagina2,
@@ -20,13 +18,46 @@ import {
   Pagina6,
   Pagina7,
 } from "./Componentes/Pages";
+import {
+  Pagina1Emisiones,
+  Pagina2Emisiones,
+  Pagina3Emisiones,
+  Pagina4Emisiones,
+  Pagina5Emisiones,
+  Pagina6Emisiones,
+  Pagina7Emisiones,
+} from "./Componentes/Pages_Emisiones";
+import {
+  Pagina5Finalizados,
+  Pagina6Finalizados,
+  Pagina7Finalizados,
+  Pagina1Finalizados,
+  Pagina2Finalizados,
+  Pagina3Finalizados,
+  Pagina4Finalizados,
+} from "./Componentes/Pages_Finalizados";
 function App() {
   return (
     <div>
       <Routes>
         <Route path="/" element={<Inicio />} />
         {/* Pages */}
-        <Route path="/en-emision" element={<EmisionesPage1 />} />
+        <Route path="/finalizados" element={<Pagina1Finalizados />} />
+        <Route path="/finalizados%20page=2" element={<Pagina2Finalizados />} />
+        <Route path="/finalizados%20page=3" element={<Pagina3Finalizados />} />
+        <Route path="/finalizados%20page=4" element={<Pagina4Finalizados />} />
+        <Route path="/finalizados%20page=5" element={<Pagina5Finalizados />} />
+        <Route path="/finalizados%20page=6" element={<Pagina6Finalizados />} />
+        <Route path="/finalizados%20page=7" element={<Pagina7Finalizados />} />
+        -------------------------------------------
+        <Route path="/en-emision" element={<Pagina1Emisiones />} />
+        <Route path="/en-emision%20page=2" element={<Pagina2Emisiones />} />
+        <Route path="/en-emision%20page=3" element={<Pagina3Emisiones />} />
+        <Route path="/en-emision%20page=4" element={<Pagina4Emisiones />} />
+        <Route path="/en-emision%20page=5" element={<Pagina5Emisiones />} />
+        <Route path="/en-emision%20page=6" element={<Pagina6Emisiones />} />
+        <Route path="/en-emision%20page=7" element={<Pagina7Emisiones />} />
+        -------------------------------------------
         <Route path="/animes" element={<Pagina1 />} />
         <Route path="/animes%20page=2" element={<Pagina2 />} />
         <Route path="/animes%20page=3" element={<Pagina3 />} />
@@ -2887,7 +2918,6 @@ function App() {
           }
         />
         {/* Animes */}
-        <Route path="/animes" element={<Page1 />} />
         <Route path="/policy-comments" element={<Policy />} />
         <Route path="*" element={<NoExiste />} />
       </Routes>
