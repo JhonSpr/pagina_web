@@ -66,10 +66,9 @@ const Page1 = () => {
   );
 };
 const Page2 = () => {
-  const URL = `https://api-rest.up.railway.app/api/v1/finalizados?mode=finalizados`;
   const [info, setInfo] = useState([]);
   useEffect(() => {
-    fetch(URL)
+    fetch("https://api-rest.up.railway.app/api/v1/finalizados")
       // Exito
       .then((response) => response.json()) // convertir a json
       .then((json) => setInfo(json)) //imprimir los datos en la consola
@@ -108,7 +107,7 @@ const Page2 = () => {
   );
 };
 const Page3 = () => {
-  const URL = `https://api-rest.up.railway.app/api/v1/finalizados?mode=finalizados`;
+  const URL = `https://api-rest.up.railway.app/api/v1/finalizados`;
   const [info, setInfo] = useState([]);
   useEffect(() => {
     fetch(URL)
@@ -150,7 +149,7 @@ const Page3 = () => {
   );
 };
 const Page4 = () => {
-  const URL = `https://api-rest.up.railway.app/api/v1/finalizados?mode=finalizados`;
+  const URL = `https://api-rest.up.railway.app/api/v1/finalizados`;
   const [info, setInfo] = useState([]);
   useEffect(() => {
     fetch(URL)
@@ -192,7 +191,7 @@ const Page4 = () => {
   );
 };
 const Page5 = () => {
-  const URL = `https://api-rest.up.railway.app/api/v1/finalizados?mode=finalizados`;
+  const URL = `https://api-rest.up.railway.app/api/v1/finalizados`;
   const [info, setInfo] = useState([]);
   useEffect(() => {
     fetch(URL)
@@ -235,7 +234,7 @@ const Page5 = () => {
 };
 
 const Page6 = () => {
-  const URL = `https://api-rest.up.railway.app/api/v1/finalizados?mode=finalizados`;
+  const URL = `https://api-rest.up.railway.app/api/v1/finalizados`;
   const [info, setInfo] = useState([]);
   useEffect(() => {
     fetch(URL)
@@ -277,7 +276,7 @@ const Page6 = () => {
   );
 };
 const Page7 = () => {
-  const URL = `https://api-rest.up.railway.app/api/v1/finalizados?mode=finalizados`;
+  const URL = `https://api-rest.up.railway.app/api/v1/finalizados`;
   const [info, setInfo] = useState([]);
   useEffect(() => {
     fetch(URL)
