@@ -195,9 +195,10 @@ footer {
   width: 100%;
   background-color: #000;
   color: rgb(255, 255, 240);
-  font-weight: 700;
-  padding: 10px 0;
-  border-radius: 15px;
+  font-weight: 500;
+  padding: 5px 0;
+  border-radius: 5px;
+  margin-top: 50px;
 }
 .list_server_options {
   margin-bottom: 9px;
@@ -207,13 +208,19 @@ footer {
   background-color: #363636;
   border: 0;
   margin: 0 2px;
-  color: #00f4f8;
+  color: #d1d1d1;
   font-weight: 500;
   cursor: pointer !important;
+  border-radius: 5px;
 }
 .list_server_options button:hover {
   color: #dbdbdb;
 }
 .encabezado {
   margin-bottom: -20px !important;
+}
+
+.title_comments {
+  color: #d1d1d1;
+  text-align: center;
 }

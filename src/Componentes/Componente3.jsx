@@ -50,9 +50,13 @@ export function Video({
             <div className="columns is-multiline">
               <div className="column is-12-mobile is-8-tablet is-9-desktop encabezado">
                 <Breadcrumb>
-                  <Breadcrumb.Item href="/">Home</Breadcrumb.Item>
-                  <Breadcrumb.Item href="/animes">animes</Breadcrumb.Item>
-                  <Breadcrumb.Item active>
+                  <Breadcrumb.Item href="/" className="rutas">
+                    Inicio
+                  </Breadcrumb.Item>
+                  <Breadcrumb.Item href="/animes" className="rutas">
+                    animes
+                  </Breadcrumb.Item>
+                  <Breadcrumb.Item active className="rutas">
                     {anime + " " + numero}
                   </Breadcrumb.Item>
                 </Breadcrumb>
@@ -141,9 +145,7 @@ export function Video({
                     </div>
                   </div>
                 </div>
-                <h1 className="title is-size-5 has-text-weight-light has-text-light pag-text">
-                  Animes Gratis Online HD
-                </h1>
+
                 <div className="container_button_comments">
                   {loadingDisqus ? (
                     <button
