@@ -1,5 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 /* eslint-disable react/style-prop-object */
+import { useState } from "react";
 import Breadcrumb from "react-bootstrap/Breadcrumb";
 import Footer from "../Colletion/Footer";
 import {
@@ -21,6 +22,13 @@ export function Video({
   contSiguienteClass,
   frame1,
 }) {
+  const [loadingDisqus, setLoadingDisqus] = useState(true);
+  const handleClick = () => {
+    setLoadingDisqus(false);
+  };
+  const hideComments = () => {
+    setLoadingDisqus(true);
+  };
   return (
     <>
       <title>
@@ -82,7 +90,28 @@ export function Video({
                 <h1 className="title is-size-5 has-text-weight-light has-text-light pag-text">
                   Animes Gratis Online HD
                 </h1>
-                <Disqus />
+                <div className="container_button_comments">
+                  {loadingDisqus ? (
+                    <button
+                      className="Button_comments"
+                      id="show-comments"
+                      onClick={handleClick}
+                    >
+                      Cargar Comentarios
+                    </button>
+                  ) : (
+                    <>
+                      <button
+                        className="Button_comments"
+                        id="show-comments"
+                        onClick={hideComments}
+                      >
+                        Ocultar Comentarios
+                      </button>
+                      <Disqus />
+                    </>
+                  )}
+                </div>
               </div>
 
               <div className="column is-12-mobile is-3-tablet is-3-deskop">
