@@ -20,14 +20,24 @@ export function Video({
   numero,
   contAnteriorClass,
   contSiguienteClass,
-  frame1,
+  ...props
 }) {
   const [loadingDisqus, setLoadingDisqus] = useState(true);
+  const [loadingFirstOption, setLoadingFirstOption] = useState(false);
+  const [loadingSecondOption, setLoadingSecondOption] = useState(false);
   const handleClick = () => {
     setLoadingDisqus(false);
   };
   const hideComments = () => {
     setLoadingDisqus(true);
+  };
+  const showFirstOptions = () => {
+    setLoadingFirstOption(true);
+    setLoadingSecondOption(false);
+  };
+  const showSecondOptions = () => {
+    setLoadingSecondOption(true);
+    setLoadingFirstOption(false);
   };
   return (
     <>
@@ -38,7 +48,7 @@ export function Video({
         <section className="section">
           <div className="container">
             <div className="columns is-multiline">
-              <div className="column is-12-mobile is-8-tablet is-9-desktop">
+              <div className="column is-12-mobile is-8-tablet is-9-desktop encabezado">
                 <Breadcrumb>
                   <Breadcrumb.Item href="/">Home</Breadcrumb.Item>
                   <Breadcrumb.Item href="/animes">animes</Breadcrumb.Item>
@@ -49,14 +59,58 @@ export function Video({
               </div>
 
               <div className="column is-12-mobile is-9-tablet is-9-desktop">
+                <div className="list_server_options">
+                  <button
+                    style={{ cursor: "pointer" }}
+                    onClick={showFirstOptions}
+                  >
+                    OPCION 1
+                  </button>
+                  <button
+                    style={{ cursor: "pointer" }}
+                    onClick={showSecondOptions}
+                  >
+                    OPCION 2
+                  </button>
+                  <button
+                    style={{ cursor: "pointer" }}
+                    onClick={showSecondOptions}
+                  >
+                    OPCION 3
+                  </button>
+                </div>
                 <div className="player-container">
                   <div className="iframe-container" id="video_player">
-                    <iframe
-                      src={frame1}
-                      id="div1"
-                      allowFullScreen
-                      picture-in-picture
-                    ></iframe>
+                    {loadingFirstOption ? (
+                      <iframe
+                        src={props.frame1}
+                        id="div1"
+                        allowFullScreen
+                        picture-in-picture
+                      ></iframe>
+                    ) : (
+                      <iframe
+                        src={""}
+                        id="div1"
+                        allowFullScreen
+                        picture-in-picture
+                      ></iframe>
+                    )}
+                    {loadingSecondOption ? (
+                      <iframe
+                        src={props.frame2}
+                        id="div1"
+                        allowFullScreen
+                        picture-in-picture
+                      ></iframe>
+                    ) : (
+                      <iframe
+                        src={props.frame1}
+                        id="div1"
+                        allowFullScreen
+                        picture-in-picture
+                      ></iframe>
+                    )}
                   </div>
 
                   <div className="column is-12-mobile is-4-tablet is-3-desktop">
