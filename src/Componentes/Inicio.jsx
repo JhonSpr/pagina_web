@@ -36,13 +36,10 @@ export function Inicio() {
   return (
     <>
       <title>Animekuns - animes online HD</title>
-      <div className="hero is-lightx is-fullheight">
+      <div>
         <div>
           <section className="section page-home__latest-series">
-            <div
-              className="container rounded-container"
-              style={{ padding: "10px" }}
-            >
+            <div className="container" style={{ padding: "10px" }}>
               <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">
                 <i
                   class="fa-solid fa-circle"
@@ -54,7 +51,7 @@ export function Inicio() {
             </div>
           </section>
           <section className="section page-home__latest-series">
-            <div className="container rounded-container">
+            <div className="container">
               <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">
                 <i
                   class="fa-solid fa-layer-group"
