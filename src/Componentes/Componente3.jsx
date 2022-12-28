@@ -68,19 +68,19 @@ export function Video({
                     style={{ cursor: "pointer" }}
                     onClick={showFirstOptions}
                   >
-                    OPCION 1
+                    Opcion 1
                   </button>
                   <button
                     style={{ cursor: "pointer" }}
                     onClick={showSecondOptions}
                   >
-                    OPCION 2
+                    Opcion 2
                   </button>
                   <button
                     style={{ cursor: "pointer" }}
                     onClick={showSecondOptions}
                   >
-                    OPCION 3
+                    Opcion 3
                   </button>
                 </div>
                 <div className="player-container">
@@ -145,7 +145,6 @@ export function Video({
                     </div>
                   </div>
                 </div>
-
                 <div className="container_button_comments">
                   {loadingDisqus ? (
                     <button

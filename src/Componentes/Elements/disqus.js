@@ -25,8 +25,10 @@ export default function Disqus() {
   </noscript>;
   return (
     <>
-      <h1 className="title_comments">Comentarios</h1>
-      <div id="disqus_thread"></div>
+      <div className="container_comments">
+        <h1 className="title_comments">Comentarios</h1>
+        <div id="disqus_thread"></div>
+      </div>
     </>
   );
 }

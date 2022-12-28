@@ -193,12 +193,13 @@ footer {
 
 .Button_comments {
   width: 100%;
-  background-color: #000;
+  background-color: #363636;
   color: rgb(255, 255, 240);
   font-weight: 500;
   padding: 5px 0;
   border-radius: 5px;
   margin-top: 50px;
+  border: 0px;
 }
 .list_server_options {
   margin-bottom: 9px;
@@ -207,11 +208,12 @@ footer {
 .list_server_options button {
   background-color: #363636;
   border: 0;
-  margin: 0 2px;
+  margin: 0 1px;
   color: #d1d1d1;
   font-weight: 500;
   cursor: pointer !important;
-  border-radius: 5px;
+  border-radius: 2px;
+  font-size: 15px;
 }
 .list_server_options button:hover {
   color: #dbdbdb;
@@ -223,4 +225,8 @@ footer {
 .title_comments {
   color: #d1d1d1;
   text-align: center;
+  margin-top: 100px;
+}
+.container_comments {
+  padding: 20px 6px;
 }
