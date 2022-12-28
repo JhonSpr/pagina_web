@@ -67,7 +67,7 @@
     font-weight: bold;
     cursor: pointer !important;
     border-radius: 2px;
-    font-size: 12px;
+    font-size: 14px;
   }
   .list_server_options button:hover {
     color: #dbdbdb;
