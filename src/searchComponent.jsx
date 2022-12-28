@@ -1,79 +1,91 @@
 /* eslint-disable jsx-a11y/anchor-has-content */
 /* eslint-disable eqeqeq */
-import React, { useState } from "react";
-import Datas from "./Json/Data.json";
-
-function SearchBar({ placeholder, data }) {
-  const [filteredData, setFilteredData] = useState([]);
-  const [wordEntered, setWordEntered] = useState("");
+import React, { useEffect, useState } from "react";
+import Loading from "./Colletion/Loading";
+function SearchBar({ placeholder }) {
+  const [loading, setLoading] = useState(false);
+  const [info, setInfo] = useState([]);
+  const [search, setSearch] = useState("");
   const [figura, setFigura] = useState(false);
 
-  const handleFilter = (event) => {
-    const searchWord = event.target.value;
-    setWordEntered(searchWord);
-    const newFilter = data.filter((value) => {
-      return value.title.toLowerCase().includes(searchWord.toLowerCase());
-    });
-    if (searchWord === "") {
-      setFilteredData([]);
-    } else {
-      setFilteredData(newFilter);
-    }
-    if (searchWord === "") {
+  const searcher = (e) => {
+    setSearch(e.target.value);
+    if (search === "") {
       setFigura(false);
     } else {
       setFigura(true);
     }
   };
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+
+  // eslint-disable-next-line react-hooks/rules-of-hooks, react-hooks/exhaustive-deps
+  useEffect(() => {
+    setLoading(true);
+    setTimeout(() => {
+      fetch(`https://api-rest.up.railway.app/api/v1/workouts?name=${search}`)
+        // Exito
+        .then((response) => response.json())
+        // convertir a json
+        .then((json) => setInfo(json))
+        //imprimir los datos en la consola
+        .catch((err) => console.log("Solicitud fallida", err));
+
+      // eslint-disable-next-line react-hooks/exhaustive-deps
+
+      // eslint-disable-next-line react-hooks/exhaustive-deps
+      // eslint-disable-next-line react-hooks/exhaustive-deps
+      setLoading(false);
+    }, 2000);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [search]);
 
   return (
-    <form action={`/` + wordEntered.replace(/ /g, "-").toLocaleLowerCase()}>
-      <div className="search">
-        <div className="searchInputs">
-          <li className="navbar-item">
-            <input
-              type="text"
-              placeholder={placeholder}
-              value={wordEntered}
-              onChange={handleFilter}
-              className="input"
-              autoCorrect="on"
-              autoSave="off"
-            />
-            <i className="fa-solid fa-search"></i>
-          </li>
+    <>
+      <form action="">
+        <div className="search">
+          <div className="searchInputs">
+            <li className="navbar-item">
+              <input
+                type="text"
+                value={search}
+                onChange={searcher}
+                placeholder={placeholder}
+                className="input"
+                autoCorrect="on"
+                autoSave="off"
+              />
+              <i className="fa-solid fa-search"></i>
+            </li>
+          </div>
         </div>
         {figura ? <div className="figura_search"></div> : <></>}
-
-        {filteredData.length != 0 &&
-          Datas.map(() => {
-            return (
-              <div className="dataResult">
-                {filteredData.length == 0}
-                {filteredData.slice(0, 2).map((value, index) => {
-                  return (
-                    <a
-                      className="dataItem"
-                      href={value.link}
-                      title={value.title.toLowerCase()}
-                      key={index}
-                    >
-                      <img
-                        src={value.img}
-                        alt={value.title}
-                        className="icono-search"
-                      />
-                      <span className="span-search">
-                        {value.title.toLowerCase()}
-                      </span>
-                    </a>
-                  );
-                })}
-              </div>
-            );
-          })}
-      </div>
-    </form>
+        <div className="dataResult">
+          {loading ? (
+            <>
+              <Loading />
+            </>
+          ) : (
+            <>
+              {info.slice(0, 4).map((data, index) => (
+                <a
+                  className="dataItem"
+                  href={data.link}
+                  title={data.name.toLowerCase()}
+                  key={index}
+                >
+                  <img
+                    src={data.image}
+                    alt={data.name}
+                    className="icono-search"
+                  />
+                  <span className="span-search">{data.name.toLowerCase()}</span>
+                </a>
+              ))}
+            </>
+          )}
+        </div>
+      </form>{" "}
+    </>
   );
 }
 

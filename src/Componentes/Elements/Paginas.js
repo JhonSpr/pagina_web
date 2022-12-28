@@ -1,6 +1,7 @@
 /* eslint-disable no-unused-vars */
 import React, { useState } from "react";
 import { useEffect } from "react";
+import Loading from "../../Colletion/Loading";
 
 const Page1 = () => {
   const [wordEntered, setWordEntered] = useState("");
@@ -11,18 +12,23 @@ const Page1 = () => {
       wordEntered([]);
     }
   };
-
-  const URL = `https://api-rest.up.railway.app/api/v1/workouts?name=${wordEntered.toLowerCase()}`;
+  const [loading, setLoading] = useState(false);
   const [info, setInfo] = useState([]);
-
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   useEffect(() => {
-    fetch(URL)
+    setLoading(true);
+    fetch(
+      `https://api-rest.up.railway.app/api/v1/workouts?name=${wordEntered.toLowerCase()}`
+    )
       // Exito
       .then((response) => response.json())
       // convertir a json
       .then((json) => setInfo(json))
       //imprimir los datos en la consola
-      .catch((err) => console.log("Solicitud fallida", err)); // CaA
+      .catch((err) => console.log("Solicitud fallida", err));
+    setLoading(false);
+
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   });
 
   return (
@@ -36,279 +42,352 @@ const Page1 = () => {
           placeholder="Buscador de anime"
         />
       </section>
-      {info.slice(0, 25).map((data) => (
-        <article className="serie-card" title={data.name} key={data.id}>
-          <figure className="image overarchingdiv2">
-            <a href={data.link}>
-              <img src={data.image} alt={data.name} />
-              <div className="overlay-dark"></div>
-              <div className="hoveroverlay">
-                <i className="fas fa-play pgnav activehov"></i>
-              </div>
-            </a>
-            <span className="tag year is-dark">{data.year}</span>
-            <span className="tag is-danger type">TV</span>
-            <span className={data.classEstado}>{data.estado}</span>
-            <div className="title">
-              <h3>
-                <a
-                  href={data.link}
-                  className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
-                >
-                  {data.name}
+      {loading ? (
+        <Loading />
+      ) : (
+        <>
+          {info.slice(0, 25).map((data) => (
+            <article className="serie-card" title={data.name} key={data.id}>
+              <figure className="image overarchingdiv2">
+                <a href={data.link}>
+                  <img src={data.image} alt={data.name} />
+                  <div className="overlay-dark"></div>
+                  <div className="hoveroverlay">
+                    <i className="fas fa-play pgnav activehov"></i>
+                  </div>
                 </a>
-              </h3>
-            </div>
-          </figure>
-        </article>
-      ))}
+                <span className="tag year is-dark">{data.year}</span>
+                <span className="tag is-danger type">TV</span>
+                <span className={data.classEstado}>{data.estado}</span>
+                <div className="title">
+                  <h3>
+                    <a
+                      href={data.link}
+                      className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
+                    >
+                      {data.name}
+                    </a>
+                  </h3>
+                </div>
+              </figure>
+            </article>
+          ))}
+        </>
+      )}
     </>
   );
 };
-const Page2 = () => {
+function Page2() {
   const [info, setInfo] = useState([]);
+  const [loading, setLoading] = useState(false);
   useEffect(() => {
-    fetch("https://api-rest.up.railway.app/api/v1/workouts")
-      // Exito
-      .then((response) => response.json()) // convertir a json
-      .then((json) => setInfo(json)) //imprimir los datos en la consola
-      .catch((err) => console.log("Solicitud fallida", err)); // CaA
+    setLoading(true);
+    setTimeout(() => {
+      fetch("https://api-rest.up.railway.app/api/v1/workouts")
+        // Exito
+        .then((response) => response.json()) // convertir a json
+        .then((json) => setInfo(json)) //imprimir los datos en la consola
+        .catch((err) => console.log("Solicitud fallida", err));
+      setLoading(false);
+    }, 1000);
   }, [setInfo]);
   return (
     <>
-      {info.slice(25, 50).map((data) => (
-        <article className="serie-card" title={data.name} key={data.id}>
-          <figure className="image overarchingdiv2">
-            <a href={data.link}>
-              <img src={data.image} alt={data.name} />
-              <div className="overlay-dark"></div>
-              <div className="hoveroverlay">
-                <i className="fas fa-play pgnav activehov"></i>
-              </div>
-            </a>
-            <span className="tag year is-dark">{data.year}</span>
-            <span className="tag is-danger type">TV</span>
-            <span className={data.classEstado}>{data.estado}</span>
-            <div className="title">
-              <h3>
-                <a
-                  href={data.link}
-                  className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
-                >
-                  {data.name}
+      {loading ? (
+        <Loading />
+      ) : (
+        <>
+          {info.slice(25, 50).map((data) => (
+            <article className="serie-card" title={data.name} key={data.id}>
+              <figure className="image overarchingdiv2">
+                <a href={data.link}>
+                  <img src={data.image} alt={data.name} />
+                  <div className="overlay-dark"></div>
+                  <div className="hoveroverlay">
+                    <i className="fas fa-play pgnav activehov"></i>
+                  </div>
                 </a>
-              </h3>
-            </div>
-          </figure>
-        </article>
-      ))}
+                <span className="tag year is-dark">{data.year}</span>
+                <span className="tag is-danger type">TV</span>
+                <span className={data.classEstado}>{data.estado}</span>
+                <div className="title">
+                  <h3>
+                    <a
+                      href={data.link}
+                      className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
+                    >
+                      {data.name}
+                    </a>
+                  </h3>
+                </div>
+              </figure>
+            </article>
+          ))}
+        </>
+      )}
     </>
   );
-};
+}
 
-const Page3 = () => {
+function Page3() {
+  const [loading, setLoading] = useState(false);
+
   const [info, setInfo] = useState([]);
   useEffect(() => {
-    fetch("https://api-rest.up.railway.app/api/v1/workouts")
-      // Exito
-      .then((response) => response.json()) // convertir a json
-      .then((json) => setInfo(json)) //imprimir los datos en la consola
-      .catch((err) => console.log("Solicitud fallida", err)); // CaA
-  }, [setInfo]);
-
-  return (
-    <>
-      {info.slice(50, 75).map((data) => (
-        <article className="serie-card" title={data.name} key={data.id}>
-          <figure className="image overarchingdiv2">
-            <a href={data.link}>
-              <img src={data.image} alt={data.name} />
-              <div className="overlay-dark"></div>
-              <div className="hoveroverlay">
-                <i className="fas fa-play pgnav activehov"></i>
-              </div>
-            </a>
-            <span className="tag year is-dark">{data.year}</span>
-            <span className="tag is-danger type">TV</span>
-            <span className={data.classEstado}>{data.estado}</span>
-            <div className="title">
-              <h3>
-                <a
-                  href={data.link}
-                  className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
-                >
-                  {data.name}
-                </a>
-              </h3>
-            </div>
-          </figure>
-        </article>
-      ))}
-    </>
-  );
-};
-const Page4 = () => {
-  const [info, setInfo] = useState([]);
-  useEffect(() => {
-    fetch("https://api-rest.up.railway.app/api/v1/workouts")
-      // Exito
-      .then((response) => response.json()) // convertir a json
-      .then((json) => setInfo(json)) //imprimir los datos en la consola
-      .catch((err) => console.log("Solicitud fallida", err)); // CaA
+    setLoading(true);
+    setTimeout(() => {
+      fetch("https://api-rest.up.railway.app/api/v1/workouts")
+        // Exito
+        .then((response) => response.json()) // convertir a json
+        .then((json) => setInfo(json)) //imprimir los datos en la consola
+        .catch((err) => console.log("Solicitud fallida", err));
+      setLoading(false);
+    }, 1000);
   }, [setInfo]);
 
   return (
     <>
-      {info.slice(75, 100).map((data) => (
-        <article className="serie-card" title={data.name} key={data.id}>
-          <figure className="image overarchingdiv2">
-            <a href={data.link}>
-              <img src={data.image} alt={data.name} />
-              <div className="overlay-dark"></div>
-              <div className="hoveroverlay">
-                <i className="fas fa-play pgnav activehov"></i>
-              </div>
-            </a>
-            <span className="tag year is-dark">{data.year}</span>
-            <span className="tag is-danger type">TV</span>
-            <span className={data.classEstado}>{data.estado}</span>
-            <div className="title">
-              <h3>
-                <a
-                  href={data.link}
-                  className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
-                >
-                  {data.name}
+      {loading ? (
+        <Loading />
+      ) : (
+        <>
+          {info.slice(50, 75).map((data) => (
+            <article className="serie-card" title={data.name} key={data.id}>
+              <figure className="image overarchingdiv2">
+                <a href={data.link}>
+                  <img src={data.image} alt={data.name} />
+                  <div className="overlay-dark"></div>
+                  <div className="hoveroverlay">
+                    <i className="fas fa-play pgnav activehov"></i>
+                  </div>
                 </a>
-              </h3>
-            </div>
-          </figure>
-        </article>
-      ))}
+                <span className="tag year is-dark">{data.year}</span>
+                <span className="tag is-danger type">TV</span>
+                <span className={data.classEstado}>{data.estado}</span>
+                <div className="title">
+                  <h3>
+                    <a
+                      href={data.link}
+                      className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
+                    >
+                      {data.name}
+                    </a>
+                  </h3>
+                </div>
+              </figure>
+            </article>
+          ))}
+        </>
+      )}
     </>
   );
-};
-const Page5 = () => {
+}
+function Page4() {
+  const [loading, setLoading] = useState(false);
   const [info, setInfo] = useState([]);
   useEffect(() => {
-    fetch("https://api-rest.up.railway.app/api/v1/workouts")
-      // Exito
-      .then((response) => response.json()) // convertir a json
-      .then((json) => setInfo(json)) //imprimir los datos en la consola
-      .catch((err) => console.log("Solicitud fallida", err)); // CaA
+    setLoading(true);
+    setTimeout(() => {
+      fetch("https://api-rest.up.railway.app/api/v1/workouts")
+        // Exito
+        .then((response) => response.json()) // convertir a json
+        .then((json) => setInfo(json)) //imprimir los datos en la consola
+        .catch((err) => console.log("Solicitud fallida", err));
+      setLoading(false);
+    }, 1000);
   }, [setInfo]);
 
   return (
     <>
-      {info.slice(100, 125).map((data) => (
-        <article className="serie-card" title={data.name} key={data.id}>
-          <figure className="image overarchingdiv2">
-            <a href={data.link}>
-              <img src={data.image} alt={data.name} />
-              <div className="overlay-dark"></div>
-              <div className="hoveroverlay">
-                <i className="fas fa-play pgnav activehov"></i>
-              </div>
-            </a>
-            <span className="tag year is-dark">{data.year}</span>
-            <span className="tag is-danger type">TV</span>
-            <span className={data.classEstado}>{data.estado}</span>
-            <div className="title">
-              <h3>
-                <a
-                  href={data.link}
-                  className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
-                >
-                  {data.name}
+      {loading ? (
+        <Loading />
+      ) : (
+        <>
+          {info.slice(75, 100).map((data) => (
+            <article className="serie-card" title={data.name} key={data.id}>
+              <figure className="image overarchingdiv2">
+                <a href={data.link}>
+                  <img src={data.image} alt={data.name} />
+                  <div className="overlay-dark"></div>
+                  <div className="hoveroverlay">
+                    <i className="fas fa-play pgnav activehov"></i>
+                  </div>
                 </a>
-              </h3>
-            </div>
-          </figure>
-        </article>
-      ))}
+                <span className="tag year is-dark">{data.year}</span>
+                <span className="tag is-danger type">TV</span>
+                <span className={data.classEstado}>{data.estado}</span>
+                <div className="title">
+                  <h3>
+                    <a
+                      href={data.link}
+                      className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
+                    >
+                      {data.name}
+                    </a>
+                  </h3>
+                </div>
+              </figure>
+            </article>
+          ))}
+        </>
+      )}
     </>
   );
-};
-const Page6 = () => {
+}
+function Page5() {
+  const [loading, setLoading] = useState(false);
   const [info, setInfo] = useState([]);
   useEffect(() => {
-    fetch("https://api-rest.up.railway.app/api/v1/workouts")
-      // Exito
-      .then((response) => response.json()) // convertir a json
-      .then((json) => setInfo(json)) //imprimir los datos en la consola
-      .catch((err) => console.log("Solicitud fallida", err)); // CaA
+    setLoading(true);
+    setTimeout(() => {
+      fetch("https://api-rest.up.railway.app/api/v1/workouts")
+        // Exito
+        .then((response) => response.json()) // convertir a json
+        .then((json) => setInfo(json)) //imprimir los datos en la consola
+        .catch((err) => console.log("Solicitud fallida", err));
+      setLoading(false);
+    }, 1000);
   }, [setInfo]);
 
   return (
     <>
-      {info.slice(125, 150).map((data) => (
-        <article className="serie-card" title={data.name} key={data.id}>
-          <figure className="image overarchingdiv2">
-            <a href={data.link}>
-              <img src={data.image} alt={data.name} />
-              <div className="overlay-dark"></div>
-              <div className="hoveroverlay">
-                <i className="fas fa-play pgnav activehov"></i>
-              </div>
-            </a>
-            <span className="tag year is-dark">{data.year}</span>
-            <span className="tag is-danger type">TV</span>
-            <span className={data.classEstado}>{data.estado}</span>
-            <div className="title">
-              <h3>
-                <a
-                  href={data.link}
-                  className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
-                >
-                  {data.name}
+      {loading ? (
+        <Loading />
+      ) : (
+        <>
+          {info.slice(100, 125).map((data) => (
+            <article className="serie-card" title={data.name} key={data.id}>
+              <figure className="image overarchingdiv2">
+                <a href={data.link}>
+                  <img src={data.image} alt={data.name} />
+                  <div className="overlay-dark"></div>
+                  <div className="hoveroverlay">
+                    <i className="fas fa-play pgnav activehov"></i>
+                  </div>
                 </a>
-              </h3>
-            </div>
-          </figure>
-        </article>
-      ))}
+                <span className="tag year is-dark">{data.year}</span>
+                <span className="tag is-danger type">TV</span>
+                <span className={data.classEstado}>{data.estado}</span>
+                <div className="title">
+                  <h3>
+                    <a
+                      href={data.link}
+                      className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
+                    >
+                      {data.name}
+                    </a>
+                  </h3>
+                </div>
+              </figure>
+            </article>
+          ))}
+        </>
+      )}
     </>
   );
-};
-const Page7 = () => {
+}
+function Page6() {
+  const [loading, setLoading] = useState(false);
   const [info, setInfo] = useState([]);
   useEffect(() => {
-    fetch("https://api-rest.up.railway.app/api/v1/workouts")
-      // Exito
-      .then((response) => response.json()) // convertir a json
-      .then((json) => setInfo(json)) //imprimir los datos en la consola
-      .catch((err) => console.log("Solicitud fallida", err)); // CaA
+    setLoading(true);
+    setTimeout(() => {
+      fetch("https://api-rest.up.railway.app/api/v1/workouts")
+        // Exito
+        .then((response) => response.json()) // convertir a json
+        .then((json) => setInfo(json)) //imprimir los datos en la consola
+        .catch((err) => console.log("Solicitud fallida", err));
+      setLoading(false);
+    }, 1000);
   }, [setInfo]);
 
   return (
     <>
-      {info.slice(150, 175).map((data) => (
-        <article className="serie-card" title={data.name} key={data.id}>
-          <figure className="image overarchingdiv2">
-            <a href={data.link}>
-              <img src={data.image} alt={data.name} />
-              <div className="overlay-dark"></div>
-              <div className="hoveroverlay">
-                <i className="fas fa-play pgnav activehov"></i>
-              </div>
-            </a>
-            <span className="tag year is-dark">{data.year}</span>
-            <span className="tag is-danger type">TV</span>
-            <span className={data.classEstado}>{data.estado}</span>
-            <div className="title">
-              <h3>
-                <a
-                  href={data.link}
-                  className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
-                >
-                  {data.name}
+      {loading ? (
+        <Loading />
+      ) : (
+        <>
+          {info.slice(125, 150).map((data) => (
+            <article className="serie-card" title={data.name} key={data.id}>
+              <figure className="image overarchingdiv2">
+                <a href={data.link}>
+                  <img src={data.image} alt={data.name} />
+                  <div className="overlay-dark"></div>
+                  <div className="hoveroverlay">
+                    <i className="fas fa-play pgnav activehov"></i>
+                  </div>
                 </a>
-              </h3>
-            </div>
-          </figure>
-        </article>
-      ))}
+                <span className="tag year is-dark">{data.year}</span>
+                <span className="tag is-danger type">TV</span>
+                <span className={data.classEstado}>{data.estado}</span>
+                <div className="title">
+                  <h3>
+                    <a
+                      href={data.link}
+                      className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
+                    >
+                      {data.name}
+                    </a>
+                  </h3>
+                </div>
+              </figure>
+            </article>
+          ))}
+        </>
+      )}
     </>
   );
-};
+}
+function Page7() {
+  const [loading, setLoading] = useState(false);
+  const [info, setInfo] = useState([]);
+  useEffect(() => {
+    setLoading(true);
+    setTimeout(() => {
+      fetch("https://api-rest.up.railway.app/api/v1/workouts")
+        // Exito
+        .then((response) => response.json()) // convertir a json
+        .then((json) => setInfo(json)) //imprimir los datos en la consola
+        .catch((err) => console.log("Solicitud fallida", err));
+      setLoading(false);
+    }, 1000);
+  }, [setInfo]);
+
+  return (
+    <>
+      {loading ? (
+        <Loading />
+      ) : (
+        <>
+          {info.slice(150, 175).map((data) => (
+            <article className="serie-card" title={data.name} key={data.id}>
+              <figure className="image overarchingdiv2">
+                <a href={data.link}>
+                  <img src={data.image} alt={data.name} />
+                  <div className="overlay-dark"></div>
+                  <div className="hoveroverlay">
+                    <i className="fas fa-play pgnav activehov"></i>
+                  </div>
+                </a>
+                <span className="tag year is-dark">{data.year}</span>
+                <span className="tag is-danger type">TV</span>
+                <span className={data.classEstado}>{data.estado}</span>
+                <div className="title">
+                  <h3>
+                    <a
+                      href={data.link}
+                      className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
+                    >
+                      {data.name}
+                    </a>
+                  </h3>
+                </div>
+              </figure>
+            </article>
+          ))}
+        </>
+      )}
+    </>
+  );
+}
 export { Page1, Page2, Page3, Page4, Page5, Page6, Page7 };
