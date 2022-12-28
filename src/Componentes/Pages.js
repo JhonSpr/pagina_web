@@ -15,6 +15,7 @@ import {
 export function Pagina1() {
   return (
     <>
+      <title>Animekuns - Animes online HD</title>
       <section className="container items-animes">
         <section className="filtrador">
           <h1>
@@ -66,6 +67,7 @@ export function Pagina2() {
   return (
     <>
       {" "}
+      <title>Animekuns - Animes online HD</title>
       <section className="container items-animes">
         <section className="filtrador">
           <h1>
@@ -119,6 +121,8 @@ export function Pagina2() {
 export function Pagina3() {
   return (
     <>
+      {" "}
+      <title>Animekuns - Animes online HD</title>
       <section className="container items-animes">
         <section className="filtrador">
           <h1>
@@ -171,6 +175,8 @@ export function Pagina3() {
 export function Pagina4() {
   return (
     <>
+      {" "}
+      <title>Animekuns - Animes online HD</title>
       <section className="container items-animes">
         <section className="filtrador">
           <h1>
@@ -223,6 +229,8 @@ export function Pagina4() {
 export function Pagina5() {
   return (
     <>
+      {" "}
+      <title>Animekuns - Animes online HD</title>
       <section className="container items-animes">
         <section className="filtrador">
           <h1>
@@ -276,6 +284,8 @@ export function Pagina5() {
 export function Pagina6() {
   return (
     <>
+      {" "}
+      <title>Animekuns - Animes online HD</title>
       <section className="container items-animes">
         <section className="filtrador">
           <h1>
@@ -328,6 +338,8 @@ export function Pagina6() {
 export function Pagina7() {
   return (
     <>
+      {" "}
+      <title>Animekuns - Animes online HD</title>
       <section className="container items-animes">
         <section className="filtrador">
           <h1>
