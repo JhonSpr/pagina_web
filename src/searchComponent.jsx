@@ -35,6 +35,7 @@ function SearchBar({ placeholder }) {
       // eslint-disable-next-line react-hooks/exhaustive-deps
       // eslint-disable-next-line react-hooks/exhaustive-deps
       setLoading(false);
+      console.log(setInfo);
     }, 2000);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [search]);
