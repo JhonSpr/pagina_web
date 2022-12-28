@@ -6,15 +6,9 @@ function SearchBar({ placeholder }) {
   const [loading, setLoading] = useState(false);
   const [info, setInfo] = useState([]);
   const [search, setSearch] = useState("");
-  const [figura, setFigura] = useState(false);
 
   const searcher = (e) => {
     setSearch(e.target.value);
-    if (search === "") {
-      setFigura(false);
-    } else {
-      setFigura(true);
-    }
   };
   // eslint-disable-next-line react-hooks/exhaustive-deps
 
@@ -22,7 +16,7 @@ function SearchBar({ placeholder }) {
   useEffect(() => {
     setLoading(true);
     setTimeout(() => {
-      fetch(`https://api-rest.up.railway.app/api/v1/workouts?name=${search}`)
+      fetch(`https://api-rest.up.railway.app/api/v1/workouts?name=` + search)
         // Exito
         .then((response) => response.json())
         // convertir a json
@@ -35,8 +29,7 @@ function SearchBar({ placeholder }) {
       // eslint-disable-next-line react-hooks/exhaustive-deps
       // eslint-disable-next-line react-hooks/exhaustive-deps
       setLoading(false);
-      console.log(info);
-    }, 2000);
+    }, 1000);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [search]);
 
@@ -59,7 +52,6 @@ function SearchBar({ placeholder }) {
             </li>
           </div>
         </div>
-        {figura ? <div className="figura_search"></div> : <></>}
         <div className="dataResult">
           {loading ? (
             <>
