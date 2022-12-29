@@ -28,7 +28,7 @@ function SearchBar({ placeholder }) {
   useEffect(() => {
     setLoading(true);
     setTimeout(() => {
-      fetch(`https://api-rest.up.railway.app/api/v1/workouts?name=` + search)
+      fetch(`https://api-rest.up.railway.app/api/v1/animes?name=` + search)
         // Exito
         .then((response) => response.json())
         // convertir a json
@@ -50,7 +50,7 @@ function SearchBar({ placeholder }) {
   }, 2000);
   return (
     <>
-      <form action="">
+      <form action={`/` + search.replace(/ /g, "-").toLocaleLowerCase()}>
         <div className="search">
           <div className="searchInputs">
             <li className="navbar-item">
