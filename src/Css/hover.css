@@ -246,7 +246,7 @@
     border-radius: 10px;
     position: relative;
     font-size: 13px;
-    display: inline-block;
+    display: inline-block !important;
   }
   .cont-download {
     width: 100%;
@@ -284,12 +284,13 @@
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
     border-bottom: 15px solid #363636;
-    margin-top: 25px;
+    margin-top: 0px;
     margin-bottom: -50px;
     margin-left: 45px;
   }
   .box-opcions {
-    display: flex;
+    display: inline-flex !important;
+    width: 100%;
   }
 }
 .nav-link {
