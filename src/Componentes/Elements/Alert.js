@@ -19,7 +19,7 @@ function AlertNoLogged({ props }) {
     // alertify.notify( message, [type, wait, callback]);
     alertify.message("Normal message");
   };
-
+  // eslint-disable-next-line no-unused-vars
   const handleSuccess = () => {
     // success notification
     // Shorthand for:
@@ -31,7 +31,7 @@ function AlertNoLogged({ props }) {
     // error notification
     // Shorthand for:
     // alertify.notify( message, 'error', [wait, callback]);
-    alertify.error("Necesitas estas logeado");
+    alertify.error("Necesitas estar logeado");
   };
   // eslint-disable-next-line no-unused-vars
   const handleWarning = () => {
