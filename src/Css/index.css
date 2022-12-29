@@ -770,36 +770,9 @@ textarea {
   justify-content: center;
 }
 
-.cont-opciones {
-  display: flex;
-  margin-bottom: 45px;
-}
-
 .pag-text {
   padding: 15px;
   border-bottom: 2px rgb(100, 100, 100) solid;
-}
-
-.cont-anterior {
-  display: flex;
-}
-
-.cont-anterior a {
-  font-size: 0.9rem !important;
-}
-
-.cont-capitulos a {
-  font-size: 0.9rem !important;
-  display: flex;
-  justify-content: center;
-}
-
-.cont-siguiente {
-  display: flex;
-}
-
-.cont-siguiente a {
-  font-size: 0.9rem !important;
 }
 
 .li {

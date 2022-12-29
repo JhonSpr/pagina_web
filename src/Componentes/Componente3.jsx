@@ -24,6 +24,7 @@ export function Video({
   frame2,
   ...props
 }) {
+  const [showdownloads, setDownloads] = useState(false);
   const [loadingDisqus, setLoadingDisqus] = useState(true);
   const [loadingFirstOption, setLoadingFirstOption] = useState(false);
   const [loadingSecondOption, setLoadingSecondOption] = useState(false);
@@ -32,6 +33,12 @@ export function Video({
   };
   const hideComments = () => {
     setLoadingDisqus(true);
+  };
+  const hideDownloads = () => {
+    setDownloads(false);
+  };
+  const ShowDownloads = () => {
+    setDownloads(true);
   };
   const showFirstOptions = () => {
     setLoadingFirstOption(true);
@@ -72,14 +79,14 @@ export function Video({
                       style={{ cursor: "pointer" }}
                       onClick={showFirstOptions}
                     >
-                      <i class="fa-sharp fa-solid fa-play"></i> StreamSB
+                      <i class="fa-sharp fa-solid fa-play"></i> 1
                     </button>
 
                     <button
                       style={{ cursor: "pointer" }}
                       onClick={showSecondOptions}
                     >
-                      <i class="fa-sharp fa-solid fa-play"></i> Mega
+                      <i class="fa-sharp fa-solid fa-play"></i> 2
                     </button>
                   </div>
                   <div className="iframe-container" id="video_player">
@@ -116,32 +123,56 @@ export function Video({
                   </div>
                   <div className="column is-12-mobile is-4-tablet is-3-desktop">
                     <div className="columns is-variable is-1 cont-opciones">
-                      <div className={contAnteriorClass}>
-                        <a
-                          href={anteriorVideo}
-                          className="button is-orange is-fullwidth"
-                        >
-                          <i className="fa fa-arrow-left"></i>&nbsp;
-                        </a>
-                      </div>
+                      <a href={anteriorVideo} className="button-before">
+                        <i className="fa fa-arrow-left"></i>
+                      </a>
 
-                      <div className="column is-6-desktop is-8-tablet is-8-mobile cont-capitulos">
-                        <a href={capitulosVideo} className="button is-dark">
-                          &nbsp;Episodios
-                        </a>
-                      </div>
+                      <a href={capitulosVideo} className="button-caps">
+                        <i class="fa-solid fa-list"></i> Episodios
+                      </a>
 
-                      <div className={contSiguienteClass}>
-                        <a
-                          href={siguienteVideo}
-                          className="is-fullwidth button is-orange"
-                        >
-                          <i className="fa fa-arrow-right"></i>&nbsp;
-                        </a>
-                      </div>
+                      <a href={siguienteVideo} className="button-next">
+                        <i className="fa fa-arrow-right"></i>
+                      </a>
                     </div>
+                    {showdownloads ? (
+                      <button className="download" onClick={hideDownloads}>
+                        <i className="fa-solid fa-download"></i>descargar
+                        capitulos
+                      </button>
+                    ) : (
+                      <button className="download" onClick={ShowDownloads}>
+                        <i className="fa-solid fa-download"></i>descargar
+                        capitulos
+                      </button>
+                    )}
                   </div>
                 </div>
+                {showdownloads ? (
+                  <div className="cont-links-download">
+                    <div>
+                      <a href="#link1">
+                        <i className="fa-solid fa-circle-down"></i>
+                        <span>descargar capitulo de {anime} </span>
+                      </a>
+                    </div>
+                    <div>
+                      <a href="#link1">
+                        <i className="fa-solid fa-circle-down"></i>
+
+                        <span>descargar capitulo de {anime} </span>
+                      </a>
+                    </div>
+                    <div>
+                      <a href="#link1">
+                        <i className="fa-solid fa-circle-down"></i>
+                        <span>descargar capitulo de {anime} </span>
+                      </a>
+                    </div>
+                  </div>
+                ) : (
+                  <></>
+                )}
                 <div className="container_button_comments">
                   {loadingDisqus ? (
                     <button

@@ -68,6 +68,7 @@
     cursor: pointer !important;
     border-radius: 2px;
     font-size: 14px;
+    width: 60px;
   }
   .list_server_options button:hover {
     color: #dbdbdb;
@@ -82,6 +83,60 @@
     border-top: 15px solid transparent;
     border-left: 15px solid transparent;
     border-bottom: 15px solid #363636;
+  }
+  .button-next {
+    margin: 10px 0px;
+    padding: 7px 9px 7px 15px;
+    width: 20%;
+    display: inline-block;
+    border-radius: 4px 30px 30px 4px;
+    text-align: center;
+    background-color: #363636 !important;
+  }
+  .button-before {
+    margin: 10px 0px;
+    padding: 7px 15px 7px 9px;
+    width: 20%;
+    display: inline-block;
+    text-align: center;
+    border-radius: 30px 4px 4px 30px;
+    background-color: #363636 !important;
+  }
+  .button-caps {
+    margin: 10px 1px;
+    padding: 7px 9px;
+    width: 55%;
+    text-align: center;
+    display: inline-block;
+    background-color: #363636 !important;
+  }
+  .button-caps a {
+    width: 100%;
+    background-color: #00f4f8;
+  }
+  .download {
+    background-color: #363636 !important;
+    padding: 15px;
+    display: inline-block !important;
+    margin: 0 10px;
+    border-radius: 10px;
+  }
+  .fa-download {
+    margin: 0 7px;
+  }
+  .download:hover .fa-download {
+    color: #00f4f8;
+  }
+  .cont-links-download {
+    background-color: #363636;
+    border-radius: 10px;
+    width: 100%;
+    margin-left: 16px;
+    font-size: 15px;
+  }
+  .cont-links-download div {
+    margin: 15px 0;
+    padding: 8px 10px;
   }
 }
 @media (min-width: 1000px) {
@@ -126,6 +181,7 @@
     cursor: pointer !important;
     border-radius: 2px;
     font-size: 13px;
+    width: 60px;
   }
   .list_server_options button:hover {
     color: #00f4f8;
@@ -140,6 +196,66 @@
     border-top: 15px solid transparent;
     border-left: 15px solid transparent;
     border-bottom: 15px solid #363636;
+  }
+  .cont-opciones {
+    width: 100%;
+  }
+  .button-next {
+    margin: 10px 0px;
+    padding: 7px 9px 7px 15px;
+    width: 25%;
+    text-align: center;
+    display: inline-block;
+    border-radius: 4px 30px 30px 4px;
+    background-color: #363636 !important;
+  }
+  .button-before {
+    margin: 10px 0px;
+    padding: 7px 15px 7px 9px;
+    width: 25%;
+    display: inline-block;
+    text-align: center;
+    border-radius: 30px 4px 4px 30px;
+    background-color: #363636 !important;
+  }
+  .button-caps {
+    margin: 10px 1px;
+    padding: 7px 9px;
+    width: 55%;
+    text-align: center;
+    display: inline-block;
+    background-color: #363636 !important;
+  }
+  .button-before:hover {
+    color: #00f4f8 !important;
+    background-color: rgba(0, 0, 0, 0.5) !important;
+  }
+  .button-next:hover {
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    color: #00f4f8 !important;
+  }
+  .download {
+    background-color: #363636 !important;
+    padding: 15px;
+    display: inline-block !important;
+    margin: 0 10px;
+    border-radius: 10px;
+  }
+  .fa-download {
+    margin: 0 7px;
+  }
+  .download:hover .fa-download {
+    color: #00f4f8;
+  }
+  .cont-links-download {
+    background-color: #363636;
+    border-radius: 10px;
+    width: 50%;
+    margin-left: 16px;
+  }
+  .cont-links-download div {
+    margin: 15px 0;
+    padding: 8px 10px;
   }
 }
 .nav-link {
@@ -158,32 +274,7 @@
   box-shadow: 0 !important;
   border-radius: 10px !important;
 }
-.after-button {
-  background: #464646 !important;
-  padding: 6px;
-  text-align: center;
-  background-color: #fff;
-  border-color: #dbdbdb;
-  border-width: 1px;
-  color: #363636;
-  cursor: pointer;
-  justify-content: center;
-  text-align: center;
-  white-space: nowrap;
-  border-radius: 0 8px 8px 0px;
-}
-.before-button {
-  background: #464646 !important;
-  text-align: center;
-  background-color: #fff;
-  border-width: 1px;
-  cursor: pointer;
-  justify-content: center;
-  text-align: center;
-  white-space: nowrap;
-  border-radius: 8px 0px 0px 8px;
-  padding: 6px;
-}
+
 /* .select {
   background-color: #363636 !important;
   border: 0 !important;
@@ -298,7 +389,7 @@ footer {
   color: rgb(255, 255, 240);
   font-weight: 500;
   padding: 5px 0;
-  border-radius: 5px;
+  border-radius: 50px;
   margin-top: 50px;
   border: 0px;
 }
