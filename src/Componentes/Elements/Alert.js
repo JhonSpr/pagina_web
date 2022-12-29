@@ -12,7 +12,7 @@ import { useAuth0 } from "@auth0/auth0-react";
 
 function AlertNoLogged({ props }) {
   const { isAuthenticated } = useAuth0();
-
+  // eslint-disable-next-line no-unused-vars
   const handleSimpleMessage = () => {
     // default notification
     // Shorthand for:
@@ -33,21 +33,21 @@ function AlertNoLogged({ props }) {
     // alertify.notify( message, 'error', [wait, callback]);
     alertify.error("Necesitas estas logeado");
   };
-
+  // eslint-disable-next-line no-unused-vars
   const handleWarning = () => {
     // warning notification
     // Shorthand for:
     // alertify.notify( message, 'warning', [wait, callback]);
     alertify.warning("Warning message");
   };
-
+  // eslint-disable-next-line no-unused-vars
   const handleAlertBoxClick = () => {
     alertify.alert("Custom Heading", "This is an alert dialog.", function () {
       // Optional side effect
       alertify.message("OK");
     });
   };
-
+  // eslint-disable-next-line no-unused-vars
   const handleOkCancelConfirmation = () => {
     alertify.confirm(
       "Custom Heading",
@@ -61,6 +61,7 @@ function AlertNoLogged({ props }) {
     );
   };
 
+  // eslint-disable-next-line no-unused-vars
   const handlePrompt = () => {
     alertify.prompt(
       "Custom Heading",
