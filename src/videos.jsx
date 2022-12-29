@@ -10,6 +10,9 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbfull.com/e/2dlhg80oowou.html"}
+            frame2={
+              "https://mega.nz/embed/VgN33D7R#QM6K6zWGUdciRHhUGnjtetbGJlMwIyR2kSmgRQ3BbB8"
+            }
             contAnteriorClass="disable"
             tituloAnime={"Akudama Drive Capitulo 1"}
             contSiguienteClass={
@@ -30,6 +33,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbfull.com/e/d9bdotmfn8uf.html"}
+            frame2="https://mega.nz/embed/seEVXTwS#ENgs_9kA3Q5Vew0cM4TOT2IrwHoANe1nwJx4lJZmMPE"
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -51,6 +55,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbfull.com/e/mm0hyqaw164r.html"}
+            frame2="https://mega.nz/embed/FX9nBSIC#2NZI_GiL7SHwRCEC7cgELvhx747cwLITlvTmeybxrso"
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -72,6 +77,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbfull.com/e/n7taak2cg7oh.html"}
+            frame2="https://mega.nz/embed/FWkjBALY#MM1T0BoEBdBd2A1_FPMkNvkU_q_GiBCis_uIK7Gr08s"
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -93,6 +99,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbfull.com/e/neea68kvfnro.html"}
+            frame2="https://mega.nz/embed/Mp81WSja#zqS3lJj_u4xQhn7iuUm5YS3DleEUCa7TnHrQnrwSg2g"
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -114,6 +121,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbfull.com/e/3isvmgy7ztqe.html"}
+            frame2="https://mega.nz/embed/JD1wBQDY#0gC4FmB2pjIvepEfJwsmXa-JLVj3xe-D82xPhCOtU4Q"
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -134,6 +142,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbfull.com/e/n5vjg3oupj5o.html"}
+            frame2="https://mega.nz/embed/IhlgjJ7S#JnRvSL2ZfjaKQ0gXJT2-QkgEQ9qrGLo5MheaLyG0tA8"
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -154,6 +163,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbfull.com/e/s5rpudg0hmah.html"}
+            frame2="https://mega.nz/embed/Q91iXA5Z#qw-k9ufE-1bDlbf0TBySC3JG0tiihBw1oQdbtWps9Fk"
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -174,6 +184,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbfull.com/e/nvzz6oeof8io.html"}
+            frame2="https://mega.nz/embed/QT0V0ZKZ#ggkpD-3TwcW_lOHzrsoFo_aeJQaOMeOjtmXploGdnxE"
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -194,6 +205,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbfull.com/e/bn1v8c0mw12m.html"}
+            frame2="https://mega.nz/embed/0Dsw1bID#4Q0e7jSAUcq6JbJAbmnepsqVoDwXR4zPpKe7hvYmXq4"
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -213,6 +225,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbfull.com/e/gwnrv3r695vj.html"}
+            frame2="https://mega.nz/embed/haVnCCjC#WqWnMcjVX9Y5dh4P8CzgPMFw87ZIi_5pD5ZLlrv8IU4"
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={
               "column is-3-desktop is-2-tablet is-2-mobile cont-siguiente"
@@ -232,6 +245,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbfull.com/e/53uon5p5bskt.html"}
+            frame2="https://mega.nz/embed/dGtFDYJY#Ke1H2eUj0JuIZrvHH_-pllhigTN63luW37MnEyDGzaY"
             contAnteriorClass="column is-3-desktop is-2-tablet is-2-mobile cont-anterior"
             contSiguienteClass={"disable"}
             tituloAnime={"Akudama Drive Capitulo 12"}

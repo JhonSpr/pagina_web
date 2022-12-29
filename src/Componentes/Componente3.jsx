@@ -21,6 +21,7 @@ export function Video({
   numero,
   contAnteriorClass,
   contSiguienteClass,
+  frame2,
   ...props
 }) {
   const [loadingDisqus, setLoadingDisqus] = useState(true);
@@ -71,19 +72,14 @@ export function Video({
                       style={{ cursor: "pointer" }}
                       onClick={showFirstOptions}
                     >
-                      <i class="fa-sharp fa-solid fa-play"></i> Opcion 1
+                      <i class="fa-sharp fa-solid fa-play"></i> StreamSB
                     </button>
+
                     <button
                       style={{ cursor: "pointer" }}
                       onClick={showSecondOptions}
                     >
-                      <i class="fa-sharp fa-solid fa-play"></i> Opcion 2
-                    </button>
-                    <button
-                      style={{ cursor: "pointer" }}
-                      onClick={showSecondOptions}
-                    >
-                      <i class="fa-sharp fa-solid fa-play"></i> Opcion 3
+                      <i class="fa-sharp fa-solid fa-play"></i> Mega
                     </button>
                   </div>
                   <div className="iframe-container" id="video_player">
@@ -96,7 +92,7 @@ export function Video({
                       ></iframe>
                     ) : (
                       <iframe
-                        src={""}
+                        src={frame2}
                         id="div1"
                         allowFullScreen
                         picture-in-picture
@@ -104,7 +100,7 @@ export function Video({
                     )}
                     {loadingSecondOption ? (
                       <iframe
-                        src={props.frame2}
+                        src={frame2}
                         id="div1"
                         allowFullScreen
                         picture-in-picture
