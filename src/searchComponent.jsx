@@ -6,10 +6,22 @@ function SearchBar({ placeholder }) {
   const [loading, setLoading] = useState(false);
   const [info, setInfo] = useState([]);
   const [search, setSearch] = useState("");
+  const [hideData, setHideData] = useState(true);
 
   const searcher = (e) => {
     setSearch(e.target.value);
+    if (search == "") {
+      setHideData(true);
+    } else {
+      setHideData(false);
+    }
+    if (info.length == 1) {
+      setHideData(false);
+    } else {
+      setHideData(true);
+    }
   };
+  console.log(search);
   // eslint-disable-next-line react-hooks/exhaustive-deps
 
   // eslint-disable-next-line react-hooks/rules-of-hooks, react-hooks/exhaustive-deps
@@ -28,11 +40,14 @@ function SearchBar({ placeholder }) {
 
       // eslint-disable-next-line react-hooks/exhaustive-deps
       // eslint-disable-next-line react-hooks/exhaustive-deps
-      setLoading(false);
-    }, 1000);
+    });
+
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [search]);
-
+  console.log(search);
+  setTimeout(() => {
+    setLoading(false);
+  }, 2000);
   return (
     <>
       <form action="">
@@ -53,27 +68,35 @@ function SearchBar({ placeholder }) {
           </div>
         </div>
         <div className="dataResult">
-          {loading ? (
-            <>
-              <Loading />
-            </>
+          {hideData ? (
+            <></>
           ) : (
             <>
-              {info.slice(0, 4).map((data, index) => (
-                <a
-                  className="dataItem"
-                  href={data.link}
-                  title={data.name.toLowerCase()}
-                  key={index}
-                >
-                  <img
-                    src={data.image}
-                    alt={data.name}
-                    className="icono-search"
-                  />
-                  <span className="span-search">{data.name.toLowerCase()}</span>
-                </a>
-              ))}
+              {loading ? (
+                <>
+                  <Loading />
+                </>
+              ) : (
+                <>
+                  {info.slice(0, 4).map((data, index) => (
+                    <a
+                      className="dataItem"
+                      href={data.link}
+                      title={data.name.toLowerCase()}
+                      key={index}
+                    >
+                      <img
+                        src={data.image}
+                        alt={data.name}
+                        className="icono-search"
+                      />
+                      <span className="span-search">
+                        {data.name.toLowerCase()}
+                      </span>
+                    </a>
+                  ))}
+                </>
+              )}
             </>
           )}
         </div>

@@ -328,3 +328,8 @@ footer {
 .news_title {
   text-align: center;
 }
+.containter_spinner {
+  text-align: center !important;
+  align-items: center;
+  display: block;
+}
