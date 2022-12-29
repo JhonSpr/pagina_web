@@ -333,3 +333,8 @@ footer {
   align-items: center;
   display: block;
 }
+.resultados_h1 {
+  color: #d1d1d1;
+  text-align: center;
+  border-bottom: 1px solid #00f4f8;
+}

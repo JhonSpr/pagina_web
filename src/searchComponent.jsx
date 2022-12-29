@@ -15,7 +15,7 @@ function SearchBar({ placeholder }) {
     } else {
       setHideData(false);
     }
-    if (info.length == 1) {
+    if (info.length === 1) {
       setHideData(false);
     } else {
       setHideData(true);
@@ -70,8 +70,9 @@ function SearchBar({ placeholder }) {
             </li>
           </div>
         </div>
-
+        {hideData ? <></> : <div className="figura_search"></div>}
         <div className="dataResult">
+          {hideData ? <></> : <h1 className="resultados_h1">resultados</h1>}
           {hideData ? (
             <></>
           ) : (

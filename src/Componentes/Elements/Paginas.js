@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import React, { useState } from "react";
 import { useEffect } from "react";
-import Loading from "../../Colletion/Loading";
+import Loading from "../../Colletion/Loading2";
 
 const Page1 = () => {
   const [wordEntered, setWordEntered] = useState("");
