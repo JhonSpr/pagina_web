@@ -28,7 +28,10 @@ function SearchBar({ placeholder }) {
   useEffect(() => {
     setLoading(true);
     setTimeout(() => {
-      fetch(`https://api-rest.up.railway.app/api/v1/animes?name=` + search)
+      fetch(
+        `https://api-rest.up.railway.app/api/v1/animes?name=` +
+          search.toLowerCase()
+      )
         // Exito
         .then((response) => response.json())
         // convertir a json
