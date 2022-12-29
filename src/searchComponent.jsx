@@ -67,6 +67,7 @@ function SearchBar({ placeholder }) {
             </li>
           </div>
         </div>
+
         <div className="dataResult">
           {hideData ? (
             <></>
