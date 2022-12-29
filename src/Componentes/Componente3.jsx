@@ -128,7 +128,7 @@ export function Video({
                       </a>
 
                       <a href={capitulosVideo} className="button-caps">
-                        <i class="fa-solid fa-list"></i> Episodios
+                        <i class="fa-solid fa-list"></i>
                       </a>
 
                       <a href={siguienteVideo} className={contSiguienteClass}>
