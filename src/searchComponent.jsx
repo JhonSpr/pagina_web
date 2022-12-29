@@ -1,5 +1,3 @@
-/* eslint-disable jsx-a11y/anchor-has-content */
-/* eslint-disable eqeqeq */
 import React, { useEffect, useState } from "react";
 import LoadingSearch from "./Colletion/Loading";
 function SearchBar({ placeholder }) {
@@ -10,7 +8,7 @@ function SearchBar({ placeholder }) {
 
   const searcher = (e) => {
     setSearch(e.target.value);
-    if (search == "") {
+    if (search === "") {
       setHideData(true);
     } else {
       setHideData(false);
@@ -27,10 +25,6 @@ function SearchBar({ placeholder }) {
       setHideData(true);
     }
   };
-  console.log(search);
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-
-  // eslint-disable-next-line react-hooks/rules-of-hooks, react-hooks/exhaustive-deps
   useEffect(() => {
     setLoading(true);
     setTimeout(() => {
@@ -38,20 +32,11 @@ function SearchBar({ placeholder }) {
         `https://api-rest.up.railway.app/api/v1/animes?name=` +
           search.toLowerCase()
       )
-        // Exito
         .then((response) => response.json())
-        // convertir a json
+
         .then((json) => setInfo(json))
-        //imprimir los datos en la consola
         .catch((err) => console.log("Solicitud fallida", err));
-
-      // eslint-disable-next-line react-hooks/exhaustive-deps
-
-      // eslint-disable-next-line react-hooks/exhaustive-deps
-      // eslint-disable-next-line react-hooks/exhaustive-deps
     });
-
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [search]);
   console.log(search);
   setTimeout(() => {
