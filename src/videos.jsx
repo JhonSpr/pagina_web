@@ -13,14 +13,14 @@ function Videos() {
             frame2={
               "https://mega.nz/embed/VgN33D7R#QM6K6zWGUdciRHhUGnjtetbGJlMwIyR2kSmgRQ3BbB8"
             }
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Akudama Drive Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun"}
             anime={"Akudama Drive"}
             numero={"1"}
-            classOpcionbutton-next="button-next"
-            button-nextVideo={"/ver/akudama-drive-2"}
+            classOpcionSiguiente="button-next"
+            siguienteVideo={"/ver/akudama-drive-2"}
             capitulosVideo={"/akudama-drive"}
           />
         }
@@ -32,16 +32,16 @@ function Videos() {
           <Video
             frame1={"https://sbfull.com/e/d9bdotmfn8uf.html"}
             frame2="https://mega.nz/embed/seEVXTwS#ENgs_9kA3Q5Vew0cM4TOT2IrwHoANe1nwJx4lJZmMPE"
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Akudama Drive Capitulo 2"}
             tituloPag={"Animekun"}
             anime={"Akudama Drive"}
             numero={"2"}
-            classOpcionbutton-next=""
-            button-nextVideo={"/ver/akudama-drive-3"}
+            classOpcionSiguiente=""
+            siguienteVideo={"/ver/akudama-drive-3"}
             capitulosVideo={"/akudama-drive"}
-            button-beforeVideo={"/ver/akudama-drive-1"}
+            anteriorVideo={"/ver/akudama-drive-1"}
           />
         }
       />
@@ -52,16 +52,16 @@ function Videos() {
           <Video
             frame1={"https://sbfull.com/e/mm0hyqaw164r.html"}
             frame2="https://mega.nz/embed/FX9nBSIC#2NZI_GiL7SHwRCEC7cgELvhx747cwLITlvTmeybxrso"
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Akudama Drive Capitulo 3"}
             tituloPag={"Animekun"}
             anime={"Akudama Drive"}
             numero={"3"}
-            classOpcionbutton-next="column is-3-desktop is-2-tablet is-2-mobile"
-            button-nextVideo={"/ver/akudama-drive-4"}
+            classOpcionSiguiente="column is-3-desktop is-2-tablet is-2-mobile"
+            siguienteVideo={"/ver/akudama-drive-4"}
             capitulosVideo={"/akudama-drive"}
-            button-beforeVideo={"/ver/akudama-drive-2"}
+            anteriorVideo={"/ver/akudama-drive-2"}
           />
         }
       />
@@ -72,16 +72,16 @@ function Videos() {
           <Video
             frame1={"https://sbfull.com/e/n7taak2cg7oh.html"}
             frame2="https://mega.nz/embed/FWkjBALY#MM1T0BoEBdBd2A1_FPMkNvkU_q_GiBCis_uIK7Gr08s"
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Akudama Drive Capitulo 4"}
             tituloPag={"Animekun"}
             anime={"Akudama Drive"}
             numero={"4"}
-            classOpcionbutton-next="column is-3-desktop is-2-tablet is-2-mobile"
-            button-nextVideo={"/ver/akudama-drive-5"}
+            classOpcionSiguiente="column is-3-desktop is-2-tablet is-2-mobile"
+            siguienteVideo={"/ver/akudama-drive-5"}
             capitulosVideo={"/akudama-drive"}
-            button-beforeVideo={"/ver/akudama-drive-3"}
+            anteriorVideo={"/ver/akudama-drive-3"}
           />
         }
       />
@@ -92,16 +92,16 @@ function Videos() {
           <Video
             frame1={"https://sbfull.com/e/neea68kvfnro.html"}
             frame2="https://mega.nz/embed/Mp81WSja#zqS3lJj_u4xQhn7iuUm5YS3DleEUCa7TnHrQnrwSg2g"
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Akudama Drive Capitulo 5"}
             tituloPag={"Animekun"}
             anime={"Akudama Drive"}
             numero={"5"}
-            classOpcionbutton-next="column is-3-desktop is-2-tablet is-2-mobile"
-            button-nextVideo={"/ver/akudama-drive-6"}
+            classOpcionSiguiente="column is-3-desktop is-2-tablet is-2-mobile"
+            siguienteVideo={"/ver/akudama-drive-6"}
             capitulosVideo={"/akudama-drive"}
-            button-beforeVideo={"/ver/akudama-drive-4"}
+            anteriorVideo={"/ver/akudama-drive-4"}
           />
         }
       />
@@ -112,16 +112,16 @@ function Videos() {
           <Video
             frame1={"https://sbfull.com/e/3isvmgy7ztqe.html"}
             frame2="https://mega.nz/embed/JD1wBQDY#0gC4FmB2pjIvepEfJwsmXa-JLVj3xe-D82xPhCOtU4Q"
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Akudama Drive Capitulo 6"}
             tituloPag={"Animekun"}
             anime={"Akudama Drive"}
             numero={"6"}
-            classOpcionbutton-next="column is-3-desktop is-2-tablet is-2-mobile"
-            button-nextVideo={"/ver/akudama-drive-7"}
+            classOpcionSiguiente="column is-3-desktop is-2-tablet is-2-mobile"
+            siguienteVideo={"/ver/akudama-drive-7"}
             capitulosVideo={"/akudama-drive"}
-            button-beforeVideo={"/ver/akudama-drive-5"}
+            anteriorVideo={"/ver/akudama-drive-5"}
           />
         }
       />
@@ -131,16 +131,16 @@ function Videos() {
           <Video
             frame1={"https://sbfull.com/e/n5vjg3oupj5o.html"}
             frame2="https://mega.nz/embed/IhlgjJ7S#JnRvSL2ZfjaKQ0gXJT2-QkgEQ9qrGLo5MheaLyG0tA8"
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Akudama Drive Capitulo 7"}
             tituloPag={"Animekun"}
             anime={"Akudama Drive"}
             numero={"7"}
-            classOpcionbutton-next="column is-3-desktop is-2-tablet is-2-mobile"
-            button-nextVideo={"/ver/akudama-drive-8"}
+            classOpcionSiguiente="column is-3-desktop is-2-tablet is-2-mobile"
+            siguienteVideo={"/ver/akudama-drive-8"}
             capitulosVideo={"/akudama-drive"}
-            button-beforeVideo={"/ver/akudama-drive-6"}
+            anteriorVideo={"/ver/akudama-drive-6"}
           />
         }
       />
@@ -150,16 +150,16 @@ function Videos() {
           <Video
             frame1={"https://sbfull.com/e/s5rpudg0hmah.html"}
             frame2="https://mega.nz/embed/Q91iXA5Z#qw-k9ufE-1bDlbf0TBySC3JG0tiihBw1oQdbtWps9Fk"
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Akudama Drive Capitulo 8"}
             tituloPag={"Animekun"}
             anime={"Akudama Drive"}
             numero={"8"}
-            classOpcionbutton-next="column is-3-desktop is-2-tablet is-2-mobile"
-            button-nextVideo={"/ver/akudama-drive-9"}
+            classOpcionSiguiente="column is-3-desktop is-2-tablet is-2-mobile"
+            siguienteVideo={"/ver/akudama-drive-9"}
             capitulosVideo={"/akudama-drive"}
-            button-beforeVideo={"/ver/akudama-drive-7"}
+            anteriorVideo={"/ver/akudama-drive-7"}
           />
         }
       />
@@ -169,16 +169,16 @@ function Videos() {
           <Video
             frame1={"https://sbfull.com/e/nvzz6oeof8io.html"}
             frame2="https://mega.nz/embed/QT0V0ZKZ#ggkpD-3TwcW_lOHzrsoFo_aeJQaOMeOjtmXploGdnxE"
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Akudama Drive Capitulo 9"}
             tituloPag={"Animekun"}
             anime={"Akudama Drive"}
             numero={"9"}
-            classOpcionbutton-next="column is-3-desktop is-2-tablet is-2-mobile"
-            button-nextVideo={"/ver/akudama-drive-10"}
+            classOpcionSiguiente="column is-3-desktop is-2-tablet is-2-mobile"
+            siguienteVideo={"/ver/akudama-drive-10"}
             capitulosVideo={"/akudama-drive"}
-            button-beforeVideo={"/ver/akudama-drive-8"}
+            anteriorVideo={"/ver/akudama-drive-8"}
           />
         }
       />
@@ -188,15 +188,15 @@ function Videos() {
           <Video
             frame1={"https://sbfull.com/e/bn1v8c0mw12m.html"}
             frame2="https://mega.nz/embed/0Dsw1bID#4Q0e7jSAUcq6JbJAbmnepsqVoDwXR4zPpKe7hvYmXq4"
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Akudama Drive Capitulo 10"}
             tituloPag={"Animekun"}
             anime={"Akudama Drive"}
             numero={"10"}
-            button-nextVideo={"/ver/akudama-drive-11"}
+            siguienteVideo={"/ver/akudama-drive-11"}
             capitulosVideo={"/akudama-drive"}
-            button-beforeVideo={"/ver/akudama-drive-9"}
+            anteriorVideo={"/ver/akudama-drive-9"}
           />
         }
       />
@@ -206,15 +206,15 @@ function Videos() {
           <Video
             frame1={"https://sbfull.com/e/gwnrv3r695vj.html"}
             frame2="https://mega.nz/embed/haVnCCjC#WqWnMcjVX9Y5dh4P8CzgPMFw87ZIi_5pD5ZLlrv8IU4"
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Akudama Drive Capitulo 11"}
             tituloPag={"Animekun"}
             anime={"Akudama Drive"}
             numero={"11"}
-            button-nextVideo={"/ver/akudama-drive-12"}
+            siguienteVideo={"/ver/akudama-drive-12"}
             capitulosVideo={"/akudama-drive"}
-            button-beforeVideo={"/ver/akudama-drive-10"}
+            anteriorVideo={"/ver/akudama-drive-10"}
           />
         }
       />
@@ -224,19 +224,17 @@ function Videos() {
           <Video
             frame1={"https://sbfull.com/e/53uon5p5bskt.html"}
             frame2="https://mega.nz/embed/dGtFDYJY#Ke1H2eUj0JuIZrvHH_-pllhigTN63luW37MnEyDGzaY"
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Akudama Drive Capitulo 12"}
             tituloPag={"Animekun"}
             anime={"Akudama Drive"}
             numero={"12"}
             capitulosVideo={"/akudama-drive"}
-            button-beforeVideo={"/ver/akudama-drive-11"}
-            classOpcionbutton-before={
-              "column is-3-desktop is-2-tablet is-2-mobile"
-            }
-            botonbutton-before={"button is-orange is-fullwidth"}
-            iconobutton-before={"fa fa-arrow-left"}
+            anteriorVideo={"/ver/akudama-drive-11"}
+            classOpcionAnterior={"column is-3-desktop is-2-tablet is-2-mobile"}
+            botonAnterior={"button is-orange is-fullwidth"}
+            iconoAnterior={"fa fa-arrow-left"}
           />
         }
       />
@@ -249,13 +247,13 @@ function Videos() {
               "https://mega.nz/embed/EVQDWAjL#Ln1Op33LdB_YKYKiTivFHZiVqjIvaY28rVTHiz5yztY"
             }
             frame1={"https://sbthe.com/e/4m26e9ffn8tm.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Hanyo no Yashahime ni no Shou Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun"}
             anime={"Hanyo no Yashahime ni no Shou"}
             numero={"1"}
-            button-nextVideo={"/ver/hanyo-no-yashahime-ni-no-shou-2"}
+            siguienteVideo={"/ver/hanyo-no-yashahime-ni-no-shou-2"}
             capitulosVideo={"/hanyo-no-yashahime-ni-no-shou"}
           />
         }
@@ -266,15 +264,15 @@ function Videos() {
           <Video
             frame2="https://mega.nz/embed/QBQ2AQrR#RMfYyv_kpQGD52WWUTXEBM6T2PR7nJdg3UTc46_2pyk"
             frame1={"https://sbthe.com/e/686inorrktpp.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hanyo no Yashahime ni no Shou Capitulo 2"}
             tituloPag={"Animekun"}
             anime={"Hanyo no Yashahime ni no Shou "}
             numero={"2"}
-            button-nextVideo={"/ver/hanyo-no-yashahime-ni-no-shou-3"}
+            siguienteVideo={"/ver/hanyo-no-yashahime-ni-no-shou-3"}
             capitulosVideo={"/hanyo-no-yashahime-ni-no-shou"}
-            button-beforeVideo={"/ver/1"}
+            anteriorVideo={"/ver/1"}
           />
         }
       />
@@ -286,15 +284,15 @@ function Videos() {
               "https://mega.nz/embed/cdJBhTIL#SZ-w5A65FKChu8wS37jprRjRWV-iDNarQrSKTYTwIX0"
             }
             frame1={"https://sbthe.com/e/52qhr18i7wdb.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hanyo no Yashahime ni no Shou Capitulo 3"}
             tituloPag={"Animekun"}
             anime={"Hanyo no Yashahime ni no Shou "}
             numero={"3"}
-            button-nextVideo={"/ver/hanyo-no-yashahime-ni-no-shou-4"}
+            siguienteVideo={"/ver/hanyo-no-yashahime-ni-no-shou-4"}
             capitulosVideo={"/hanyo-no-yashahime-ni-no-shou"}
-            button-beforeVideo={"/ver/-2"}
+            anteriorVideo={"/ver/-2"}
           />
         }
       />
@@ -306,15 +304,15 @@ function Videos() {
               "https://mega.nz/embed/hc4kRR7D#HeA2XtlnqsniTCLwGEArYa-lJriWZsrWZoCV4RsKFnw"
             }
             frame1={"https://sbthe.com/e/z0mofnw9fw0g.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hanyo no Yashahime ni no Shou Capitulo 4"}
             tituloPag={"Animekun"}
             anime={"Hanyo no Yashahime ni no Shou "}
             numero={"4"}
-            button-nextVideo={"/ver/hanyo-no-yashahime-ni-no-shou-5"}
+            siguienteVideo={"/ver/hanyo-no-yashahime-ni-no-shou-5"}
             capitulosVideo={"/hanyo-no-yashahime-ni-no-shou"}
-            button-beforeVideo={"/ver/-3"}
+            anteriorVideo={"/ver/-3"}
           />
         }
       />
@@ -326,15 +324,15 @@ function Videos() {
               "https://mega.nz/embed/pFJGgDxY#9pQBPemOKQYIGxqEWsbk5jdI7vY-3JxTiuLKemG6SbE"
             }
             frame1={"https://sbthe.com/e/am9a8lvqpn23.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hanyo no Yashahime ni no Shou Capitulo 5"}
             tituloPag={"Animekun"}
             anime={"Hanyo no Yashahime ni no Shou "}
             numero={"5"}
-            button-nextVideo={"/ver/hanyo-no-yashahime-ni-no-shou-6"}
+            siguienteVideo={"/ver/hanyo-no-yashahime-ni-no-shou-6"}
             capitulosVideo={"/hanyo-no-yashahime-ni-no-shou"}
-            button-beforeVideo={"/ver/-4"}
+            anteriorVideo={"/ver/-4"}
           />
         }
       />
@@ -346,15 +344,15 @@ function Videos() {
               "https://mega.nz/embed/ZIoSwTTR#xf92JPIvTKY3KiWW98GWWzT8NQiT-lUMR263JnJCqFo"
             }
             frame1={"https://sbthe.com/e/jw3tv7qu2kse.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hanyo no Yashahime ni no Shou Capitulo 6"}
             tituloPag={"Animekun"}
             anime={"Hanyo no Yashahime ni no Shou "}
             numero={"6"}
-            button-nextVideo={"/ver/hanyo-no-yashahime-ni-no-shou-7"}
+            siguienteVideo={"/ver/hanyo-no-yashahime-ni-no-shou-7"}
             capitulosVideo={"/hanyo-no-yashahime-ni-no-shou"}
-            button-beforeVideo={"/ver/-5"}
+            anteriorVideo={"/ver/-5"}
           />
         }
       />
@@ -366,15 +364,15 @@ function Videos() {
               "https://mega.nz/embed/NcJhXSZS#sJfpPrJTrfoLB2XEflMdFSVOypL00rgZJ6DL-8ryK3c"
             }
             frame1={"https://sbthe.com/e/f5g4yi460fc9.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hanyo no Yashahime ni no Shou Capitulo 7"}
             tituloPag={"Animekun"}
             anime={"Hanyo no Yashahime ni no Shou "}
             numero={"7"}
-            button-nextVideo={"/ver/hanyo-no-yashahime-ni-no-shou-8"}
+            siguienteVideo={"/ver/hanyo-no-yashahime-ni-no-shou-8"}
             capitulosVideo={"/hanyo-no-yashahime-ni-no-shou"}
-            button-beforeVideo={"/ver/-6"}
+            anteriorVideo={"/ver/-6"}
           />
         }
       />
@@ -386,15 +384,15 @@ function Videos() {
               "https://mega.nz/embed/kMBwAJaB#fEKMypflgRTLRtYK5tjGwy3BFLQFbGDkiPUOX71k0EQ"
             }
             frame1={"https://sbthe.com/e/p3wnx7mrv7bq.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hanyo no Yashahime ni no Shou Capitulo 8"}
             tituloPag={"Animekun"}
             anime={"Hanyo no Yashahime ni no Shou "}
             numero={"8"}
-            button-nextVideo={"/ver/hanyo-no-yashahime-ni-no-shou-9"}
+            siguienteVideo={"/ver/hanyo-no-yashahime-ni-no-shou-9"}
             capitulosVideo={"/hanyo-no-yashahime-ni-no-shou"}
-            button-beforeVideo={"/ver/-7"}
+            anteriorVideo={"/ver/-7"}
           />
         }
       />
@@ -406,15 +404,15 @@ function Videos() {
               "https://mega.nz/embed/cd5D0RJA#1ShRDO_o_4tdgTIlpZb6WdMig388tnaLtHf41Ll82GA"
             }
             frame1={"https://sbthe.com/e/huh68x4y55w1.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hanyo no Yashahime ni no Shou Capitulo 9"}
             tituloPag={"Animekun"}
             anime={"Hanyo no Yashahime ni no Shou "}
             numero={"9"}
-            button-nextVideo={"/ver/hanyo-no-yashahime-ni-no-shou-10"}
+            siguienteVideo={"/ver/hanyo-no-yashahime-ni-no-shou-10"}
             capitulosVideo={"/hanyo-no-yashahime-ni-no-shou"}
-            button-beforeVideo={"/ver/-8"}
+            anteriorVideo={"/ver/-8"}
           />
         }
       />
@@ -426,15 +424,15 @@ function Videos() {
               "https://mega.nz/embed/sdYGhQhY#9E_xEsWMMeZ667nDaO1_n9gxTLAI7cBqedCuYZdrPnM"
             }
             frame1={"https://sbthe.com/e/gasgg4wnntyl.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hanyo no Yashahime ni no Shou Capitulo 10"}
             tituloPag={"Animekun"}
             anime={"Hanyo no Yashahime ni no Shou "}
             numero={"10"}
-            button-nextVideo={"/ver/hanyo-no-yashahime-ni-no-shou-11"}
+            siguienteVideo={"/ver/hanyo-no-yashahime-ni-no-shou-11"}
             capitulosVideo={"/hanyo-no-yashahime-ni-no-shou"}
-            button-beforeVideo={"/ver/-9"}
+            anteriorVideo={"/ver/-9"}
           />
         }
       />
@@ -446,15 +444,15 @@ function Videos() {
               "https://mega.nz/embed/RAxxxKLL#5GWTjDZ_GksCn9GVT62XEadY0VphXpej3Ibpuuiyr_Q"
             }
             frame1={"https://sbthe.com/e/zxa1r64xvdmq.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hanyo no Yashahime ni no Shou Capitulo 11"}
             tituloPag={"Animekun"}
             anime={"Hanyo no Yashahime ni no Shou "}
             numero={"11"}
-            button-nextVideo={"/ver/hanyo-no-yashahime-ni-no-shou-12"}
+            siguienteVideo={"/ver/hanyo-no-yashahime-ni-no-shou-12"}
             capitulosVideo={"/hanyo-no-yashahime-ni-no-shou"}
-            button-beforeVideo={"/ver/-10"}
+            anteriorVideo={"/ver/-10"}
           />
         }
       />
@@ -466,15 +464,15 @@ function Videos() {
               "https://mega.nz/embed/cMICCASB#LL7QuhCkzcIsYGkWHRL0Daif60J4hu-PQ1iAmizw678"
             }
             frame1={"https://sbthe.com/e/izp3xw4igo6l.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hanyo no Yashahime ni no Shou Capitulo 14"}
             tituloPag={"Animekun"}
             anime={"Hanyo no Yashahime ni no Shou "}
             numero={"12"}
-            button-nextVideo={"/ver/hanyo-no-yashahime-ni-no-shou-13"}
+            siguienteVideo={"/ver/hanyo-no-yashahime-ni-no-shou-13"}
             capitulosVideo={"/hanyo-no-yashahime-ni-no-shou"}
-            button-beforeVideo={"/ver/hanyo-no-yashahime-ni-no-shou-11"}
+            anteriorVideo={"/ver/hanyo-no-yashahime-ni-no-shou-11"}
           />
         }
       />
@@ -486,15 +484,15 @@ function Videos() {
               "https://mega.nz/embed/YUgnlI7K#u8BHC_hcuKQ0Vwy8ukpB_hRAk3pswkLZczXK8lYPn04"
             }
             frame1={"https://sbthe.com/e/eo7yr1gzza8g.html"}
-            beforeClass="primer-capitulo"
+            contAnteriorClass="primer-capitulo"
             tituloAnime={"Hanyo no Yashahime ni no Shou Capitulo 13"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun"}
             anime={"Hanyo no Yashahime ni no Shou "}
             numero={"13"}
-            button-nextVideo={"/ver/hanyo-no-yashahime-ni-no-shou-14"}
+            siguienteVideo={"/ver/hanyo-no-yashahime-ni-no-shou-14"}
             capitulosVideo={"/hanyo-no-yashahime-ni-no-shou"}
-            button-beforeVideo={"/ver/hanyo-no-yashahime-ni-no-shou-12"}
+            anteriorVideo={"/ver/hanyo-no-yashahime-ni-no-shou-12"}
           />
         }
       />
@@ -506,15 +504,15 @@ function Videos() {
               "https://mega.nz/embed/wRpz2ARL#7IpoQ0hMYocHJ5yRzVkkIgM4bkjscNKw31KgkJnB1GY"
             }
             frame1={"https://sbthe.com/e/9kxt4i9g902r.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hanyo no Yashahime ni no Shou Capitulo 14"}
             tituloPag={"Animekun"}
             anime={"Hanyo no Yashahime ni no Shou "}
             numero={"14"}
-            button-nextVideo={"/ver/hanyo-no-yashahime-ni-no-shou-15"}
+            siguienteVideo={"/ver/hanyo-no-yashahime-ni-no-shou-15"}
             capitulosVideo={"/hanyo-no-yashahime-ni-no-shou"}
-            button-beforeVideo={"/ver/hanyo-no-yashahime-ni-no-shou-13"}
+            anteriorVideo={"/ver/hanyo-no-yashahime-ni-no-shou-13"}
           />
         }
       />
@@ -526,15 +524,15 @@ function Videos() {
               "https://mega.nz/embed/pJIngIBI#6olC0iAqCm1G-nT0KHWgcU1rDUu9lu02BROk-TTHT2A"
             }
             frame1={"https://sbthe.com/e/gv78t0jl451p.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hanyo no Yashahime ni no Shou Capitulo 15"}
             tituloPag={"Animekun"}
             anime={"Hanyo no Yashahime ni no Shou "}
             numero={"15"}
-            button-nextVideo={"/ver/hanyo-no-yashahime-ni-no-shou-16"}
+            siguienteVideo={"/ver/hanyo-no-yashahime-ni-no-shou-16"}
             capitulosVideo={"/hanyo-no-yashahime-ni-no-shou"}
-            button-beforeVideo={"/ver/hanyo-no-yashahime-ni-no-shou-14"}
+            anteriorVideo={"/ver/hanyo-no-yashahime-ni-no-shou-14"}
           />
         }
       />
@@ -546,15 +544,15 @@ function Videos() {
               "https://mega.nz/embed/gEQjQRLZ#kfnBDM42eYOQ7qyva5Dg_r44WI4HM_BBu38HQzJa_r0"
             }
             frame1={"https://sbthe.com/e/2ai3kl6tfvnz.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hanyo no Yashahime ni no Shou Capitulo 16"}
             tituloPag={"Animekun"}
             anime={"Hanyo no Yashahime ni no Shou "}
             numero={"16"}
-            button-nextVideo={"/ver/hanyo-no-yashahime-ni-no-shou-17"}
+            siguienteVideo={"/ver/hanyo-no-yashahime-ni-no-shou-17"}
             capitulosVideo={"/hanyo-no-yashahime-ni-no-shou"}
-            button-beforeVideo={"/ver/hanyo-no-yashahime-ni-no-shou-15"}
+            anteriorVideo={"/ver/hanyo-no-yashahime-ni-no-shou-15"}
           />
         }
       />
@@ -566,15 +564,15 @@ function Videos() {
               "https://mega.nz/embed/UkkDjagD#wil7mIVNqBOrE6YWMfZBnQi7CtZYJyKtlVPL4JiKwIM"
             }
             frame1={"https://sbthe.com/e/ev757kirgroj.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hanyo no Yashahime ni no Shou Capitulo 17"}
             tituloPag={"Animekun"}
             anime={"Hanyo no Yashahime ni no Shou "}
             numero={"17"}
-            button-nextVideo={"/ver/hanyo-no-yashahime-ni-no-shou-18"}
+            siguienteVideo={"/ver/hanyo-no-yashahime-ni-no-shou-18"}
             capitulosVideo={"/hanyo-no-yashahime-ni-no-shou"}
-            button-beforeVideo={"/ver/hanyo-no-yashahime-ni-no-shou-16"}
+            anteriorVideo={"/ver/hanyo-no-yashahime-ni-no-shou-16"}
           />
         }
       />
@@ -586,15 +584,15 @@ function Videos() {
               "https://mega.nz/embed/5NB1QKyS#jnYtQb_TI0_yl3f5lz_Oq2R-CrNa3fBoTnvHSs7xFes"
             }
             frame1={"https://sbthe.com/e/tc1jtdb9ru5t.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hanyo no Yashahime ni no Shou Capitulo 18"}
             tituloPag={"Animekun"}
             anime={"Hanyo no Yashahime ni no Shou "}
             numero={"18"}
-            button-nextVideo={"/ver/hanyo-no-yashahime-ni-no-shou-19"}
+            siguienteVideo={"/ver/hanyo-no-yashahime-ni-no-shou-19"}
             capitulosVideo={"/hanyo-no-yashahime-ni-no-shou"}
-            button-beforeVideo={"/ver/hanyo-no-yashahime-ni-no-shou-17"}
+            anteriorVideo={"/ver/hanyo-no-yashahime-ni-no-shou-17"}
           />
         }
       />
@@ -606,15 +604,15 @@ function Videos() {
               "https://mega.nz/embed/oIQyjS7D#EI8peWxtXJuqf9lhn3efjcPrU0iASPdVXux418GA0tM"
             }
             frame1={"https://sbthe.com/e/17omtdjjw6ik.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hanyo no Yashahime ni no Shou Capitulo 19"}
             tituloPag={"Animekun"}
             anime={"Hanyo no Yashahime ni no Shou "}
             numero={"19"}
-            button-nextVideo={"/ver/hanyo-no-yashahime-ni-no-shou-20"}
+            siguienteVideo={"/ver/hanyo-no-yashahime-ni-no-shou-20"}
             capitulosVideo={"/hanyo-no-yashahime-ni-no-shou"}
-            button-beforeVideo={"/ver/hanyo-no-yashahime-ni-no-shou-18"}
+            anteriorVideo={"/ver/hanyo-no-yashahime-ni-no-shou-18"}
           />
         }
       />
@@ -626,15 +624,15 @@ function Videos() {
               "https://mega.nz/embed/tYIzgTaB#uu_itD29jISx_N8nEe9QKf9NmUw2HzwS1MuRtRj1R2o"
             }
             frame1={"https://sbthe.com/e/i9m5euoorm7b.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hanyo no Yashahime ni no Shou Capitulo 20"}
             tituloPag={"Animekun"}
             anime={"Hanyo no Yashahime ni no Shou "}
             numero={"20"}
-            button-nextVideo={"/ver/hanyo-no-yashahime-ni-no-shou-21"}
+            siguienteVideo={"/ver/hanyo-no-yashahime-ni-no-shou-21"}
             capitulosVideo={"/hanyo-no-yashahime-ni-no-shou"}
-            button-beforeVideo={"/ver/hanyo-no-yashahime-ni-no-shou-19"}
+            anteriorVideo={"/ver/hanyo-no-yashahime-ni-no-shou-19"}
           />
         }
       />
@@ -646,15 +644,15 @@ function Videos() {
               "https://mega.nz/embed/oN50DD4Z#CM9ENbGknCJtMFMvqzRoZONIkiubNT6udwYDNPEHljo"
             }
             frame1={"https://sbthe.com/e/hrt2byyy4y51.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hanyo no Yashahime ni no Shou Capitulo 21"}
             tituloPag={"Animekun"}
             anime={"Hanyo no Yashahime ni no Shou "}
             numero={"21"}
-            button-nextVideo={"/ver/hanyo-no-yashahime-ni-no-shou-22"}
+            siguienteVideo={"/ver/hanyo-no-yashahime-ni-no-shou-22"}
             capitulosVideo={"/hanyo-no-yashahime-ni-no-shou"}
-            button-beforeVideo={"/ver/hanyo-no-yashahime-ni-no-shou-20"}
+            anteriorVideo={"/ver/hanyo-no-yashahime-ni-no-shou-20"}
           />
         }
       />
@@ -666,15 +664,15 @@ function Videos() {
               "https://mega.nz/embed/RQhkBJTB#99yZKkhbPjxMA2lEBzTEO86GJ1zv0_UWu8lAtGBGhXE"
             }
             frame1={"https://sbthe.com/e/jy41ai0ujgw5.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hanyo no Yashahime ni no Shou Capitulo 22"}
             tituloPag={"Animekun"}
             anime={"Hanyo no Yashahime ni no Shou "}
             numero={"22"}
-            button-nextVideo={"/ver/hanyo-no-yashahime-ni-no-shou-23"}
+            siguienteVideo={"/ver/hanyo-no-yashahime-ni-no-shou-23"}
             capitulosVideo={"/hanyo-no-yashahime-ni-no-shou"}
-            button-beforeVideo={"/ver/hanyo-no-yashahime-ni-no-shou-21"}
+            anteriorVideo={"/ver/hanyo-no-yashahime-ni-no-shou-21"}
           />
         }
       />
@@ -686,15 +684,15 @@ function Videos() {
               "https://mega.nz/embed/4RoWFIBJ#avuigrxi3f5my31OgMMSYCLTFU_vt-SihFq65v05NrU"
             }
             frame1={"https://sbthe.com/e/jrpt5unecm3m.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hanyo no Yashahime ni no Shou Capitulo 23"}
             tituloPag={"Animekun"}
             anime={"Hanyo no Yashahime ni no Shou "}
             numero={"23"}
-            button-nextVideo={"/ver/hanyo-no-yashahime-ni-no-shou-24"}
+            siguienteVideo={"/ver/hanyo-no-yashahime-ni-no-shou-24"}
             capitulosVideo={"/hanyo-no-yashahime-ni-no-shou"}
-            button-beforeVideo={"/ver/hanyo-no-yashahime-ni-no-shou-22"}
+            anteriorVideo={"/ver/hanyo-no-yashahime-ni-no-shou-22"}
           />
         }
       />
@@ -706,14 +704,14 @@ function Videos() {
               "https://mega.nz/embed/8M4SXC4A#h7s_quvn6qzeJoEqGjY29J-pk3ZS1DDRoXmlaLnillw"
             }
             frame1={"https://sbthe.com/e/e82iesw2ssa0.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Hanyo no Yashahime ni no Shou Capitulo 24"}
             tituloPag={"Animekun"}
             anime={"Hanyo no Yashahime ni no Shou "}
             numero={"24"}
             capitulosVideo={"/hanyo-no-yashahime-ni-no-shou"}
-            button-beforeVideo={"/ver/hanyo-no-yashahime-ni-no-shou-23"}
+            anteriorVideo={"/ver/hanyo-no-yashahime-ni-no-shou-23"}
           />
         }
       />
@@ -726,13 +724,13 @@ function Videos() {
               "https://mega.nz/embed/uw4ARaxJ#KcpSHRZHbHMjx-t1n1LbTqPw9kjO4tuBLUFtCrwc070"
             }
             frame1={"https://sbthe.com/e/u8654pht6mrx.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Heion Sedai no Idaten Tachi Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun Gratis"}
             anime={"Heion Sedai no idaten Tachi"}
             numero={"1"}
-            button-nextVideo={"/ver/heion-sedai-no-idaten-tachi-2"}
+            siguienteVideo={"/ver/heion-sedai-no-idaten-tachi-2"}
             capitulosVideo={"/heion-sedai-no-idaten-tachi"}
           />
         }
@@ -745,16 +743,16 @@ function Videos() {
               "https://mega.nz/embed/uw4ARaxJ#KcpSHRZHbHMjx-t1n1LbTqPw9kjO4tuBLUFtCrwc070"
             }
             frame1={"https://sbthe.com/e/jujiqlc6pzih.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Heion Sedai no Idaten Tachi Capitulo 2"}
             tituloPag={"Animekun Gratis"}
             anime={"Heion Sedai no idaten Tachi "}
             numero={"2"}
-            classOpcionbutton-next=""
-            button-nextVideo={"/ver/heion-sedai-no-idaten-tachi-3"}
+            classOpcionSiguiente=""
+            siguienteVideo={"/ver/heion-sedai-no-idaten-tachi-3"}
             capitulosVideo={"/heion-sedai-no-idaten-tachi"}
-            button-beforeVideo={"/ver/heion-sedai-no-idaten-tachi-1"}
+            anteriorVideo={"/ver/heion-sedai-no-idaten-tachi-1"}
           />
         }
       />
@@ -766,15 +764,15 @@ function Videos() {
               "https://mega.nz/embed/n4w23SjD#-MWlR-hFh0P5gdM7YxY9jOEWu6Pmgp7lP61iOIP0D3A"
             }
             frame1={"https://sbthe.com/e/kgx51uctx4yu.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Heion Sedai no Idaten Tachi Capitulo 3"}
             tituloPag={"Animekun Gratis"}
             anime={"Heion Sedai no idaten Tachi "}
             numero={"3"}
-            button-nextVideo={"/ver/heion-sedai-no-idaten-tachi-4"}
+            siguienteVideo={"/ver/heion-sedai-no-idaten-tachi-4"}
             capitulosVideo={"/heion-sedai-no-idaten-tachi"}
-            button-beforeVideo={"/ver/heion-sedai-no-idaten-tachi-2"}
+            anteriorVideo={"/ver/heion-sedai-no-idaten-tachi-2"}
           />
         }
       />
@@ -786,15 +784,15 @@ function Videos() {
               "https://mega.nz/embed/n4w23SjD#-MWlR-hFh0P5gdM7YxY9jOEWu6Pmgp7lP61iOIP0D3A"
             }
             frame1={"https://sbthe.com/e/csbvrgc7yx6d.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Heion Sedai no Idaten Tachi Capitulo 4"}
             tituloPag={"Animekun Gratis"}
             anime={"Heion Sedai no idaten Tachi "}
             numero={"4"}
-            button-nextVideo={"/ver/heion-sedai-no-idaten-tachi-5"}
+            siguienteVideo={"/ver/heion-sedai-no-idaten-tachi-5"}
             capitulosVideo={"/heion-sedai-no-idaten-tachi"}
-            button-beforeVideo={"/ver/heion-sedai-no-idaten-tachi-3"}
+            anteriorVideo={"/ver/heion-sedai-no-idaten-tachi-3"}
           />
         }
       />
@@ -806,15 +804,15 @@ function Videos() {
               "https://mega.nz/embed/ihxASYZQ#hPTFMGi-wG-cFGtOrGXoVYxADEYjVv1CYLB5HuV4fF4"
             }
             frame1={"https://sbthe.com/e/dwnx2vjrrr43.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Heion Sedai no Idaten Tachi Capitulo 5"}
             tituloPag={"Animekun Gratis"}
             anime={"Heion Sedai no idaten Tachi "}
             numero={"5"}
-            button-nextVideo={"/ver/heion-sedai-no-idaten-tachi-6"}
+            siguienteVideo={"/ver/heion-sedai-no-idaten-tachi-6"}
             capitulosVideo={"/heion-sedai-no-idaten-tachi"}
-            button-beforeVideo={"/ver/heion-sedai-no-idaten-tachi-4"}
+            anteriorVideo={"/ver/heion-sedai-no-idaten-tachi-4"}
           />
         }
       />
@@ -826,15 +824,15 @@ function Videos() {
               "https://mega.nz/embed/yl4khKQa#OpOB2zXU0FZWRAtBaZCHRioT_paJQwcEbRR_s-zOYZk"
             }
             frame1={"https://sbthe.com/e/081yz8qn09ur.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Heion Sedai no Idaten Tachi Capitulo 6"}
             tituloPag={"Animekun Gratis"}
             anime={"Heion Sedai no idaten Tachi "}
             numero={"6"}
-            button-nextVideo={"/ver/heion-sedai-no-idaten-tachi-7"}
+            siguienteVideo={"/ver/heion-sedai-no-idaten-tachi-7"}
             capitulosVideo={"/heion-sedai-no-idaten-tachi"}
-            button-beforeVideo={"/ver/heion-sedai-no-idaten-tachi-5"}
+            anteriorVideo={"/ver/heion-sedai-no-idaten-tachi-5"}
           />
         }
       />
@@ -846,15 +844,15 @@ function Videos() {
               "https://mega.nz/embed/Hwg2yYrS#EL1bt9QWVotO83on1w1CiLhM1adnfh-TUtCLO7pAWjo"
             }
             frame1={"https://sbthe.com/e/bansbaua4346.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Heion Sedai no Idaten Tachi Capitulo 7"}
             tituloPag={"Animekun Gratis"}
             anime={"Heion Sedai no idaten Tachi "}
             numero={"7"}
-            button-nextVideo={"/ver/heion-sedai-no-idaten-tachi-8"}
+            siguienteVideo={"/ver/heion-sedai-no-idaten-tachi-8"}
             capitulosVideo={"/heion-sedai-no-idaten-tachi"}
-            button-beforeVideo={"/ver/heion-sedai-no-idaten-tachi-6"}
+            anteriorVideo={"/ver/heion-sedai-no-idaten-tachi-6"}
           />
         }
       />
@@ -866,15 +864,15 @@ function Videos() {
               "https://mega.nz/embed/rlwWAYhb#fmPEYDaajeiU5sXJMxbLbK84nEXwk-FeaiBDFOTLrAE"
             }
             frame1={"https://sbthe.com/e/7gi57zrn9gha.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Heion Sedai no Idaten Tachi Capitulo 8"}
             tituloPag={"Animekun Gratis"}
             anime={"Heion Sedai no idaten Tachi "}
             numero={"8"}
-            button-nextVideo={"/ver/heion-sedai-no-idaten-tachi-9"}
+            siguienteVideo={"/ver/heion-sedai-no-idaten-tachi-9"}
             capitulosVideo={"/heion-sedai-no-idaten-tachi"}
-            button-beforeVideo={"/ver/heion-sedai-no-idaten-tachi-7"}
+            anteriorVideo={"/ver/heion-sedai-no-idaten-tachi-7"}
           />
         }
       />
@@ -886,15 +884,15 @@ function Videos() {
               "https://mega.nz/embed/rlwWAYhb#fmPEYDaajeiU5sXJMxbLbK84nEXwk-FeaiBDFOTLrAE"
             }
             frame1={"https://sbthe.com/e/w3oedwzhcxaj.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Heion Sedai no Idaten Tachi Capitulo 9"}
             tituloPag={"Animekun Gratis"}
             anime={"Heion Sedai no idaten Tachi "}
             numero={"9"}
-            button-nextVideo={"/ver/heion-sedai-no-idaten-tachi-10"}
+            siguienteVideo={"/ver/heion-sedai-no-idaten-tachi-10"}
             capitulosVideo={"/heion-sedai-no-idaten-tachi"}
-            button-beforeVideo={"/ver/heion-sedai-no-idaten-tachi-8"}
+            anteriorVideo={"/ver/heion-sedai-no-idaten-tachi-8"}
           />
         }
       />
@@ -906,15 +904,15 @@ function Videos() {
               "https://mega.nz/embed/W04ylAYJ#Dzwj3Q3HwWLQjarO49MySSmfn7TlLKqGoNEt-2B7FZg"
             }
             frame1={"https://sbthe.com/e/vl0ovx250sdp.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Heion Sedai no Idaten Tachi Capitulo 10"}
             tituloPag={"Animekun Gratis"}
             anime={"Heion Sedai no idaten Tachi "}
             numero={"10"}
-            button-nextVideo={"/ver/heion-sedai-no-idaten-tachi-11"}
+            siguienteVideo={"/ver/heion-sedai-no-idaten-tachi-11"}
             capitulosVideo={"/heion-sedai-no-idaten-tachi"}
-            button-beforeVideo={"/ver/heion-sedai-no-idaten-tachi-9"}
+            anteriorVideo={"/ver/heion-sedai-no-idaten-tachi-9"}
           />
         }
       />
@@ -926,14 +924,14 @@ function Videos() {
               "https://mega.nz/embed/2sgEQKyb#-A_EMqXEFXS39LF7OWeRxzlqI_PoB3BDk4vWKMVa1cw"
             }
             frame1={"https://sbthe.com/e/p72kqt6u8unq.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Heion Sedai no Idaten Tachi Capitulo 11"}
             tituloPag={"Animekun Gratis"}
             anime={"Heion Sedai no idaten Tachi "}
             numero={"11"}
             capitulosVideo={"/heion-sedai-no-idaten-tachi"}
-            button-beforeVideo={"/ver/heion-sedai-no-idaten-tachi-10"}
+            anteriorVideo={"/ver/heion-sedai-no-idaten-tachi-10"}
           />
         }
       />
@@ -944,17 +942,17 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/nnq7yonfq4oq.html"}
-            beforeClass={"disable"}
+            contAnteriorClass={"disable"}
             tituloAnime={
               "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 Capitulo 1"
             }
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun Gratis"}
             anime={
               "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2"
             }
             numero={"1"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1-2"
             }
             capitulosVideo={
@@ -969,22 +967,22 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/4arcp0tf413b.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 Capitulo 2"
             }
             tituloPag={"Animekun Gratis"}
             anime={"Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 "}
             numero={"2"}
-            classOpcionbutton-next=""
-            button-nextVideo={
+            classOpcionSiguiente=""
+            siguienteVideo={
               "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1-3"
             }
             capitulosVideo={
               "/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1"
             }
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1-1"
             }
           />
@@ -996,21 +994,21 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/sh99o8y5nk8l.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 Capitulo 3"
             }
             tituloPag={"Animekun Gratis"}
             anime={"Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 "}
             numero={"3"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1-4"
             }
             capitulosVideo={
               "/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1"
             }
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1-2"
             }
           />
@@ -1022,21 +1020,21 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/iifrdakaentt.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 Capitulo 4"
             }
             tituloPag={"Animekun Gratis"}
             anime={"Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 "}
             numero={"4"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1-5"
             }
             capitulosVideo={
               "/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1"
             }
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1-3"
             }
           />
@@ -1048,21 +1046,21 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/9f1ajyv2892n.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 Capitulo 5"
             }
             tituloPag={"Animekun Gratis"}
             anime={"Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 "}
             numero={"5"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1-6"
             }
             capitulosVideo={
               "/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1"
             }
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1-4"
             }
           />
@@ -1074,21 +1072,21 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/9oul0segasro.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 Capitulo 6"
             }
             tituloPag={"Animekun Gratis"}
             anime={"Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 "}
             numero={"6"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1-7"
             }
             capitulosVideo={
               "/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1"
             }
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1-5"
             }
           />
@@ -1100,21 +1098,21 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/qvbcz0vertsb.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 Capitulo 7"
             }
             tituloPag={"Animekun Gratis"}
             anime={"Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 "}
             numero={"7"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1-8"
             }
             capitulosVideo={
               "/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1"
             }
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1-6"
             }
           />
@@ -1126,21 +1124,21 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/vbc2shsxwgsq.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 Capitulo 8"
             }
             tituloPag={"Animekun Gratis"}
             anime={"Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 "}
             numero={"8"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1-9"
             }
             capitulosVideo={
               "/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1"
             }
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1-7"
             }
           />
@@ -1152,21 +1150,21 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/ynrf1qh3d6wx.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 Capitulo 9"
             }
             tituloPag={"Animekun Gratis"}
             anime={"Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 "}
             numero={"9"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1-10"
             }
             capitulosVideo={
               "/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1"
             }
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1-8"
             }
           />
@@ -1178,21 +1176,21 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/btasif0mlxr4.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 Capitulo 10"
             }
             tituloPag={"Animekun Gratis"}
             anime={"Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 "}
             numero={"10"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1-11"
             }
             capitulosVideo={
               "/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1"
             }
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1-9"
             }
           />
@@ -1204,21 +1202,21 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/c8ii8f9gnflu.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 Capitulo 11"
             }
             tituloPag={"Animekun Gratis"}
             anime={"Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 "}
             numero={"11"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1-12"
             }
             capitulosVideo={
               "/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1"
             }
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1-10"
             }
           />
@@ -1230,21 +1228,21 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/exv9wohyt5ie.html.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 Capitulo 12"
             }
             tituloPag={"Animekun Gratis"}
             anime={"Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 "}
             numero={"12"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1-13"
             }
             capitulosVideo={
               "/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1"
             }
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1-10"
             }
           />
@@ -1256,8 +1254,8 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/geisodig38lu.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={
               "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 Capitulo 13"
             }
@@ -1267,7 +1265,7 @@ function Videos() {
             capitulosVideo={
               "/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1"
             }
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/tensei-shitara-slime-datta-ken-segunda-temporada-segunda-parte-1-12"
             }
           />
@@ -1280,13 +1278,13 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/akjadkvgbi6b.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Peach Boy Riverside Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun Gratis"}
             anime={"Peach Boy Riverside"}
             numero={"1"}
-            button-nextVideo={"/ver/peach-boy-riverside-2"}
+            siguienteVideo={"/ver/peach-boy-riverside-2"}
             capitulosVideo={"/peach-boy-riverside"}
           />
         }
@@ -1297,15 +1295,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/dyoel1ztk7l9.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Peach Boy Riverside Capitulo 2"}
             tituloPag={"Animekun Gratis"}
             anime={"Peach Boy Riverside "}
             numero={"2"}
-            button-nextVideo={"/ver/peach-boy-riverside-3"}
+            siguienteVideo={"/ver/peach-boy-riverside-3"}
             capitulosVideo={"/peach-boy-riverside"}
-            button-beforeVideo={"/ver/1"}
+            anteriorVideo={"/ver/1"}
           />
         }
       />
@@ -1315,15 +1313,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/bq18u1via77o.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Peach Boy Riverside Capitulo 3"}
             tituloPag={"Animekun Gratis"}
             anime={"Peach Boy Riverside "}
             numero={"3"}
-            button-nextVideo={"/ver/peach-boy-riverside-4"}
+            siguienteVideo={"/ver/peach-boy-riverside-4"}
             capitulosVideo={"/peach-boy-riverside"}
-            button-beforeVideo={"/ver/peach-boy-riverside-2"}
+            anteriorVideo={"/ver/peach-boy-riverside-2"}
           />
         }
       />
@@ -1333,15 +1331,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/jyfmiycw25fh.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Peach Boy Riverside Capitulo 4"}
             tituloPag={"Animekun Gratis"}
             anime={"Peach Boy Riverside "}
             numero={"4"}
-            button-nextVideo={"/ver/peach-boy-riverside-5"}
+            siguienteVideo={"/ver/peach-boy-riverside-5"}
             capitulosVideo={"/peach-boy-riverside"}
-            button-beforeVideo={"/ver/peach-boy-riverside-3"}
+            anteriorVideo={"/ver/peach-boy-riverside-3"}
           />
         }
       />
@@ -1351,15 +1349,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/hl13k85cgw3b.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Peach Boy Riverside Capitulo 5"}
             tituloPag={"Animekun Gratis"}
             anime={"Peach Boy Riverside "}
             numero={"5"}
-            button-nextVideo={"/ver/peach-boy-riverside-6"}
+            siguienteVideo={"/ver/peach-boy-riverside-6"}
             capitulosVideo={"/peach-boy-riverside"}
-            button-beforeVideo={"/ver/peach-boy-riverside-4"}
+            anteriorVideo={"/ver/peach-boy-riverside-4"}
           />
         }
       />
@@ -1369,15 +1367,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/s7m9vl0o1fft.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Peach Boy Riverside Capitulo 6"}
             tituloPag={"Animekun Gratis"}
             anime={"Peach Boy Riverside "}
             numero={"6"}
-            button-nextVideo={"/ver/peach-boy-riverside-7"}
+            siguienteVideo={"/ver/peach-boy-riverside-7"}
             capitulosVideo={"/peach-boy-riverside"}
-            button-beforeVideo={"/ver/peach-boy-riverside-5"}
+            anteriorVideo={"/ver/peach-boy-riverside-5"}
           />
         }
       />
@@ -1387,15 +1385,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/kdlw3qd6sltk.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Peach Boy Riverside Capitulo 7"}
             tituloPag={"Animekun Gratis"}
             anime={"Peach Boy Riverside "}
             numero={"7"}
-            button-nextVideo={"/ver/peach-boy-riverside-8"}
+            siguienteVideo={"/ver/peach-boy-riverside-8"}
             capitulosVideo={"/peach-boy-riverside"}
-            button-beforeVideo={"/ver/peach-boy-riverside-6"}
+            anteriorVideo={"/ver/peach-boy-riverside-6"}
           />
         }
       />
@@ -1405,15 +1403,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/m85s9k2gzggq.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Peach Boy Riverside Capitulo 8"}
             tituloPag={"Animekun Gratis"}
             anime={"Peach Boy Riverside "}
             numero={"8"}
-            button-nextVideo={"/ver/peach-boy-riverside-9"}
+            siguienteVideo={"/ver/peach-boy-riverside-9"}
             capitulosVideo={"/peach-boy-riverside"}
-            button-beforeVideo={"/ver/peach-boy-riverside-7"}
+            anteriorVideo={"/ver/peach-boy-riverside-7"}
           />
         }
       />
@@ -1423,15 +1421,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/chqt1qsr5jgq.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Peach Boy Riverside Capitulo 9"}
             tituloPag={"Animekun Gratis"}
             anime={"Peach Boy Riverside "}
             numero={"9"}
-            button-nextVideo={"/ver/peach-boy-riverside-10"}
+            siguienteVideo={"/ver/peach-boy-riverside-10"}
             capitulosVideo={"/peach-boy-riverside"}
-            button-beforeVideo={"/ver/peach-boy-riverside-8"}
+            anteriorVideo={"/ver/peach-boy-riverside-8"}
           />
         }
       />
@@ -1441,15 +1439,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/os7odvr421uo.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Peach Boy Riverside Capitulo 10"}
             tituloPag={"Animekun Gratis"}
             anime={"Peach Boy Riverside "}
             numero={"10"}
-            button-nextVideo={"/ver/peach-boy-riverside-11"}
+            siguienteVideo={"/ver/peach-boy-riverside-11"}
             capitulosVideo={"/peach-boy-riverside"}
-            button-beforeVideo={"/ver/peach-boy-riverside-9"}
+            anteriorVideo={"/ver/peach-boy-riverside-9"}
           />
         }
       />
@@ -1459,15 +1457,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/fzcr8rc9e5c1.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Peach Boy Riverside Capitulo 11"}
             tituloPag={"Animekun Gratis"}
             anime={"Peach Boy Riverside "}
             numero={"11"}
-            button-nextVideo={"/ver/peach-boy-riverside-12"}
+            siguienteVideo={"/ver/peach-boy-riverside-12"}
             capitulosVideo={"/peach-boy-riverside"}
-            button-beforeVideo={"/ver/peach-boy-riverside-10"}
+            anteriorVideo={"/ver/peach-boy-riverside-10"}
           />
         }
       />
@@ -1477,14 +1475,14 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/2q60xu86q1py.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Peach Boy Riverside Capitulo 12"}
             tituloPag={"Animekun Gratis"}
             anime={"Peach Boy Riverside "}
             numero={"12"}
             capitulosVideo={"/peach-boy-riverside"}
-            button-beforeVideo={"/ver/peach-boy-riverside-11"}
+            anteriorVideo={"/ver/peach-boy-riverside-11"}
           />
         }
       />
@@ -1495,13 +1493,13 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/u9ik3w41ladd.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={" Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun Gratis"}
             anime={""}
             numero={"1"}
-            button-nextVideo={"/ver/-2"}
+            siguienteVideo={"/ver/-2"}
             capitulosVideo={"/"}
           />
         }
@@ -1512,16 +1510,16 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/k8n20d2nczg8.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Jujutsu Kaisen Capitulo 2"}
             tituloPag={"Animekun Gratis"}
             anime={" "}
             numero={"2"}
-            classOpcionbutton-next=""
-            button-nextVideo={"/ver/jujutsu-kaisen-3"}
+            classOpcionSiguiente=""
+            siguienteVideo={"/ver/jujutsu-kaisen-3"}
             capitulosVideo={"/jujutsu-kaisen"}
-            button-beforeVideo={"/ver/jujutsu-kaisen-1"}
+            anteriorVideo={"/ver/jujutsu-kaisen-1"}
           />
         }
       />
@@ -1531,15 +1529,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/xv54r2bhkymm.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Jujutsu Kaisen Capitulo 3"}
             tituloPag={"Animekun Gratis"}
             anime={" "}
             numero={"3"}
-            button-nextVideo={"/ver/jujutsu-kaisen-4"}
+            siguienteVideo={"/ver/jujutsu-kaisen-4"}
             capitulosVideo={"/jujutsu-kaisen"}
-            button-beforeVideo={"/ver/jujutsu-kaisen-2"}
+            anteriorVideo={"/ver/jujutsu-kaisen-2"}
           />
         }
       />
@@ -1549,15 +1547,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/mr643hlwx3ci.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Jujutsu Kaisen Capitulo 4"}
             tituloPag={"Animekun Gratis"}
             anime={" "}
             numero={"4"}
-            button-nextVideo={"/ver/jujutsu-kaisen-5"}
+            siguienteVideo={"/ver/jujutsu-kaisen-5"}
             capitulosVideo={"/jujutsu-kaisen"}
-            button-beforeVideo={"/ver/jujutsu-kaisen-3"}
+            anteriorVideo={"/ver/jujutsu-kaisen-3"}
           />
         }
       />
@@ -1567,15 +1565,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/eb9t3rc9tltk.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Jujutsu Kaisen Capitulo 5"}
             tituloPag={"Animekun Gratis"}
             anime={" "}
             numero={"5"}
-            button-nextVideo={"/ver/jujutsu-kaisen-6"}
+            siguienteVideo={"/ver/jujutsu-kaisen-6"}
             capitulosVideo={"/jujutsu-kaisen"}
-            button-beforeVideo={"/ver/jujutsu-kaisen-4"}
+            anteriorVideo={"/ver/jujutsu-kaisen-4"}
           />
         }
       />
@@ -1585,15 +1583,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/2akrissclvg6.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Jujutsu Kaisen Capitulo 6"}
             tituloPag={"Animekun Gratis"}
             anime={" "}
             numero={"6"}
-            button-nextVideo={"/ver/jujutsu-kaisen-7"}
+            siguienteVideo={"/ver/jujutsu-kaisen-7"}
             capitulosVideo={"/jujutsu-kaisen"}
-            button-beforeVideo={"/ver/jujutsu-kaisen-5"}
+            anteriorVideo={"/ver/jujutsu-kaisen-5"}
           />
         }
       />
@@ -1603,15 +1601,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/ne9lua4wgase.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Jujutsu Kaisen Capitulo 7"}
             tituloPag={"Animekun Gratis"}
             anime={" "}
             numero={"7"}
-            button-nextVideo={"/ver/jujutsu-kaisen-8"}
+            siguienteVideo={"/ver/jujutsu-kaisen-8"}
             capitulosVideo={"/jujutsu-kaisen"}
-            button-beforeVideo={"/ver/jujutsu-kaisen-6"}
+            anteriorVideo={"/ver/jujutsu-kaisen-6"}
           />
         }
       />
@@ -1621,15 +1619,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/rxkoo8ru0xmi.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Jujutsu Kaisen Capitulo 8"}
             tituloPag={"Animekun Gratis"}
             anime={"Jujutsu Kaisen "}
             numero={"8"}
-            button-nextVideo={"/ver/jujutsu-kaisen-9"}
+            siguienteVideo={"/ver/jujutsu-kaisen-9"}
             capitulosVideo={"/jujutsu-kaisen"}
-            button-beforeVideo={"/ver/jujutsu-kaisen-7"}
+            anteriorVideo={"/ver/jujutsu-kaisen-7"}
           />
         }
       />
@@ -1639,15 +1637,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/q003mjb4vnth.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Jujutsu Kaisen Capitulo 9"}
             tituloPag={"Animekun Gratis"}
             anime={"Jujutsu Kaisen "}
             numero={"9"}
-            button-nextVideo={"/ver/jujutsu-kaisen-10"}
+            siguienteVideo={"/ver/jujutsu-kaisen-10"}
             capitulosVideo={"/jujutsu-kaisen"}
-            button-beforeVideo={"/ver/jujutsu-kaisen-8"}
+            anteriorVideo={"/ver/jujutsu-kaisen-8"}
           />
         }
       />
@@ -1657,15 +1655,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/cxxqcp4xnmmr.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Jujutsu Kaisen Capitulo 10"}
             tituloPag={"Animekun Gratis"}
             anime={"Jujutsu Kaisen "}
             numero={"10"}
-            button-nextVideo={"/ver/jujutsu-kaisen-11"}
+            siguienteVideo={"/ver/jujutsu-kaisen-11"}
             capitulosVideo={"/jujutsu-kaisen"}
-            button-beforeVideo={"/ver/jujutsu-kaisen-9"}
+            anteriorVideo={"/ver/jujutsu-kaisen-9"}
           />
         }
       />
@@ -1675,15 +1673,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/fhxycti75bc0.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Jujutsu Kaisen Capitulo 11"}
             tituloPag={"Animekun Gratis"}
             anime={"Jujutsu Kaisen "}
             numero={"11"}
-            button-nextVideo={"/ver/jujutsu-kaisen-12"}
+            siguienteVideo={"/ver/jujutsu-kaisen-12"}
             capitulosVideo={"/jujutsu-kaisen"}
-            button-beforeVideo={"/ver/jujutsu-kaisen-10"}
+            anteriorVideo={"/ver/jujutsu-kaisen-10"}
           />
         }
       />
@@ -1693,14 +1691,14 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/vic3b32114sf.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Jujutsu Kaisen Capitulo 12"}
             tituloPag={"Animekun Gratis"}
             anime={"Jujutsu Kaisen "}
             numero={"12"}
             capitulosVideo={"/jujutsu-kaisen"}
-            button-beforeVideo={"/ver/jujutsu-kaisen-11"}
+            anteriorVideo={"/ver/jujutsu-kaisen-11"}
           />
         }
       />
@@ -1710,15 +1708,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/6nyihmfvg3g2.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Jujutsu Kaisen Capitulo 13"}
             tituloPag={"Animekun Gratis"}
             anime={"Jujutsu Kaisen"}
             numero={"13"}
-            button-nextVideo={"/ver/jujutsu-kaisen-14"}
+            siguienteVideo={"/ver/jujutsu-kaisen-14"}
             capitulosVideo={"/jujutsu-kaisen"}
-            button-beforeVideo={"/ver/jujutsu-kaisen-12"}
+            anteriorVideo={"/ver/jujutsu-kaisen-12"}
           />
         }
       />
@@ -1728,15 +1726,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/hwj9y3yl0uhr.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Jujutsu Kaisen Capitulo 14"}
             tituloPag={"Animekun Gratis"}
             anime={"Jujutsu Kaisen "}
             numero={"14"}
-            button-nextVideo={"/ver/jujutsu-kaisen-15"}
+            siguienteVideo={"/ver/jujutsu-kaisen-15"}
             capitulosVideo={"/jujutsu-kaisen"}
-            button-beforeVideo={"/ver/jujutsu-kaisen-13"}
+            anteriorVideo={"/ver/jujutsu-kaisen-13"}
           />
         }
       />
@@ -1746,15 +1744,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/83lfw2omii5n.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Jujutsu Kaisen Capitulo 15"}
             tituloPag={"Animekun Gratis"}
             anime={"Jujutsu Kaisen "}
             numero={"15"}
-            button-nextVideo={"/ver/jujutsu-kaisen-16"}
+            siguienteVideo={"/ver/jujutsu-kaisen-16"}
             capitulosVideo={"/jujutsu-kaisen"}
-            button-beforeVideo={"/ver/jujutsu-kaisen-14"}
+            anteriorVideo={"/ver/jujutsu-kaisen-14"}
           />
         }
       />
@@ -1764,15 +1762,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/q6dlcy0ihw8s.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Jujutsu Kaisen Capitulo 16"}
             tituloPag={"Animekun Gratis"}
             anime={"Jujutsu Kaisen "}
             numero={"16"}
-            button-nextVideo={"/ver/jujutsu-kaisen-17"}
+            siguienteVideo={"/ver/jujutsu-kaisen-17"}
             capitulosVideo={"/jujutsu-kaisen"}
-            button-beforeVideo={"/ver/jujutsu-kaisen-15"}
+            anteriorVideo={"/ver/jujutsu-kaisen-15"}
           />
         }
       />
@@ -1782,15 +1780,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/v7zj4n452e8c.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Jujutsu Kaisen Capitulo 17"}
             tituloPag={"Animekun Gratis"}
             anime={"Jujutsu Kaisen "}
             numero={"17"}
-            button-nextVideo={"/ver/jujutsu-kaisen-18"}
+            siguienteVideo={"/ver/jujutsu-kaisen-18"}
             capitulosVideo={"/jujutsu-kaisen"}
-            button-beforeVideo={"/ver/jujutsu-kaisen-16"}
+            anteriorVideo={"/ver/jujutsu-kaisen-16"}
           />
         }
       />
@@ -1800,15 +1798,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/y9aualnvtxe1.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Jujutsu Kaisen Capitulo 18"}
             tituloPag={"Animekun Gratis"}
             anime={"Jujutsu Kaisen "}
             numero={"18"}
-            button-nextVideo={"/ver/jujutsu-kaisen-19"}
+            siguienteVideo={"/ver/jujutsu-kaisen-19"}
             capitulosVideo={"/jujutsu-kaisen"}
-            button-beforeVideo={"/ver/jujutsu-kaisen-17"}
+            anteriorVideo={"/ver/jujutsu-kaisen-17"}
           />
         }
       />
@@ -1818,15 +1816,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/5isw4f45kz2w.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Jujutsu Kaisen Capitulo 19"}
             tituloPag={"Animekun Gratis"}
             anime={"Jujutsu Kaisen "}
             numero={"19"}
-            button-nextVideo={"/ver/jujutsu-kaisen-20"}
+            siguienteVideo={"/ver/jujutsu-kaisen-20"}
             capitulosVideo={"/jujutsu-kaisen"}
-            button-beforeVideo={"/ver/jujutsu-kaisen-18"}
+            anteriorVideo={"/ver/jujutsu-kaisen-18"}
           />
         }
       />
@@ -1836,15 +1834,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/9e29ro16k157.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Jujutsu Kaisen Capitulo 20"}
             tituloPag={"Animekun Gratis"}
             anime={"Jujutsu Kaisen "}
             numero={"20"}
-            button-nextVideo={"/ver/jujutsu-kaisen-21"}
+            siguienteVideo={"/ver/jujutsu-kaisen-21"}
             capitulosVideo={"/jujutsu-kaisen"}
-            button-beforeVideo={"/ver/jujutsu-kaisen-19"}
+            anteriorVideo={"/ver/jujutsu-kaisen-19"}
           />
         }
       />
@@ -1854,15 +1852,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/cv72q29gviqn.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Jujutsu Kaisen Capitulo 21"}
             tituloPag={"Animekun Gratis"}
             anime={"Jujutsu Kaisen "}
             numero={"21"}
-            button-nextVideo={"/ver/jujutsu-kaisen-22"}
+            siguienteVideo={"/ver/jujutsu-kaisen-22"}
             capitulosVideo={"/jujutsu-kaisen"}
-            button-beforeVideo={"/ver/jujutsu-kaisen-20"}
+            anteriorVideo={"/ver/jujutsu-kaisen-20"}
           />
         }
       />
@@ -1872,15 +1870,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/t6e8vf122nqz.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Jujutsu Kaisen Capitulo 22"}
             tituloPag={"Animekun Gratis"}
             anime={"Jujutsu Kaisen "}
             numero={"22"}
-            button-nextVideo={"/ver/jujutsu-kaisen-23"}
+            siguienteVideo={"/ver/jujutsu-kaisen-23"}
             capitulosVideo={"/jujutsu-kaisen"}
-            button-beforeVideo={"/ver/jujutsu-kaisen-21"}
+            anteriorVideo={"/ver/jujutsu-kaisen-21"}
           />
         }
       />
@@ -1890,15 +1888,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/6ifgqpk2q1ob.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Jujutsu Kaisen Capitulo 23"}
             tituloPag={"Animekun Gratis"}
             anime={"Jujutsu Kaisen "}
             numero={"23"}
-            button-nextVideo={"/ver/jujutsu-kaisen-24"}
+            siguienteVideo={"/ver/jujutsu-kaisen-24"}
             capitulosVideo={"/jujutsu-kaisen"}
-            button-beforeVideo={"/ver/jujutsu-kaisen-22"}
+            anteriorVideo={"/ver/jujutsu-kaisen-22"}
           />
         }
       />
@@ -1908,14 +1906,14 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/321us5ufgu3w.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Jujutsu Kaisen Capitulo 24"}
             tituloPag={"Animekun Gratis"}
             anime={"Jujutsu Kaisen "}
             numero={"24"}
             capitulosVideo={"/jujutsu-kaisen"}
-            button-beforeVideo={"/ver/jujutsu-kaisen-23"}
+            anteriorVideo={"/ver/jujutsu-kaisen-23"}
           />
         }
       />
@@ -1926,13 +1924,13 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/0trvdy6xoatg.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun Gratis"}
             anime={"Shingeki no Bahamut:Virgin Soul"}
             numero={"1"}
-            button-nextVideo={"/ver/shingeki-no-bahamut:virgin-soul-2"}
+            siguienteVideo={"/ver/shingeki-no-bahamut:virgin-soul-2"}
             capitulosVideo={"/shingeki-no-bahamut:virgin-soul"}
           />
         }
@@ -1943,16 +1941,16 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/c3owmlg3zgnq.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 2"}
             tituloPag={"Animekun Gratis"}
             anime={"Shingeki no Bahamut:Virgin Soul "}
             numero={"2"}
-            classOpcionbutton-next=""
-            button-nextVideo={"/ver/shingeki-no-bahamut:virgin-soul-3"}
+            classOpcionSiguiente=""
+            siguienteVideo={"/ver/shingeki-no-bahamut:virgin-soul-3"}
             capitulosVideo={"/shingeki-no-bahamut:virgin-soul"}
-            button-beforeVideo={"/ver/shingeki-no-bahamut:virgin-soul-1"}
+            anteriorVideo={"/ver/shingeki-no-bahamut:virgin-soul-1"}
           />
         }
       />
@@ -1962,15 +1960,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/sura8fro6ye3.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 3"}
             tituloPag={"Animekun Gratis"}
             anime={"Shingeki no Bahamut:Virgin Soul "}
             numero={"3"}
-            button-nextVideo={"/ver/shingeki-no-bahamut:virgin-soul-4"}
+            siguienteVideo={"/ver/shingeki-no-bahamut:virgin-soul-4"}
             capitulosVideo={"/shingeki-no-bahamut:virgin-soul"}
-            button-beforeVideo={"/ver/shingeki-no-bahamut:virgin-soul-2"}
+            anteriorVideo={"/ver/shingeki-no-bahamut:virgin-soul-2"}
           />
         }
       />
@@ -1980,15 +1978,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/5v4l7v5ygr4w.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 4"}
             tituloPag={"Animekun Gratis"}
             anime={"Shingeki no Bahamut:Virgin Soul "}
             numero={"4"}
-            button-nextVideo={"/ver/shingeki-no-bahamut:virgin-soul-5"}
+            siguienteVideo={"/ver/shingeki-no-bahamut:virgin-soul-5"}
             capitulosVideo={"/shingeki-no-bahamut:virgin-soul"}
-            button-beforeVideo={"/ver/shingeki-no-bahamut:virgin-soul-3"}
+            anteriorVideo={"/ver/shingeki-no-bahamut:virgin-soul-3"}
           />
         }
       />
@@ -1998,15 +1996,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/6ivh445x6w2r.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 5"}
             tituloPag={"Animekun Gratis"}
             anime={"Shingeki no Bahamut:Virgin Soul "}
             numero={"5"}
-            button-nextVideo={"/ver/shingeki-no-bahamut:virgin-soul-6"}
+            siguienteVideo={"/ver/shingeki-no-bahamut:virgin-soul-6"}
             capitulosVideo={"/shingeki-no-bahamut:virgin-soul"}
-            button-beforeVideo={"/ver/shingeki-no-bahamut:virgin-soul-4"}
+            anteriorVideo={"/ver/shingeki-no-bahamut:virgin-soul-4"}
           />
         }
       />
@@ -2016,15 +2014,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/1o5riop6ue7x.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 6"}
             tituloPag={"Animekun Gratis"}
             anime={"Shingeki no Bahamut:Virgin Soul "}
             numero={"6"}
-            button-nextVideo={"/ver/shingeki-no-bahamut:virgin-soul-7"}
+            siguienteVideo={"/ver/shingeki-no-bahamut:virgin-soul-7"}
             capitulosVideo={"/shingeki-no-bahamut:virgin-soul"}
-            button-beforeVideo={"/ver/shingeki-no-bahamut:virgin-soul-5"}
+            anteriorVideo={"/ver/shingeki-no-bahamut:virgin-soul-5"}
           />
         }
       />
@@ -2034,15 +2032,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/wtww17lcqtsp.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 7"}
             tituloPag={"Animekun Gratis"}
             anime={"Shingeki no Bahamut:Virgin Soul "}
             numero={"7"}
-            button-nextVideo={"/ver/shingeki-no-bahamut:virgin-soul-8"}
+            siguienteVideo={"/ver/shingeki-no-bahamut:virgin-soul-8"}
             capitulosVideo={"/shingeki-no-bahamut:virgin-soul"}
-            button-beforeVideo={"/ver/-6"}
+            anteriorVideo={"/ver/-6"}
           />
         }
       />
@@ -2052,15 +2050,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/i3kd4lbkr8il.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 8"}
             tituloPag={"Animekun Gratis"}
             anime={"Shingeki no Bahamut:Virgin Soul "}
             numero={"8"}
-            button-nextVideo={"/ver/shingeki-no-bahamut:virgin-soul-9"}
+            siguienteVideo={"/ver/shingeki-no-bahamut:virgin-soul-9"}
             capitulosVideo={"/shingeki-no-bahamut:virgin-soul"}
-            button-beforeVideo={"/ver/shingeki-no-bahamut:virgin-soul-7"}
+            anteriorVideo={"/ver/shingeki-no-bahamut:virgin-soul-7"}
           />
         }
       />
@@ -2070,15 +2068,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/8keln2rafz7y.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 9"}
             tituloPag={"Animekun Gratis"}
             anime={"Shingeki no Bahamut:Virgin Soul "}
             numero={"9"}
-            button-nextVideo={"/ver/shingeki-no-bahamut:virgin-soul-10"}
+            siguienteVideo={"/ver/shingeki-no-bahamut:virgin-soul-10"}
             capitulosVideo={"/shingeki-no-bahamut:virgin-soul"}
-            button-beforeVideo={"/ver/shingeki-no-bahamut:virgin-soul-8"}
+            anteriorVideo={"/ver/shingeki-no-bahamut:virgin-soul-8"}
           />
         }
       />
@@ -2088,15 +2086,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/07pmlju308c6.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 10"}
             tituloPag={"Animekun Gratis"}
             anime={"Shingeki no Bahamut:Virgin Soul "}
             numero={"10"}
-            button-nextVideo={"/ver/shingeki-no-bahamut:virgin-soul-11"}
+            siguienteVideo={"/ver/shingeki-no-bahamut:virgin-soul-11"}
             capitulosVideo={"/shingeki-no-bahamut:virgin-soul"}
-            button-beforeVideo={"/ver/shingeki-no-bahamut:virgin-soul-9"}
+            anteriorVideo={"/ver/shingeki-no-bahamut:virgin-soul-9"}
           />
         }
       />
@@ -2106,15 +2104,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/1krbfaw0yy7m.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 11"}
             tituloPag={"Animekun Gratis"}
             anime={"Shingeki no Bahamut:Virgin Soul "}
             numero={"11"}
-            button-nextVideo={"/ver/shingeki-no-bahamut:virgin-soul-12"}
+            siguienteVideo={"/ver/shingeki-no-bahamut:virgin-soul-12"}
             capitulosVideo={"/shingeki-no-bahamut:virgin-soul"}
-            button-beforeVideo={"/ver/shingeki-no-bahamut:virgin-soul-10"}
+            anteriorVideo={"/ver/shingeki-no-bahamut:virgin-soul-10"}
           />
         }
       />
@@ -2124,15 +2122,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/iyrhq1ngdzfz.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 12"}
             tituloPag={"Animekun Gratis"}
             anime={"Shingeki no Bahamut:Virgin Soul "}
             numero={"12"}
-            button-nextVideo={"/ver/shingeki-no-bahamut:virgin-soul-13"}
+            siguienteVideo={"/ver/shingeki-no-bahamut:virgin-soul-13"}
             capitulosVideo={"/shingeki-no-bahamut:virgin-soul"}
-            button-beforeVideo={"/ver/shingeki-no-bahamut:virgin-soul-11"}
+            anteriorVideo={"/ver/shingeki-no-bahamut:virgin-soul-11"}
           />
         }
       />
@@ -2142,15 +2140,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/708fhyqzd3sr.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 13"}
             tituloPag={"Animekun Gratis"}
             anime={"Shingeki no Bahamut:Virgin Soul "}
             numero={"13"}
-            button-nextVideo={"/ver/shingeki-no-bahamut:virgin-soul-14"}
+            siguienteVideo={"/ver/shingeki-no-bahamut:virgin-soul-14"}
             capitulosVideo={"/shingeki-no-bahamut:virgin-soul"}
-            button-beforeVideo={"/ver/shingeki-no-bahamut:virgin-soul-12"}
+            anteriorVideo={"/ver/shingeki-no-bahamut:virgin-soul-12"}
           />
         }
       />
@@ -2160,15 +2158,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/reuijb8awv01.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 14"}
             tituloPag={"Animekun Gratis"}
             anime={"Shingeki no Bahamut:Virgin Soul "}
             numero={"14"}
-            button-nextVideo={"/ver/shingeki-no-bahamut:virgin-soul-15"}
+            siguienteVideo={"/ver/shingeki-no-bahamut:virgin-soul-15"}
             capitulosVideo={"/shingeki-no-bahamut:virgin-soul"}
-            button-beforeVideo={"/ver/shingeki-no-bahamut:virgin-soul-13"}
+            anteriorVideo={"/ver/shingeki-no-bahamut:virgin-soul-13"}
           />
         }
       />
@@ -2178,15 +2176,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/bnfc56yqqnn0.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 15"}
             tituloPag={"Animekun Gratis"}
             anime={"Shingeki no Bahamut:Virgin Soul "}
             numero={"15"}
-            button-nextVideo={"/ver/shingeki-no-bahamut:virgin-soul-16"}
+            siguienteVideo={"/ver/shingeki-no-bahamut:virgin-soul-16"}
             capitulosVideo={"/shingeki-no-bahamut:virgin-soul"}
-            button-beforeVideo={"/ver/shingeki-no-bahamut:virgin-soul-14"}
+            anteriorVideo={"/ver/shingeki-no-bahamut:virgin-soul-14"}
           />
         }
       />
@@ -2196,15 +2194,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/z0haf3kkinbn.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 16"}
             tituloPag={"Animekun Gratis"}
             anime={"Shingeki no Bahamut:Virgin Soul "}
             numero={"16"}
-            button-nextVideo={"/ver/shingeki-no-bahamut:virgin-soul-17"}
+            siguienteVideo={"/ver/shingeki-no-bahamut:virgin-soul-17"}
             capitulosVideo={"/shingeki-no-bahamut:virgin-soul"}
-            button-beforeVideo={"/ver/shingeki-no-bahamut:virgin-soul-15"}
+            anteriorVideo={"/ver/shingeki-no-bahamut:virgin-soul-15"}
           />
         }
       />
@@ -2214,15 +2212,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/yqtxtizjicen.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 17"}
             tituloPag={"Animekun Gratis"}
             anime={"Shingeki no Bahamut:Virgin Soul "}
             numero={"17"}
-            button-nextVideo={"/ver/shingeki-no-bahamut:virgin-soul-18"}
+            siguienteVideo={"/ver/shingeki-no-bahamut:virgin-soul-18"}
             capitulosVideo={"/shingeki-no-bahamut:virgin-soul"}
-            button-beforeVideo={"/ver/shingeki-no-bahamut:virgin-soul-16"}
+            anteriorVideo={"/ver/shingeki-no-bahamut:virgin-soul-16"}
           />
         }
       />
@@ -2232,15 +2230,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/dzi6e2qri1pc.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 18"}
             tituloPag={"Animekun Gratis"}
             anime={"Shingeki no Bahamut:Virgin Soul "}
             numero={"18"}
-            button-nextVideo={"/ver/shingeki-no-bahamut:virgin-soul-19"}
+            siguienteVideo={"/ver/shingeki-no-bahamut:virgin-soul-19"}
             capitulosVideo={"/shingeki-no-bahamut:virgin-soul"}
-            button-beforeVideo={"/ver/shingeki-no-bahamut:virgin-soul-17"}
+            anteriorVideo={"/ver/shingeki-no-bahamut:virgin-soul-17"}
           />
         }
       />
@@ -2250,15 +2248,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/gogfkoqz3ma9.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 19"}
             tituloPag={"Animekun Gratis"}
             anime={"Shingeki no Bahamut:Virgin Soul "}
             numero={"19"}
-            button-nextVideo={"/ver/shingeki-no-bahamut:virgin-soul-20"}
+            siguienteVideo={"/ver/shingeki-no-bahamut:virgin-soul-20"}
             capitulosVideo={"/shingeki-no-bahamut:virgin-soul"}
-            button-beforeVideo={"/ver/shingeki-no-bahamut:virgin-soul-18"}
+            anteriorVideo={"/ver/shingeki-no-bahamut:virgin-soul-18"}
           />
         }
       />
@@ -2268,15 +2266,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/fl5injqoepwc.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 20"}
             tituloPag={"Animekun Gratis"}
             anime={"Shingeki no Bahamut:Virgin Soul "}
             numero={"20"}
-            button-nextVideo={"/ver/shingeki-no-bahamut:virgin-soul-21"}
+            siguienteVideo={"/ver/shingeki-no-bahamut:virgin-soul-21"}
             capitulosVideo={"/shingeki-no-bahamut:virgin-soul"}
-            button-beforeVideo={"/ver/shingeki-no-bahamut:virgin-soul-19"}
+            anteriorVideo={"/ver/shingeki-no-bahamut:virgin-soul-19"}
           />
         }
       />
@@ -2286,15 +2284,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/2wfpi7wz1zfs.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 21"}
             tituloPag={"Animekun Gratis"}
             anime={"Shingeki no Bahamut:Virgin Soul "}
             numero={"21"}
-            button-nextVideo={"/ver/shingeki-no-bahamut:virgin-soul-22"}
+            siguienteVideo={"/ver/shingeki-no-bahamut:virgin-soul-22"}
             capitulosVideo={"/shingeki-no-bahamut:virgin-soul"}
-            button-beforeVideo={"/ver/shingeki-no-bahamut:virgin-soul-20"}
+            anteriorVideo={"/ver/shingeki-no-bahamut:virgin-soul-20"}
           />
         }
       />
@@ -2304,15 +2302,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/kucy3rq0gzh7.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 22"}
             tituloPag={"Animekun Gratis"}
             anime={"Shingeki no Bahamut:Virgin Soul "}
             numero={"22"}
-            button-nextVideo={"/ver/shingeki-no-bahamut:virgin-soul-23"}
+            siguienteVideo={"/ver/shingeki-no-bahamut:virgin-soul-23"}
             capitulosVideo={"/shingeki-no-bahamut:virgin-soul"}
-            button-beforeVideo={"/ver/shingeki-no-bahamut:virgin-soul-21"}
+            anteriorVideo={"/ver/shingeki-no-bahamut:virgin-soul-21"}
           />
         }
       />
@@ -2322,15 +2320,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/36nc1wpvw4c5.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 23"}
             tituloPag={"Animekun Gratis"}
             anime={"Shingeki no Bahamut:Virgin Soul "}
             numero={"23"}
-            button-nextVideo={"/ver/shingeki-no-bahamut:virgin-soul-24"}
+            siguienteVideo={"/ver/shingeki-no-bahamut:virgin-soul-24"}
             capitulosVideo={"/shingeki-no-bahamut:virgin-soul"}
-            button-beforeVideo={"/ver/shingeki-no-bahamut:virgin-soul-22"}
+            anteriorVideo={"/ver/shingeki-no-bahamut:virgin-soul-22"}
           />
         }
       />
@@ -2340,14 +2338,14 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/gutpiwizrc7l.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 24"}
             tituloPag={"Animekun Gratis"}
             anime={"Shingeki no Bahamut:Virgin Soul "}
             numero={"24"}
             capitulosVideo={"/shingeki-no-bahamut:virgin-soul"}
-            button-beforeVideo={"/ver/shingeki-no-bahamut:virgin-soul-23"}
+            anteriorVideo={"/ver/shingeki-no-bahamut:virgin-soul-23"}
           />
         }
       />
@@ -2358,13 +2356,13 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/nsqplrxmuobs.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Castlevania Segunda Temporada Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun Gratis"}
             anime={"Castlevania Segunda Temporada"}
             numero={"1"}
-            button-nextVideo={"/ver/castlevania-segunda-temporada-2"}
+            siguienteVideo={"/ver/castlevania-segunda-temporada-2"}
             capitulosVideo={"/castlevania-segunda-temporada"}
           />
         }
@@ -2375,15 +2373,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/otguuvuqap08.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Castlevania Segunda Temporada Capitulo 2"}
             tituloPag={"Animekun Gratis"}
             anime={"Castlevania Segunda Temporada "}
             numero={"2"}
-            button-nextVideo={"/ver/castlevania-segunda-temporada-3"}
+            siguienteVideo={"/ver/castlevania-segunda-temporada-3"}
             capitulosVideo={"/castlevania-segunda-temporada"}
-            button-beforeVideo={"/ver/castlevania-segunda-temporada-1"}
+            anteriorVideo={"/ver/castlevania-segunda-temporada-1"}
           />
         }
       />
@@ -2393,15 +2391,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/kq3a6y8et0ve.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Castlevania Segunda Temporada Capitulo 3"}
             tituloPag={"Animekun Gratis"}
             anime={"Castlevania Segunda Temporada "}
             numero={"3"}
-            button-nextVideo={"/ver/castlevania-segunda-temporada-4"}
+            siguienteVideo={"/ver/castlevania-segunda-temporada-4"}
             capitulosVideo={"/castlevania-segunda-temporada"}
-            button-beforeVideo={"/ver/castlevania-segunda-temporada-2"}
+            anteriorVideo={"/ver/castlevania-segunda-temporada-2"}
           />
         }
       />
@@ -2411,15 +2409,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/qb4j6t2ys1w7.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Castlevania Segunda Temporada Capitulo 4"}
             tituloPag={"Animekun Gratis"}
             anime={"Castlevania Segunda Temporada "}
             numero={"4"}
-            button-nextVideo={"/ver/castlevania-segunda-temporada-5"}
+            siguienteVideo={"/ver/castlevania-segunda-temporada-5"}
             capitulosVideo={"/castlevania-segunda-temporada"}
-            button-beforeVideo={"/ver/castlevania-segunda-temporada-3"}
+            anteriorVideo={"/ver/castlevania-segunda-temporada-3"}
           />
         }
       />
@@ -2429,15 +2427,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/onnz6w3omll8.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Castlevania Segunda Temporada Capitulo 5"}
             tituloPag={"Animekun Gratis"}
             anime={"Castlevania Segunda Temporada "}
             numero={"5"}
-            button-nextVideo={"/ver/castlevania-segunda-temporada-6"}
+            siguienteVideo={"/ver/castlevania-segunda-temporada-6"}
             capitulosVideo={"/castlevania-segunda-temporada"}
-            button-beforeVideo={"/ver/castlevania-segunda-temporada-4"}
+            anteriorVideo={"/ver/castlevania-segunda-temporada-4"}
           />
         }
       />
@@ -2447,15 +2445,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/ccdfbe143n3l.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Castlevania Segunda Temporada Capitulo 6"}
             tituloPag={"Animekun Gratis"}
             anime={"Castlevania Segunda Temporada "}
             numero={"6"}
-            button-nextVideo={"/ver/castlevania-segunda-temporada-7"}
+            siguienteVideo={"/ver/castlevania-segunda-temporada-7"}
             capitulosVideo={"/castlevania-segunda-temporada"}
-            button-beforeVideo={"/ver/castlevania-segunda-temporada-5"}
+            anteriorVideo={"/ver/castlevania-segunda-temporada-5"}
           />
         }
       />
@@ -2465,15 +2463,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/b3ebj7z8ys0z.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Castlevania Segunda Temporada Capitulo 7"}
             tituloPag={"Animekun Gratis"}
             anime={"Castlevania Segunda Temporada "}
             numero={"7"}
-            button-nextVideo={"/ver/castlevania-segunda-temporada-8"}
+            siguienteVideo={"/ver/castlevania-segunda-temporada-8"}
             capitulosVideo={"/castlevania-segunda-temporada"}
-            button-beforeVideo={"/ver/castlevania-segunda-temporada-6"}
+            anteriorVideo={"/ver/castlevania-segunda-temporada-6"}
           />
         }
       />
@@ -2483,14 +2481,14 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/mgkiayklee3h.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Castlevania Segunda Temporada Capitulo 12"}
             tituloPag={"Animekun Gratis"}
             anime={"Castlevania Segunda Temporada "}
             numero={"8"}
             capitulosVideo={"/castlevania-segunda-temporada"}
-            button-beforeVideo={"/ver/castlevania-segunda-temporada-7"}
+            anteriorVideo={"/ver/castlevania-segunda-temporada-7"}
           />
         }
       />
@@ -2501,13 +2499,13 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/sgwnwd964n02.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Overlord III Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun Gratis"}
             anime={"Overlord III "}
             numero={"1"}
-            button-nextVideo={"/ver/overlord-III-2"}
+            siguienteVideo={"/ver/overlord-III-2"}
             capitulosVideo={"/overlord-III"}
           />
         }
@@ -2518,15 +2516,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/qu9bmgcbwic4.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord III Capitulo 2"}
             tituloPag={"Animekun Gratis"}
             anime={"Overlord III "}
             numero={"2"}
-            button-nextVideo={"/ver/overlord-III-3"}
+            siguienteVideo={"/ver/overlord-III-3"}
             capitulosVideo={"/overlord-III"}
-            button-beforeVideo={"/ver/overlord-III-1"}
+            anteriorVideo={"/ver/overlord-III-1"}
           />
         }
       />
@@ -2536,15 +2534,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/r805hew3u33s.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord III Capitulo 3"}
             tituloPag={"Animekun Gratis"}
             anime={"Overlord III "}
             numero={"3"}
-            button-nextVideo={"/ver/overlord-III-4"}
+            siguienteVideo={"/ver/overlord-III-4"}
             capitulosVideo={"/overlord-III"}
-            button-beforeVideo={"/ver/overlord-III-2"}
+            anteriorVideo={"/ver/overlord-III-2"}
           />
         }
       />
@@ -2554,15 +2552,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/a4w13tfatrcr.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord III Capitulo 4"}
             tituloPag={"Animekun Gratis"}
             anime={"Overlord III "}
             numero={"4"}
-            button-nextVideo={"/ver/overlord-III-5"}
+            siguienteVideo={"/ver/overlord-III-5"}
             capitulosVideo={"/overlord-III"}
-            button-beforeVideo={"/ver/overlord-III-3"}
+            anteriorVideo={"/ver/overlord-III-3"}
           />
         }
       />
@@ -2572,15 +2570,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/ltmlvuwdrrom.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord III Capitulo 5"}
             tituloPag={"Animekun Gratis"}
             anime={"Overlord III "}
             numero={"5"}
-            button-nextVideo={"/ver/overlord-III-6"}
+            siguienteVideo={"/ver/overlord-III-6"}
             capitulosVideo={"/overlord-III"}
-            button-beforeVideo={"/ver/overlord-III-4"}
+            anteriorVideo={"/ver/overlord-III-4"}
           />
         }
       />
@@ -2590,15 +2588,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/oe4xwygxicf4.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord III Capitulo 6"}
             tituloPag={"Animekun Gratis"}
             anime={"Overlord III "}
             numero={"6"}
-            button-nextVideo={"/ver/overlord-III-7"}
+            siguienteVideo={"/ver/overlord-III-7"}
             capitulosVideo={"/overlord-III"}
-            button-beforeVideo={"/ver/overlord-III-5"}
+            anteriorVideo={"/ver/overlord-III-5"}
           />
         }
       />
@@ -2608,15 +2606,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/zvz5v5kqgbhc.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord III Capitulo 7"}
             tituloPag={"Animekun Gratis"}
             anime={"Overlord III "}
             numero={"7"}
-            button-nextVideo={"/ver/overlord-III-8"}
+            siguienteVideo={"/ver/overlord-III-8"}
             capitulosVideo={"/overlord-III"}
-            button-beforeVideo={"/ver/overlord-III-6"}
+            anteriorVideo={"/ver/overlord-III-6"}
           />
         }
       />
@@ -2626,15 +2624,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/kq56wuks8hxu.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord III Capitulo 8"}
             tituloPag={"Animekun Gratis"}
             anime={"Overlord III "}
             numero={"8"}
-            button-nextVideo={"/ver/overlord-III-9"}
+            siguienteVideo={"/ver/overlord-III-9"}
             capitulosVideo={"/overlord-III"}
-            button-beforeVideo={"/ver/overlord-III-7"}
+            anteriorVideo={"/ver/overlord-III-7"}
           />
         }
       />
@@ -2644,15 +2642,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/nb5pfg5k8z05.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord III Capitulo 9"}
             tituloPag={"Animekun Gratis"}
             anime={"Overlord III "}
             numero={"9"}
-            button-nextVideo={"/ver/overlord-III-10"}
+            siguienteVideo={"/ver/overlord-III-10"}
             capitulosVideo={"/overlord-III"}
-            button-beforeVideo={"/ver/overlord-III-8"}
+            anteriorVideo={"/ver/overlord-III-8"}
           />
         }
       />
@@ -2662,15 +2660,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/xtlf0apjmuwh.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord III Capitulo 10"}
             tituloPag={"Animekun Gratis"}
             anime={"Overlord III "}
             numero={"10"}
-            button-nextVideo={"/ver/overlord-III-11"}
+            siguienteVideo={"/ver/overlord-III-11"}
             capitulosVideo={"/overlord-III"}
-            button-beforeVideo={"/ver/overlord-III-9"}
+            anteriorVideo={"/ver/overlord-III-9"}
           />
         }
       />
@@ -2680,15 +2678,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/h6x6ubcakuj1.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord III Capitulo 11"}
             tituloPag={"Animekun Gratis"}
             anime={"Overlord III "}
             numero={"11"}
-            button-nextVideo={"/ver/overlord-III-12"}
+            siguienteVideo={"/ver/overlord-III-12"}
             capitulosVideo={"/overlord-III"}
-            button-beforeVideo={"/ver/overlord-III-10"}
+            anteriorVideo={"/ver/overlord-III-10"}
           />
         }
       />
@@ -2698,15 +2696,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/ooh3eor7eiy5.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord III Capitulo 12"}
             tituloPag={"Animekun Gratis"}
             anime={"Overlord III "}
             numero={"12"}
-            button-nextVideo={"/ver/overlord-III-13"}
+            siguienteVideo={"/ver/overlord-III-13"}
             capitulosVideo={"/overlord-III"}
-            button-beforeVideo={"/ver/overlord-III-11"}
+            anteriorVideo={"/ver/overlord-III-11"}
           />
         }
       />
@@ -2716,14 +2714,14 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/lcbqmou1mlf5.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Overlord III Capitulo 13"}
             tituloPag={"Animekun Gratis"}
             anime={"Overlord III "}
             numero={"13"}
             capitulosVideo={"/overlord-III"}
-            button-beforeVideo={"/ver/overlord-III-12"}
+            anteriorVideo={"/ver/overlord-III-12"}
           />
         }
       />
@@ -2734,13 +2732,13 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/d4f0vaktgsx0.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Ao no Exorcist Kyoto Fujouou Hen Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun Gratis"}
             anime={"Ao no Exorcist Kyoto Fujouou Hen"}
             numero={"1"}
-            button-nextVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-2"}
+            siguienteVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-2"}
             capitulosVideo={"/ao-no-exorcist:-kyoto-fujouou-hen"}
           />
         }
@@ -2751,15 +2749,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/umxgpowgmtkp.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Ao no Exorcist Kyoto Fujouou Hen Capitulo 2"}
             tituloPag={"Animekun Gratis"}
             anime={"Ao no Exorcist Kyoto Fujouou Hen "}
             numero={"2"}
-            button-nextVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-3"}
+            siguienteVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-3"}
             capitulosVideo={"/ao-no-exorcist:-kyoto-fujouou-hen"}
-            button-beforeVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-1"}
+            anteriorVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-1"}
           />
         }
       />
@@ -2769,15 +2767,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/xid3ftyyq9j8.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Ao no Exorcist Kyoto Fujouou Hen Capitulo 3"}
             tituloPag={"Animekun Gratis"}
             anime={"Ao no Exorcist Kyoto Fujouou Hen "}
             numero={"3"}
-            button-nextVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-4"}
+            siguienteVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-4"}
             capitulosVideo={"/ao-no-exorcist:-kyoto-fujouou-hen"}
-            button-beforeVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-2"}
+            anteriorVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-2"}
           />
         }
       />
@@ -2787,15 +2785,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/ms5k81f8pdj8.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Ao no Exorcist Kyoto Fujouou Hen Capitulo 4"}
             tituloPag={"Animekun Gratis"}
             anime={"Ao no Exorcist Kyoto Fujouou Hen "}
             numero={"4"}
-            button-nextVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-5"}
+            siguienteVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-5"}
             capitulosVideo={"/ao-no-exorcist:-kyoto-fujouou-hen"}
-            button-beforeVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-3"}
+            anteriorVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-3"}
           />
         }
       />
@@ -2805,15 +2803,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/crepzxcb0myf.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Ao no Exorcist Kyoto Fujouou Hen Capitulo 5"}
             tituloPag={"Animekun Gratis"}
             anime={"Ao no Exorcist Kyoto Fujouou Hen "}
             numero={"5"}
-            button-nextVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-6"}
+            siguienteVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-6"}
             capitulosVideo={"/ao-no-exorcist:-kyoto-fujouou-hen"}
-            button-beforeVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-4"}
+            anteriorVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-4"}
           />
         }
       />
@@ -2823,15 +2821,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/5uu942s4cczx.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Ao no Exorcist Kyoto Fujouou Hen Capitulo 6"}
             tituloPag={"Animekun Gratis"}
             anime={"Ao no Exorcist Kyoto Fujouou Hen "}
             numero={"6"}
-            button-nextVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-7"}
+            siguienteVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-7"}
             capitulosVideo={"/ao-no-exorcist:-kyoto-fujouou-hen"}
-            button-beforeVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-5"}
+            anteriorVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-5"}
           />
         }
       />
@@ -2841,15 +2839,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/hdq341imtznf.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Ao no Exorcist Kyoto Fujouou Hen Capitulo 7"}
             tituloPag={"Animekun Gratis"}
             anime={"Ao no Exorcist Kyoto Fujouou Hen "}
             numero={"7"}
-            button-nextVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-8"}
+            siguienteVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-8"}
             capitulosVideo={"/ao-no-exorcist:-kyoto-fujouou-hen"}
-            button-beforeVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-6"}
+            anteriorVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-6"}
           />
         }
       />
@@ -2859,15 +2857,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/lgllp27hokxp.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Ao no Exorcist Kyoto Fujouou Hen Capitulo 8"}
             tituloPag={"Animekun Gratis"}
             anime={"Ao no Exorcist Kyoto Fujouou Hen "}
             numero={"8"}
-            button-nextVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-9"}
+            siguienteVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-9"}
             capitulosVideo={"/ao-no-exorcist:-kyoto-fujouou-hen"}
-            button-beforeVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-7"}
+            anteriorVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-7"}
           />
         }
       />
@@ -2877,15 +2875,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/eq3mgl8j8tat.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Ao no Exorcist Kyoto Fujouou Hen Capitulo 9"}
             tituloPag={"Animekun Gratis"}
             anime={"Ao no Exorcist Kyoto Fujouou Hen "}
             numero={"9"}
-            button-nextVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-10"}
+            siguienteVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-10"}
             capitulosVideo={"/ao-no-exorcist:-kyoto-fujouou-hen"}
-            button-beforeVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-8"}
+            anteriorVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-8"}
           />
         }
       />
@@ -2895,15 +2893,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/k2q23sypqxu5.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Ao no Exorcist Kyoto Fujouou Hen Capitulo 10"}
             tituloPag={"Animekun Gratis"}
             anime={"Ao no Exorcist Kyoto Fujouou Hen "}
             numero={"10"}
-            button-nextVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-11"}
+            siguienteVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-11"}
             capitulosVideo={"/ao-no-exorcist:-kyoto-fujouou-hen"}
-            button-beforeVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-9"}
+            anteriorVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-9"}
           />
         }
       />
@@ -2913,15 +2911,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/dwssnwhumfgu.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Ao no Exorcist Kyoto Fujouou Hen Capitulo 11"}
             tituloPag={"Animekun Gratis"}
             anime={"Ao no Exorcist Kyoto Fujouou Hen "}
             numero={"11"}
-            button-nextVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-12"}
+            siguienteVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-12"}
             capitulosVideo={"/ao-no-exorcist:-kyoto-fujouou-hen"}
-            button-beforeVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-10"}
+            anteriorVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-10"}
           />
         }
       />
@@ -2931,15 +2929,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/vfgn0ntvr2a6.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Ao no Exorcist Kyoto Fujouou Hen Capitulo 12"}
             tituloPag={"Animekun Gratis"}
             anime={"Ao no Exorcist Kyoto Fujouou Hen "}
             numero={"12"}
-            button-nextVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-13"}
+            siguienteVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-13"}
             capitulosVideo={"/ao-no-exorcist:-kyoto-fujouou-hen"}
-            button-beforeVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-11"}
+            anteriorVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-11"}
           />
         }
       />
@@ -2949,14 +2947,14 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/x0qgch2nzi2l.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Ao no Exorcist Kyoto Fujouou Hen Capitulo 13"}
             tituloPag={"Animekun Gratis"}
             anime={"Ao no Exorcist Kyoto Fujouou Hen "}
             numero={"13"}
             capitulosVideo={"/ao-no-exorcist:-kyoto-fujouou-hen"}
-            button-beforeVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-12"}
+            anteriorVideo={"/ver/ao-no-exorcist:-kyoto-fujouou-hen-12"}
           />
         }
       />
@@ -2967,13 +2965,13 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/lqoeguu6lv30.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Fairy Gone Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun Gratis"}
             anime={"Fairy Gone "}
             numero={"1"}
-            button-nextVideo={"/ver/fairy-gone-2"}
+            siguienteVideo={"/ver/fairy-gone-2"}
             capitulosVideo={"/fairy-gone"}
           />
         }
@@ -2984,16 +2982,16 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/vb1aja33cesh.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fairy Gone Capitulo 2"}
             tituloPag={"Animekun Gratis"}
             anime={"Fairy Gone "}
             numero={"2"}
-            classOpcionbutton-next=""
-            button-nextVideo={"/ver/fairy-gone-3"}
+            classOpcionSiguiente=""
+            siguienteVideo={"/ver/fairy-gone-3"}
             capitulosVideo={"/fairy-gone"}
-            button-beforeVideo={"/ver/fairy-gone-1"}
+            anteriorVideo={"/ver/fairy-gone-1"}
           />
         }
       />
@@ -3003,15 +3001,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/lt5fzj92dryh.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fairy Gone Capitulo 3"}
             tituloPag={"Animekun Gratis"}
             anime={"Fairy Gone "}
             numero={"3"}
-            button-nextVideo={"/ver/fairy-gone-4"}
+            siguienteVideo={"/ver/fairy-gone-4"}
             capitulosVideo={"/fairy-gone"}
-            button-beforeVideo={"/ver/fairy-gone-2"}
+            anteriorVideo={"/ver/fairy-gone-2"}
           />
         }
       />
@@ -3021,15 +3019,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/8iw49hejzlos.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fairy Gone Capitulo 4"}
             tituloPag={"Animekun Gratis"}
             anime={"Fairy Gone "}
             numero={"4"}
-            button-nextVideo={"/ver/fairy-gone-5"}
+            siguienteVideo={"/ver/fairy-gone-5"}
             capitulosVideo={"/fairy-gone"}
-            button-beforeVideo={"/ver/fairy-gone-3"}
+            anteriorVideo={"/ver/fairy-gone-3"}
           />
         }
       />
@@ -3039,15 +3037,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/9chu9v7tbka1.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fairy Gone Capitulo 5"}
             tituloPag={"Animekun Gratis"}
             anime={"Fairy Gone "}
             numero={"5"}
-            button-nextVideo={"/ver/fairy-gone-6"}
+            siguienteVideo={"/ver/fairy-gone-6"}
             capitulosVideo={"/fairy-gone"}
-            button-beforeVideo={"/ver/fairy-gone-4"}
+            anteriorVideo={"/ver/fairy-gone-4"}
           />
         }
       />
@@ -3057,15 +3055,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/u5ffx2vw8n9c.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fairy Gone Capitulo 6"}
             tituloPag={"Animekun Gratis"}
             anime={"Fairy Gone "}
             numero={"6"}
-            button-nextVideo={"/ver/fairy-gone-7"}
+            siguienteVideo={"/ver/fairy-gone-7"}
             capitulosVideo={"/fairy-gone"}
-            button-beforeVideo={"/ver/fairy-gone-5"}
+            anteriorVideo={"/ver/fairy-gone-5"}
           />
         }
       />
@@ -3075,15 +3073,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/gf11el6wa1o5.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fairy Gone Capitulo 7"}
             tituloPag={"Animekun Gratis"}
             anime={"Fairy Gone "}
             numero={"7"}
-            button-nextVideo={"/ver/fairy-gone-8"}
+            siguienteVideo={"/ver/fairy-gone-8"}
             capitulosVideo={"/fairy-gone"}
-            button-beforeVideo={"/ver/fairy-gone-6"}
+            anteriorVideo={"/ver/fairy-gone-6"}
           />
         }
       />
@@ -3093,15 +3091,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/s8box7bceotz.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fairy Gone Capitulo 8"}
             tituloPag={"Animekun Gratis"}
             anime={"Fairy Gone "}
             numero={"8"}
-            button-nextVideo={"/ver/fairy-gone-9"}
+            siguienteVideo={"/ver/fairy-gone-9"}
             capitulosVideo={"/fairy-gone"}
-            button-beforeVideo={"/ver/fairy-gone-7"}
+            anteriorVideo={"/ver/fairy-gone-7"}
           />
         }
       />
@@ -3111,15 +3109,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/wc2ls9v6p0e1.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fairy Gone Capitulo 9"}
             tituloPag={"Animekun Gratis"}
             anime={"Fairy Gone "}
             numero={"9"}
-            button-nextVideo={"/ver/fairy-gone-10"}
+            siguienteVideo={"/ver/fairy-gone-10"}
             capitulosVideo={"/fairy-gone"}
-            button-beforeVideo={"/ver/fairy-gone-8"}
+            anteriorVideo={"/ver/fairy-gone-8"}
           />
         }
       />
@@ -3129,15 +3127,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/5fmctrc6kflr.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fairy Gone Capitulo 10"}
             tituloPag={"Animekun Gratis"}
             anime={"Fairy Gone "}
             numero={"10"}
-            button-nextVideo={"/ver/fairy-gone-11"}
+            siguienteVideo={"/ver/fairy-gone-11"}
             capitulosVideo={"/fairy-gone"}
-            button-beforeVideo={"/ver/fairy-gone-9"}
+            anteriorVideo={"/ver/fairy-gone-9"}
           />
         }
       />
@@ -3147,15 +3145,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/rgfw11nqvhav.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fairy Gone Capitulo 11"}
             tituloPag={"Animekun Gratis"}
             anime={"Fairy Gone "}
             numero={"11"}
-            button-nextVideo={"/ver/fairy-gone-12"}
+            siguienteVideo={"/ver/fairy-gone-12"}
             capitulosVideo={"/fairy-gone"}
-            button-beforeVideo={"/ver/fairy-gone-10"}
+            anteriorVideo={"/ver/fairy-gone-10"}
           />
         }
       />
@@ -3165,14 +3163,14 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/0tknl8stst17.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Fairy Gone Capitulo 12"}
             tituloPag={"Animekun Gratis"}
             anime={"Fairy Gone "}
             numero={"12"}
             capitulosVideo={"/fairy-gone"}
-            button-beforeVideo={"/ver/fairy-gone-11"}
+            anteriorVideo={"/ver/fairy-gone-11"}
           />
         }
       />
@@ -3183,13 +3181,13 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/gt13zsrpo4if.html"}
-            beforeClass="disable"
-            nextClass={"disable"}
+            contAnteriorClass="disable"
+            contSiguienteClass={"disable"}
             tituloAnime={" Capitulo Especial Dr Stone Ryusui"}
             tituloPag={"Animekun Gratis"}
             anime={"Dr Stone Ryusui "}
             numero={"1"}
-            classOpcionbutton-next="disable"
+            classOpcionSiguiente="disable"
             capitulosVideo={"/dr-stone-ryusui"}
           />
         }
@@ -3200,13 +3198,13 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/s0ddzbyf5t6w.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={" Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun Gratis"}
             anime={"Isekai Yakkyoku "}
             numero={"1"}
-            button-nextVideo={"/ver/isekai-yakkyoku-2"}
+            siguienteVideo={"/ver/isekai-yakkyoku-2"}
             capitulosVideo={"/isekai-yakkyoku"}
           />
         }
@@ -3217,15 +3215,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/63qeybqky0zt.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Isekai Yakkyoku Capitulo 2"}
             tituloPag={"Animekun Gratis"}
             anime={"Isekai Yakkyoku "}
             numero={"2"}
-            button-nextVideo={"/ver/isekai-yakkyoku-3"}
+            siguienteVideo={"/ver/isekai-yakkyoku-3"}
             capitulosVideo={"/isekai-yakkyoku"}
-            button-beforeVideo={"/ver/isekai-yakkyoku1"}
+            anteriorVideo={"/ver/isekai-yakkyoku1"}
           />
         }
       />
@@ -3235,15 +3233,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/z7kfnkwt606s.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Isekai Yakkyoku Capitulo 3"}
             tituloPag={"Animekun Gratis"}
             anime={"Isekai Yakkyoku "}
             numero={"3"}
-            button-nextVideo={"/ver/isekai-yakkyoku-4"}
+            siguienteVideo={"/ver/isekai-yakkyoku-4"}
             capitulosVideo={"/isekai-yakkyoku"}
-            button-beforeVideo={"/ver/isekai-yakkyoku-2"}
+            anteriorVideo={"/ver/isekai-yakkyoku-2"}
           />
         }
       />
@@ -3253,15 +3251,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/k14iztwtd1d0.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Isekai Yakkyoku Capitulo 4"}
             tituloPag={"Animekun Gratis"}
             anime={"Isekai Yakkyoku "}
             numero={"4"}
-            button-nextVideo={"/ver/isekai-yakkyoku-5"}
+            siguienteVideo={"/ver/isekai-yakkyoku-5"}
             capitulosVideo={"/isekai-yakkyoku"}
-            button-beforeVideo={"/ver/isekai-yakkyoku-3"}
+            anteriorVideo={"/ver/isekai-yakkyoku-3"}
           />
         }
       />
@@ -3271,15 +3269,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/8883s4pj0yni.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Isekai Yakkyoku Capitulo 5"}
             tituloPag={"Animekun Gratis"}
             anime={"Isekai Yakkyoku "}
             numero={"5"}
-            button-nextVideo={"/ver/isekai-yakkyoku-6"}
+            siguienteVideo={"/ver/isekai-yakkyoku-6"}
             capitulosVideo={"/isekai-yakkyoku"}
-            button-beforeVideo={"/ver/isekai-yakkyoku-4"}
+            anteriorVideo={"/ver/isekai-yakkyoku-4"}
           />
         }
       />
@@ -3289,15 +3287,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Isekai Yakkyoku Capitulo 6"}
             tituloPag={"Animekun Gratis"}
             anime={"Isekai Yakkyoku "}
             numero={"6"}
-            button-nextVideo={"/ver/isekai-yakkyoku-7"}
+            siguienteVideo={"/ver/isekai-yakkyoku-7"}
             capitulosVideo={"/isekai-yakkyoku"}
-            button-beforeVideo={"/ver/isekai-yakkyoku-5"}
+            anteriorVideo={"/ver/isekai-yakkyoku-5"}
           />
         }
       />
@@ -3307,15 +3305,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Isekai Yakkyoku Capitulo 7"}
             tituloPag={"Animekun Gratis"}
             anime={"Isekai Yakkyoku "}
             numero={"7"}
-            button-nextVideo={"/ver/isekai-yakkyoku-8"}
+            siguienteVideo={"/ver/isekai-yakkyoku-8"}
             capitulosVideo={"/isekai-yakkyoku"}
-            button-beforeVideo={"/ver/isekai-yakkyoku-6"}
+            anteriorVideo={"/ver/isekai-yakkyoku-6"}
           />
         }
       />
@@ -3325,15 +3323,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Isekai Yakkyoku Capitulo 8"}
             tituloPag={"Animekun Gratis"}
             anime={"Isekai Yakkyoku "}
             numero={"8"}
-            button-nextVideo={"/ver/isekai-yakkyoku-9"}
+            siguienteVideo={"/ver/isekai-yakkyoku-9"}
             capitulosVideo={"/isekai-yakkyoku"}
-            button-beforeVideo={"/ver/isekai-yakkyoku-7"}
+            anteriorVideo={"/ver/isekai-yakkyoku-7"}
           />
         }
       />
@@ -3343,15 +3341,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Isekai Yakkyoku Capitulo 9"}
             tituloPag={"Animekun Gratis"}
             anime={"Isekai Yakkyoku "}
             numero={"9"}
-            button-nextVideo={"/ver/isekai-yakkyoku-10"}
+            siguienteVideo={"/ver/isekai-yakkyoku-10"}
             capitulosVideo={"/isekai-yakkyoku"}
-            button-beforeVideo={"/ver/isekai-yakkyoku-8"}
+            anteriorVideo={"/ver/isekai-yakkyoku-8"}
           />
         }
       />
@@ -3361,15 +3359,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Isekai Yakkyoku Capitulo 10"}
             tituloPag={"Animekun Gratis"}
             anime={"Isekai Yakkyoku "}
             numero={"10"}
-            button-nextVideo={"/ver/isekai-yakkyoku-11"}
+            siguienteVideo={"/ver/isekai-yakkyoku-11"}
             capitulosVideo={"/isekai-yakkyoku"}
-            button-beforeVideo={"/ver/isekai-yakkyoku-9"}
+            anteriorVideo={"/ver/isekai-yakkyoku-9"}
           />
         }
       />
@@ -3379,15 +3377,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Isekai Yakkyoku Capitulo 11"}
             tituloPag={"Animekun Gratis"}
             anime={"Isekai Yakkyoku "}
             numero={"11"}
-            button-nextVideo={"/ver/isekai-yakkyoku-12"}
+            siguienteVideo={"/ver/isekai-yakkyoku-12"}
             capitulosVideo={"/isekai-yakkyokuisekai-yakkyoku"}
-            button-beforeVideo={"/ver/isekai-yakkyoku-10"}
+            anteriorVideo={"/ver/isekai-yakkyoku-10"}
           />
         }
       />
@@ -3397,14 +3395,14 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Isekai Yakkyoku Capitulo 12"}
             tituloPag={"Animekun Gratis"}
             anime={"Isekai Yakkyoku "}
             numero={"12"}
             capitulosVideo={"/isekai-yakkyoku"}
-            button-beforeVideo={"/ver/isekai-yakkyoku-11"}
+            anteriorVideo={"/ver/isekai-yakkyoku-11"}
           />
         }
       />
@@ -3415,13 +3413,13 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/ydx4i29ucbv4.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Kuro no Shoukanshi Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun Gratis"}
             anime={"Kuro no Shoukanshi "}
             numero={"1"}
-            button-nextVideo={"/ver/kuro-no-shoukanshi-2"}
+            siguienteVideo={"/ver/kuro-no-shoukanshi-2"}
             capitulosVideo={"/kuro-no-shoukanshi"}
           />
         }
@@ -3432,16 +3430,16 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/ec02ew1avmu4.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Kuro no Shoukanshi Capitulo 2"}
             tituloPag={"Animekun Gratis"}
             anime={"Kuro no Shoukanshi "}
             numero={"2"}
-            classOpcionbutton-next=""
-            button-nextVideo={"/ver/kuro-no-shoukanshi-3"}
+            classOpcionSiguiente=""
+            siguienteVideo={"/ver/kuro-no-shoukanshi-3"}
             capitulosVideo={"/kuro-no-shoukanshi"}
-            button-beforeVideo={"/ver/kuro-no-shoukanshi-1"}
+            anteriorVideo={"/ver/kuro-no-shoukanshi-1"}
           />
         }
       />
@@ -3451,15 +3449,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/x8z63ykmg1ta.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Kuro no Shoukanshi Capitulo 3"}
             tituloPag={"Animekun Gratis"}
             anime={"Kuro no Shoukanshi "}
             numero={"3"}
-            button-nextVideo={"/ver/kuro-no-shoukanshi-4"}
+            siguienteVideo={"/ver/kuro-no-shoukanshi-4"}
             capitulosVideo={"/kuro-no-shoukanshi"}
-            button-beforeVideo={"/ver/kuro-no-shoukanshi-2"}
+            anteriorVideo={"/ver/kuro-no-shoukanshi-2"}
           />
         }
       />
@@ -3469,15 +3467,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/3hp4tu8dohor.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Kuro no Shoukanshi Capitulo 4"}
             tituloPag={"Animekun Gratis"}
             anime={"Kuro no Shoukanshi "}
             numero={"4"}
-            button-nextVideo={"/ver/kuro-no-shoukanshi-5"}
+            siguienteVideo={"/ver/kuro-no-shoukanshi-5"}
             capitulosVideo={"/kuro-no-shoukanshi"}
-            button-beforeVideo={"/ver/kuro-no-shoukanshi-3"}
+            anteriorVideo={"/ver/kuro-no-shoukanshi-3"}
           />
         }
       />
@@ -3487,15 +3485,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/w48yjk0ecmdu.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Kuro no Shoukanshi Capitulo 5"}
             tituloPag={"Animekun Gratis"}
             anime={"Kuro no Shoukanshi "}
             numero={"5"}
-            button-nextVideo={"/ver/kuro-no-shoukanshi-6"}
+            siguienteVideo={"/ver/kuro-no-shoukanshi-6"}
             capitulosVideo={"/kuro-no-shoukanshi"}
-            button-beforeVideo={"/ver/kuro-no-shoukanshi-4"}
+            anteriorVideo={"/ver/kuro-no-shoukanshi-4"}
           />
         }
       />
@@ -3505,15 +3503,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Kuro no Shoukanshi Capitulo 6"}
             tituloPag={"Animekun Gratis"}
             anime={"Kuro no Shoukanshi "}
             numero={"6"}
-            button-nextVideo={"/ver/kuro-no-shoukanshi-7"}
+            siguienteVideo={"/ver/kuro-no-shoukanshi-7"}
             capitulosVideo={"/kuro-no-shoukanshi"}
-            button-beforeVideo={"/ver/kuro-no-shoukanshi-5"}
+            anteriorVideo={"/ver/kuro-no-shoukanshi-5"}
           />
         }
       />
@@ -3523,15 +3521,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Kuro no Shoukanshi Capitulo 7"}
             tituloPag={"Animekun Gratis"}
             anime={"Kuro no Shoukanshi "}
             numero={"7"}
-            button-nextVideo={"/ver/kuro-no-shoukanshi-8"}
+            siguienteVideo={"/ver/kuro-no-shoukanshi-8"}
             capitulosVideo={"/kuro-no-shoukanshi"}
-            button-beforeVideo={"/ver/kuro-no-shoukanshi-6"}
+            anteriorVideo={"/ver/kuro-no-shoukanshi-6"}
           />
         }
       />
@@ -3541,15 +3539,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Kuro no Shoukanshi Capitulo 8"}
             tituloPag={"Animekun Gratis"}
             anime={"Kuro no Shoukanshi "}
             numero={"8"}
-            button-nextVideo={"/ver/kuro-no-shoukanshi-9"}
+            siguienteVideo={"/ver/kuro-no-shoukanshi-9"}
             capitulosVideo={"/kuro-no-shoukanshi"}
-            button-beforeVideo={"/ver/kuro-no-shoukanshi-7"}
+            anteriorVideo={"/ver/kuro-no-shoukanshi-7"}
           />
         }
       />
@@ -3559,15 +3557,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Kuro no Shoukanshi Capitulo 9"}
             tituloPag={"Animekun Gratis"}
             anime={"Kuro no Shoukanshi "}
             numero={"9"}
-            button-nextVideo={"/ver/kuro-no-shoukanshi-10"}
+            siguienteVideo={"/ver/kuro-no-shoukanshi-10"}
             capitulosVideo={"/kuro-no-shoukanshi"}
-            button-beforeVideo={"/ver/kuro-no-shoukanshi-8"}
+            anteriorVideo={"/ver/kuro-no-shoukanshi-8"}
           />
         }
       />
@@ -3577,15 +3575,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Kuro no Shoukanshi Capitulo 10"}
             tituloPag={"Animekun Gratis"}
             anime={"Kuro no Shoukanshi "}
             numero={"10"}
-            button-nextVideo={"/ver/kuro-no-shoukanshi-11"}
+            siguienteVideo={"/ver/kuro-no-shoukanshi-11"}
             capitulosVideo={"/kuro-no-shoukanshi"}
-            button-beforeVideo={"/ver/kuro-no-shoukanshi-9"}
+            anteriorVideo={"/ver/kuro-no-shoukanshi-9"}
           />
         }
       />
@@ -3595,15 +3593,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Kuro no Shoukanshi Capitulo 11"}
             tituloPag={"Animekun Gratis"}
             anime={"Kuro no Shoukanshi "}
             numero={"11"}
-            button-nextVideo={"/ver/kuro-no-shoukanshi-12"}
+            siguienteVideo={"/ver/kuro-no-shoukanshi-12"}
             capitulosVideo={"/kuro-no-shoukanshi"}
-            button-beforeVideo={"/ver/kuro-no-shoukanshi-10"}
+            anteriorVideo={"/ver/kuro-no-shoukanshi-10"}
           />
         }
       />
@@ -3613,14 +3611,14 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Kuro no Shoukanshi Capitulo 12"}
             tituloPag={"Animekun Gratis"}
             anime={"Kuro no Shoukanshi "}
             numero={"12"}
             capitulosVideo={"/kuro-no-shoukanshi"}
-            button-beforeVideo={"/ver/kuro-no-shoukanshi-11"}
+            anteriorVideo={"/ver/kuro-no-shoukanshi-11"}
           />
         }
       />
@@ -3631,13 +3629,13 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/m8xdrpde2tc6.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Fairy Gone Segunda Temporada Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun Gratis"}
             anime={"Fairy Gone Segunda Temporada"}
             numero={"1"}
-            button-nextVideo={"/ver/fairy-gone-segunda-temporada-2"}
+            siguienteVideo={"/ver/fairy-gone-segunda-temporada-2"}
             capitulosVideo={"/fairy-gone-segunda-temporada"}
           />
         }
@@ -3648,15 +3646,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/cwwn7nowda69.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fairy Gone Segunda Temporada Capitulo 2"}
             tituloPag={"Animekun Gratis"}
             anime={"Fairy Gone Segunda Temporada "}
             numero={"2"}
-            button-nextVideo={"/ver/-3"}
+            siguienteVideo={"/ver/-3"}
             capitulosVideo={"/"}
-            button-beforeVideo={"/ver/fairy-gone-segunda-temporada-1"}
+            anteriorVideo={"/ver/fairy-gone-segunda-temporada-1"}
           />
         }
       />
@@ -3666,15 +3664,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/dt58qnm2gyz2.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fairy Gone Segunda Temporada Capitulo 3"}
             tituloPag={"Animekun Gratis"}
             anime={"Fairy Gone Segunda Temporada "}
             numero={"3"}
-            button-nextVideo={"/ver/fairy-gone-segunda-temporada-4"}
+            siguienteVideo={"/ver/fairy-gone-segunda-temporada-4"}
             capitulosVideo={"/fairy-gone-segunda-temporada"}
-            button-beforeVideo={"/ver/fairy-gone-segunda-temporada-2"}
+            anteriorVideo={"/ver/fairy-gone-segunda-temporada-2"}
           />
         }
       />
@@ -3684,15 +3682,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/j6frx29psxs3.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fairy Gone Segunda Temporada Capitulo 4"}
             tituloPag={"Animekun Gratis"}
             anime={"Fairy Gone Segunda Temporada "}
             numero={"4"}
-            button-nextVideo={"/ver/fairy-gone-segunda-temporada-5"}
+            siguienteVideo={"/ver/fairy-gone-segunda-temporada-5"}
             capitulosVideo={"/fairy-gone-segunda-temporada"}
-            button-beforeVideo={"/ver/fairy-gone-segunda-temporada-3"}
+            anteriorVideo={"/ver/fairy-gone-segunda-temporada-3"}
           />
         }
       />
@@ -3702,15 +3700,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/hombkpxn1cjc.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fairy Gone Segunda Temporada Capitulo 5"}
             tituloPag={"Animekun Gratis"}
             anime={"Fairy Gone Segunda Temporada "}
             numero={"5"}
-            button-nextVideo={"/ver/fairy-gone-segunda-temporada-6"}
+            siguienteVideo={"/ver/fairy-gone-segunda-temporada-6"}
             capitulosVideo={"/fairy-gone-segunda-temporada"}
-            button-beforeVideo={"/ver/fairy-gone-segunda-temporada-4"}
+            anteriorVideo={"/ver/fairy-gone-segunda-temporada-4"}
           />
         }
       />
@@ -3720,15 +3718,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/0tmri5g3uply.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fairy Gone Segunda Temporada Capitulo 6"}
             tituloPag={"Animekun Gratis"}
             anime={"Fairy Gone Segunda Temporada "}
             numero={"6"}
-            button-nextVideo={"/ver/fairy-gone-segunda-temporada-7"}
+            siguienteVideo={"/ver/fairy-gone-segunda-temporada-7"}
             capitulosVideo={"/fairy-gone-segunda-temporada"}
-            button-beforeVideo={"/ver/fairy-gone-segunda-temporada-5"}
+            anteriorVideo={"/ver/fairy-gone-segunda-temporada-5"}
           />
         }
       />
@@ -3738,15 +3736,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/zfqxrq7f94ol.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fairy Gone Segunda Temporada Capitulo 7"}
             tituloPag={"Animekun Gratis"}
             anime={"Fairy Gone Segunda Temporada "}
             numero={"7"}
-            button-nextVideo={"/ver/fairy-gone-segunda-temporada-8"}
+            siguienteVideo={"/ver/fairy-gone-segunda-temporada-8"}
             capitulosVideo={"/fairy-gone-segunda-temporada"}
-            button-beforeVideo={"/ver/fairy-gone-segunda-temporada-6"}
+            anteriorVideo={"/ver/fairy-gone-segunda-temporada-6"}
           />
         }
       />
@@ -3756,15 +3754,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/rqpi3046zcyk.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fairy Gone Segunda Temporada Capitulo 8"}
             tituloPag={"Animekun Gratis"}
             anime={"Fairy Gone Segunda Temporada "}
             numero={"8"}
-            button-nextVideo={"/ver/fairy-gone-segunda-temporada-9"}
+            siguienteVideo={"/ver/fairy-gone-segunda-temporada-9"}
             capitulosVideo={"/fairy-gone-segunda-temporada"}
-            button-beforeVideo={"/ver/fairy-gone-segunda-temporada-7"}
+            anteriorVideo={"/ver/fairy-gone-segunda-temporada-7"}
           />
         }
       />
@@ -3774,15 +3772,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/me5li8i67eit.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fairy Gone Segunda Temporada Capitulo 9"}
             tituloPag={"Animekun Gratis"}
             anime={"Fairy Gone Segunda Temporada "}
             numero={"9"}
-            button-nextVideo={"/ver/fairy-gone-segunda-temporada-10"}
+            siguienteVideo={"/ver/fairy-gone-segunda-temporada-10"}
             capitulosVideo={"/fairy-gone-segunda-temporada"}
-            button-beforeVideo={"/ver/fairy-gone-segunda-temporada-8"}
+            anteriorVideo={"/ver/fairy-gone-segunda-temporada-8"}
           />
         }
       />
@@ -3792,15 +3790,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/pzbcjxu2p7nx.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fairy Gone Segunda Temporada Capitulo 10"}
             tituloPag={"Animekun Gratis"}
             anime={"Fairy Gone Segunda Temporada "}
             numero={"10"}
-            button-nextVideo={"/ver/fairy-gone-segunda-temporada-11"}
+            siguienteVideo={"/ver/fairy-gone-segunda-temporada-11"}
             capitulosVideo={"/fairy-gone-segunda-temporada"}
-            button-beforeVideo={"/ver/fairy-gone-segunda-temporada-9"}
+            anteriorVideo={"/ver/fairy-gone-segunda-temporada-9"}
           />
         }
       />
@@ -3810,15 +3808,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/b9kjzvp81e5v.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fairy Gone Segunda Temporada Capitulo 11"}
             tituloPag={"Animekun Gratis"}
             anime={"Fairy Gone Segunda Temporada "}
             numero={"11"}
-            button-nextVideo={"/ver/fairy-gone-segunda-temporada-12"}
+            siguienteVideo={"/ver/fairy-gone-segunda-temporada-12"}
             capitulosVideo={"/fairy-gone-segunda-temporada"}
-            button-beforeVideo={"/ver/fairy-gone-segunda-temporada-10"}
+            anteriorVideo={"/ver/fairy-gone-segunda-temporada-10"}
           />
         }
       />
@@ -3828,14 +3826,14 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/q3uzh0rryizo.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Fairy Gone Segunda Temporada Capitulo 12"}
             tituloPag={"Animekun Gratis"}
             anime={"Fairy Gone Segunda Temporada "}
             numero={"12"}
             capitulosVideo={"/fairy-gone-segunda-temporada"}
-            button-beforeVideo={"/ver/fairy-gone-segunda-temporada-11"}
+            anteriorVideo={"/ver/fairy-gone-segunda-temporada-11"}
           />
         }
       />
@@ -3846,13 +3844,13 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/ol02fy8w3ovs.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={" Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun Gratis"}
             anime={"Isekai Meiryuu de Harem wo "}
             numero={"1"}
-            button-nextVideo={"/ver/isekai-meiryuu-de-harem-wo-2"}
+            siguienteVideo={"/ver/isekai-meiryuu-de-harem-wo-2"}
             capitulosVideo={"/isekai-meiryuu-de-harem-wo"}
           />
         }
@@ -3863,16 +3861,16 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/t5okmktfo72p.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Isekai Meiryuu de Harem wo Capitulo 2"}
             tituloPag={"Animekun Gratis"}
             anime={"Isekai Meiryuu de Harem wo "}
             numero={"2"}
-            classOpcionbutton-next=""
-            button-nextVideo={"/ver/isekai-meiryuu-de-harem-wo-3"}
+            classOpcionSiguiente=""
+            siguienteVideo={"/ver/isekai-meiryuu-de-harem-wo-3"}
             capitulosVideo={"/isekai-meiryuu-de-harem-wo"}
-            button-beforeVideo={"/ver/isekai-meiryuu-de-harem-wo-1"}
+            anteriorVideo={"/ver/isekai-meiryuu-de-harem-wo-1"}
           />
         }
       />
@@ -3882,15 +3880,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/0xhs5pj62gwp.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Isekai Meiryuu de Harem wo Capitulo 3"}
             tituloPag={"Animekun Gratis"}
             anime={"Isekai Meiryuu de Harem wo "}
             numero={"3"}
-            button-nextVideo={"/ver/isekai-meiryuu-de-harem-wo-4"}
+            siguienteVideo={"/ver/isekai-meiryuu-de-harem-wo-4"}
             capitulosVideo={"/isekai-meiryuu-de-harem-wo"}
-            button-beforeVideo={"/ver/isekai-meiryuu-de-harem-wo-2"}
+            anteriorVideo={"/ver/isekai-meiryuu-de-harem-wo-2"}
           />
         }
       />
@@ -3900,15 +3898,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/alyh8fewlzis.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Isekai Meiryuu de Harem wo Capitulo 4"}
             tituloPag={"Animekun Gratis"}
             anime={"Isekai Meiryuu de Harem wo "}
             numero={"4"}
-            button-nextVideo={"/ver/isekai-meiryuu-de-harem-wo-5"}
+            siguienteVideo={"/ver/isekai-meiryuu-de-harem-wo-5"}
             capitulosVideo={"/isekai-meiryuu-de-harem-wo"}
-            button-beforeVideo={"/ver/isekai-meiryuu-de-harem-wo-3"}
+            anteriorVideo={"/ver/isekai-meiryuu-de-harem-wo-3"}
           />
         }
       />
@@ -3918,15 +3916,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/ti4akk6als8g.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Isekai Meiryuu de Harem wo Capitulo 5"}
             tituloPag={"Animekun Gratis"}
             anime={"Isekai Meiryuu de Harem wo "}
             numero={"5"}
-            button-nextVideo={"/ver/isekai-meiryuu-de-harem-wo-6"}
+            siguienteVideo={"/ver/isekai-meiryuu-de-harem-wo-6"}
             capitulosVideo={"/isekai-meiryuu-de-harem-wo"}
-            button-beforeVideo={"/ver/isekai-meiryuu-de-harem-wo-4"}
+            anteriorVideo={"/ver/isekai-meiryuu-de-harem-wo-4"}
           />
         }
       />
@@ -3936,15 +3934,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Isekai Meiryuu de Harem wo Capitulo 6"}
             tituloPag={"Animekun Gratis"}
             anime={"Isekai Meiryuu de Harem wo "}
             numero={"6"}
-            button-nextVideo={"/ver/isekai-meiryuu-de-harem-wo-7"}
+            siguienteVideo={"/ver/isekai-meiryuu-de-harem-wo-7"}
             capitulosVideo={"/isekai-meiryuu-de-harem-wo"}
-            button-beforeVideo={"/ver/isekai-meiryuu-de-harem-wo-5"}
+            anteriorVideo={"/ver/isekai-meiryuu-de-harem-wo-5"}
           />
         }
       />
@@ -3954,15 +3952,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Isekai Meiryuu de Harem wo Capitulo 7"}
             tituloPag={"Animekun Gratis"}
             anime={"Isekai Meiryuu de Harem wo "}
             numero={"7"}
-            button-nextVideo={"/ver/isekai-meiryuu-de-harem-wo-8"}
+            siguienteVideo={"/ver/isekai-meiryuu-de-harem-wo-8"}
             capitulosVideo={"/isekai-meiryuu-de-harem-wo"}
-            button-beforeVideo={"/ver/isekai-meiryuu-de-harem-wo-6"}
+            anteriorVideo={"/ver/isekai-meiryuu-de-harem-wo-6"}
           />
         }
       />
@@ -3972,15 +3970,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Isekai Meiryuu de Harem wo Capitulo 8"}
             tituloPag={"Animekun Gratis"}
             anime={"Isekai Meiryuu de Harem wo "}
             numero={"8"}
-            button-nextVideo={"/ver/isekai-meiryuu-de-harem-wo-9"}
+            siguienteVideo={"/ver/isekai-meiryuu-de-harem-wo-9"}
             capitulosVideo={"/isekai-meiryuu-de-harem-wo"}
-            button-beforeVideo={"/ver/isekai-meiryuu-de-harem-wo-7"}
+            anteriorVideo={"/ver/isekai-meiryuu-de-harem-wo-7"}
           />
         }
       />
@@ -3990,15 +3988,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Isekai Meiryuu de Harem wo Capitulo 9"}
             tituloPag={"Animekun Gratis"}
             anime={"Isekai Meiryuu de Harem wo "}
             numero={"9"}
-            button-nextVideo={"/ver/isekai-meiryuu-de-harem-wo-10"}
+            siguienteVideo={"/ver/isekai-meiryuu-de-harem-wo-10"}
             capitulosVideo={"/isekai-meiryuu-de-harem-wo"}
-            button-beforeVideo={"/ver/isekai-meiryuu-de-harem-wo-8"}
+            anteriorVideo={"/ver/isekai-meiryuu-de-harem-wo-8"}
           />
         }
       />
@@ -4008,15 +4006,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Isekai Meiryuu de Harem wo Capitulo 10"}
             tituloPag={"Animekun Gratis"}
             anime={"Isekai Meiryuu de Harem wo "}
             numero={"10"}
-            button-nextVideo={"/ver/isekai-meiryuu-de-harem-wo-11"}
+            siguienteVideo={"/ver/isekai-meiryuu-de-harem-wo-11"}
             capitulosVideo={"/isekai-meiryuu-de-harem-wo"}
-            button-beforeVideo={"/ver/isekai-meiryuu-de-harem-wo-9"}
+            anteriorVideo={"/ver/isekai-meiryuu-de-harem-wo-9"}
           />
         }
       />
@@ -4026,15 +4024,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Isekai Meiryuu de Harem wo Capitulo 11"}
             tituloPag={"Animekun Gratis"}
             anime={"Isekai Meiryuu de Harem wo "}
             numero={"11"}
-            button-nextVideo={"/ver/isekai-meiryuu-de-harem-wo-12"}
+            siguienteVideo={"/ver/isekai-meiryuu-de-harem-wo-12"}
             capitulosVideo={"/isekai-meiryuu-de-harem-wo"}
-            button-beforeVideo={"/ver/isekai-meiryuu-de-harem-wo-10"}
+            anteriorVideo={"/ver/isekai-meiryuu-de-harem-wo-10"}
           />
         }
       />
@@ -4044,14 +4042,14 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Isekai Meiryuu de Harem wo Capitulo 12"}
             tituloPag={"Animekun Gratis"}
             anime={"Isekai Meiryuu de Harem wo "}
             numero={"12"}
             capitulosVideo={"/isekai-meiryuu-de-harem-wo"}
-            button-beforeVideo={"/ver/isekai-meiryuu-de-harem-wo-11"}
+            anteriorVideo={"/ver/isekai-meiryuu-de-harem-wo-11"}
           />
         }
       />
@@ -4062,15 +4060,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/7l7x92jwalc6.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={" Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun Gratis"}
             anime={
               "Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e Segunda Temporada"
             }
             numero={"1"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-2"
             }
             capitulosVideo={
@@ -4085,8 +4083,8 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/khdx86k3x1o5.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e Segunda Temporada Capitulo 2"
             }
@@ -4095,14 +4093,14 @@ function Videos() {
               "Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e Segunda Temporada "
             }
             numero={"2"}
-            classOpcionbutton-next=""
-            button-nextVideo={
+            classOpcionSiguiente=""
+            siguienteVideo={
               "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-3"
             }
             capitulosVideo={
               "/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada"
             }
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-1"
             }
           />
@@ -4114,8 +4112,8 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/w8yr0h844pug.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e Segunda Temporada Capitulo 3"
             }
@@ -4124,13 +4122,13 @@ function Videos() {
               "Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e Segunda Temporada "
             }
             numero={"3"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-4"
             }
             capitulosVideo={
               "/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada"
             }
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-2"
             }
           />
@@ -4141,8 +4139,8 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/txntkltcx0ug.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e Segunda Temporada Capitulo 4"
             }
@@ -4151,13 +4149,13 @@ function Videos() {
               "Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e Segunda Temporada "
             }
             numero={"4"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-5"
             }
             capitulosVideo={
               "/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada"
             }
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-3"
             }
           />
@@ -4169,8 +4167,8 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/qy3u5wurtyuc.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e Segunda Temporada Capitulo 5"
             }
@@ -4179,13 +4177,13 @@ function Videos() {
               "Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e Segunda Temporada "
             }
             numero={"5"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-6"
             }
             capitulosVideo={
               "/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada"
             }
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-4"
             }
           />
@@ -4197,8 +4195,8 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/855ufbgzszr8.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e Segunda Temporada Capitulo 6"
             }
@@ -4207,13 +4205,13 @@ function Videos() {
               "Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e Segunda Temporada "
             }
             numero={"6"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-7"
             }
             capitulosVideo={
               "/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada"
             }
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-5"
             }
           />
@@ -4225,8 +4223,8 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e Segunda Temporada Capitulo 7"
             }
@@ -4235,13 +4233,13 @@ function Videos() {
               "Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e Segunda Temporada "
             }
             numero={"7"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-8"
             }
             capitulosVideo={
               "/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada"
             }
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-6"
             }
           />
@@ -4253,8 +4251,8 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e Segunda Temporada Capitulo 8"
             }
@@ -4263,13 +4261,13 @@ function Videos() {
               "Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e Segunda Temporada "
             }
             numero={"8"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-9"
             }
             capitulosVideo={
               "/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada"
             }
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-7"
             }
           />
@@ -4281,8 +4279,8 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e Segunda Temporada Capitulo 9"
             }
@@ -4291,13 +4289,13 @@ function Videos() {
               "Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e Segunda Temporada "
             }
             numero={"9"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-10"
             }
             capitulosVideo={
               "/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada"
             }
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-8"
             }
           />
@@ -4309,8 +4307,8 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e Segunda Temporada Capitulo 10"
             }
@@ -4319,13 +4317,13 @@ function Videos() {
               "Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e Segunda Temporada "
             }
             numero={"10"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-11"
             }
             capitulosVideo={
               "/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada"
             }
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-9"
             }
           />
@@ -4337,8 +4335,8 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e Segunda Temporada Capitulo 11"
             }
@@ -4347,13 +4345,13 @@ function Videos() {
               "Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e Segunda Temporada "
             }
             numero={"11"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-12"
             }
             capitulosVideo={
               "/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada"
             }
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-10"
             }
           />
@@ -4365,8 +4363,8 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={
               "Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e Segunda Temporada Capitulo 12"
             }
@@ -4378,7 +4376,7 @@ function Videos() {
             capitulosVideo={
               "/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada"
             }
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-11"
             }
           />
@@ -4391,13 +4389,13 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/0kfqvqbokons.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Spy x Family Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun Gratis"}
             anime={"Spy x Family"}
             numero={"1"}
-            button-nextVideo={"/ver/spy-x-family-2"}
+            siguienteVideo={"/ver/spy-x-family-2"}
             capitulosVideo={"/spy-x-family"}
           />
         }
@@ -4408,15 +4406,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/zzsqvthpdo53.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Spy x Family Capitulo 2"}
             tituloPag={"Animekun Gratis"}
             anime={"Spy x Family "}
             numero={"2"}
-            button-nextVideo={"/ver/spy-x-family-3"}
+            siguienteVideo={"/ver/spy-x-family-3"}
             capitulosVideo={"/spy-x-family"}
-            button-beforeVideo={"/ver/spy-x-family-1"}
+            anteriorVideo={"/ver/spy-x-family-1"}
           />
         }
       />
@@ -4426,15 +4424,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/awajqa2jj4w7.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Spy x Family Capitulo 3"}
             tituloPag={"Animekun Gratis"}
             anime={"Spy x Family "}
             numero={"3"}
-            button-nextVideo={"/ver/spy-x-family-4"}
+            siguienteVideo={"/ver/spy-x-family-4"}
             capitulosVideo={"/spy-x-family"}
-            button-beforeVideo={"/ver/spy-x-family-2"}
+            anteriorVideo={"/ver/spy-x-family-2"}
           />
         }
       />
@@ -4444,15 +4442,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/w0sewr92f9ju.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Spy x Family Capitulo 4"}
             tituloPag={"Animekun Gratis"}
             anime={"Spy x Family "}
             numero={"4"}
-            button-nextVideo={"/ver/spy-x-family-5"}
+            siguienteVideo={"/ver/spy-x-family-5"}
             capitulosVideo={"/spy-x-family"}
-            button-beforeVideo={"/ver/spy-x-family-3"}
+            anteriorVideo={"/ver/spy-x-family-3"}
           />
         }
       />
@@ -4462,15 +4460,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/2i7cketmtjs1.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Spy x Family Capitulo 5"}
             tituloPag={"Animekun Gratis"}
             anime={"Spy x Family "}
             numero={"5"}
-            button-nextVideo={"/ver/spy-x-family-6"}
+            siguienteVideo={"/ver/spy-x-family-6"}
             capitulosVideo={"/spy-x-family"}
-            button-beforeVideo={"/ver/spy-x-family-4"}
+            anteriorVideo={"/ver/spy-x-family-4"}
           />
         }
       />
@@ -4480,15 +4478,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/rrkz8sbzkqky.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Spy x Family Capitulo 6"}
             tituloPag={"Animekun Gratis"}
             anime={"Spy x Family "}
             numero={"6"}
-            button-nextVideo={"/ver/spy-x-family-7"}
+            siguienteVideo={"/ver/spy-x-family-7"}
             capitulosVideo={"/spy-x-family"}
-            button-beforeVideo={"/ver/spy-x-family-5"}
+            anteriorVideo={"/ver/spy-x-family-5"}
           />
         }
       />
@@ -4498,15 +4496,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/tc2su9me4dxa.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Spy x Family Capitulo 7"}
             tituloPag={"Animekun Gratis"}
             anime={"Spy x Family "}
             numero={"7"}
-            button-nextVideo={"/ver/spy-x-family-8"}
+            siguienteVideo={"/ver/spy-x-family-8"}
             capitulosVideo={"/spy-x-family"}
-            button-beforeVideo={"/ver/spy-x-family-6"}
+            anteriorVideo={"/ver/spy-x-family-6"}
           />
         }
       />
@@ -4516,15 +4514,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/vzshfa082g24.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Spy x Family Capitulo 8"}
             tituloPag={"Animekun Gratis"}
             anime={"Spy x Family "}
             numero={"8"}
-            button-nextVideo={"/ver/spy-x-family-9"}
+            siguienteVideo={"/ver/spy-x-family-9"}
             capitulosVideo={"/spy-x-family"}
-            button-beforeVideo={"/ver/spy-x-family-7"}
+            anteriorVideo={"/ver/spy-x-family-7"}
           />
         }
       />
@@ -4534,15 +4532,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/1gn8l2o3y2af.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Spy x Family Capitulo 9"}
             tituloPag={"Animekun Gratis"}
             anime={"Spy x Family "}
             numero={"9"}
-            button-nextVideo={"/ver/spy-x-family-10"}
+            siguienteVideo={"/ver/spy-x-family-10"}
             capitulosVideo={"/spy-x-family"}
-            button-beforeVideo={"/ver/spy-x-family-8"}
+            anteriorVideo={"/ver/spy-x-family-8"}
           />
         }
       />
@@ -4552,15 +4550,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/agx8f1kwho4z.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Spy x Family Capitulo 10"}
             tituloPag={"Animekun Gratis"}
             anime={"Spy x Family "}
             numero={"10"}
-            button-nextVideo={"/ver/spy-x-family-11"}
+            siguienteVideo={"/ver/spy-x-family-11"}
             capitulosVideo={"/spy-x-family"}
-            button-beforeVideo={"/ver/spy-x-family-9"}
+            anteriorVideo={"/ver/spy-x-family-9"}
           />
         }
       />
@@ -4570,15 +4568,15 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/cadm96fvauw7.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Spy x Family Capitulo 11"}
             tituloPag={"Animekun Gratis"}
             anime={"Spy x Family "}
             numero={"11"}
-            button-nextVideo={"/ver/spy-x-family-12"}
+            siguienteVideo={"/ver/spy-x-family-12"}
             capitulosVideo={"/spy-x-family"}
-            button-beforeVideo={"/ver/spy-x-family-10"}
+            anteriorVideo={"/ver/spy-x-family-10"}
           />
         }
       />
@@ -4588,14 +4586,14 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/71trlw0hlpcv.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Spy x Family Capitulo 12"}
             tituloPag={"Animekun Gratis"}
             anime={"Spy x Family "}
             numero={"12"}
             capitulosVideo={"/spy-x-family"}
-            button-beforeVideo={"/ver/spy-x-family-11"}
+            anteriorVideo={"/ver/spy-x-family-11"}
           />
         }
       />
@@ -4606,13 +4604,13 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/khuqp41twd42.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Date a Live IV Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun Gratis"}
             anime={"Date a Live IV "}
             numero={"1"}
-            button-nextVideo={"/ver/date-a-live-IV-2"}
+            siguienteVideo={"/ver/date-a-live-IV-2"}
             capitulosVideo={"/date-a-live-IV"}
           />
         }
@@ -4622,16 +4620,16 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/qa6hmv4n9jin.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Date a Live IV Capitulo 2"}
             tituloPag={"Animekun Gratis"}
             anime={"Date a Live IV "}
             numero={"2"}
-            classOpcionbutton-next=""
-            button-nextVideo={"/ver/date-a-live-IV-3"}
+            classOpcionSiguiente=""
+            siguienteVideo={"/ver/date-a-live-IV-3"}
             capitulosVideo={"/date-a-live-IV"}
-            button-beforeVideo={"/ver/date-a-live-IV-1"}
+            anteriorVideo={"/ver/date-a-live-IV-1"}
           />
         }
       />
@@ -4640,15 +4638,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/rrnr6on4nn9c.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Date a Live IV Capitulo 3"}
             tituloPag={"Animekun Gratis"}
             anime={"Date a Live IV "}
             numero={"3"}
-            button-nextVideo={"/ver/date-a-live-IV-4"}
+            siguienteVideo={"/ver/date-a-live-IV-4"}
             capitulosVideo={"/date-a-live-IV"}
-            button-beforeVideo={"/ver/date-a-live-IV-2"}
+            anteriorVideo={"/ver/date-a-live-IV-2"}
           />
         }
       />
@@ -4657,15 +4655,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/6nqv75p7215p.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Date a Live IV Capitulo 4"}
             tituloPag={"Animekun Gratis"}
             anime={"Date a Live IV "}
             numero={"4"}
-            button-nextVideo={"/ver/date-a-live-IV-5"}
+            siguienteVideo={"/ver/date-a-live-IV-5"}
             capitulosVideo={"/date-a-live-IV"}
-            button-beforeVideo={"/ver/date-a-live-IV-3"}
+            anteriorVideo={"/ver/date-a-live-IV-3"}
           />
         }
       />
@@ -4674,15 +4672,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/s958meb5zvwj.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Date a Live IV Capitulo 5"}
             tituloPag={"Animekun Gratis"}
             anime={"Date a Live IV "}
             numero={"5"}
-            button-nextVideo={"/ver/date-a-live-IV-6"}
+            siguienteVideo={"/ver/date-a-live-IV-6"}
             capitulosVideo={"/date-a-live-IV"}
-            button-beforeVideo={"/ver/date-a-live-IV-4"}
+            anteriorVideo={"/ver/date-a-live-IV-4"}
           />
         }
       />
@@ -4691,15 +4689,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/7f6i9l4dztzy.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Date a Live IV Capitulo 6"}
             tituloPag={"Animekun Gratis"}
             anime={"Date a Live IV "}
             numero={"6"}
-            button-nextVideo={"/ver/date-a-live-IV-7"}
+            siguienteVideo={"/ver/date-a-live-IV-7"}
             capitulosVideo={"/date-a-live-IV"}
-            button-beforeVideo={"/ver/date-a-live-IV-5"}
+            anteriorVideo={"/ver/date-a-live-IV-5"}
           />
         }
       />
@@ -4708,15 +4706,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/qlks3kmtxm3c.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Date a Live IV Capitulo 7"}
             tituloPag={"Animekun Gratis"}
             anime={"Date a Live IV "}
             numero={"7"}
-            button-nextVideo={"/ver/date-a-live-IV-8"}
+            siguienteVideo={"/ver/date-a-live-IV-8"}
             capitulosVideo={"/date-a-live-IV"}
-            button-beforeVideo={"/ver/date-a-live-IV-6"}
+            anteriorVideo={"/ver/date-a-live-IV-6"}
           />
         }
       />
@@ -4725,15 +4723,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/ykk92tiszl4t.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Date a Live IV Capitulo 8"}
             tituloPag={"Animekun Gratis"}
             anime={"Date a Live IV "}
             numero={"8"}
-            button-nextVideo={"/ver/date-a-live-IV-9"}
+            siguienteVideo={"/ver/date-a-live-IV-9"}
             capitulosVideo={"/date-a-live-IV"}
-            button-beforeVideo={"/ver/date-a-live-IV-7"}
+            anteriorVideo={"/ver/date-a-live-IV-7"}
           />
         }
       />
@@ -4742,15 +4740,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/ul6s5b2axofs.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Date a Live IV Capitulo 9"}
             tituloPag={"Animekun Gratis"}
             anime={"Date a Live IV "}
             numero={"9"}
-            button-nextVideo={"/ver/date-a-live-IV-10"}
+            siguienteVideo={"/ver/date-a-live-IV-10"}
             capitulosVideo={"/date-a-live-IV"}
-            button-beforeVideo={"/ver/date-a-live-IV-8"}
+            anteriorVideo={"/ver/date-a-live-IV-8"}
           />
         }
       />
@@ -4759,15 +4757,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/efbbkrhbt24a.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Date a Live IV Capitulo 10"}
             tituloPag={"Animekun Gratis"}
             anime={"Date a Live IV "}
             numero={"10"}
-            button-nextVideo={"/ver/date-a-live-IV-11"}
+            siguienteVideo={"/ver/date-a-live-IV-11"}
             capitulosVideo={"/date-a-live-IV"}
-            button-beforeVideo={"/ver/date-a-live-IV-9"}
+            anteriorVideo={"/ver/date-a-live-IV-9"}
           />
         }
       />
@@ -4776,15 +4774,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/25govrnpro2i.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Date a Live IV Capitulo 11"}
             tituloPag={"Animekun Gratis"}
             anime={"Date a Live IV "}
             numero={"11"}
-            button-nextVideo={"/ver/date-a-live-IV-12"}
+            siguienteVideo={"/ver/date-a-live-IV-12"}
             capitulosVideo={"/date-a-live-IV"}
-            button-beforeVideo={"/ver/date-a-live-IV-10"}
+            anteriorVideo={"/ver/date-a-live-IV-10"}
           />
         }
       />
@@ -4793,14 +4791,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/8jwulstwxvf5.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Date a Live IV Capitulo 12"}
             tituloPag={"Animekun Gratis"}
             anime={"Date a Live IV "}
             numero={"12"}
             capitulosVideo={"/date-a-live-IV"}
-            button-beforeVideo={"/ver/date-a-live-IV-11"}
+            anteriorVideo={"/ver/date-a-live-IV-11"}
           />
         }
       />
@@ -4811,15 +4809,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/iua5pjl09wr8.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={
               "Tate no Yuusha no Naraigari Segunda Temporada Capitulo 1"
             }
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun Gratis"}
             anime={"Tate no Yuusha no Naraigari Segunda Temporada"}
             numero={"1"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/tate-no-yuusha-no-naraigari-segunda-temporada-2"
             }
             capitulosVideo={"/tate-no-yuusha-no-naraigari-segunda-temporada"}
@@ -4831,20 +4829,20 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/m3yqx7hhktv1.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Tate no Yuusha no Naraigari Segunda Temporada Capitulo 2"
             }
             tituloPag={"Animekun Gratis"}
             anime={"Tate no Yuusha no Naraigari Segunda Temporada "}
             numero={"2"}
-            classOpcionbutton-next=""
-            button-nextVideo={
+            classOpcionSiguiente=""
+            siguienteVideo={
               "/ver/tate-no-yuusha-no-naraigari-segunda-temporada-3"
             }
             capitulosVideo={"/tate-no-yuusha-no-naraigari-segunda-temporada"}
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/tate-no-yuusha-no-naraigari-segunda-temporada-1"
             }
           />
@@ -4855,19 +4853,19 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/2eik3dc76yef.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Tate no Yuusha no Naraigari Segunda Temporada Capitulo 3"
             }
             tituloPag={"Animekun Gratis"}
             anime={"Tate no Yuusha no Naraigari Segunda Temporada "}
             numero={"3"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/tate-no-yuusha-no-naraigari-segunda-temporada-4"
             }
             capitulosVideo={"/tate-no-yuusha-no-naraigari-segunda-temporada"}
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/tate-no-yuusha-no-naraigari-segunda-temporada-2"
             }
           />
@@ -4878,19 +4876,19 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/y3hee43zsp68.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Tate no Yuusha no Naraigari Segunda Temporada Capitulo 4"
             }
             tituloPag={"Animekun Gratis"}
             anime={"Tate no Yuusha no Naraigari Segunda Temporada "}
             numero={"4"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/tate-no-yuusha-no-naraigari-segunda-temporada-5"
             }
             capitulosVideo={"/tate-no-yuusha-no-naraigari-segunda-temporada"}
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/tate-no-yuusha-no-naraigari-segunda-temporada-3"
             }
           />
@@ -4901,19 +4899,19 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/7gvjwas8wdwk.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Tate no Yuusha no Naraigari Segunda Temporada Capitulo 5"
             }
             tituloPag={"Animekun Gratis"}
             anime={"Tate no Yuusha no Naraigari Segunda Temporada "}
             numero={"5"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/tate-no-yuusha-no-naraigari-segunda-temporada-6"
             }
             capitulosVideo={"/tate-no-yuusha-no-naraigari-segunda-temporada"}
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/tate-no-yuusha-no-naraigari-segunda-temporada-4"
             }
           />
@@ -4924,19 +4922,19 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/v1yqrus2dera.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Tate no Yuusha no Naraigari Segunda Temporada Capitulo 6"
             }
             tituloPag={"Animekun Gratis"}
             anime={"Tate no Yuusha no Naraigari Segunda Temporada "}
             numero={"6"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/tate-no-yuusha-no-naraigari-segunda-temporada-7"
             }
             capitulosVideo={"/tate-no-yuusha-no-naraigari-segunda-temporada"}
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/tate-no-yuusha-no-naraigari-segunda-temporada-5"
             }
           />
@@ -4947,19 +4945,19 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/jf30f0akscad.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Tate no Yuusha no Naraigari Segunda Temporada Capitulo 7"
             }
             tituloPag={"Animekun Gratis"}
             anime={"Tate no Yuusha no Naraigari Segunda Temporada "}
             numero={"7"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/tate-no-yuusha-no-naraigari-segunda-temporada-8"
             }
             capitulosVideo={"/tate-no-yuusha-no-naraigari-segunda-temporada"}
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/tate-no-yuusha-no-naraigari-segunda-temporada-6"
             }
           />
@@ -4970,19 +4968,19 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/wgubkrcsnovz.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Tate no Yuusha no Naraigari Segunda Temporada Capitulo 8"
             }
             tituloPag={"Animekun Gratis"}
             anime={"Tate no Yuusha no Naraigari Segunda Temporada "}
             numero={"8"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/tate-no-yuusha-no-naraigari-segunda-temporada-9"
             }
             capitulosVideo={"/tate-no-yuusha-no-naraigari-segunda-temporada"}
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/tate-no-yuusha-no-naraigari-segunda-temporada-7"
             }
           />
@@ -4993,19 +4991,19 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/r7dkatqioin7.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Tate no Yuusha no Naraigari Segunda Temporada Capitulo 9"
             }
             tituloPag={"Animekun Gratis"}
             anime={"Tate no Yuusha no Naraigari Segunda Temporada "}
             numero={"9"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/tate-no-yuusha-no-naraigari-segunda-temporada-10"
             }
             capitulosVideo={"/tate-no-yuusha-no-naraigari-segunda-temporada"}
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/tate-no-yuusha-no-naraigari-segunda-temporada-8"
             }
           />
@@ -5016,19 +5014,19 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/k06dkl92t3ay.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Tate no Yuusha no Naraigari Segunda Temporada Capitulo 10"
             }
             tituloPag={"Animekun Gratis"}
             anime={"Tate no Yuusha no Naraigari Segunda Temporada "}
             numero={"10"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/tate-no-yuusha-no-naraigari-segunda-temporada-11"
             }
             capitulosVideo={"/tate-no-yuusha-no-naraigari-segunda-temporada"}
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/tate-no-yuusha-no-naraigari-segunda-temporada-9"
             }
           />
@@ -5039,19 +5037,19 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/p3b4oe5cnviz.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Tate no Yuusha no Naraigari Segunda Temporada Capitulo 11"
             }
             tituloPag={"Animekun Gratis"}
             anime={"Tate no Yuusha no Naraigari Segunda Temporada "}
             numero={"11"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/tate-no-yuusha-no-naraigari-segunda-temporada-12"
             }
             capitulosVideo={"/tate-no-yuusha-no-naraigari-segunda-temporada"}
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/tate-no-yuusha-no-naraigari-segunda-temporada-10"
             }
           />
@@ -5062,19 +5060,19 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/r8s0733eolyw.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Tate no Yuusha no Naraigari Segunda Temporada Capitulo 12"
             }
             tituloPag={"Animekun Gratis"}
             anime={"Tate no Yuusha no Naraigari Segunda Temporada "}
             numero={"12"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/tate-no-yuusha-no-naraigari-segunda-temporada-13"
             }
             capitulosVideo={"/tate-no-yuusha-no-naraigari-segunda-temporada"}
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/tate-no-yuusha-no-naraigari-segunda-temporada-11"
             }
           />
@@ -5085,8 +5083,8 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/0v6217fyz7z9.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={
               "Tate no Yuusha no Naraigari Segunda Temporada Capitulo 13"
             }
@@ -5094,7 +5092,7 @@ function Videos() {
             anime={"Tate no Yuusha no Naraigari Segunda Temporada "}
             numero={"13"}
             capitulosVideo={"/tate-no-yuusha-no-naraigari-segunda-temporada"}
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/tate-no-yuusha-no-naraigari-segunda-temporada-12"
             }
           />
@@ -5106,13 +5104,13 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/xw4crh9sl276.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Tomodachi Game Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun Gratis"}
             anime={"Tomodachi Game"}
             numero={"1"}
-            button-nextVideo={"/ver/tomodachi-game-2"}
+            siguienteVideo={"/ver/tomodachi-game-2"}
             capitulosVideo={"/tomodachi-game"}
           />
         }
@@ -5122,16 +5120,16 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/g3aexb75dluo.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Tomodachi Game Capitulo 2"}
             tituloPag={"Animekun Gratis"}
             anime={"Tomodachi Game "}
             numero={"2"}
-            classOpcionbutton-next=""
-            button-nextVideo={"/ver/tomodachi-game-3"}
+            classOpcionSiguiente=""
+            siguienteVideo={"/ver/tomodachi-game-3"}
             capitulosVideo={"/tomodachi-game"}
-            button-beforeVideo={"/ver/tomodachi-game-1"}
+            anteriorVideo={"/ver/tomodachi-game-1"}
           />
         }
       />
@@ -5140,15 +5138,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/x8jxfjtmxxc2.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Tomodachi Game Capitulo 3"}
             tituloPag={"Animekun Gratis"}
             anime={"Tomodachi Game "}
             numero={"3"}
-            button-nextVideo={"/ver/tomodachi-game-4"}
+            siguienteVideo={"/ver/tomodachi-game-4"}
             capitulosVideo={"/tomodachi-game"}
-            button-beforeVideo={"/ver/tomodachi-game-2"}
+            anteriorVideo={"/ver/tomodachi-game-2"}
           />
         }
       />
@@ -5157,15 +5155,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/3yudj5qph1sv.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Tomodachi Game Capitulo 4"}
             tituloPag={"Animekun Gratis"}
             anime={"Tomodachi Game "}
             numero={"4"}
-            button-nextVideo={"/ver/tomodachi-game-5"}
+            siguienteVideo={"/ver/tomodachi-game-5"}
             capitulosVideo={"/tomodachi-game"}
-            button-beforeVideo={"/ver/tomodachi-game-3"}
+            anteriorVideo={"/ver/tomodachi-game-3"}
           />
         }
       />
@@ -5174,15 +5172,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/h4nfyksueeq7.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Tomodachi Game Capitulo 5"}
             tituloPag={"Animekun Gratis"}
             anime={"Tomodachi Game "}
             numero={"5"}
-            button-nextVideo={"/ver/tomodachi-game-6"}
+            siguienteVideo={"/ver/tomodachi-game-6"}
             capitulosVideo={"/tomodachi-game"}
-            button-beforeVideo={"/ver/tomodachi-game-4"}
+            anteriorVideo={"/ver/tomodachi-game-4"}
           />
         }
       />
@@ -5191,15 +5189,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/4wwrjeglv3xn.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Tomodachi Game Capitulo 6"}
             tituloPag={"Animekun Gratis"}
             anime={"Tomodachi Game "}
             numero={"6"}
-            button-nextVideo={"/ver/tomodachi-game-7"}
+            siguienteVideo={"/ver/tomodachi-game-7"}
             capitulosVideo={"/tomodachi-game"}
-            button-beforeVideo={"/ver/tomodachi-game-5"}
+            anteriorVideo={"/ver/tomodachi-game-5"}
           />
         }
       />
@@ -5208,15 +5206,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/pz2x4129xuy1.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Tomodachi Game Capitulo 7"}
             tituloPag={"Animekun Gratis"}
             anime={"Tomodachi Game "}
             numero={"7"}
-            button-nextVideo={"/ver/tomodachi-game-8"}
+            siguienteVideo={"/ver/tomodachi-game-8"}
             capitulosVideo={"/tomodachi-game"}
-            button-beforeVideo={"/ver/tomodachi-game-6"}
+            anteriorVideo={"/ver/tomodachi-game-6"}
           />
         }
       />
@@ -5225,15 +5223,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/pmkat7b2fhnm.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Tomodachi Game Capitulo 8"}
             tituloPag={"Animekun Gratis"}
             anime={"Tomodachi Game "}
             numero={"8"}
-            button-nextVideo={"/ver/tomodachi-game-9"}
+            siguienteVideo={"/ver/tomodachi-game-9"}
             capitulosVideo={"/tomodachi-game"}
-            button-beforeVideo={"/ver/tomodachi-game-7"}
+            anteriorVideo={"/ver/tomodachi-game-7"}
           />
         }
       />
@@ -5242,15 +5240,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/m7eb16rrtwis.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Tomodachi Game Capitulo 9"}
             tituloPag={"Animekun Gratis"}
             anime={"Tomodachi Game "}
             numero={"9"}
-            button-nextVideo={"/ver/tomodachi-game-10"}
+            siguienteVideo={"/ver/tomodachi-game-10"}
             capitulosVideo={"/tomodachi-game"}
-            button-beforeVideo={"/ver/tomodachi-game-8"}
+            anteriorVideo={"/ver/tomodachi-game-8"}
           />
         }
       />
@@ -5259,15 +5257,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/3xpqg0gp9qru.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Tomodachi Game Capitulo 10"}
             tituloPag={"Animekun Gratis"}
             anime={"Tomodachi Game "}
             numero={"10"}
-            button-nextVideo={"/ver/tomodachi-game-11"}
+            siguienteVideo={"/ver/tomodachi-game-11"}
             capitulosVideo={"/tomodachi-game"}
-            button-beforeVideo={"/ver/tomodachi-game-9"}
+            anteriorVideo={"/ver/tomodachi-game-9"}
           />
         }
       />
@@ -5276,15 +5274,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/omiwjek9j9zl.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Tomodachi Game Capitulo 11"}
             tituloPag={"Animekun Gratis"}
             anime={"Tomodachi Game "}
             numero={"11"}
-            button-nextVideo={"/ver/tomodachi-game-12"}
+            siguienteVideo={"/ver/tomodachi-game-12"}
             capitulosVideo={"/tomodachi-game"}
-            button-beforeVideo={"/ver/tomodachi-game-10"}
+            anteriorVideo={"/ver/tomodachi-game-10"}
           />
         }
       />
@@ -5293,14 +5291,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/3k4mpop05jm1.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Tomodachi Game Capitulo 12"}
             tituloPag={"Animekun Gratis"}
             anime={"Tomodachi Game "}
             numero={"12"}
             capitulosVideo={"/tomodachi-game"}
-            button-beforeVideo={"/ver/tomodachi-game-11"}
+            anteriorVideo={"/ver/tomodachi-game-11"}
           />
         }
       />
@@ -5310,13 +5308,13 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/achrsafvaswy.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Baraou no Souretsu Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun Gratis"}
             anime={"Baraou no Souretsu"}
             numero={"1"}
-            button-nextVideo={"/ver/baraou-no-souretsu-2"}
+            siguienteVideo={"/ver/baraou-no-souretsu-2"}
             capitulosVideo={"/baraou-no-souretsu"}
           />
         }
@@ -5326,15 +5324,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/1d38dps4mxfe.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Baraou no Souretsu Capitulo 2"}
             tituloPag={"Animekun Gratis"}
             anime={"Baraou no Souretsu "}
             numero={"2"}
-            button-nextVideo={"/ver/baraou-no-souretsu-3"}
+            siguienteVideo={"/ver/baraou-no-souretsu-3"}
             capitulosVideo={"/baraou-no-souretsu"}
-            button-beforeVideo={"/ver/baraou-no-souretsu-1"}
+            anteriorVideo={"/ver/baraou-no-souretsu-1"}
           />
         }
       />
@@ -5343,15 +5341,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/g7gl2gnh5gaf.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Baraou no Souretsu Capitulo 3"}
             tituloPag={"Animekun Gratis"}
             anime={"Baraou no Souretsu "}
             numero={"3"}
-            button-nextVideo={"/ver/baraou-no-souretsu-4"}
+            siguienteVideo={"/ver/baraou-no-souretsu-4"}
             capitulosVideo={"/baraou-no-souretsu"}
-            button-beforeVideo={"/ver/baraou-no-souretsu-2"}
+            anteriorVideo={"/ver/baraou-no-souretsu-2"}
           />
         }
       />
@@ -5360,15 +5358,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/r8rwi27jx27e.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Baraou no Souretsu Capitulo 4"}
             tituloPag={"Animekun Gratis"}
             anime={"Baraou no Souretsu "}
             numero={"4"}
-            button-nextVideo={"/ver/baraou-no-souretsu-5"}
+            siguienteVideo={"/ver/baraou-no-souretsu-5"}
             capitulosVideo={"/baraou-no-souretsu"}
-            button-beforeVideo={"/ver/baraou-no-souretsu-3"}
+            anteriorVideo={"/ver/baraou-no-souretsu-3"}
           />
         }
       />
@@ -5377,15 +5375,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/bcf7zadtzmwt.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Baraou no Souretsu Capitulo 5"}
             tituloPag={"Animekun Gratis"}
             anime={"Baraou no Souretsu "}
             numero={"5"}
-            button-nextVideo={"/ver/baraou-no-souretsu-6"}
+            siguienteVideo={"/ver/baraou-no-souretsu-6"}
             capitulosVideo={"/baraou-no-souretsu"}
-            button-beforeVideo={"/ver/baraou-no-souretsu-4"}
+            anteriorVideo={"/ver/baraou-no-souretsu-4"}
           />
         }
       />
@@ -5394,15 +5392,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/tidjueq81t4l.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Baraou no Souretsu Capitulo 6"}
             tituloPag={"Animekun Gratis"}
             anime={"Baraou no Souretsu "}
             numero={"6"}
-            button-nextVideo={"/ver/baraou-no-souretsu-7"}
+            siguienteVideo={"/ver/baraou-no-souretsu-7"}
             capitulosVideo={"/baraou-no-souretsu"}
-            button-beforeVideo={"/ver/baraou-no-souretsu-5"}
+            anteriorVideo={"/ver/baraou-no-souretsu-5"}
           />
         }
       />
@@ -5411,15 +5409,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/64017poxg97y.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Baraou no Souretsu Capitulo 7"}
             tituloPag={"Animekun Gratis"}
             anime={"Baraou no Souretsu "}
             numero={"7"}
-            button-nextVideo={"/ver/baraou-no-souretsu-8"}
+            siguienteVideo={"/ver/baraou-no-souretsu-8"}
             capitulosVideo={"/baraou-no-souretsu"}
-            button-beforeVideo={"/ver/baraou-no-souretsu-6"}
+            anteriorVideo={"/ver/baraou-no-souretsu-6"}
           />
         }
       />
@@ -5428,15 +5426,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/k6w1jtbm7ym5.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Baraou no Souretsu Capitulo 8"}
             tituloPag={"Animekun Gratis"}
             anime={"Baraou no Souretsu "}
             numero={"8"}
-            button-nextVideo={"/ver/baraou-no-souretsu-9"}
+            siguienteVideo={"/ver/baraou-no-souretsu-9"}
             capitulosVideo={"/baraou-no-souretsu"}
-            button-beforeVideo={"/ver/baraou-no-souretsu-7"}
+            anteriorVideo={"/ver/baraou-no-souretsu-7"}
           />
         }
       />
@@ -5445,15 +5443,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/ztfrj77yh6ue.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Baraou no Souretsu Capitulo 9"}
             tituloPag={"Animekun Gratis"}
             anime={"Baraou no Souretsu "}
             numero={"9"}
-            button-nextVideo={"/ver/baraou-no-souretsu-10"}
+            siguienteVideo={"/ver/baraou-no-souretsu-10"}
             capitulosVideo={"/baraou-no-souretsu"}
-            button-beforeVideo={"/ver/baraou-no-souretsu-8"}
+            anteriorVideo={"/ver/baraou-no-souretsu-8"}
           />
         }
       />
@@ -5462,15 +5460,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/hfoy04x23c96.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Baraou no Souretsu Capitulo 10"}
             tituloPag={"Animekun Gratis"}
             anime={"Baraou no Souretsu "}
             numero={"10"}
-            button-nextVideo={"/ver/baraou-no-souretsu-11"}
+            siguienteVideo={"/ver/baraou-no-souretsu-11"}
             capitulosVideo={"/baraou-no-souretsu"}
-            button-beforeVideo={"/ver/baraou-no-souretsu-9"}
+            anteriorVideo={"/ver/baraou-no-souretsu-9"}
           />
         }
       />
@@ -5479,15 +5477,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/uabksjac3zdn.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Baraou no Souretsu Capitulo 11"}
             tituloPag={"Animekun Gratis"}
             anime={"Baraou no Souretsu "}
             numero={"11"}
-            button-nextVideo={"/ver/baraou-no-souretsu-12"}
+            siguienteVideo={"/ver/baraou-no-souretsu-12"}
             capitulosVideo={"/baraou-no-souretsu"}
-            button-beforeVideo={"/ver/baraou-no-souretsu-10"}
+            anteriorVideo={"/ver/baraou-no-souretsu-10"}
           />
         }
       />
@@ -5496,15 +5494,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/nzkspkrlyg0y.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Baraou no Souretsu Capitulo 12"}
             tituloPag={"Animekun Gratis"}
             anime={"Baraou no Souretsu "}
             numero={"12"}
-            button-nextVideo={"/ver/baraou-no-souretsu-13"}
+            siguienteVideo={"/ver/baraou-no-souretsu-13"}
             capitulosVideo={"/baraou-no-souretsu"}
-            button-beforeVideo={"/ver/baraou-no-souretsu-11"}
+            anteriorVideo={"/ver/baraou-no-souretsu-11"}
           />
         }
       />
@@ -5513,15 +5511,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/g5w14rpykmiz.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Baraou no Souretsu Capitulo 13"}
             tituloPag={"Animekun Gratis"}
             anime={"Baraou no Souretsu "}
             numero={"13"}
-            button-nextVideo={"/ver/baraou-no-souretsu-14"}
+            siguienteVideo={"/ver/baraou-no-souretsu-14"}
             capitulosVideo={"/baraou-no-souretsu"}
-            button-beforeVideo={"/ver/baraou-no-souretsu-12"}
+            anteriorVideo={"/ver/baraou-no-souretsu-12"}
           />
         }
       />
@@ -5530,15 +5528,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/yk5ddsvy6w2a.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Baraou no Souretsu Capitulo 14"}
             tituloPag={"Animekun Gratis"}
             anime={"Baraou no Souretsu "}
             numero={"14"}
-            button-nextVideo={"/ver/baraou-no-souretsu-15"}
+            siguienteVideo={"/ver/baraou-no-souretsu-15"}
             capitulosVideo={"/baraou-no-souretsu"}
-            button-beforeVideo={"/ver/baraou-no-souretsu-13"}
+            anteriorVideo={"/ver/baraou-no-souretsu-13"}
           />
         }
       />
@@ -5547,15 +5545,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/506uz31mohxq.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Baraou no Souretsu Capitulo 15"}
             tituloPag={"Animekun Gratis"}
             anime={"Baraou no Souretsu "}
             numero={"15"}
-            button-nextVideo={"/ver/baraou-no-souretsu-16"}
+            siguienteVideo={"/ver/baraou-no-souretsu-16"}
             capitulosVideo={"/baraou-no-souretsu"}
-            button-beforeVideo={"/ver/baraou-no-souretsu-14"}
+            anteriorVideo={"/ver/baraou-no-souretsu-14"}
           />
         }
       />
@@ -5564,15 +5562,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/r7pmiyylq1rh.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Baraou no Souretsu Capitulo 16"}
             tituloPag={"Animekun Gratis"}
             anime={"Baraou no Souretsu "}
             numero={"16"}
-            button-nextVideo={"/ver/baraou-no-souretsu-17"}
+            siguienteVideo={"/ver/baraou-no-souretsu-17"}
             capitulosVideo={"/baraou-no-souretsu"}
-            button-beforeVideo={"/ver/baraou-no-souretsu-15"}
+            anteriorVideo={"/ver/baraou-no-souretsu-15"}
           />
         }
       />
@@ -5581,15 +5579,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/m0crmawn7nfw.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Baraou no Souretsu Capitulo 17"}
             tituloPag={"Animekun Gratis"}
             anime={"Baraou no Souretsu "}
             numero={"17"}
-            button-nextVideo={"/ver/baraou-no-souretsu-18"}
+            siguienteVideo={"/ver/baraou-no-souretsu-18"}
             capitulosVideo={"/baraou-no-souretsu"}
-            button-beforeVideo={"/ver/baraou-no-souretsu-16"}
+            anteriorVideo={"/ver/baraou-no-souretsu-16"}
           />
         }
       />
@@ -5598,15 +5596,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/76zisatg1g33.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Baraou no Souretsu Capitulo 18"}
             tituloPag={"Animekun Gratis"}
             anime={"Baraou no Souretsu "}
             numero={"18"}
-            button-nextVideo={"/ver/baraou-no-souretsu-19"}
+            siguienteVideo={"/ver/baraou-no-souretsu-19"}
             capitulosVideo={"/baraou-no-souretsu"}
-            button-beforeVideo={"/ver/baraou-no-souretsu-17"}
+            anteriorVideo={"/ver/baraou-no-souretsu-17"}
           />
         }
       />
@@ -5615,15 +5613,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/a25gpnhg5m2y.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Baraou no Souretsu Capitulo 19"}
             tituloPag={"Animekun Gratis"}
             anime={"Baraou no Souretsu "}
             numero={"19"}
-            button-nextVideo={"/ver/baraou-no-souretsu-20"}
+            siguienteVideo={"/ver/baraou-no-souretsu-20"}
             capitulosVideo={"/baraou-no-souretsu"}
-            button-beforeVideo={"/ver/baraou-no-souretsu-18"}
+            anteriorVideo={"/ver/baraou-no-souretsu-18"}
           />
         }
       />
@@ -5632,15 +5630,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/lz1fjmrinmlf.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Baraou no Souretsu Capitulo 20"}
             tituloPag={"Animekun Gratis"}
             anime={"Baraou no Souretsu "}
             numero={"20"}
-            button-nextVideo={"/ver/baraou-no-souretsu-21"}
+            siguienteVideo={"/ver/baraou-no-souretsu-21"}
             capitulosVideo={"/baraou-no-souretsu"}
-            button-beforeVideo={"/ver/baraou-no-souretsu-19"}
+            anteriorVideo={"/ver/baraou-no-souretsu-19"}
           />
         }
       />
@@ -5649,15 +5647,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/5r1yzx3c0wt6.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Baraou no Souretsu Capitulo 21"}
             tituloPag={"Animekun Gratis"}
             anime={"Baraou no Souretsu "}
             numero={"21"}
-            button-nextVideo={"/ver/baraou-no-souretsu-22"}
+            siguienteVideo={"/ver/baraou-no-souretsu-22"}
             capitulosVideo={"/baraou-no-souretsu"}
-            button-beforeVideo={"/ver/baraou-no-souretsu-20"}
+            anteriorVideo={"/ver/baraou-no-souretsu-20"}
           />
         }
       />
@@ -5666,15 +5664,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/ylqks9y65ibr.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Baraou no Souretsu Capitulo 22"}
             tituloPag={"Animekun Gratis"}
             anime={"Baraou no Souretsu "}
             numero={"22"}
-            button-nextVideo={"/ver/baraou-no-souretsu-23"}
+            siguienteVideo={"/ver/baraou-no-souretsu-23"}
             capitulosVideo={"/baraou-no-souretsu"}
-            button-beforeVideo={"/ver/baraou-no-souretsu-21"}
+            anteriorVideo={"/ver/baraou-no-souretsu-21"}
           />
         }
       />
@@ -5683,15 +5681,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/dbc479i3phlv.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Baraou no Souretsu Capitulo 23"}
             tituloPag={"Animekun Gratis"}
             anime={"Baraou no Souretsu "}
             numero={"22"}
-            button-nextVideo={"/ver/baraou-no-souretsu-24"}
+            siguienteVideo={"/ver/baraou-no-souretsu-24"}
             capitulosVideo={"/baraou-no-souretsu"}
-            button-beforeVideo={"/ver/baraou-no-souretsu-22"}
+            anteriorVideo={"/ver/baraou-no-souretsu-22"}
           />
         }
       />
@@ -5700,14 +5698,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/hq9600g9ir6z.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Baraou no Souretsu Capitulo 24"}
             tituloPag={"Animekun Gratis"}
             anime={"Baraou no Souretsu "}
             numero={"23"}
             capitulosVideo={"/baraou-no-souretsu"}
-            button-beforeVideo={"/ver/baraou-no-souretsu-23"}
+            anteriorVideo={"/ver/baraou-no-souretsu-23"}
           />
         }
       />
@@ -5721,13 +5719,13 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/u9x04cimut2j.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Karakuri Circus Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun"}
             anime={"Karakuri Circus"}
             numero={"1"}
-            button-nextVideo={"/ver/karakuri-circus-2"}
+            siguienteVideo={"/ver/karakuri-circus-2"}
             capitulosVideo={"/karakuri-circus"}
           />
         }
@@ -5737,16 +5735,16 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/5ket8q9eukei.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 2"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"2"}
-            classOpcionbutton-next=""
-            button-nextVideo={"/ver/karakuri-circus-3"}
+            classOpcionSiguiente=""
+            siguienteVideo={"/ver/karakuri-circus-3"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-1"}
+            anteriorVideo={"/ver/karakuri-circus-1"}
           />
         }
       />
@@ -5755,15 +5753,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/pgoeu85fe5l8.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 3"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"3"}
-            button-nextVideo={"/ver/karakuri-circus-4"}
+            siguienteVideo={"/ver/karakuri-circus-4"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-2"}
+            anteriorVideo={"/ver/karakuri-circus-2"}
           />
         }
       />
@@ -5772,15 +5770,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/o8pwsqygzwb4.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 4"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"4"}
-            button-nextVideo={"/ver/karakuri-circus-5"}
+            siguienteVideo={"/ver/karakuri-circus-5"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-3"}
+            anteriorVideo={"/ver/karakuri-circus-3"}
           />
         }
       />
@@ -5789,15 +5787,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/0xqgwg86mplp.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 5"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"5"}
-            button-nextVideo={"/ver/karakuri-circus-6"}
+            siguienteVideo={"/ver/karakuri-circus-6"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-4"}
+            anteriorVideo={"/ver/karakuri-circus-4"}
           />
         }
       />
@@ -5806,15 +5804,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/hrcqd033euua.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 6"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"6"}
-            button-nextVideo={"/ver/karakuri-circus-7"}
+            siguienteVideo={"/ver/karakuri-circus-7"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-5"}
+            anteriorVideo={"/ver/karakuri-circus-5"}
           />
         }
       />
@@ -5823,15 +5821,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/fdwvdpzsd3pl.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 7"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"7"}
-            button-nextVideo={"/ver/karakuri-circus-8"}
+            siguienteVideo={"/ver/karakuri-circus-8"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-6"}
+            anteriorVideo={"/ver/karakuri-circus-6"}
           />
         }
       />
@@ -5840,15 +5838,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/34pi5tu0aq76.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 8"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"8"}
-            button-nextVideo={"/ver/karakuri-circus-9"}
+            siguienteVideo={"/ver/karakuri-circus-9"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-7"}
+            anteriorVideo={"/ver/karakuri-circus-7"}
           />
         }
       />
@@ -5857,15 +5855,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/2ekwlel86k5o	.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 9"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"9"}
-            button-nextVideo={"/ver/karakuri-circus-10"}
+            siguienteVideo={"/ver/karakuri-circus-10"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-8"}
+            anteriorVideo={"/ver/karakuri-circus-8"}
           />
         }
       />
@@ -5874,15 +5872,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/04k2ts8q8q3y.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 10"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"10"}
-            button-nextVideo={"/ver/karakuri-circus-11"}
+            siguienteVideo={"/ver/karakuri-circus-11"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-9"}
+            anteriorVideo={"/ver/karakuri-circus-9"}
           />
         }
       />
@@ -5891,15 +5889,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/79n4nhdd08v2.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 11"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"11"}
-            button-nextVideo={"/ver/karakuri-circus-12"}
+            siguienteVideo={"/ver/karakuri-circus-12"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-10"}
+            anteriorVideo={"/ver/karakuri-circus-10"}
           />
         }
       />
@@ -5908,15 +5906,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/4147gox0bh23.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 12"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"12"}
-            button-nextVideo={"/ver/karakuri-circus-13"}
+            siguienteVideo={"/ver/karakuri-circus-13"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-11"}
+            anteriorVideo={"/ver/karakuri-circus-11"}
           />
         }
       />
@@ -5925,15 +5923,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/j1o1te7a5quj.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 13"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"13"}
-            button-nextVideo={"/ver/karakuri-circus-14"}
+            siguienteVideo={"/ver/karakuri-circus-14"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-12"}
+            anteriorVideo={"/ver/karakuri-circus-12"}
           />
         }
       />
@@ -5942,15 +5940,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/mhzikfy9jjfk.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 14"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"14"}
-            button-nextVideo={"/ver/karakuri-circus-15"}
+            siguienteVideo={"/ver/karakuri-circus-15"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-13"}
+            anteriorVideo={"/ver/karakuri-circus-13"}
           />
         }
       />
@@ -5959,15 +5957,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/sy9ncctax111.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 15"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"15"}
-            button-nextVideo={"/ver/karakuri-circus-16"}
+            siguienteVideo={"/ver/karakuri-circus-16"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-14"}
+            anteriorVideo={"/ver/karakuri-circus-14"}
           />
         }
       />
@@ -5976,15 +5974,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/tfqfdz8intuc.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 16"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"16"}
-            button-nextVideo={"/ver/karakuri-circus-17"}
+            siguienteVideo={"/ver/karakuri-circus-17"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-15"}
+            anteriorVideo={"/ver/karakuri-circus-15"}
           />
         }
       />
@@ -5993,15 +5991,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/aitb2gatz9l2.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 17"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"17"}
-            button-nextVideo={"/ver/karakuri-circus-18"}
+            siguienteVideo={"/ver/karakuri-circus-18"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-16"}
+            anteriorVideo={"/ver/karakuri-circus-16"}
           />
         }
       />
@@ -6010,15 +6008,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/6ucz9nya70qf.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 18"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"18"}
-            button-nextVideo={"/ver/karakuri-circus-19"}
+            siguienteVideo={"/ver/karakuri-circus-19"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-17"}
+            anteriorVideo={"/ver/karakuri-circus-17"}
           />
         }
       />
@@ -6027,15 +6025,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/lalnosa0icwm.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 19"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"19"}
-            button-nextVideo={"/ver/karakuri-circus-20"}
+            siguienteVideo={"/ver/karakuri-circus-20"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-18"}
+            anteriorVideo={"/ver/karakuri-circus-18"}
           />
         }
       />
@@ -6044,15 +6042,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/d76e0yurmqgn.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 20"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"20"}
-            button-nextVideo={"/ver/karakuri-circus-21"}
+            siguienteVideo={"/ver/karakuri-circus-21"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-19"}
+            anteriorVideo={"/ver/karakuri-circus-19"}
           />
         }
       />
@@ -6061,15 +6059,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/rcvf3ggfakit.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 21"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"21"}
-            button-nextVideo={"/ver/karakuri-circus-22"}
+            siguienteVideo={"/ver/karakuri-circus-22"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-20"}
+            anteriorVideo={"/ver/karakuri-circus-20"}
           />
         }
       />
@@ -6078,15 +6076,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/lpwh9yftwih6.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 22"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"22"}
-            button-nextVideo={"/ver/karakuri-circus-23"}
+            siguienteVideo={"/ver/karakuri-circus-23"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-21"}
+            anteriorVideo={"/ver/karakuri-circus-21"}
           />
         }
       />
@@ -6095,15 +6093,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/90oabk5csckp.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 23"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"23"}
-            button-nextVideo={"/ver/karakuri-circus-24"}
+            siguienteVideo={"/ver/karakuri-circus-24"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-22"}
+            anteriorVideo={"/ver/karakuri-circus-22"}
           />
         }
       />
@@ -6112,15 +6110,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/2naj6wc33y9j.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 24"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"24"}
-            button-nextVideo={"/ver/karakuri-circus-25"}
+            siguienteVideo={"/ver/karakuri-circus-25"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-23"}
+            anteriorVideo={"/ver/karakuri-circus-23"}
           />
         }
       />
@@ -6129,15 +6127,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/iwz5teenhf2w.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 25"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"25"}
-            button-nextVideo={"/ver/karakuri-circus-26"}
+            siguienteVideo={"/ver/karakuri-circus-26"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-24"}
+            anteriorVideo={"/ver/karakuri-circus-24"}
           />
         }
       />
@@ -6146,15 +6144,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/aae27dvebnzl.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 26"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"26"}
-            button-nextVideo={"/ver/karakuri-circus-27"}
+            siguienteVideo={"/ver/karakuri-circus-27"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-25"}
+            anteriorVideo={"/ver/karakuri-circus-25"}
           />
         }
       />
@@ -6163,15 +6161,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/qkzb5exn9mw9.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 27"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"27"}
-            button-nextVideo={"/ver/karakuri-circus-28"}
+            siguienteVideo={"/ver/karakuri-circus-28"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-26"}
+            anteriorVideo={"/ver/karakuri-circus-26"}
           />
         }
       />
@@ -6180,15 +6178,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/h6j9dc26bn5l.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 28"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"28"}
-            button-nextVideo={"/ver/karakuri-circus-29"}
+            siguienteVideo={"/ver/karakuri-circus-29"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-27"}
+            anteriorVideo={"/ver/karakuri-circus-27"}
           />
         }
       />
@@ -6197,15 +6195,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/3btjmt3xr80m.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 29"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"29"}
-            button-nextVideo={"/ver/karakuri-circus-30"}
+            siguienteVideo={"/ver/karakuri-circus-30"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-28"}
+            anteriorVideo={"/ver/karakuri-circus-28"}
           />
         }
       />
@@ -6214,15 +6212,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/2wqsl4i0tqji.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 30"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"30"}
-            button-nextVideo={"/ver/karakuri-circus-31"}
+            siguienteVideo={"/ver/karakuri-circus-31"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-29"}
+            anteriorVideo={"/ver/karakuri-circus-29"}
           />
         }
       />
@@ -6231,15 +6229,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/0lje6uxcjcad.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 31"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"31"}
-            button-nextVideo={"/ver/karakuri-circus-32"}
+            siguienteVideo={"/ver/karakuri-circus-32"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-30"}
+            anteriorVideo={"/ver/karakuri-circus-30"}
           />
         }
       />
@@ -6248,15 +6246,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/jnem5sa7hodf.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 32"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"32"}
-            button-nextVideo={"/ver/karakuri-circus-33"}
+            siguienteVideo={"/ver/karakuri-circus-33"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-31"}
+            anteriorVideo={"/ver/karakuri-circus-31"}
           />
         }
       />
@@ -6265,15 +6263,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/e28bl46fj2es.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 33"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"33"}
-            button-nextVideo={"/ver/karakuri-circus-34"}
+            siguienteVideo={"/ver/karakuri-circus-34"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-32"}
+            anteriorVideo={"/ver/karakuri-circus-32"}
           />
         }
       />
@@ -6282,15 +6280,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/hb8785re4ea4.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 34"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"34"}
-            button-nextVideo={"/ver/karakuri-circus-35"}
+            siguienteVideo={"/ver/karakuri-circus-35"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-33"}
+            anteriorVideo={"/ver/karakuri-circus-33"}
           />
         }
       />
@@ -6299,15 +6297,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/ip2fap6rivlr.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Karakuri Circus Capitulo 35"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"35"}
-            button-nextVideo={"/ver/karakuri-circus-36"}
+            siguienteVideo={"/ver/karakuri-circus-36"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-34"}
+            anteriorVideo={"/ver/karakuri-circus-34"}
           />
         }
       />
@@ -6316,14 +6314,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/1lmcrau8saib.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Karakuri Circus Capitulo 36"}
             tituloPag={"Animekun Gratis"}
             anime={"Karakuri Circus "}
             numero={"36"}
             capitulosVideo={"/karakuri-circus"}
-            button-beforeVideo={"/ver/karakuri-circus-35"}
+            anteriorVideo={"/ver/karakuri-circus-35"}
           />
         }
       />
@@ -6333,13 +6331,13 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/es3puvrsy8zq.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Extreme Heart Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun"}
             anime={"Extreme Heart"}
             numero={"1"}
-            button-nextVideo={"/ver/extreme-hearts-2"}
+            siguienteVideo={"/ver/extreme-hearts-2"}
             capitulosVideo={"/extreme-hearts"}
           />
         }
@@ -6349,15 +6347,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/wtn86nqtjc3t.htm"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Extreme Heart Capitulo 2"}
             tituloPag={"Animekun"}
             anime={"Extreme Heart "}
             numero={"2"}
-            button-nextVideo={"/ver/extreme-hearts-3"}
+            siguienteVideo={"/ver/extreme-hearts-3"}
             capitulosVideo={"/extreme-hearts"}
-            button-beforeVideo={"/ver/extreme-hearts-1"}
+            anteriorVideo={"/ver/extreme-hearts-1"}
           />
         }
       />
@@ -6366,15 +6364,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/jp2l0fpvzjre.htm"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Extreme Heart Capitulo 3"}
             tituloPag={"Animekun"}
             anime={"Extreme Heart "}
             numero={"3"}
-            button-nextVideo={"/ver/extreme-hearts-4"}
+            siguienteVideo={"/ver/extreme-hearts-4"}
             capitulosVideo={"/extreme-hearts"}
-            button-beforeVideo={"/ver/extreme-hearts-2"}
+            anteriorVideo={"/ver/extreme-hearts-2"}
           />
         }
       />
@@ -6383,15 +6381,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/0isigg8bjbgi.htm"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Extreme Heart Capitulo 4"}
             tituloPag={"Animekun"}
             anime={"Extreme Heart "}
             numero={"4"}
-            button-nextVideo={"/ver/extreme-hearts-5"}
+            siguienteVideo={"/ver/extreme-hearts-5"}
             capitulosVideo={"/extreme-hearts"}
-            button-beforeVideo={"/ver/extreme-hearts-3"}
+            anteriorVideo={"/ver/extreme-hearts-3"}
           />
         }
       />
@@ -6400,15 +6398,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/d7mvf8ntx8uc.htm"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Extreme Heart Capitulo 5"}
             tituloPag={"Animekun"}
             anime={"Extreme Heart "}
             numero={"5"}
-            button-nextVideo={"/ver/extreme-hearts-6"}
+            siguienteVideo={"/ver/extreme-hearts-6"}
             capitulosVideo={"/extreme-hearts"}
-            button-beforeVideo={"/ver/extreme-hearts-4"}
+            anteriorVideo={"/ver/extreme-hearts-4"}
           />
         }
       />
@@ -6417,15 +6415,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/zqy9hu2qk7vb.htm"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Extreme Heart Capitulo 6"}
             tituloPag={"Animekun"}
             anime={"Extreme Heart "}
             numero={"6"}
-            button-nextVideo={"/ver/extreme-hearts-7"}
+            siguienteVideo={"/ver/extreme-hearts-7"}
             capitulosVideo={"/extreme-hearts"}
-            button-beforeVideo={"/ver/extreme-hearts-5"}
+            anteriorVideo={"/ver/extreme-hearts-5"}
           />
         }
       />
@@ -6434,15 +6432,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/391eupnkeb0t.htm"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Extreme Heart Capitulo 7"}
             tituloPag={"Animekun"}
             anime={"Extreme Heart "}
             numero={"7"}
-            button-nextVideo={"/ver/extreme-hearts-8"}
+            siguienteVideo={"/ver/extreme-hearts-8"}
             capitulosVideo={"/extreme-hearts"}
-            button-beforeVideo={"/ver/extreme-hearts-6"}
+            anteriorVideo={"/ver/extreme-hearts-6"}
           />
         }
       />
@@ -6451,15 +6449,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/e12wefci2yhm.htm"}
-            beforeClass="button-before"
-            nextClass={""}
+            contAnteriorClass="button-before"
+            contSiguienteClass={""}
             tituloAnime={"Extreme Heart Capitulo 8"}
             tituloPag={"Animekun"}
             anime={"Extreme Heart "}
             numero={"8"}
-            button-nextVideo={"/ver/extreme-hearts-9"}
+            siguienteVideo={"/ver/extreme-hearts-9"}
             capitulosVideo={"/extreme-hearts"}
-            button-beforeVideo={"/ver/extreme-hearts-7"}
+            anteriorVideo={"/ver/extreme-hearts-7"}
           />
         }
       />
@@ -6468,15 +6466,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/23uol8qh4zeu.htm"}
-            beforeClass="button-before"
-            nextClass={""}
+            contAnteriorClass="button-before"
+            contSiguienteClass={""}
             tituloAnime={"Extreme Heart Capitulo 9"}
             tituloPag={"Animekun"}
             anime={"Extreme Heart "}
             numero={"9"}
-            button-nextVideo={"/ver/extreme-hearts-10"}
+            siguienteVideo={"/ver/extreme-hearts-10"}
             capitulosVideo={"/extreme-hearts"}
-            button-beforeVideo={"/ver/extreme-hearts-8"}
+            anteriorVideo={"/ver/extreme-hearts-8"}
           />
         }
       />
@@ -6485,15 +6483,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/rpmmao61kahg.htm"}
-            beforeClass="button-before"
-            nextClass={""}
+            contAnteriorClass="button-before"
+            contSiguienteClass={""}
             tituloAnime={"Extreme Heart Capitulo 10"}
             tituloPag={"Animekun"}
             anime={"Extreme Heart "}
             numero={"10"}
-            button-nextVideo={"/ver/extreme-hearts-11"}
+            siguienteVideo={"/ver/extreme-hearts-11"}
             capitulosVideo={"/extreme-hearts"}
-            button-beforeVideo={"/ver/extreme-hearts-9"}
+            anteriorVideo={"/ver/extreme-hearts-9"}
           />
         }
       />
@@ -6502,15 +6500,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/q4qg1vcun2oe.htm"}
-            beforeClass="button-before"
-            nextClass={""}
+            contAnteriorClass="button-before"
+            contSiguienteClass={""}
             tituloAnime={"Extreme Heart Capitulo 11"}
             tituloPag={"Animekun"}
             anime={"Extreme Heart "}
             numero={"11"}
-            button-nextVideo={"/ver/extreme-hearts-12"}
+            siguienteVideo={"/ver/extreme-hearts-12"}
             capitulosVideo={"/extreme-hearts"}
-            button-beforeVideo={"/ver/extreme-hearts-10"}
+            anteriorVideo={"/ver/extreme-hearts-10"}
           />
         }
       />
@@ -6519,14 +6517,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/9jucieseh2rb.htm"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Extreme Heart Capitulo 12"}
             tituloPag={"Animekun"}
             anime={"Extreme Heart "}
             numero={"12"}
             capitulosVideo={"/extreme-hearts"}
-            button-beforeVideo={"/ver/extreme-hearts-11"}
+            anteriorVideo={"/ver/extreme-hearts-11"}
           />
         }
       />
@@ -6536,13 +6534,13 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/xyt861drkkmh.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Golden Time Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun"}
             anime={"Golden Time"}
             numero={"1"}
-            button-nextVideo={"/ver/golden-time-2"}
+            siguienteVideo={"/ver/golden-time-2"}
             capitulosVideo={"/golden-time"}
           />
         }
@@ -6552,15 +6550,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/4iy5bq05x7r1.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Golden Time Capitulo 2"}
             tituloPag={"Animekun"}
             anime={"Golden Time "}
             numero={"2"}
-            button-nextVideo={"/ver/golden-time-3"}
+            siguienteVideo={"/ver/golden-time-3"}
             capitulosVideo={"/golden-time"}
-            button-beforeVideo={"/ver/golden-time-1"}
+            anteriorVideo={"/ver/golden-time-1"}
           />
         }
       />
@@ -6569,15 +6567,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/8hgqwn5l1qdn.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Golden Time Capitulo 3"}
             tituloPag={"Animekun"}
             anime={"Golden Time "}
             numero={"3"}
-            button-nextVideo={"/ver/golden-time-4"}
+            siguienteVideo={"/ver/golden-time-4"}
             capitulosVideo={"/golden-time"}
-            button-beforeVideo={"/ver/golden-time-2"}
+            anteriorVideo={"/ver/golden-time-2"}
           />
         }
       />
@@ -6586,15 +6584,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/k3x6hle3jp7l.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Golden Time Capitulo 4"}
             tituloPag={"Animekun"}
             anime={"Golden Time "}
             numero={"4"}
-            button-nextVideo={"/ver/golden-time-5"}
+            siguienteVideo={"/ver/golden-time-5"}
             capitulosVideo={"/golden-time"}
-            button-beforeVideo={"/ver/golden-time-3"}
+            anteriorVideo={"/ver/golden-time-3"}
           />
         }
       />
@@ -6603,15 +6601,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/3cil1rg01vfm.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Golden Time Capitulo 5"}
             tituloPag={"Animekun"}
             anime={"Golden Time "}
             numero={"5"}
-            button-nextVideo={"/ver/golden-time-6"}
+            siguienteVideo={"/ver/golden-time-6"}
             capitulosVideo={"/golden-time"}
-            button-beforeVideo={"/ver/golden-time-4"}
+            anteriorVideo={"/ver/golden-time-4"}
           />
         }
       />
@@ -6620,15 +6618,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/ngfzf7a46ofu.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Golden Time Capitulo 6"}
             tituloPag={"Animekun"}
             anime={"Golden Time "}
             numero={"6"}
-            button-nextVideo={"/ver/golden-time-7"}
+            siguienteVideo={"/ver/golden-time-7"}
             capitulosVideo={"/golden-time"}
-            button-beforeVideo={"/ver/golden-time-5"}
+            anteriorVideo={"/ver/golden-time-5"}
           />
         }
       />
@@ -6637,15 +6635,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/zjd4w5byczd3.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Golden Time Capitulo 7"}
             tituloPag={"Animekun"}
             anime={"Golden Time "}
             numero={"7"}
-            button-nextVideo={"/ver/golden-time-8"}
+            siguienteVideo={"/ver/golden-time-8"}
             capitulosVideo={"/golden-time"}
-            button-beforeVideo={"/ver/golden-time-6"}
+            anteriorVideo={"/ver/golden-time-6"}
           />
         }
       />
@@ -6654,15 +6652,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/l7w7f59t2apm.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Golden TimeCapitulo 8"}
             tituloPag={"Animekun"}
             anime={"Golden Time "}
             numero={"8"}
-            button-nextVideo={"/ver/golden-time-9"}
+            siguienteVideo={"/ver/golden-time-9"}
             capitulosVideo={"/golden-time"}
-            button-beforeVideo={"/ver/golden-time-7"}
+            anteriorVideo={"/ver/golden-time-7"}
           />
         }
       />
@@ -6671,15 +6669,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/1e9kzias2pd1.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Golden TimeCapitulo 9"}
             tituloPag={"Animekun"}
             anime={"Golden Time "}
             numero={"9"}
-            button-nextVideo={"/ver/golden-time-10"}
+            siguienteVideo={"/ver/golden-time-10"}
             capitulosVideo={"/golden-time"}
-            button-beforeVideo={"/ver/golden-time-8"}
+            anteriorVideo={"/ver/golden-time-8"}
           />
         }
       />
@@ -6688,15 +6686,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/szp7k6me3ue7.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Golden Time Capitulo 10"}
             tituloPag={"Animekun"}
             anime={"Golden Time "}
             numero={"10"}
-            button-nextVideo={"/ver/golden-time-11"}
+            siguienteVideo={"/ver/golden-time-11"}
             capitulosVideo={"/golden-time"}
-            button-beforeVideo={"/ver/golden-time-9"}
+            anteriorVideo={"/ver/golden-time-9"}
           />
         }
       />
@@ -6705,15 +6703,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/zuqzdpl8cu95.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Golden Time Capitulo 11"}
             tituloPag={"Animekun"}
             anime={"Golden Time "}
             numero={"11"}
-            button-nextVideo={"/ver/golden-time-12"}
+            siguienteVideo={"/ver/golden-time-12"}
             capitulosVideo={"/golden-time"}
-            button-beforeVideo={"/ver/golden-time-10"}
+            anteriorVideo={"/ver/golden-time-10"}
           />
         }
       />
@@ -6722,15 +6720,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/ajmpyatdopwe.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Golden Time Capitulo 12"}
             tituloPag={"Animekun"}
             anime={"Golden Time "}
             numero={"12"}
-            button-nextVideo={"/ver/golden-time-13"}
+            siguienteVideo={"/ver/golden-time-13"}
             capitulosVideo={"/golden-time"}
-            button-beforeVideo={"/ver/golden-time-1"}
+            anteriorVideo={"/ver/golden-time-1"}
           />
         }
       />
@@ -6739,15 +6737,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/7xd7atwwfnkh.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Golden Time Capitulo 13"}
             tituloPag={"Animekun"}
             anime={"Golden Time "}
             numero={"13"}
-            button-nextVideo={"/ver/golden-time-14"}
+            siguienteVideo={"/ver/golden-time-14"}
             capitulosVideo={"/golden-time"}
-            button-beforeVideo={"/ver/golden-time-2"}
+            anteriorVideo={"/ver/golden-time-2"}
           />
         }
       />
@@ -6756,15 +6754,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/gzai30sxymv9.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Golden Time Capitulo 14"}
             tituloPag={"Animekun"}
             anime={"Golden Time "}
             numero={"14"}
-            button-nextVideo={"/ver/golden-time-15"}
+            siguienteVideo={"/ver/golden-time-15"}
             capitulosVideo={"/golden-time"}
-            button-beforeVideo={"/ver/golden-time-3"}
+            anteriorVideo={"/ver/golden-time-3"}
           />
         }
       />
@@ -6773,15 +6771,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/wgyei29ce8fe.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Golden Time Capitulo 15"}
             tituloPag={"Animekun"}
             anime={"Golden Time "}
             numero={"15"}
-            button-nextVideo={"/ver/golden-time-16"}
+            siguienteVideo={"/ver/golden-time-16"}
             capitulosVideo={"/golden-time"}
-            button-beforeVideo={"/ver/golden-time-4"}
+            anteriorVideo={"/ver/golden-time-4"}
           />
         }
       />
@@ -6790,15 +6788,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/9g4fjokqoda2.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Golden Time Capitulo 16"}
             tituloPag={"Animekun"}
             anime={"Golden Time "}
             numero={"16"}
-            button-nextVideo={"/ver/golden-time-17"}
+            siguienteVideo={"/ver/golden-time-17"}
             capitulosVideo={"/golden-time"}
-            button-beforeVideo={"/ver/golden-time-5"}
+            anteriorVideo={"/ver/golden-time-5"}
           />
         }
       />
@@ -6807,15 +6805,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/g35piflwovgt.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Golden Time Capitulo 17"}
             tituloPag={"Animekun"}
             anime={"Golden Time "}
             numero={"17"}
-            button-nextVideo={"/ver/golden-time-18"}
+            siguienteVideo={"/ver/golden-time-18"}
             capitulosVideo={"/golden-time"}
-            button-beforeVideo={"/ver/golden-time-6"}
+            anteriorVideo={"/ver/golden-time-6"}
           />
         }
       />
@@ -6824,15 +6822,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/20y5v2mh17h1.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Golden Time Capitulo 18"}
             tituloPag={"Animekun"}
             anime={"Golden Time "}
             numero={"18"}
-            button-nextVideo={"/ver/golden-time-19"}
+            siguienteVideo={"/ver/golden-time-19"}
             capitulosVideo={"/golden-time"}
-            button-beforeVideo={"/ver/golden-time-7"}
+            anteriorVideo={"/ver/golden-time-7"}
           />
         }
       />
@@ -6841,15 +6839,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/q962ylrysdie.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Golden Time Capitulo 19"}
             tituloPag={"Animekun"}
             anime={"Golden Time "}
             numero={"19"}
-            button-nextVideo={"/ver/golden-time-20"}
+            siguienteVideo={"/ver/golden-time-20"}
             capitulosVideo={"/golden-time"}
-            button-beforeVideo={"/ver/golden-time-8"}
+            anteriorVideo={"/ver/golden-time-8"}
           />
         }
       />
@@ -6858,15 +6856,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/gh8b26x0byb7.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Golden Time Capitulo 20"}
             tituloPag={"Animekun"}
             anime={"Golden Time "}
             numero={"20"}
-            button-nextVideo={"/ver/golden-time-21"}
+            siguienteVideo={"/ver/golden-time-21"}
             capitulosVideo={"/golden-time"}
-            button-beforeVideo={"/ver/golden-time-9"}
+            anteriorVideo={"/ver/golden-time-9"}
           />
         }
       />
@@ -6875,15 +6873,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/q8rv3u5cji4i.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Golden Time Capitulo 21"}
             tituloPag={"Animekun"}
             anime={"Golden Time "}
             numero={"21"}
-            button-nextVideo={"/ver/golden-time-22"}
+            siguienteVideo={"/ver/golden-time-22"}
             capitulosVideo={"/golden-time"}
-            button-beforeVideo={"/ver/golden-time-9"}
+            anteriorVideo={"/ver/golden-time-9"}
           />
         }
       />
@@ -6892,15 +6890,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/38t5r762mk6e.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Golden Time Capitulo 22"}
             tituloPag={"Animekun"}
             anime={"Golden Time "}
             numero={"22"}
-            button-nextVideo={"/ver/golden-time-23"}
+            siguienteVideo={"/ver/golden-time-23"}
             capitulosVideo={"/golden-time"}
-            button-beforeVideo={"/ver/golden-time-10"}
+            anteriorVideo={"/ver/golden-time-10"}
           />
         }
       />
@@ -6909,15 +6907,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/o93p77h5bgt9.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Golden Time Capitulo 23"}
             tituloPag={"Animekun"}
             anime={"Golden Time "}
             numero={"23"}
-            button-nextVideo={"/ver/golden-time-24"}
+            siguienteVideo={"/ver/golden-time-24"}
             capitulosVideo={"/golden-time"}
-            button-beforeVideo={"/ver/golden-time-10"}
+            anteriorVideo={"/ver/golden-time-10"}
           />
         }
       />
@@ -6926,14 +6924,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/5g7qqhvll2yx.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Golden Time Capitulo 24"}
             tituloPag={"Animekun"}
             anime={"Golden Time "}
             numero={"24"}
             capitulosVideo={"/golden-time"}
-            button-beforeVideo={"/ver/golden-time-11"}
+            anteriorVideo={"/ver/golden-time-11"}
           />
         }
       />
@@ -6943,13 +6941,13 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/8voksjn8id1o.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun"}
             anime={"Fullmetal Alchemist Brotherhood"}
             numero={"1"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-2"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-2"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
           />
         }
@@ -6959,15 +6957,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/ou0cehpvk3hy.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 2"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"2"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-3"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-3"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-1"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-1"}
           />
         }
       />
@@ -6976,15 +6974,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/0j7ez2hu8n95.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 3"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"3"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-4"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-4"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-2"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-2"}
           />
         }
       />
@@ -6993,15 +6991,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/j9g4j0jzemhn.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 4"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"4"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-5"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-5"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-3"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-3"}
           />
         }
       />
@@ -7010,15 +7008,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/68jnczygheey.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 5"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"5"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-6"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-6"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-4"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-4"}
           />
         }
       />
@@ -7027,15 +7025,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/9g05t52b2ras.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 6"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"6"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-7"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-7"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-5"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-5"}
           />
         }
       />
@@ -7044,15 +7042,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/5ivzfbjduvs6.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 7"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"7"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-8"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-8"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-6"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-6"}
           />
         }
       />
@@ -7061,15 +7059,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/xia2080ejho5.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 8"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"8"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-9"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-9"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-7"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-7"}
           />
         }
       />
@@ -7078,15 +7076,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/vwhcdwucilxe.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 9"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"9"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-10"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-10"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-8"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-8"}
           />
         }
       />
@@ -7095,15 +7093,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/oyy1u1i9oev4.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 10"}
             tituloPag={"Animekun"}
             anime={"Fullmetal Alchemist Brotherhood "}
             numero={"10"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-11"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-11"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-9"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-9"}
           />
         }
       />
@@ -7112,15 +7110,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/mxmkseefpmk7.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 11"}
             tituloPag={"Animekun"}
             anime={"Fullmetal Alchemist Brotherhood "}
             numero={"11"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-12"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-12"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-10"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-10"}
           />
         }
       />
@@ -7129,15 +7127,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/1nifp8vonoba.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 12"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"12"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-13"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-13"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-11"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-11"}
           />
         }
       />
@@ -7146,15 +7144,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/vvplzrewcqfc.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 13"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"13"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-14"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-14"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-12"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-12"}
           />
         }
       />
@@ -7163,15 +7161,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/7opk3ziroqu8.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 14"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"14"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-15"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-15"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-13"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-13"}
           />
         }
       />
@@ -7180,15 +7178,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/n40qla0qe8l6.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 15"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"15"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-16"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-16"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-14"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-14"}
           />
         }
       />
@@ -7197,15 +7195,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/vrxkv8ayhdq7.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 16"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"16"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-17"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-17"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-15"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-15"}
           />
         }
       />
@@ -7214,15 +7212,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/5yt5ie9xf59j.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 17"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"17"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-18"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-18"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-16"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-16"}
           />
         }
       />
@@ -7231,15 +7229,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/badscwk4in2j.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 18"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"18"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-19"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-19"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-17"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-17"}
           />
         }
       />
@@ -7248,15 +7246,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/7qryfh206yt7.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 19"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"19"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-20"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-20"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-18"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-18"}
           />
         }
       />
@@ -7265,15 +7263,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/ybaeomccswzh.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 20"}
             tituloPag={"Animekun"}
             anime={"Fullmetal Alchemist Brotherhood "}
             numero={"20"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-21"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-21"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-19"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-19"}
           />
         }
       />
@@ -7282,15 +7280,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/xd7au1rt1c24.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 21"}
             tituloPag={"Animekun"}
             anime={"Fullmetal Alchemist Brotherhood "}
             numero={"21"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-22"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-22"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-20"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-20"}
           />
         }
       />
@@ -7299,15 +7297,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/2neremox0bmj.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 22"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"22"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-23"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-23"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-21"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-21"}
           />
         }
       />
@@ -7316,15 +7314,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/fdvj470byczq.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 23"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"23"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-24"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-24"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-22"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-22"}
           />
         }
       />
@@ -7333,15 +7331,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/r90yc9kglkq2.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 24"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"24"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-25"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-25"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-23"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-23"}
           />
         }
       />
@@ -7350,15 +7348,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/7lder2sholcd.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 25"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"25"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-26"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-26"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-24"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-24"}
           />
         }
       />
@@ -7367,15 +7365,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/0cz1x448uj4l.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 26"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"26"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-27"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-27"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-25"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-25"}
           />
         }
       />
@@ -7384,15 +7382,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/wmphpb35tcvg.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 27"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"27"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-28"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-28"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-26"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-26"}
           />
         }
       />
@@ -7401,15 +7399,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/irxxv21n5r1k.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 28"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"28"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-29"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-29"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-27"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-27"}
           />
         }
       />
@@ -7418,15 +7416,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/rjbxf7bs3qmj.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 29"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"29"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-30"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-30"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-28"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-28"}
           />
         }
       />
@@ -7435,15 +7433,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/wxlem0sesrip.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 30"}
             tituloPag={"Animekun"}
             anime={"Fullmetal Alchemist Brotherhood "}
             numero={"30"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-31"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-31"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-29"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-29"}
           />
         }
       />
@@ -7452,15 +7450,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/8euyuihfohnq.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 31"}
             tituloPag={"Animekun"}
             anime={"Fullmetal Alchemist Brotherhood "}
             numero={"31"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-32"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-32"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-30"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-30"}
           />
         }
       />
@@ -7469,15 +7467,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/7pit38u3f9nw.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 32"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"32"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-33"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-33"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-31"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-31"}
           />
         }
       />
@@ -7486,15 +7484,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/flfkcu33bmle.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 33"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"33"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-34"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-34"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-32"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-32"}
           />
         }
       />
@@ -7503,15 +7501,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/dm0z2a765vty.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 34"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"34"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-35"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-35"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-33"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-33"}
           />
         }
       />
@@ -7520,15 +7518,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/ovvoe5ucw98s.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 35"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"35"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-36"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-36"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-34"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-34"}
           />
         }
       />
@@ -7537,15 +7535,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/bq0fxo7aibny.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 36"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"36"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-37"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-37"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-35"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-35"}
           />
         }
       />
@@ -7554,15 +7552,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/pyuw5x2r3v99.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 37"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"37"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-38"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-38"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-36"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-36"}
           />
         }
       />
@@ -7571,15 +7569,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/mq3a87fw62ja.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 38"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"38"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-39"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-39"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-37"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-37"}
           />
         }
       />
@@ -7588,15 +7586,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/zc855c0v7ne7.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 39"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"39"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-40"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-40"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-38"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-38"}
           />
         }
       />
@@ -7605,15 +7603,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/iesv5d5tucw5.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 40"}
             tituloPag={"Animekun"}
             anime={"Fullmetal Alchemist Brotherhood "}
             numero={"40"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-41"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-41"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-39"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-39"}
           />
         }
       />
@@ -7622,15 +7620,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/kektj4jbbdl8.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 41"}
             tituloPag={"Animekun"}
             anime={"Fullmetal Alchemist Brotherhood "}
             numero={"41"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-42"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-42"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-40"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-40"}
           />
         }
       />
@@ -7639,15 +7637,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/76z3jhxd5kpd.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 42"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"42"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-43"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-43"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-41"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-41"}
           />
         }
       />
@@ -7656,15 +7654,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/mwo0ichzqtbo.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 43"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"43"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-44"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-44"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-42"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-42"}
           />
         }
       />
@@ -7673,15 +7671,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/3fth4y3egj7b.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 44"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"44"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-45"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-45"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-43"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-43"}
           />
         }
       />
@@ -7690,15 +7688,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/ngeun0idkzac.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 45"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"45"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-46"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-46"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-44"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-44"}
           />
         }
       />
@@ -7707,15 +7705,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/dbpwne8fp1ku.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 46"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"46"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-47"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-47"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-45"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-45"}
           />
         }
       />
@@ -7724,15 +7722,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/co7bi51l6k8c.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 47"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"47"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-48"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-48"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-46"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-46"}
           />
         }
       />
@@ -7741,15 +7739,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/co7bi51l6k8c.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 48"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"48"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-49"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-49"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-47"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-47"}
           />
         }
       />
@@ -7758,15 +7756,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/ujszmhxyv595.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 49"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"49"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-50"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-50"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-48"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-48"}
           />
         }
       />
@@ -7775,15 +7773,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/xebl1leeojnx.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 50"}
             tituloPag={"Animekun"}
             anime={"Fullmetal Alchemist Brotherhood "}
             numero={"50"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-51"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-51"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-49"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-49"}
           />
         }
       />
@@ -7792,15 +7790,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/g02caj2bvo78.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 51"}
             tituloPag={"Animekun"}
             anime={"Fullmetal Alchemist Brotherhood "}
             numero={"51"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-52"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-52"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-50"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-50"}
           />
         }
       />
@@ -7809,15 +7807,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/94nhxxfiltys.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 52"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"52"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-53"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-53"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-51"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-51"}
           />
         }
       />
@@ -7826,15 +7824,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/wt0gg8vbw4u3.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 53"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"53"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-54"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-54"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-52"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-52"}
           />
         }
       />
@@ -7843,15 +7841,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/7elljty9dbcl.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 54"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"54"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-55"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-55"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-53"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-53"}
           />
         }
       />
@@ -7860,15 +7858,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/phjl8yqavh20.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 55"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"55"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-56"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-56"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-54"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-54"}
           />
         }
       />
@@ -7877,15 +7875,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/i44xjsr18gg6.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 56"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"56"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-57"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-57"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-55"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-55"}
           />
         }
       />
@@ -7894,15 +7892,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/0veqxk4z6t50.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 57"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"57"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-58"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-58"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-56"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-56"}
           />
         }
       />
@@ -7911,15 +7909,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/ik6z8b4ljwj4.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 58"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"58"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-59"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-59"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-57"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-57"}
           />
         }
       />
@@ -7928,15 +7926,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/ebmhw461zwz4.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 59"}
             tituloPag={"Animekun"}
             anime={" Fullmetal Alchemist Brotherhood"}
             numero={"59"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-60"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-60"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-58"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-58"}
           />
         }
       />
@@ -7945,15 +7943,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/lincbampo0ue.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 60"}
             tituloPag={"Animekun"}
             anime={"Fullmetal Alchemist Brotherhood "}
             numero={"60"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-61"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-61"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-59"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-59"}
           />
         }
       />
@@ -7962,15 +7960,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/h6t0gera5qpb.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 61"}
             tituloPag={"Animekun"}
             anime={"Fullmetal Alchemist Brotherhood "}
             numero={"61"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-62"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-62"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-60"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-60"}
           />
         }
       />
@@ -7979,15 +7977,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/mdcv1nv467y8.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 62"}
             tituloPag={"Animekun"}
             anime={"Fullmetal Alchemist Brotherhood "}
             numero={"62"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-63"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-63"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-61"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-61"}
           />
         }
       />
@@ -7996,15 +7994,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/o0wp8dt5w58b.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 63"}
             tituloPag={"Animekun"}
             anime={"Fullmetal Alchemist Brotherhood "}
             numero={"63"}
-            button-nextVideo={"/ver/fullmetal-alchemist-brotherhood-64"}
+            siguienteVideo={"/ver/fullmetal-alchemist-brotherhood-64"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-62"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-62"}
           />
         }
       />
@@ -8013,14 +8011,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/mpci32sa3gg0.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 64"}
             tituloPag={"Animekun"}
             anime={"Fullmetal Alchemist Brotherhood "}
             numero={"64"}
             capitulosVideo={"/fullmetal-alchemist-brotherhood"}
-            button-beforeVideo={"/ver/fullmetal-alchemist-brotherhood-63"}
+            anteriorVideo={"/ver/fullmetal-alchemist-brotherhood-63"}
           />
         }
       />
@@ -8030,15 +8028,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/d6xups0i6vm6.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={
               "Muhyo to Rouji no Mahouritsu Soudan Jumusho Capitulo 1"
             }
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun"}
             anime={"Muhyo to Rouji no Mahouritsu Soudan Jumusho"}
             numero={"1"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-2"
             }
             capitulosVideo={"/muhyo-to-rouji-no-mahouritsu-soudan-jimusho"}
@@ -8050,21 +8048,19 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/i5ayt77utywu.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Muhyo to Rouji no Mahouritsu Soudan Jumusho Capitulo 2"
             }
             tituloPag={"Animekun"}
             anime={"Muhyo to Rouji no Mahouritsu Soudan Jumusho "}
             numero={"2"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-3"
             }
             capitulosVideo={"/muhyo-to-rouji-no-mahouritsu-soudan-jimusho"}
-            button-beforeVideo={
-              "/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-1"
-            }
+            anteriorVideo={"/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-1"}
           />
         }
       />
@@ -8073,21 +8069,19 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/imdq78378g9m.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Muhyo to Rouji no Mahouritsu Soudan Jumusho Capitulo 3"
             }
             tituloPag={"Animekun"}
             anime={"Muhyo to Rouji no Mahouritsu Soudan Jumusho "}
             numero={"3"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-4"
             }
             capitulosVideo={"/muhyo-to-rouji-no-mahouritsu-soudan-jimusho"}
-            button-beforeVideo={
-              "/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-2"
-            }
+            anteriorVideo={"/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-2"}
           />
         }
       />
@@ -8096,21 +8090,19 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/7zc5npbii40w.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Muhyo to Rouji no Mahouritsu Soudan Jumusho Capitulo 4"
             }
             tituloPag={"Animekun"}
             anime={"Muhyo to Rouji no Mahouritsu Soudan Jumusho "}
             numero={"4"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-5"
             }
             capitulosVideo={"/muhyo-to-rouji-no-mahouritsu-soudan-jimusho"}
-            button-beforeVideo={
-              "/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-3"
-            }
+            anteriorVideo={"/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-3"}
           />
         }
       />
@@ -8119,21 +8111,19 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/ebv1bbozz39j.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Muhyo to Rouji no Mahouritsu Soudan Jumusho Capitulo 5"
             }
             tituloPag={"Animekun"}
             anime={"Muhyo to Rouji no Mahouritsu Soudan Jumusho "}
             numero={"5"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-6"
             }
             capitulosVideo={"/muhyo-to-rouji-no-mahouritsu-soudan-jimusho"}
-            button-beforeVideo={
-              "/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-4"
-            }
+            anteriorVideo={"/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-4"}
           />
         }
       />
@@ -8142,21 +8132,19 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/52jhe1b8q07b.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Muhyo to Rouji no Mahouritsu Soudan Jumusho Capitulo 6"
             }
             tituloPag={"Animekun"}
             anime={"Muhyo to Rouji no Mahouritsu Soudan Jumusho "}
             numero={"6"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-7"
             }
             capitulosVideo={"/muhyo-to-rouji-no-mahouritsu-soudan-jimusho"}
-            button-beforeVideo={
-              "/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-5"
-            }
+            anteriorVideo={"/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-5"}
           />
         }
       />
@@ -8165,21 +8153,19 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/h0kdrlwubkn7.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Muhyo to Rouji no Mahouritsu Soudan Jumusho Capitulo 7"
             }
             tituloPag={"Animekun"}
             anime={"Muhyo to Rouji no Mahouritsu Soudan Jumusho "}
             numero={"7"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-8"
             }
             capitulosVideo={"/muhyo-to-rouji-no-mahouritsu-soudan-jimusho"}
-            button-beforeVideo={
-              "/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-6"
-            }
+            anteriorVideo={"/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-6"}
           />
         }
       />
@@ -8188,21 +8174,19 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/8js1oi9hnbnq.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Muhyo to Rouji no Mahouritsu Soudan Jumusho Capitulo 8"
             }
             tituloPag={"Animekun"}
             anime={"Muhyo to Rouji no Mahouritsu Soudan Jumusho "}
             numero={"8"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-9"
             }
             capitulosVideo={"/muhyo-to-rouji-no-mahouritsu-soudan-jimusho"}
-            button-beforeVideo={
-              "/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-7"
-            }
+            anteriorVideo={"/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-7"}
           />
         }
       />
@@ -8211,21 +8195,19 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/ki54o8gfgydz.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Muhyo to Rouji no Mahouritsu Soudan Jumusho Capitulo 9"
             }
             tituloPag={"Animekun"}
             anime={"Muhyo to Rouji no Mahouritsu Soudan Jumusho "}
             numero={"9"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-10"
             }
             capitulosVideo={"/muhyo-to-rouji-no-mahouritsu-soudan-jimusho"}
-            button-beforeVideo={
-              "/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-8"
-            }
+            anteriorVideo={"/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-8"}
           />
         }
       />
@@ -8234,21 +8216,19 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/qnwn4tesjnta.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Muhyo to Rouji no Mahouritsu Soudan Jumusho Capitulo 10"
             }
             tituloPag={"Animekun"}
             anime={"Muhyo to Rouji no Mahouritsu Soudan Jumusho "}
             numero={"10"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-11"
             }
             capitulosVideo={"/muhyo-to-rouji-no-mahouritsu-soudan-jimusho"}
-            button-beforeVideo={
-              "/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-9"
-            }
+            anteriorVideo={"/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-9"}
           />
         }
       />
@@ -8257,19 +8237,19 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/v9qrcbbttppw.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={
               "Muhyo to Rouji no Mahouritsu Soudan Jumusho Capitulo 11"
             }
             tituloPag={"Animekun"}
             anime={"Muhyo to Rouji no Mahouritsu Soudan Jumusho "}
             numero={"11"}
-            button-nextVideo={
+            siguienteVideo={
               "/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-12"
             }
             capitulosVideo={"/muhyo-to-rouji-no-mahouritsu-soudan-jimusho"}
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-10"
             }
           />
@@ -8280,8 +8260,8 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/uff97al6di6v.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={
               "Muhyo to Rouji no Mahouritsu Soudan Jumusho Capitulo 12"
             }
@@ -8289,7 +8269,7 @@ function Videos() {
             anime={"Muhyo to Rouji no Mahouritsu Soudan Jumusho "}
             numero={"12"}
             capitulosVideo={"/muhyo-to-rouji-no-mahouritsu-soudan-jimusho"}
-            button-beforeVideo={
+            anteriorVideo={
               "/ver/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-11"
             }
           />
@@ -8301,13 +8281,13 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/6t7xanow5wak.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Sabikui Bisco Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun"}
             anime={"Sabikui Bisco"}
             numero={"1"}
-            button-nextVideo={"/ver/sabikui-bisco-2"}
+            siguienteVideo={"/ver/sabikui-bisco-2"}
             capitulosVideo={"/sabikui-bisco"}
           />
         }
@@ -8317,15 +8297,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/wfxjhtlwozar.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Sabikui Bisco Capitulo 2"}
             tituloPag={"Animekun"}
             anime={"Sabikui Bisco "}
             numero={"2"}
-            button-nextVideo={"/ver/sabikui-bisco-3"}
+            siguienteVideo={"/ver/sabikui-bisco-3"}
             capitulosVideo={"/sabikui-bisco"}
-            button-beforeVideo={"/ver/sabikui-bisco-1"}
+            anteriorVideo={"/ver/sabikui-bisco-1"}
           />
         }
       />
@@ -8334,15 +8314,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/e8wjtj3s8b10.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Sabikui Bisco Capitulo 3"}
             tituloPag={"Animekun"}
             anime={"Sabikui Bisco "}
             numero={"3"}
-            button-nextVideo={"/ver/sabikui-bisco-4"}
+            siguienteVideo={"/ver/sabikui-bisco-4"}
             capitulosVideo={"/sabikui-bisco"}
-            button-beforeVideo={"/ver/sabikui-bisco-2"}
+            anteriorVideo={"/ver/sabikui-bisco-2"}
           />
         }
       />
@@ -8351,15 +8331,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/zlplom06gvpc.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={" Capitulo 4"}
             tituloPag={"Animekun"}
             anime={" "}
             numero={"4"}
-            button-nextVideo={"/ver/sabikui-bisco-5"}
+            siguienteVideo={"/ver/sabikui-bisco-5"}
             capitulosVideo={"/sabikui-bisco"}
-            button-beforeVideo={"/ver/sabikui-bisco-3"}
+            anteriorVideo={"/ver/sabikui-bisco-3"}
           />
         }
       />
@@ -8368,15 +8348,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/wtcrig6tpexu.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Sabikui Bisco Capitulo 5"}
             tituloPag={"Animekun"}
             anime={"Sabikui Bisco "}
             numero={"5"}
-            button-nextVideo={"/ver/sabikui-bisco-6"}
+            siguienteVideo={"/ver/sabikui-bisco-6"}
             capitulosVideo={"/sabikui-bisco"}
-            button-beforeVideo={"/ver/sabikui-bisco-4"}
+            anteriorVideo={"/ver/sabikui-bisco-4"}
           />
         }
       />
@@ -8385,15 +8365,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/yavtbbqx1kro.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Sabikui Bisco Capitulo 6"}
             tituloPag={"Animekun"}
             anime={"Sabikui Bisco "}
             numero={"6"}
-            button-nextVideo={"/ver/sabikui-bisco-7"}
+            siguienteVideo={"/ver/sabikui-bisco-7"}
             capitulosVideo={"/sabikui-bisco"}
-            button-beforeVideo={"/ver/sabikui-bisco-5"}
+            anteriorVideo={"/ver/sabikui-bisco-5"}
           />
         }
       />
@@ -8402,15 +8382,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/an9dh3qehycc.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Sabikui Bisco Capitulo 7"}
             tituloPag={"Animekun"}
             anime={"Sabikui Bisco "}
             numero={"7"}
-            button-nextVideo={"/ver/sabikui-bisco-8"}
+            siguienteVideo={"/ver/sabikui-bisco-8"}
             capitulosVideo={"/sabikui-bisco"}
-            button-beforeVideo={"/ver/sabikui-bisco-6"}
+            anteriorVideo={"/ver/sabikui-bisco-6"}
           />
         }
       />
@@ -8419,15 +8399,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/6hwja9y1cqb7.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Sabikui Bisco Capitulo 8"}
             tituloPag={"Animekun"}
             anime={"Sabikui Bisco "}
             numero={"8"}
-            button-nextVideo={"/ver/sabikui-bisco-9"}
+            siguienteVideo={"/ver/sabikui-bisco-9"}
             capitulosVideo={"/sabikui-bisco"}
-            button-beforeVideo={"/ver/sabikui-bisco-7"}
+            anteriorVideo={"/ver/sabikui-bisco-7"}
           />
         }
       />
@@ -8436,15 +8416,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/xjfan6jsabll.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Sabikui Bisco Capitulo 9"}
             tituloPag={"Animekun"}
             anime={"Sabikui Bisco "}
             numero={"9"}
-            button-nextVideo={"/ver/sabikui-bisco-10"}
+            siguienteVideo={"/ver/sabikui-bisco-10"}
             capitulosVideo={"/sabikui-bisco"}
-            button-beforeVideo={"/ver/sabikui-bisco-8"}
+            anteriorVideo={"/ver/sabikui-bisco-8"}
           />
         }
       />
@@ -8453,15 +8433,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/3qgvn0rna344.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Sabikui Bisco Capitulo 10"}
             tituloPag={"Animekun"}
             anime={"Sabikui Bisco "}
             numero={"10"}
-            button-nextVideo={"/ver/sabikui-bisco-11"}
+            siguienteVideo={"/ver/sabikui-bisco-11"}
             capitulosVideo={"/sabikui-bisco"}
-            button-beforeVideo={"/ver/sabikui-bisco-9"}
+            anteriorVideo={"/ver/sabikui-bisco-9"}
           />
         }
       />
@@ -8470,15 +8450,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/b4miwagj2klz.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Sabikui Bisco Capitulo 11"}
             tituloPag={"Animekun"}
             anime={"Sabikui Bisco "}
             numero={"11"}
-            button-nextVideo={"/ver/sabikui-bisco-12"}
+            siguienteVideo={"/ver/sabikui-bisco-12"}
             capitulosVideo={"/sabikui-bisco"}
-            button-beforeVideo={"/ver/sabikui-bisco-10"}
+            anteriorVideo={"/ver/sabikui-bisco-10"}
           />
         }
       />
@@ -8487,14 +8467,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/dqeqyf9phvxw.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Sabikui Bisco Capitulo 12"}
             tituloPag={"Animekun"}
             anime={"Sabikui Bisco "}
             numero={"12"}
             capitulosVideo={"/sabikui-bisco"}
-            button-beforeVideo={"/ver/sabikui-bisco-11"}
+            anteriorVideo={"/ver/sabikui-bisco-11"}
           />
         }
       />
@@ -8504,13 +8484,13 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Koroshi Ai Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun"}
             anime={"Koroshi Ai"}
             numero={"1"}
-            button-nextVideo={"/ver/kuroshi-ai-2"}
+            siguienteVideo={"/ver/kuroshi-ai-2"}
             capitulosVideo={"/kuroshi-ai"}
           />
         }
@@ -8520,15 +8500,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Koroshi Ai Capitulo 2"}
             tituloPag={"Animekun"}
             anime={"Koroshi Ai "}
             numero={"2"}
-            button-nextVideo={"/ver/kuroshi-ai-3"}
+            siguienteVideo={"/ver/kuroshi-ai-3"}
             capitulosVideo={"/kuroshi-ai"}
-            button-beforeVideo={"/ver/kuroshi-ai-1"}
+            anteriorVideo={"/ver/kuroshi-ai-1"}
           />
         }
       />
@@ -8537,15 +8517,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Koroshi Ai Capitulo 3"}
             tituloPag={"Animekun"}
             anime={"Koroshi Ai "}
             numero={"3"}
-            button-nextVideo={"/ver/kuroshi-ai-4"}
+            siguienteVideo={"/ver/kuroshi-ai-4"}
             capitulosVideo={"/kuroshi-ai"}
-            button-beforeVideo={"/ver/kuroshi-ai-2"}
+            anteriorVideo={"/ver/kuroshi-ai-2"}
           />
         }
       />
@@ -8554,15 +8534,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Koroshi Ai Capitulo 4"}
             tituloPag={"Animekun"}
             anime={"Koroshi Ai "}
             numero={"4"}
-            button-nextVideo={"/ver/kuroshi-ai-5"}
+            siguienteVideo={"/ver/kuroshi-ai-5"}
             capitulosVideo={"/kuroshi-ai"}
-            button-beforeVideo={"/ver/kuroshi-ai-3"}
+            anteriorVideo={"/ver/kuroshi-ai-3"}
           />
         }
       />
@@ -8571,15 +8551,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Koroshi Ai Capitulo 5"}
             tituloPag={"Animekun"}
             anime={"Koroshi Ai "}
             numero={"5"}
-            button-nextVideo={"/ver/kuroshi-ai-6"}
+            siguienteVideo={"/ver/kuroshi-ai-6"}
             capitulosVideo={"/kuroshi-ai"}
-            button-beforeVideo={"/ver/kuroshi-ai-4"}
+            anteriorVideo={"/ver/kuroshi-ai-4"}
           />
         }
       />
@@ -8588,15 +8568,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Koroshi Ai Capitulo 6"}
             tituloPag={"Animekun"}
             anime={"Koroshi Ai "}
             numero={"6"}
-            button-nextVideo={"/ver/kuroshi-ai-7"}
+            siguienteVideo={"/ver/kuroshi-ai-7"}
             capitulosVideo={"/kuroshi-ai"}
-            button-beforeVideo={"/ver/kuroshi-ai-5"}
+            anteriorVideo={"/ver/kuroshi-ai-5"}
           />
         }
       />
@@ -8605,15 +8585,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Koroshi Ai Capitulo 7"}
             tituloPag={"Animekun"}
             anime={"Koroshi Ai "}
             numero={"7"}
-            button-nextVideo={"/ver/kuroshi-ai-8"}
+            siguienteVideo={"/ver/kuroshi-ai-8"}
             capitulosVideo={"/kuroshi-ai"}
-            button-beforeVideo={"/ver/kuroshi-ai-6"}
+            anteriorVideo={"/ver/kuroshi-ai-6"}
           />
         }
       />
@@ -8622,15 +8602,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Koroshi Ai Capitulo 8"}
             tituloPag={"Animekun"}
             anime={"Koroshi Ai "}
             numero={"8"}
-            button-nextVideo={"/ver/kuroshi-ai-9"}
+            siguienteVideo={"/ver/kuroshi-ai-9"}
             capitulosVideo={"/kuroshi-ai"}
-            button-beforeVideo={"/ver/kuroshi-ai-7"}
+            anteriorVideo={"/ver/kuroshi-ai-7"}
           />
         }
       />
@@ -8639,15 +8619,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Koroshi Ai Capitulo 9"}
             tituloPag={"Animekun"}
             anime={"Koroshi Ai "}
             numero={"9"}
-            button-nextVideo={"/ver/kuroshi-ai-10"}
+            siguienteVideo={"/ver/kuroshi-ai-10"}
             capitulosVideo={"/kuroshi-ai"}
-            button-beforeVideo={"/ver/kuroshi-ai-8"}
+            anteriorVideo={"/ver/kuroshi-ai-8"}
           />
         }
       />
@@ -8656,15 +8636,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Koroshi Ai Capitulo 10"}
             tituloPag={"Animekun"}
             anime={"Koroshi Ai "}
             numero={"10"}
-            button-nextVideo={"/ver/kuroshi-ai-11"}
+            siguienteVideo={"/ver/kuroshi-ai-11"}
             capitulosVideo={"/kuroshi-ai"}
-            button-beforeVideo={"/ver/kuroshi-ai-9"}
+            anteriorVideo={"/ver/kuroshi-ai-9"}
           />
         }
       />
@@ -8673,15 +8653,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Koroshi Ai Capitulo 11"}
             tituloPag={"Animekun"}
             anime={"Koroshi Ai "}
             numero={"11"}
-            button-nextVideo={"/ver/kuroshi-ai-12"}
+            siguienteVideo={"/ver/kuroshi-ai-12"}
             capitulosVideo={"/kuroshi-ai"}
-            button-beforeVideo={"/ver/kuroshi-ai-10"}
+            anteriorVideo={"/ver/kuroshi-ai-10"}
           />
         }
       />
@@ -8690,14 +8670,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Koroshi Ai Capitulo 12"}
             tituloPag={"Animekun"}
             anime={"Koroshi Ai "}
             numero={"12"}
             capitulosVideo={"/kuroshi-ai"}
-            button-beforeVideo={"/ver/kuroshi-ai-11"}
+            anteriorVideo={"/ver/kuroshi-ai-11"}
           />
         }
       />
@@ -8707,13 +8687,13 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/mv8uyfa88934.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Tribe Nine Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun"}
             anime={"Tribe Nine"}
             numero={"1"}
-            button-nextVideo={"/ver/tribe-nine-2"}
+            siguienteVideo={"/ver/tribe-nine-2"}
             capitulosVideo={"/tribe-nine"}
           />
         }
@@ -8723,15 +8703,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/jprq3gtysv64.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Tribe Nine Capitulo 2"}
             tituloPag={"Animekun"}
             anime={"Tribe Nine "}
             numero={"2"}
-            button-nextVideo={"/ver/tribe-nine-3"}
+            siguienteVideo={"/ver/tribe-nine-3"}
             capitulosVideo={"/tribe-nine"}
-            button-beforeVideo={"/ver/tribe-nine-1"}
+            anteriorVideo={"/ver/tribe-nine-1"}
           />
         }
       />
@@ -8740,15 +8720,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/3f1p5isr2bld.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Tribe Nine Capitulo 3"}
             tituloPag={"Animekun"}
             anime={"Tribe Nine "}
             numero={"3"}
-            button-nextVideo={"/ver/tribe-nine-4"}
+            siguienteVideo={"/ver/tribe-nine-4"}
             capitulosVideo={"/tribe-nine"}
-            button-beforeVideo={"/ver/tribe-nine-2"}
+            anteriorVideo={"/ver/tribe-nine-2"}
           />
         }
       />
@@ -8757,15 +8737,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/76lwnib7jx1.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Tribe Nine Capitulo 4"}
             tituloPag={"Animekun"}
             anime={"Tribe Nine "}
             numero={"4"}
-            button-nextVideo={"/ver/tribe-nine-5"}
+            siguienteVideo={"/ver/tribe-nine-5"}
             capitulosVideo={"/tribe-nine"}
-            button-beforeVideo={"/ver/tribe-nine-3"}
+            anteriorVideo={"/ver/tribe-nine-3"}
           />
         }
       />
@@ -8774,15 +8754,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/vqsk5dox9uau.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Tribe Nine Capitulo 5"}
             tituloPag={"Animekun"}
             anime={"Tribe Nine "}
             numero={"5"}
-            button-nextVideo={"/ver/tribe-nine-6"}
+            siguienteVideo={"/ver/tribe-nine-6"}
             capitulosVideo={"/tribe-nine"}
-            button-beforeVideo={"/ver/tribe-nine-4"}
+            anteriorVideo={"/ver/tribe-nine-4"}
           />
         }
       />
@@ -8791,15 +8771,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/9lgkmhulrfbr.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Tribe Nine Capitulo 6"}
             tituloPag={"Animekun"}
             anime={"Tribe Nine "}
             numero={"6"}
-            button-nextVideo={"/ver/tribe-nine-7"}
+            siguienteVideo={"/ver/tribe-nine-7"}
             capitulosVideo={"/tribe-nine"}
-            button-beforeVideo={"/ver/tribe-nine-5"}
+            anteriorVideo={"/ver/tribe-nine-5"}
           />
         }
       />
@@ -8808,15 +8788,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/007maj37e2h0.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Tribe Nine Capitulo 7"}
             tituloPag={"Animekun"}
             anime={"Tribe Nine "}
             numero={"7"}
-            button-nextVideo={"/ver/tribe-nine-8"}
+            siguienteVideo={"/ver/tribe-nine-8"}
             capitulosVideo={"/tribe-nine"}
-            button-beforeVideo={"/ver/tribe-nine-6"}
+            anteriorVideo={"/ver/tribe-nine-6"}
           />
         }
       />
@@ -8825,15 +8805,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/7j22qa8xpktn.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Tribe Nine Capitulo 8"}
             tituloPag={"Animekun"}
             anime={"Tribe Nine "}
             numero={"8"}
-            button-nextVideo={"/ver/tribe-nine-9"}
+            siguienteVideo={"/ver/tribe-nine-9"}
             capitulosVideo={"/tribe-nine"}
-            button-beforeVideo={"/ver/tribe-nine-7"}
+            anteriorVideo={"/ver/tribe-nine-7"}
           />
         }
       />
@@ -8842,15 +8822,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/8drooc7tgwle.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Tribe Nine Capitulo 9"}
             tituloPag={"Animekun"}
             anime={"Tribe Nine "}
             numero={"9"}
-            button-nextVideo={"/ver/tribe-nine-10"}
+            siguienteVideo={"/ver/tribe-nine-10"}
             capitulosVideo={"/tribe-nine"}
-            button-beforeVideo={"/ver/tribe-nine-8"}
+            anteriorVideo={"/ver/tribe-nine-8"}
           />
         }
       />
@@ -8859,15 +8839,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/upoqmhxnc152.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Tribe Nine Capitulo 10"}
             tituloPag={"Animekun"}
             anime={"Tribe Nine "}
             numero={"10"}
-            button-nextVideo={"/ver/tribe-nine-11"}
+            siguienteVideo={"/ver/tribe-nine-11"}
             capitulosVideo={"/tribe-nine"}
-            button-beforeVideo={"/ver/tribe-nine-9"}
+            anteriorVideo={"/ver/tribe-nine-9"}
           />
         }
       />
@@ -8876,15 +8856,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/sap20wubvy53.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Tribe Nine Capitulo 11"}
             tituloPag={"Animekun"}
             anime={"Tribe Nine "}
             numero={"11"}
-            button-nextVideo={"/ver/tribe-nine-12"}
+            siguienteVideo={"/ver/tribe-nine-12"}
             capitulosVideo={"/tribe-nine"}
-            button-beforeVideo={"/ver/tribe-nine-10"}
+            anteriorVideo={"/ver/tribe-nine-10"}
           />
         }
       />
@@ -8893,14 +8873,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/ui1vmsjlz346.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Tribe Nine Capitulo 12"}
             tituloPag={"Animekun"}
             anime={"Tribe Nine "}
             numero={"12"}
             capitulosVideo={"/tribe-nine"}
-            button-beforeVideo={"/ver/tribe-nine-11"}
+            anteriorVideo={"/ver/tribe-nine-11"}
           />
         }
       />
@@ -8910,13 +8890,13 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/288o4oewqa5q.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun"}
             anime={"Gensou Sangokushi Tengen Reishink"}
             numero={"1"}
-            button-nextVideo={"/ver/gensou-sangokushi-tengen-reishink-2"}
+            siguienteVideo={"/ver/gensou-sangokushi-tengen-reishink-2"}
             capitulosVideo={"/gensou-sangokushi-tengen-reishink"}
           />
         }
@@ -8926,15 +8906,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/yjppmkx7jgpk.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 2"}
             tituloPag={"Animekun"}
             anime={"Gensou Sangokushi Tengen Reishink "}
             numero={"2"}
-            button-nextVideo={"/ver/gensou-sangokushi-tengen-reishink-3"}
+            siguienteVideo={"/ver/gensou-sangokushi-tengen-reishink-3"}
             capitulosVideo={"/gensou-sangokushi-tengen-reishink"}
-            button-beforeVideo={"/ver/gensou-sangokushi-tengen-reishink-1"}
+            anteriorVideo={"/ver/gensou-sangokushi-tengen-reishink-1"}
           />
         }
       />
@@ -8943,15 +8923,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/icvg4elkeuhp.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 3"}
             tituloPag={"Animekun"}
             anime={"Gensou Sangokushi Tengen Reishink "}
             numero={"3"}
-            button-nextVideo={"/ver/gensou-sangokushi-tengen-reishink-4"}
+            siguienteVideo={"/ver/gensou-sangokushi-tengen-reishink-4"}
             capitulosVideo={"/gensou-sangokushi-tengen-reishink"}
-            button-beforeVideo={"/ver/gensou-sangokushi-tengen-reishink-2"}
+            anteriorVideo={"/ver/gensou-sangokushi-tengen-reishink-2"}
           />
         }
       />
@@ -8960,15 +8940,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/un2o6o7njjn8.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 4"}
             tituloPag={"Animekun"}
             anime={"Gensou Sangokushi Tengen Reishink "}
             numero={"4"}
-            button-nextVideo={"/ver/gensou-sangokushi-tengen-reishink-5"}
+            siguienteVideo={"/ver/gensou-sangokushi-tengen-reishink-5"}
             capitulosVideo={"/gensou-sangokushi-tengen-reishink"}
-            button-beforeVideo={"/ver/gensou-sangokushi-tengen-reishink-3"}
+            anteriorVideo={"/ver/gensou-sangokushi-tengen-reishink-3"}
           />
         }
       />
@@ -8977,15 +8957,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/54o0384gjcm0.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 5"}
             tituloPag={"Animekun"}
             anime={"Gensou Sangokushi Tengen Reishink "}
             numero={"5"}
-            button-nextVideo={"/ver/gensou-sangokushi-tengen-reishink-6"}
+            siguienteVideo={"/ver/gensou-sangokushi-tengen-reishink-6"}
             capitulosVideo={"/gensou-sangokushi-tengen-reishink"}
-            button-beforeVideo={"/ver/gensou-sangokushi-tengen-reishink-4"}
+            anteriorVideo={"/ver/gensou-sangokushi-tengen-reishink-4"}
           />
         }
       />
@@ -8994,15 +8974,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/nqg8iz72ohwt.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 6"}
             tituloPag={"Animekun"}
             anime={"Gensou Sangokushi Tengen Reishink "}
             numero={"6"}
-            button-nextVideo={"/ver/gensou-sangokushi-tengen-reishink-7"}
+            siguienteVideo={"/ver/gensou-sangokushi-tengen-reishink-7"}
             capitulosVideo={"/gensou-sangokushi-tengen-reishink"}
-            button-beforeVideo={"/ver/gensou-sangokushi-tengen-reishink-5"}
+            anteriorVideo={"/ver/gensou-sangokushi-tengen-reishink-5"}
           />
         }
       />
@@ -9011,15 +8991,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/vol89ymv96ut.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 7"}
             tituloPag={"Animekun"}
             anime={"Gensou Sangokushi Tengen Reishink "}
             numero={"7"}
-            button-nextVideo={"/ver/gensou-sangokushi-tengen-reishink-8"}
+            siguienteVideo={"/ver/gensou-sangokushi-tengen-reishink-8"}
             capitulosVideo={"/gensou-sangokushi-tengen-reishink"}
-            button-beforeVideo={"/ver/gensou-sangokushi-tengen-reishink-6"}
+            anteriorVideo={"/ver/gensou-sangokushi-tengen-reishink-6"}
           />
         }
       />
@@ -9028,15 +9008,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/vn8jhllw67i5.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 8"}
             tituloPag={"Animekun"}
             anime={"Gensou Sangokushi Tengen Reishink "}
             numero={"8"}
-            button-nextVideo={"/ver/gensou-sangokushi-tengen-reishink-9"}
+            siguienteVideo={"/ver/gensou-sangokushi-tengen-reishink-9"}
             capitulosVideo={"/gensou-sangokushi-tengen-reishink"}
-            button-beforeVideo={"/ver/gensou-sangokushi-tengen-reishink-7"}
+            anteriorVideo={"/ver/gensou-sangokushi-tengen-reishink-7"}
           />
         }
       />
@@ -9045,15 +9025,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/5q5623rjklk0.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 9"}
             tituloPag={"Animekun"}
             anime={"Gensou Sangokushi Tengen Reishink "}
             numero={"9"}
-            button-nextVideo={"/ver/gensou-sangokushi-tengen-reishink-10"}
+            siguienteVideo={"/ver/gensou-sangokushi-tengen-reishink-10"}
             capitulosVideo={"/gensou-sangokushi-tengen-reishink"}
-            button-beforeVideo={"/ver/gensou-sangokushi-tengen-reishink-8"}
+            anteriorVideo={"/ver/gensou-sangokushi-tengen-reishink-8"}
           />
         }
       />
@@ -9062,15 +9042,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/g8ar3a1crj7s.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 10"}
             tituloPag={"Animekun"}
             anime={"Gensou Sangokushi Tengen Reishink "}
             numero={"10"}
-            button-nextVideo={"/ver/gensou-sangokushi-tengen-reishink-11"}
+            siguienteVideo={"/ver/gensou-sangokushi-tengen-reishink-11"}
             capitulosVideo={"/gensou-sangokushi-tengen-reishink"}
-            button-beforeVideo={"/ver/gensou-sangokushi-tengen-reishink-9"}
+            anteriorVideo={"/ver/gensou-sangokushi-tengen-reishink-9"}
           />
         }
       />
@@ -9079,15 +9059,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/inq38pbdr3sh.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 11"}
             tituloPag={"Animekun"}
             anime={"Gensou Sangokushi Tengen Reishink"}
             numero={"11"}
-            button-nextVideo={"/ver/gensou-sangokushi-tengen-reishink-12"}
+            siguienteVideo={"/ver/gensou-sangokushi-tengen-reishink-12"}
             capitulosVideo={"/gensou-sangokushi-tengen-reishink"}
-            button-beforeVideo={"/ver/gensou-sangokushi-tengen-reishink-10"}
+            anteriorVideo={"/ver/gensou-sangokushi-tengen-reishink-10"}
           />
         }
       />
@@ -9096,14 +9076,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/va5adqnokk5i.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 12"}
             tituloPag={"Animekun"}
             anime={"Gensou Sangokushi Tengen Reishink "}
             numero={"12"}
             capitulosVideo={"/gensou-sangokushi-tengen-reishink"}
-            button-beforeVideo={"/ver/gensou-sangokushi-tengen-reishink-11"}
+            anteriorVideo={"/ver/gensou-sangokushi-tengen-reishink-11"}
           />
         }
       />
@@ -9113,13 +9093,13 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblanh.com/e/m4kppghr5mpf.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Spy x Family 2nd temporada Capitulo 1"}
-            nextClass={"button-before"}
+            contSiguienteClass={"button-before"}
             tituloPag={"Animekun"}
             anime={"Spy x Family 2nd Temporada"}
             numero={"1"}
-            button-nextVideo={"/ver/spy-x-family-2nd-temporada-2"}
+            siguienteVideo={"/ver/spy-x-family-2nd-temporada-2"}
             capitulosVideo={"/spy-x-family-2nd-temporada"}
           />
         }
@@ -9129,14 +9109,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/iax1kh5jmlw2.html"}
-            beforeClass="button-before"
-            nextClass={"button-before"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-before"}
             tituloAnime={"Spy x Family 2nd Temporada Capitulo 2"}
             anime={"Spy x Family 2nd Temporada "}
             numero={"2"}
-            button-nextVideo={"/ver/spy-x-family-2nd-temporada-3"}
+            siguienteVideo={"/ver/spy-x-family-2nd-temporada-3"}
             capitulosVideo={"/spy-x-family-2nd-temporada"}
-            button-beforeVideo={"/ver/spy-x-family-2nd-temporada-1"}
+            anteriorVideo={"/ver/spy-x-family-2nd-temporada-1"}
           />
         }
       />
@@ -9145,14 +9125,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/duqs5x463y25.html"}
-            beforeClass="button-before"
-            nextClass={"button-before"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-before"}
             tituloAnime={"Spy x Family 2nd Temporada Capitulo 3"}
             anime={"Spy x Family 2nd Temporada "}
             numero={"3"}
-            button-nextVideo={"/ver/spy-x-family-2nd-temporada-4"}
+            siguienteVideo={"/ver/spy-x-family-2nd-temporada-4"}
             capitulosVideo={"/spy-x-family-2nd-temporada"}
-            button-beforeVideo={"/ver/spy-x-family-2nd-temporada-2"}
+            anteriorVideo={"/ver/spy-x-family-2nd-temporada-2"}
           />
         }
       />
@@ -9161,15 +9141,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/rnk00xkiayzx.html"}
-            beforeClass="button-before"
-            nextClass={"button-before"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-before"}
             tituloAnime={"Spy x Family 2nd Temporada Capitulo 4"}
             tituloPag={"Animekun"}
             anime={"Spy x Family 2nd Temporada "}
             numero={"4"}
-            button-nextVideo={"/ver/spy-x-family-2nd-temporada-5"}
+            siguienteVideo={"/ver/spy-x-family-2nd-temporada-5"}
             capitulosVideo={"/spy-x-family-2nd-temporada"}
-            button-beforeVideo={"/ver/spy-x-family-2nd-temporada-3"}
+            anteriorVideo={"/ver/spy-x-family-2nd-temporada-3"}
           />
         }
       />
@@ -9178,15 +9158,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/2si4dqjyi17f.html"}
-            beforeClass="button-before"
-            nextClass={"button-before"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-before"}
             tituloAnime={"Spy x Family 2nd Temporada Capitulo 5"}
             tituloPag={"Animekun"}
             anime={"Spy x Family 2nd Temporada "}
             numero={"5"}
-            button-nextVideo={"/ver/spy-x-family-2nd-temporada-6"}
+            siguienteVideo={"/ver/spy-x-family-2nd-temporada-6"}
             capitulosVideo={"/spy-x-family-2nd-temporada"}
-            button-beforeVideo={"/ver/spy-x-family-2nd-temporada-4"}
+            anteriorVideo={"/ver/spy-x-family-2nd-temporada-4"}
           />
         }
       />
@@ -9195,15 +9175,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/4s3txnlub5ir.html"}
-            beforeClass="button-before"
-            nextClass={"button-before"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-before"}
             tituloAnime={"Spy x Family 2nd Temporada Capitulo 6"}
             tituloPag={"Animekun"}
             anime={"Spy x Family 2nd Temporada "}
             numero={"6"}
-            button-nextVideo={"/ver/spy-x-family-2nd-temporada-7"}
+            siguienteVideo={"/ver/spy-x-family-2nd-temporada-7"}
             capitulosVideo={"/spy-x-family-2nd-temporada"}
-            button-beforeVideo={"/ver/spy-x-family-2nd-temporada-5"}
+            anteriorVideo={"/ver/spy-x-family-2nd-temporada-5"}
           />
         }
       />
@@ -9212,14 +9192,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/c8655zli44rf.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Spy x Family 2nd Temporada Capitulo 7"}
             anime={"Spy x Family 2nd Temporada "}
             numero={"7"}
-            button-nextVideo={"/ver/spy-x-family-2nd-temporada-8"}
+            siguienteVideo={"/ver/spy-x-family-2nd-temporada-8"}
             capitulosVideo={"/spy-x-family-2nd-temporada"}
-            button-beforeVideo={"/ver/spy-x-family-2nd-temporada-6"}
+            anteriorVideo={"/ver/spy-x-family-2nd-temporada-6"}
           />
         }
       />
@@ -9228,14 +9208,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/z4m7wb3adp0v.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Spy x Family 2nd Temporada Capitulo 8"}
             anime={"Spy x Family 2nd Temporada "}
             numero={"8"}
-            button-nextVideo={"/ver/spy-x-family-2nd-temporada-9"}
+            siguienteVideo={"/ver/spy-x-family-2nd-temporada-9"}
             capitulosVideo={"/spy-x-family-2nd-temporada"}
-            button-beforeVideo={"/ver/spy-x-family-2nd-temporada-7"}
+            anteriorVideo={"/ver/spy-x-family-2nd-temporada-7"}
           />
         }
       />
@@ -9244,14 +9224,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/4c6cd2pdewik.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Spy x Family 2nd Temporada Capitulo 9"}
             anime={"Spy x Family 2nd Temporada "}
             numero={"9"}
-            button-nextVideo={"/ver/spy-x-family-2nd-temporada-10"}
+            siguienteVideo={"/ver/spy-x-family-2nd-temporada-10"}
             capitulosVideo={"/spy-x-family-2nd-temporada"}
-            button-beforeVideo={"/ver/spy-x-family-2nd-temporada-8"}
+            anteriorVideo={"/ver/spy-x-family-2nd-temporada-8"}
           />
         }
       />
@@ -9260,14 +9240,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/pk1nah92r61y.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Spy x Family 2nd Temporada Capitulo 10"}
             anime={"Spy x Family 2nd Temporada "}
             numero={"10"}
-            button-nextVideo={"/ver/spy-x-family-2nd-temporada-11"}
+            siguienteVideo={"/ver/spy-x-family-2nd-temporada-11"}
             capitulosVideo={"/spy-x-family-2nd-temporada"}
-            button-beforeVideo={"/ver/spy-x-family-2nd-temporada-9"}
+            anteriorVideo={"/ver/spy-x-family-2nd-temporada-9"}
           />
         }
       />
@@ -9276,14 +9256,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Spy x Family 2nd Temporada Capitulo 11"}
             anime={"Spy x Family 2nd Temporada "}
             numero={"11"}
-            button-nextVideo={"/ver/-12"}
+            siguienteVideo={"/ver/-12"}
             capitulosVideo={"/"}
-            button-beforeVideo={"/ver/-10"}
+            anteriorVideo={"/ver/-10"}
           />
         }
       />
@@ -9292,14 +9272,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={" Capitulo 12"}
             tituloPag={"Animekun"}
             anime={" "}
             numero={"12"}
             capitulosVideo={"/"}
-            button-beforeVideo={"/ver/-11"}
+            anteriorVideo={"/ver/-11"}
           />
         }
       />
@@ -9309,12 +9289,12 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/ytbhr4qicr5y.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Mob Pyscho 100 III Capitulo 1"}
-            nextClass={"button-before"}
+            contSiguienteClass={"button-before"}
             anime={"Mob Psycho 100 III"}
             numero={"1"}
-            button-nextVideo={"/ver/mob-psycho-100-III-2"}
+            siguienteVideo={"/ver/mob-psycho-100-III-2"}
             capitulosVideo={"/mob-psycho-100-III"}
           />
         }
@@ -9324,14 +9304,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/qs4jajqkebhq.html"}
-            beforeClass="button-before"
-            nextClass={"button-before"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-before"}
             tituloAnime={"Mob Psycho 100 III Capitulo 2"}
             anime={"Mob Psycho 100 III "}
             numero={"2"}
-            button-nextVideo={"/ver/mob-psycho-100-III-3"}
+            siguienteVideo={"/ver/mob-psycho-100-III-3"}
             capitulosVideo={"/mob-psycho-100-III"}
-            button-beforeVideo={"/ver/mob-psycho-100-III-1"}
+            anteriorVideo={"/ver/mob-psycho-100-III-1"}
           />
         }
       />
@@ -9340,14 +9320,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/ug0tktbfudel.html"}
-            beforeClass="button-before"
-            nextClass={"button-before"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-before"}
             tituloAnime={"Mob Psycho 100 III Capitulo 3"}
             anime={"Mob Psycho 100 III "}
             numero={"3"}
-            button-nextVideo={"/ver/mob-psycho-100-III-4"}
+            siguienteVideo={"/ver/mob-psycho-100-III-4"}
             capitulosVideo={"/mob-psycho-100-III"}
-            button-beforeVideo={"/ver/mob-psycho-100-III-2"}
+            anteriorVideo={"/ver/mob-psycho-100-III-2"}
           />
         }
       />
@@ -9356,15 +9336,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/urzwcad0ioxm.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Psycho 100 III Capitulo 4"}
             tituloPag={"Animekun"}
             anime={"Mob Psycho 100 III "}
             numero={"4"}
-            button-nextVideo={"/ver/mob-psycho-100-III-5"}
+            siguienteVideo={"/ver/mob-psycho-100-III-5"}
             capitulosVideo={"/mob-psycho-100-III"}
-            button-beforeVideo={"/ver/mob-psycho-100-III-3"}
+            anteriorVideo={"/ver/mob-psycho-100-III-3"}
           />
         }
       />
@@ -9373,15 +9353,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/j8h77qwzcwwk.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Psycho 100 III Capitulo 5"}
             tituloPag={"Animekun"}
             anime={"Mob Psycho 100 III "}
             numero={"5"}
-            button-nextVideo={"/ver/mob-psycho-100-III-6"}
+            siguienteVideo={"/ver/mob-psycho-100-III-6"}
             capitulosVideo={"/mob-psycho-100-III"}
-            button-beforeVideo={"/ver/mob-psycho-100-III-4"}
+            anteriorVideo={"/ver/mob-psycho-100-III-4"}
           />
         }
       />
@@ -9390,15 +9370,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/9n7l2f2v1e6r.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Psycho 100 III Capitulo 6"}
             tituloPag={"Animekun"}
             anime={"Mob Psycho 100 III"}
             numero={"6"}
-            button-nextVideo={"/ver/mob-psycho-100-III-7"}
+            siguienteVideo={"/ver/mob-psycho-100-III-7"}
             capitulosVideo={"/mob-psycho-100-III"}
-            button-beforeVideo={"/ver/mob-psycho-100-III-5"}
+            anteriorVideo={"/ver/mob-psycho-100-III-5"}
           />
         }
       />
@@ -9407,14 +9387,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/rnkzfsraqu7a.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Psycho 100 III Capitulo 7"}
             anime={"Mob Psycho 100 III "}
             numero={"7"}
-            button-nextVideo={"/ver/mob-psycho-100-III-8"}
+            siguienteVideo={"/ver/mob-psycho-100-III-8"}
             capitulosVideo={"/mob-psycho-100-III"}
-            button-beforeVideo={"/ver/mob-psycho-100-III-6"}
+            anteriorVideo={"/ver/mob-psycho-100-III-6"}
           />
         }
       />
@@ -9423,14 +9403,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/x0ycpy8wplsm.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Psycho 100 III Capitulo 8"}
             anime={"Mob Psycho 100 III "}
             numero={"8"}
-            button-nextVideo={"/ver/mob-psycho-100-III-9"}
+            siguienteVideo={"/ver/mob-psycho-100-III-9"}
             capitulosVideo={"/mob-psycho-100-III"}
-            button-beforeVideo={"/ver/mob-psycho-100-III-7"}
+            anteriorVideo={"/ver/mob-psycho-100-III-7"}
           />
         }
       />
@@ -9439,14 +9419,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/42tqztsmxk60.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Mob Psycho 100 III Capitulo 9"}
             anime={"Mob Psycho 100 III "}
             numero={"9"}
-            button-nextVideo={"/ver/mob-psycho-100-III-10"}
+            siguienteVideo={"/ver/mob-psycho-100-III-10"}
             capitulosVideo={"/mob-psycho-100-III"}
-            button-beforeVideo={"/ver/mob-psycho-100-III-8"}
+            anteriorVideo={"/ver/mob-psycho-100-III-8"}
           />
         }
       />
@@ -9455,14 +9435,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Psycho 100 III Capitulo 10"}
             anime={"Mob Psycho 100 III "}
             numero={"10"}
-            button-nextVideo={"/ver/-11"}
+            siguienteVideo={"/ver/-11"}
             capitulosVideo={"/"}
-            button-beforeVideo={"/ver/-9"}
+            anteriorVideo={"/ver/-9"}
           />
         }
       />
@@ -9471,14 +9451,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Psycho 100 III Capitulo 11"}
             anime={"Mob Psycho 100 III "}
             numero={"11"}
-            button-nextVideo={"/ver/-12"}
+            siguienteVideo={"/ver/-12"}
             capitulosVideo={"/"}
-            button-beforeVideo={"/ver/-10"}
+            anteriorVideo={"/ver/-10"}
           />
         }
       />
@@ -9487,13 +9467,13 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Mob Psycho 100 III Capitulo 12"}
             anime={"Mob Psycho 100 III "}
             numero={"12"}
             capitulosVideo={"/"}
-            button-beforeVideo={"/ver/-11"}
+            anteriorVideo={"/ver/-11"}
           />
         }
       />
@@ -9503,13 +9483,13 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblanh.com/e/0f1z1eipuw37.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Mob Psycho 100 Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun"}
             anime={"Mob Psycho 100"}
             numero={"1"}
-            button-nextVideo={"/ver/mob-psycho-100-2"}
+            siguienteVideo={"/ver/mob-psycho-100-2"}
             capitulosVideo={"/mob-psycho-100"}
           />
         }
@@ -9519,15 +9499,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblanh.com/e/ya29nv0eu855.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Psycho 100 Capitulo 2"}
             tituloPag={"Animekun"}
             anime={"Mob Psycho 100 "}
             numero={"2"}
-            button-nextVideo={"/ver/mob-psycho-100-3"}
+            siguienteVideo={"/ver/mob-psycho-100-3"}
             capitulosVideo={"/mob-psycho-100"}
-            button-beforeVideo={"/ver/mob-psycho-100-1"}
+            anteriorVideo={"/ver/mob-psycho-100-1"}
           />
         }
       />
@@ -9536,15 +9516,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblanh.com/e/4msglpf3ul82.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Psycho 100 Capitulo 3"}
             tituloPag={"Animekun"}
             anime={"Mob Psycho 100 "}
             numero={"3"}
-            button-nextVideo={"/ver/mob-psycho-100-4"}
+            siguienteVideo={"/ver/mob-psycho-100-4"}
             capitulosVideo={"/mob-psycho-100"}
-            button-beforeVideo={"/ver/mob-psycho-100-2"}
+            anteriorVideo={"/ver/mob-psycho-100-2"}
           />
         }
       />
@@ -9553,15 +9533,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblanh.com/e/0s0r9lyh2h91.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Psycho 100 Capitulo 4"}
             tituloPag={"Animekun"}
             anime={"Mob Psycho 100 "}
             numero={"4"}
-            button-nextVideo={"/ver/mob-psycho-100-5"}
+            siguienteVideo={"/ver/mob-psycho-100-5"}
             capitulosVideo={"/mob-psycho-100"}
-            button-beforeVideo={"/ver/mob-psycho-100-3"}
+            anteriorVideo={"/ver/mob-psycho-100-3"}
           />
         }
       />
@@ -9570,15 +9550,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblanh.com/e/dbh6yj35qxjc.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Psycho 100 Capitulo 5"}
             tituloPag={"Animekun"}
             anime={"Mob Psycho 100 "}
             numero={"5"}
-            button-nextVideo={"/ver/mob-psycho-100-6"}
+            siguienteVideo={"/ver/mob-psycho-100-6"}
             capitulosVideo={"/mob-psycho-100"}
-            button-beforeVideo={"/ver/mob-psycho-100-4"}
+            anteriorVideo={"/ver/mob-psycho-100-4"}
           />
         }
       />
@@ -9587,15 +9567,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblanh.com/e/366lcbwomzi2.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Psycho 100 Capitulo 6"}
             tituloPag={"Animekun"}
             anime={"Mob Psycho 100 "}
             numero={"6"}
-            button-nextVideo={"/ver/mob-psycho-100-7"}
+            siguienteVideo={"/ver/mob-psycho-100-7"}
             capitulosVideo={"/mob-psycho-100"}
-            button-beforeVideo={"/ver/mob-psycho-100-5"}
+            anteriorVideo={"/ver/mob-psycho-100-5"}
           />
         }
       />
@@ -9604,15 +9584,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblanh.com/e/gre06u72cm1u.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Psycho 100 Capitulo 7"}
             tituloPag={"Animekun"}
             anime={"Mob Psycho 100"}
             numero={"7"}
-            button-nextVideo={"/ver/mob-psycho-100-8"}
+            siguienteVideo={"/ver/mob-psycho-100-8"}
             capitulosVideo={"/mob-psycho-100"}
-            button-beforeVideo={"/ver/mob-psycho-100-6"}
+            anteriorVideo={"/ver/mob-psycho-100-6"}
           />
         }
       />
@@ -9621,15 +9601,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblanh.com/e/bsvctp86as75.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Pyscho 100 Capitulo 8"}
             tituloPag={"Animekun"}
             anime={"Mob Pyscho 100 "}
             numero={"8"}
-            button-nextVideo={"/ver/mob-psycho-100-9"}
+            siguienteVideo={"/ver/mob-psycho-100-9"}
             capitulosVideo={"/mob-psycho-100"}
-            button-beforeVideo={"/ver/mob-psycho-100-7"}
+            anteriorVideo={"/ver/mob-psycho-100-7"}
           />
         }
       />
@@ -9638,15 +9618,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblanh.com/e/9qp8zygcmlab.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Pyscho 100 Capitulo 9"}
             tituloPag={"Animekun"}
             anime={"Mob Pyscho 100 "}
             numero={"9"}
-            button-nextVideo={"/ver/mob-psycho-100-10"}
+            siguienteVideo={"/ver/mob-psycho-100-10"}
             capitulosVideo={"/mob-psycho-100"}
-            button-beforeVideo={"/ver/mob-psycho-100-8"}
+            anteriorVideo={"/ver/mob-psycho-100-8"}
           />
         }
       />
@@ -9655,15 +9635,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblanh.com/e/e3tsti367j0c.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Pyscho 100 Capitulo 10"}
             tituloPag={"Animekun"}
             anime={"Mob Pyscho 100 "}
             numero={"10"}
-            button-nextVideo={"/ver/mob-psycho-100-11"}
+            siguienteVideo={"/ver/mob-psycho-100-11"}
             capitulosVideo={"/mob-psycho-100"}
-            button-beforeVideo={"/ver/mob-psycho-100-9"}
+            anteriorVideo={"/ver/mob-psycho-100-9"}
           />
         }
       />
@@ -9672,15 +9652,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblanh.com/e/m5zaws4q62kq.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Pyscho 100 Capitulo 11"}
             tituloPag={"Animekun"}
             anime={"Mob Pyscho 100 "}
             numero={"11"}
-            button-nextVideo={"/ver/mob-psycho-100-12"}
+            siguienteVideo={"/ver/mob-psycho-100-12"}
             capitulosVideo={"/mob-psycho-100"}
-            button-beforeVideo={"/ver/mob-psycho-100-10"}
+            anteriorVideo={"/ver/mob-psycho-100-10"}
           />
         }
       />
@@ -9689,17 +9669,17 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblanh.com/e/jo3ox1tgg4dd.html"}
-            beforeClass="button-before"
-            nextClass={
-              "column is-3-desktop is-2-tablet is-2-mobile con-button-next"
+            contAnteriorClass="button-before"
+            contSiguienteClass={
+              "column is-3-desktop is-2-tablet is-2-mobile con-siguiente"
             }
             tituloAnime={"Mob Pyscho 100 Capitulo 12"}
             tituloPag={"Animekun"}
             anime={"Mob Pyscho 100 "}
             numero={"12"}
             capitulosVideo={"/mob-psycho-100"}
-            button-beforeVideo={"/ver/mob-psycho-100-11"}
-            button-nextVideo={"/mob-psycho-100-13-ova"}
+            anteriorVideo={"/ver/mob-psycho-100-11"}
+            siguienteVideo={"/mob-psycho-100-13-ova"}
           />
         }
       />
@@ -9708,13 +9688,13 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblanh.com/e/xgr3n5wovop2.html"}
-            beforeClass="button-before"
+            contAnteriorClass="button-before"
             tituloAnime={"Mob Pyscho 100"}
             tituloPag={"Animekun"}
             anime={"Mob Pyscho 100 "}
             numero={"OVA"}
             capitulosVideo={"/mob-psycho-100"}
-            button-beforeVideo={"/ver/mob-psycho-100-12"}
+            anteriorVideo={"/ver/mob-psycho-100-12"}
           />
         }
       />
@@ -9724,13 +9704,13 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblanh.com/e/207cerrmetul.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Mob Pyscho 100 II Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun"}
             anime={"Mob Pyscho 100 II"}
             numero={"1"}
-            button-nextVideo={"/ver/mob-psycho-100-II-2"}
+            siguienteVideo={"/ver/mob-psycho-100-II-2"}
             capitulosVideo={"/mob-psycho-100-II"}
           />
         }
@@ -9740,15 +9720,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblanh.com/e/q45r0i8hdqp7.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Pyscho 100 II Capitulo 2"}
             tituloPag={"Animekun"}
             anime={"Mob Pyscho 100 II "}
             numero={"2"}
-            button-nextVideo={"/ver/mob-psycho-100-II-3"}
+            siguienteVideo={"/ver/mob-psycho-100-II-3"}
             capitulosVideo={"/mob-psycho-100-II"}
-            button-beforeVideo={"/ver/mob-psycho-100-II-1"}
+            anteriorVideo={"/ver/mob-psycho-100-II-1"}
           />
         }
       />
@@ -9757,15 +9737,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblanh.com/e/ib35xdtnp5ya.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Pyscho 100 II Capitulo 3"}
             tituloPag={"Animekun"}
             anime={"Mob Pyscho 100 II "}
             numero={"3"}
-            button-nextVideo={"/ver/mob-psycho-100-II-4"}
+            siguienteVideo={"/ver/mob-psycho-100-II-4"}
             capitulosVideo={"/mob-psycho-100-II"}
-            button-beforeVideo={"/ver/mob-psycho-100-II-2"}
+            anteriorVideo={"/ver/mob-psycho-100-II-2"}
           />
         }
       />
@@ -9774,15 +9754,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblanh.com/e/15t1v22uvxt6.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Pyscho 100 II Capitulo 4"}
             tituloPag={"Animekun"}
             anime={"Mob Pyscho 100 II "}
             numero={"4"}
-            button-nextVideo={"/ver/mob-psycho-100-II-5"}
+            siguienteVideo={"/ver/mob-psycho-100-II-5"}
             capitulosVideo={"/mob-psycho-100-II"}
-            button-beforeVideo={"/ver/mob-psycho-100-II-3"}
+            anteriorVideo={"/ver/mob-psycho-100-II-3"}
           />
         }
       />
@@ -9791,15 +9771,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblanh.com/e/ejj70at2xkan.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Pyscho 100 II Capitulo 5"}
             tituloPag={"Animekun"}
             anime={"Mob Pyscho 100 II "}
             numero={"5"}
-            button-nextVideo={"/ver/mob-psycho-100-II-6"}
+            siguienteVideo={"/ver/mob-psycho-100-II-6"}
             capitulosVideo={"/mob-psycho-100-II"}
-            button-beforeVideo={"/ver/mob-psycho-100-II-4"}
+            anteriorVideo={"/ver/mob-psycho-100-II-4"}
           />
         }
       />
@@ -9808,15 +9788,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblanh.com/e/3gvuyurbpho8.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Pyscho 100 II Capitulo 6"}
             tituloPag={"Animekun"}
             anime={"Mob Pyscho 100 II "}
             numero={"6"}
-            button-nextVideo={"/ver/mob-psycho-100-II-7"}
+            siguienteVideo={"/ver/mob-psycho-100-II-7"}
             capitulosVideo={"/mob-psycho-100-II"}
-            button-beforeVideo={"/ver/mob-psycho-100-II-5"}
+            anteriorVideo={"/ver/mob-psycho-100-II-5"}
           />
         }
       />
@@ -9825,15 +9805,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbspeed.com/e/bf110bmh4pdb.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Pyscho 100 II Capitulo 7"}
             tituloPag={"Animekun"}
             anime={"Mob Pyscho 100 II "}
             numero={"7"}
-            button-nextVideo={"/ver/mob-psycho-100-II-8"}
+            siguienteVideo={"/ver/mob-psycho-100-II-8"}
             capitulosVideo={"/mob-psycho-100-II"}
-            button-beforeVideo={"/ver/mob-psycho-100-II-6"}
+            anteriorVideo={"/ver/mob-psycho-100-II-6"}
           />
         }
       />
@@ -9842,15 +9822,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbspeed.com/e/xwbhcg1mq7rv.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Pyscho 100 II Capitulo 8"}
             tituloPag={"Animekun"}
             anime={"Mob Pyscho 100 II "}
             numero={"8"}
-            button-nextVideo={"/ver/mob-psycho-100-II-9"}
+            siguienteVideo={"/ver/mob-psycho-100-II-9"}
             capitulosVideo={"/mob-psycho-100-II"}
-            button-beforeVideo={"/ver/mob-psycho-100-II-7"}
+            anteriorVideo={"/ver/mob-psycho-100-II-7"}
           />
         }
       />
@@ -9859,15 +9839,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbspeed.com/e/uymusukxy02b.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Pyscho 100 II Capitulo 9"}
             tituloPag={"Animekun"}
             anime={"Mob Pyscho 100 II "}
             numero={"9"}
-            button-nextVideo={"/ver/mob-psycho-100-II-10"}
+            siguienteVideo={"/ver/mob-psycho-100-II-10"}
             capitulosVideo={"/mob-psycho-100-II"}
-            button-beforeVideo={"/ver/mob-psycho-100-II-8"}
+            anteriorVideo={"/ver/mob-psycho-100-II-8"}
           />
         }
       />
@@ -9876,15 +9856,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbspeed.com/e/xicezama4954.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Pyscho 100 II Capitulo 10"}
             tituloPag={"Animekun"}
             anime={"Mob Pyscho 100 II "}
             numero={"10"}
-            button-nextVideo={"/ver/mob-psycho-100-II-11"}
+            siguienteVideo={"/ver/mob-psycho-100-II-11"}
             capitulosVideo={"/mob-psycho-100-II"}
-            button-beforeVideo={"/ver/mob-psycho-100-II-9"}
+            anteriorVideo={"/ver/mob-psycho-100-II-9"}
           />
         }
       />
@@ -9893,15 +9873,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbspeed.com/e/sxttvs4ipsfl.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Pyscho 100 II Capitulo 11"}
             tituloPag={"Animekun"}
             anime={"Mob Pyscho 100 II "}
             numero={"11"}
-            button-nextVideo={"/ver/mob-psycho-100-II-12"}
+            siguienteVideo={"/ver/mob-psycho-100-II-12"}
             capitulosVideo={"/mob-psycho-100-II"}
-            button-beforeVideo={"/ver/mob-psycho-100-II-10"}
+            anteriorVideo={"/ver/mob-psycho-100-II-10"}
           />
         }
       />
@@ -9910,15 +9890,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbspeed.com/e/q9md24d99efr.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Pyscho 100 II Capitulo 12"}
             tituloPag={"Animekun"}
             anime={"Mob Pyscho 100 II "}
             numero={"12"}
-            button-nextVideo={"/ver/mob-psycho-100-II-13"}
+            siguienteVideo={"/ver/mob-psycho-100-II-13"}
             capitulosVideo={"/mob-psycho-100-II"}
-            button-beforeVideo={"/ver/mob-psycho-100-II-11"}
+            anteriorVideo={"/ver/mob-psycho-100-II-11"}
           />
         }
       />
@@ -9927,14 +9907,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbspeed.com/e/rugg39r8frwn.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Mob Pyscho 100 II Capitulo 13"}
             tituloPag={"Animekun"}
             anime={"Mob Pyscho 100 II "}
             numero={"13"}
             capitulosVideo={"/mob-psycho-100-II"}
-            button-beforeVideo={"/ver/mob-psycho-100-II-12"}
+            anteriorVideo={"/ver/mob-psycho-100-II-12"}
           />
         }
       />
@@ -9944,13 +9924,13 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbspeed.com/e/c6a2jtbnmbao.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Overlord II Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun"}
             anime={"Overlord II"}
             numero={"1"}
-            button-nextVideo={"/ver/overlord-II-2"}
+            siguienteVideo={"/ver/overlord-II-2"}
             capitulosVideo={"/overlord-II"}
           />
         }
@@ -9960,15 +9940,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbspeed.com/e/52ju9gf68vax.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={" Capitulo 2"}
             tituloPag={"Animekun"}
             anime={"Overlord II "}
             numero={"2"}
-            button-nextVideo={"/ver/overlord-II-3"}
+            siguienteVideo={"/ver/overlord-II-3"}
             capitulosVideo={"/overlord-II"}
-            button-beforeVideo={"/ver/overlord-II-1"}
+            anteriorVideo={"/ver/overlord-II-1"}
           />
         }
       />
@@ -9977,15 +9957,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbspeed.com/e/2ecg7zybomni.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord II Capitulo 3"}
             tituloPag={"Animekun"}
             anime={"Overlord II "}
             numero={"3"}
-            button-nextVideo={"/ver/overlord-II-4"}
+            siguienteVideo={"/ver/overlord-II-4"}
             capitulosVideo={"/overlord-II"}
-            button-beforeVideo={"/ver/overlord-II-2"}
+            anteriorVideo={"/ver/overlord-II-2"}
           />
         }
       />
@@ -9994,15 +9974,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/v3lcv3dro82r.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord II Capitulo 4"}
             tituloPag={"Animekun"}
             anime={"Overlord II "}
             numero={"4"}
-            button-nextVideo={"/ver/overlord-II-5"}
+            siguienteVideo={"/ver/overlord-II-5"}
             capitulosVideo={"/overlord-II"}
-            button-beforeVideo={"/ver/overlord-II-3"}
+            anteriorVideo={"/ver/overlord-II-3"}
           />
         }
       />
@@ -10011,15 +9991,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/rz1odiz2latu.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord II Capitulo 5"}
             tituloPag={"Animekun"}
             anime={"Overlord II "}
             numero={"5"}
-            button-nextVideo={"/ver/overlord-II-6"}
+            siguienteVideo={"/ver/overlord-II-6"}
             capitulosVideo={"/overlord-II"}
-            button-beforeVideo={"/ver/overlord-II-4"}
+            anteriorVideo={"/ver/overlord-II-4"}
           />
         }
       />
@@ -10028,15 +10008,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/bgj7l3rgn44l.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord II Capitulo 6"}
             tituloPag={"Animekun"}
             anime={"Overlord II "}
             numero={"6"}
-            button-nextVideo={"/ver/overlord-II-7"}
+            siguienteVideo={"/ver/overlord-II-7"}
             capitulosVideo={"/overlord-II"}
-            button-beforeVideo={"/ver/overlord-II-5"}
+            anteriorVideo={"/ver/overlord-II-5"}
           />
         }
       />
@@ -10045,15 +10025,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/05ukawbykc32.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord II Capitulo 7"}
             tituloPag={"Animekun"}
             anime={"Overlord II "}
             numero={"7"}
-            button-nextVideo={"/ver/overlord-II-8"}
+            siguienteVideo={"/ver/overlord-II-8"}
             capitulosVideo={"/overlord-II"}
-            button-beforeVideo={"/ver/overlord-II-6"}
+            anteriorVideo={"/ver/overlord-II-6"}
           />
         }
       />
@@ -10062,15 +10042,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/9yas7rhwv1cl.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord II Capitulo 8"}
             tituloPag={"Animekun"}
             anime={"Overlord II "}
             numero={"8"}
-            button-nextVideo={"/ver/overlord-II-9"}
+            siguienteVideo={"/ver/overlord-II-9"}
             capitulosVideo={"/overlord-II"}
-            button-beforeVideo={"/ver/overlord-II-7"}
+            anteriorVideo={"/ver/overlord-II-7"}
           />
         }
       />
@@ -10079,15 +10059,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/0e45nyy9as0n.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord II Capitulo 9"}
             tituloPag={"Animekun"}
             anime={"Overlord II "}
             numero={"9"}
-            button-nextVideo={"/ver/overlord-II-10"}
+            siguienteVideo={"/ver/overlord-II-10"}
             capitulosVideo={"/overlord-II"}
-            button-beforeVideo={"/ver/overlord-II-8"}
+            anteriorVideo={"/ver/overlord-II-8"}
           />
         }
       />
@@ -10096,15 +10076,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/yujz5khp6fmf.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord II Capitulo 10"}
             tituloPag={"Animekun"}
             anime={"Overlord II "}
             numero={"10"}
-            button-nextVideo={"/ver/overlord-II-11"}
+            siguienteVideo={"/ver/overlord-II-11"}
             capitulosVideo={"/overlord-II"}
-            button-beforeVideo={"/ver/overlord-II-9"}
+            anteriorVideo={"/ver/overlord-II-9"}
           />
         }
       />
@@ -10113,15 +10093,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/mofsh0kb5by6.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord II Capitulo 11"}
             tituloPag={"Animekun"}
             anime={"Overlord II "}
             numero={"11"}
-            button-nextVideo={"/ver/overlord-II-12"}
+            siguienteVideo={"/ver/overlord-II-12"}
             capitulosVideo={"/overlord-II"}
-            button-beforeVideo={"/ver/overlord-II-10"}
+            anteriorVideo={"/ver/overlord-II-10"}
           />
         }
       />
@@ -10130,15 +10110,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/jhy1eph08gba.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord II Capitulo 12"}
             tituloPag={"Animekun"}
             anime={"Overlord II "}
             numero={"12"}
-            button-nextVideo={"/ver/overlord-II-13"}
+            siguienteVideo={"/ver/overlord-II-13"}
             capitulosVideo={"/overlord-II"}
-            button-beforeVideo={"/ver/overlord-II-11"}
+            anteriorVideo={"/ver/overlord-II-11"}
           />
         }
       />
@@ -10147,14 +10127,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/yfvfteoz3n3f.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Overlord II Capitulo 13"}
             tituloPag={"Animekun"}
             anime={"Overlord II "}
             numero={"13"}
             capitulosVideo={"/overlord-II"}
-            button-beforeVideo={"/ver/overlord-II-12"}
+            anteriorVideo={"/ver/overlord-II-12"}
           />
         }
       />
@@ -10164,13 +10144,13 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/milah99c58yn.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Overlord III Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun"}
             anime={"Overlord III"}
             numero={"1"}
-            button-nextVideo={"/ver/overlord-III-2"}
+            siguienteVideo={"/ver/overlord-III-2"}
             capitulosVideo={"/overlord-III"}
           />
         }
@@ -10180,15 +10160,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/gb9jceld9ucg.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord III Capitulo 2"}
             tituloPag={"Animekun"}
             anime={"Overlord III "}
             numero={"2"}
-            button-nextVideo={"/ver/overlord-III-3"}
+            siguienteVideo={"/ver/overlord-III-3"}
             capitulosVideo={"/overlord-III"}
-            button-beforeVideo={"/ver/overlord-III-1"}
+            anteriorVideo={"/ver/overlord-III-1"}
           />
         }
       />
@@ -10197,15 +10177,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/4o1goh7dgo59.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord III Capitulo 3"}
             tituloPag={"Animekun"}
             anime={"Overlord III "}
             numero={"3"}
-            button-nextVideo={"/ver/overlord-III-4"}
+            siguienteVideo={"/ver/overlord-III-4"}
             capitulosVideo={"/overlord-III"}
-            button-beforeVideo={"/ver/overlord-III-2"}
+            anteriorVideo={"/ver/overlord-III-2"}
           />
         }
       />
@@ -10214,15 +10194,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/tigc12t8cx6c.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord III Capitulo 4"}
             tituloPag={"Animekun"}
             anime={"Overlord III "}
             numero={"4"}
-            button-nextVideo={"/ver/overlord-III-5"}
+            siguienteVideo={"/ver/overlord-III-5"}
             capitulosVideo={"/overlord-III"}
-            button-beforeVideo={"/ver/overlord-III-3"}
+            anteriorVideo={"/ver/overlord-III-3"}
           />
         }
       />
@@ -10231,15 +10211,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/tvwzo54iww2v.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord III Capitulo 5"}
             tituloPag={"Animekun"}
             anime={"Overlord III "}
             numero={"5"}
-            button-nextVideo={"/ver/overlord-III-6"}
+            siguienteVideo={"/ver/overlord-III-6"}
             capitulosVideo={"/overlord-III"}
-            button-beforeVideo={"/ver/overlord-III-4"}
+            anteriorVideo={"/ver/overlord-III-4"}
           />
         }
       />
@@ -10248,15 +10228,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/092qhwk3e2bq.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord III Capitulo 6"}
             tituloPag={"Animekun"}
             anime={"Overlord III "}
             numero={"6"}
-            button-nextVideo={"/ver/overlord-III-7"}
+            siguienteVideo={"/ver/overlord-III-7"}
             capitulosVideo={"/overlord-III"}
-            button-beforeVideo={"/ver/overlord-III-5"}
+            anteriorVideo={"/ver/overlord-III-5"}
           />
         }
       />
@@ -10265,15 +10245,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/06yq0xjhi4tl.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord III Capitulo 7"}
             tituloPag={"Animekun"}
             anime={"Overlord III "}
             numero={"7"}
-            button-nextVideo={"/ver/overlord-III-8"}
+            siguienteVideo={"/ver/overlord-III-8"}
             capitulosVideo={"/overlord-III"}
-            button-beforeVideo={"/ver/overlord-III-6"}
+            anteriorVideo={"/ver/overlord-III-6"}
           />
         }
       />
@@ -10282,15 +10262,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/3sim4dsb2ex6.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord III Capitulo 8"}
             tituloPag={"Animekun"}
             anime={"Overlord III "}
             numero={"8"}
-            button-nextVideo={"/ver/overlord-III-9"}
+            siguienteVideo={"/ver/overlord-III-9"}
             capitulosVideo={"/overlord-III"}
-            button-beforeVideo={"/ver/overlord-III-7"}
+            anteriorVideo={"/ver/overlord-III-7"}
           />
         }
       />
@@ -10299,15 +10279,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/x2xljarg1ju3.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord III Capitulo 9"}
             tituloPag={"Animekun"}
             anime={"Overlord III "}
             numero={"9"}
-            button-nextVideo={"/ver/overlord-III-10"}
+            siguienteVideo={"/ver/overlord-III-10"}
             capitulosVideo={"/overlord-III"}
-            button-beforeVideo={"/ver/overlord-III-8"}
+            anteriorVideo={"/ver/overlord-III-8"}
           />
         }
       />
@@ -10316,15 +10296,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/s1hvhzt8a4fk.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord III Capitulo 10"}
             tituloPag={"Animekun"}
             anime={"Overlord III "}
             numero={"10"}
-            button-nextVideo={"/ver/overlord-III-11"}
+            siguienteVideo={"/ver/overlord-III-11"}
             capitulosVideo={"/overlord-III"}
-            button-beforeVideo={"/ver/overlord-III-9"}
+            anteriorVideo={"/ver/overlord-III-9"}
           />
         }
       />
@@ -10333,15 +10313,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/paksecf6fj95.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord III Capitulo 11"}
             tituloPag={"Animekun"}
             anime={"Overlord III "}
             numero={"11"}
-            button-nextVideo={"/ver/overlord-III-12"}
+            siguienteVideo={"/ver/overlord-III-12"}
             capitulosVideo={"/overlord-III"}
-            button-beforeVideo={"/ver/overlord-III-10"}
+            anteriorVideo={"/ver/overlord-III-10"}
           />
         }
       />
@@ -10350,15 +10330,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/tx6lw3bcfbpi.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord III Capitulo 12"}
             tituloPag={"Animekun"}
             anime={"Overlord III "}
             numero={"12"}
-            button-nextVideo={"/ver/overlord-III-13"}
+            siguienteVideo={"/ver/overlord-III-13"}
             capitulosVideo={"/overlord-III"}
-            button-beforeVideo={"/ver/overlord-III-11"}
+            anteriorVideo={"/ver/overlord-III-11"}
           />
         }
       />
@@ -10367,14 +10347,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/lsfvz8vigx1t.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Overlord III Capitulo 13"}
             tituloPag={"Animekun"}
             anime={"Overlord III "}
             numero={"13"}
             capitulosVideo={"/overlord-III"}
-            button-beforeVideo={"/ver/overlord-III-12"}
+            anteriorVideo={"/ver/overlord-III-12"}
           />
         }
       />
@@ -10384,13 +10364,13 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/858dew3ko0ks.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Overlord IV Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun"}
             anime={"Overlord IV"}
             numero={"1"}
-            button-nextVideo={"/ver/overlord-IV-2"}
+            siguienteVideo={"/ver/overlord-IV-2"}
             capitulosVideo={"/overlord-IV"}
           />
         }
@@ -10400,15 +10380,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/djki7sivh8q2.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord IV Capitulo 2"}
             tituloPag={"Animekun"}
             anime={"Overlord IV "}
             numero={"2"}
-            button-nextVideo={"/ver/overlord-IV-3"}
+            siguienteVideo={"/ver/overlord-IV-3"}
             capitulosVideo={"/overlord-IV"}
-            button-beforeVideo={"/ver/overlord-IV-1"}
+            anteriorVideo={"/ver/overlord-IV-1"}
           />
         }
       />
@@ -10417,15 +10397,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/zc0571u9zgzn.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord IV Capitulo 3"}
             tituloPag={"Animekun"}
             anime={"Overlord IV "}
             numero={"3"}
-            button-nextVideo={"/ver/overlord-IV-4"}
+            siguienteVideo={"/ver/overlord-IV-4"}
             capitulosVideo={"/overlord-IV"}
-            button-beforeVideo={"/ver/overlord-IV-2"}
+            anteriorVideo={"/ver/overlord-IV-2"}
           />
         }
       />
@@ -10434,15 +10414,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/1br51b9qs69m.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord IV Capitulo 4"}
             tituloPag={"Animekun"}
             anime={"Overlord IV "}
             numero={"4"}
-            button-nextVideo={"/ver/overlord-IV-5"}
+            siguienteVideo={"/ver/overlord-IV-5"}
             capitulosVideo={"/overlord-IV"}
-            button-beforeVideo={"/ver/overlord-IV-3"}
+            anteriorVideo={"/ver/overlord-IV-3"}
           />
         }
       />
@@ -10451,15 +10431,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/li9tiyp9b8w6.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord IV Capitulo 5"}
             tituloPag={"Animekun"}
             anime={"Overlord IV "}
             numero={"5"}
-            button-nextVideo={"/ver/overlord-IV-6"}
+            siguienteVideo={"/ver/overlord-IV-6"}
             capitulosVideo={"/overlord-IV"}
-            button-beforeVideo={"/ver/overlord-IV-4"}
+            anteriorVideo={"/ver/overlord-IV-4"}
           />
         }
       />
@@ -10468,15 +10448,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/fxnilzhsaq52.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord IV Capitulo 6"}
             tituloPag={"Animekun"}
             anime={"Overlord IV "}
             numero={"6"}
-            button-nextVideo={"/ver/overlord-IV-7"}
+            siguienteVideo={"/ver/overlord-IV-7"}
             capitulosVideo={"/overlord-IV"}
-            button-beforeVideo={"/ver/overlord-IV-5"}
+            anteriorVideo={"/ver/overlord-IV-5"}
           />
         }
       />
@@ -10485,15 +10465,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/h7fo6zy4wwb4.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord IV Capitulo 7"}
             tituloPag={"Animekun"}
             anime={"Overlord IV "}
             numero={"7"}
-            button-nextVideo={"/ver/overlord-IV-8"}
+            siguienteVideo={"/ver/overlord-IV-8"}
             capitulosVideo={"/overlord-IV"}
-            button-beforeVideo={"/ver/overlord-IV-6"}
+            anteriorVideo={"/ver/overlord-IV-6"}
           />
         }
       />
@@ -10502,15 +10482,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/htxzsszc6eo3.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord IV Capitulo 8"}
             tituloPag={"Animekun"}
             anime={"Overlord IV "}
             numero={"8"}
-            button-nextVideo={"/ver/overlord-IV-9"}
+            siguienteVideo={"/ver/overlord-IV-9"}
             capitulosVideo={"/overlord-IV"}
-            button-beforeVideo={"/ver/overlord-IV-7"}
+            anteriorVideo={"/ver/overlord-IV-7"}
           />
         }
       />
@@ -10519,15 +10499,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/e40di5a7yc9a.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord IV Capitulo 9"}
             tituloPag={"Animekun"}
             anime={"Overlord IV "}
             numero={"9"}
-            button-nextVideo={"/ver/overlord-IV-10"}
+            siguienteVideo={"/ver/overlord-IV-10"}
             capitulosVideo={"/overlord-IV"}
-            button-beforeVideo={"/ver/overlord-IV-8"}
+            anteriorVideo={"/ver/overlord-IV-8"}
           />
         }
       />
@@ -10536,15 +10516,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/b651v7dihw25.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord IV Capitulo 10"}
             tituloPag={"Animekun"}
             anime={"Overlord IV "}
             numero={"10"}
-            button-nextVideo={"/ver/overlord-IV-11"}
+            siguienteVideo={"/ver/overlord-IV-11"}
             capitulosVideo={"/overlord-IV"}
-            button-beforeVideo={"/ver/overlord-IV-9"}
+            anteriorVideo={"/ver/overlord-IV-9"}
           />
         }
       />
@@ -10553,15 +10533,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/zk3qozwl9hvh.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord IV Capitulo 11"}
             tituloPag={"Animekun"}
             anime={"Overlord IV "}
             numero={"11"}
-            button-nextVideo={"/ver/overlord-IV-12"}
+            siguienteVideo={"/ver/overlord-IV-12"}
             capitulosVideo={"/overlord-IV"}
-            button-beforeVideo={"/ver/overlord-IV-10"}
+            anteriorVideo={"/ver/overlord-IV-10"}
           />
         }
       />
@@ -10570,15 +10550,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/tbpucviitlob.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord IV Capitulo 12"}
             tituloPag={"Animekun"}
             anime={"Overlord IV "}
             numero={"12"}
-            button-nextVideo={"/ver/overlord-IV-13"}
+            siguienteVideo={"/ver/overlord-IV-13"}
             capitulosVideo={"/overlord-IV"}
-            button-beforeVideo={"/ver/overlord-IV-11"}
+            anteriorVideo={"/ver/overlord-IV-11"}
           />
         }
       />
@@ -10587,14 +10567,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/kqh9lrsz0zkq.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Overlord IV Capitulo 13"}
             tituloPag={"Animekun"}
             anime={"Overlord IV "}
             numero={"13"}
             capitulosVideo={"/overlord-IV"}
-            button-beforeVideo={"/ver/overlord-IV-12"}
+            anteriorVideo={"/ver/overlord-IV-12"}
           />
         }
       />
@@ -10604,13 +10584,13 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/d6b1tjplyuqa.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={" 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun"}
             anime={"Akudama Drive"}
             numero={"1"}
-            button-nextVideo={"/ver/violet-evergarden-2"}
+            siguienteVideo={"/ver/violet-evergarden-2"}
             capitulosVideo={"/violet-evergarden"}
           />
         }
@@ -10620,15 +10600,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/ap2jr0cvk9jk.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={" Capitulo 2"}
             tituloPag={"Animekun"}
             anime={" "}
             numero={"2"}
-            button-nextVideo={"/ver/violet-evergarden-3"}
+            siguienteVideo={"/ver/violet-evergarden-3"}
             capitulosVideo={"/violet-evergarden"}
-            button-beforeVideo={"/ver/violet-evergarden-1"}
+            anteriorVideo={"/ver/violet-evergarden-1"}
           />
         }
       />
@@ -10637,15 +10617,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/rv3w74enukee.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={" Capitulo 3"}
             tituloPag={"Animekun"}
             anime={" "}
             numero={"3"}
-            button-nextVideo={"/ver/violet-evergarden-4"}
+            siguienteVideo={"/ver/violet-evergarden-4"}
             capitulosVideo={"/violet-evergarden"}
-            button-beforeVideo={"/ver/violet-evergarden-2"}
+            anteriorVideo={"/ver/violet-evergarden-2"}
           />
         }
       />
@@ -10654,15 +10634,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/5xtc65knjo28.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={" Capitulo 4"}
             tituloPag={"Animekun"}
             anime={" "}
             numero={"4"}
-            button-nextVideo={"/ver/violet-evergarden-5"}
+            siguienteVideo={"/ver/violet-evergarden-5"}
             capitulosVideo={"/"}
-            button-beforeVideo={"/ver/violet-evergarden-3"}
+            anteriorVideo={"/ver/violet-evergarden-3"}
           />
         }
       />
@@ -10671,15 +10651,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/q9r59y9fc4nk.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={" Capitulo 5"}
             tituloPag={"Animekun"}
             anime={" "}
             numero={"5"}
-            button-nextVideo={"/ver/violet-evergarden-6"}
+            siguienteVideo={"/ver/violet-evergarden-6"}
             capitulosVideo={"/violet-evergarden"}
-            button-beforeVideo={"/ver/violet-evergarden-4"}
+            anteriorVideo={"/ver/violet-evergarden-4"}
           />
         }
       />
@@ -10688,15 +10668,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/i4yei2crufow.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={" Capitulo 6"}
             tituloPag={"Animekun"}
             anime={" "}
             numero={"6"}
-            button-nextVideo={"/ver/violet-evergarden-7"}
+            siguienteVideo={"/ver/violet-evergarden-7"}
             capitulosVideo={"/violet-evergarden"}
-            button-beforeVideo={"/ver/violet-evergarden-5"}
+            anteriorVideo={"/ver/violet-evergarden-5"}
           />
         }
       />
@@ -10705,15 +10685,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/0z6y9ey2u5kw.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={" Capitulo 7"}
             tituloPag={"Animekun"}
             anime={" "}
             numero={"7"}
-            button-nextVideo={"/ver/violet-evergarden-8"}
+            siguienteVideo={"/ver/violet-evergarden-8"}
             capitulosVideo={"/violet-evergarden"}
-            button-beforeVideo={"/ver/violet-evergarden-6"}
+            anteriorVideo={"/ver/violet-evergarden-6"}
           />
         }
       />
@@ -10722,15 +10702,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/sx3rb7sig751.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={" Capitulo 8"}
             tituloPag={"Animekun"}
             anime={" "}
             numero={"8"}
-            button-nextVideo={"/ver/violet-evergarden-9"}
+            siguienteVideo={"/ver/violet-evergarden-9"}
             capitulosVideo={"/violet-evergarden"}
-            button-beforeVideo={"/ver/violet-evergarden-7"}
+            anteriorVideo={"/ver/violet-evergarden-7"}
           />
         }
       />
@@ -10739,15 +10719,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/g8je7xbj2kmm.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={" Capitulo 9"}
             tituloPag={"Animekun"}
             anime={" "}
             numero={"9"}
-            button-nextVideo={"/ver/violet-evergarden-10"}
+            siguienteVideo={"/ver/violet-evergarden-10"}
             capitulosVideo={"/violet-evergarden"}
-            button-beforeVideo={"/ver/violet-evergarden-8"}
+            anteriorVideo={"/ver/violet-evergarden-8"}
           />
         }
       />
@@ -10756,15 +10736,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/bv3w93uv9gaz.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={" Capitulo 10"}
             tituloPag={"Animekun"}
             anime={" "}
             numero={"10"}
-            button-nextVideo={"/ver/violet-evergarden-11"}
+            siguienteVideo={"/ver/violet-evergarden-11"}
             capitulosVideo={"/violet-evergarden"}
-            button-beforeVideo={"/ver/violet-evergarden-9"}
+            anteriorVideo={"/ver/violet-evergarden-9"}
           />
         }
       />
@@ -10773,15 +10753,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/ml3614s9q6zy.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={" Capitulo 11"}
             tituloPag={"Animekun"}
             anime={" "}
             numero={"11"}
-            button-nextVideo={"/ver/violet-evergarden-12"}
+            siguienteVideo={"/ver/violet-evergarden-12"}
             capitulosVideo={"/violet-evergarden"}
-            button-beforeVideo={"/ver/violet-evergarden-10"}
+            anteriorVideo={"/ver/violet-evergarden-10"}
           />
         }
       />
@@ -10790,15 +10770,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/iz6t1acykur8.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Violet Evergarden Capitulo 12"}
             tituloPag={"Animekun"}
             anime={"Violet Evergarden "}
             numero={"12"}
-            button-nextVideo={"/ver/violet-evergarden-13"}
+            siguienteVideo={"/ver/violet-evergarden-13"}
             capitulosVideo={"/violet-evergarden"}
-            button-beforeVideo={"/ver/violet-evergarden-11"}
+            anteriorVideo={"/ver/violet-evergarden-11"}
           />
         }
       />
@@ -10807,15 +10787,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/fyp2zjrfqqdx.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Violet Evergarden Capitulo 13"}
             tituloPag={"Animekun"}
             anime={"Violet Evergarden "}
             numero={"13"}
-            button-nextVideo={"/ver/violet-evergarden-14"}
+            siguienteVideo={"/ver/violet-evergarden-14"}
             capitulosVideo={"/violet-evergarden"}
-            button-beforeVideo={"/ver/violet-evergarden-12"}
+            anteriorVideo={"/ver/violet-evergarden-12"}
           />
         }
       />
@@ -10824,14 +10804,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/7vbvf95ypnp9.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Violet Evergarden Capitulo 14"}
             tituloPag={"Animekun"}
             anime={"Violet Evergarden "}
             numero={"14"}
             capitulosVideo={"/violet-evergarden"}
-            button-beforeVideo={"/ver/violet-evergarden-13"}
+            anteriorVideo={"/ver/violet-evergarden-13"}
           />
         }
       />
@@ -10841,13 +10821,13 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/1oytct9wvmtu.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"isekai ojisan Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun"}
             anime={"isekai ojisan"}
             numero={"1"}
-            button-nextVideo={"/ver/isekai-ojisan-2"}
+            siguienteVideo={"/ver/isekai-ojisan-2"}
             capitulosVideo={"/isekai-ojisan"}
           />
         }
@@ -10857,15 +10837,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/roplh6b8a57v.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"isekai ojisan Capitulo 2"}
             tituloPag={"Animekun"}
             anime={"isekai ojisan "}
             numero={"2"}
-            button-nextVideo={"/ver/isekai-ojisan-3"}
+            siguienteVideo={"/ver/isekai-ojisan-3"}
             capitulosVideo={"/isekai-ojisan"}
-            button-beforeVideo={"/ver/isekai-ojisan-1"}
+            anteriorVideo={"/ver/isekai-ojisan-1"}
           />
         }
       />
@@ -10874,15 +10854,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/wqv4grwwarrn.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"isekai ojisan Capitulo 3"}
             tituloPag={"Animekun"}
             anime={"isekai ojisan "}
             numero={"3"}
-            button-nextVideo={"/ver/isekai-ojisan-4"}
+            siguienteVideo={"/ver/isekai-ojisan-4"}
             capitulosVideo={"/isekai-ojisan"}
-            button-beforeVideo={"/ver/isekai-ojisan-2"}
+            anteriorVideo={"/ver/isekai-ojisan-2"}
           />
         }
       />
@@ -10891,15 +10871,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/viun29h8ipsd.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"isekai ojisan Capitulo 4"}
             tituloPag={"Animekun"}
             anime={"isekai ojisan "}
             numero={"4"}
-            button-nextVideo={"/ver/isekai-ojisan-5"}
+            siguienteVideo={"/ver/isekai-ojisan-5"}
             capitulosVideo={"/isekai-ojisan"}
-            button-beforeVideo={"/ver/isekai-ojisan-3"}
+            anteriorVideo={"/ver/isekai-ojisan-3"}
           />
         }
       />
@@ -10908,15 +10888,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/dx1wkrazirab.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"isekai ojisan Capitulo 5"}
             tituloPag={"Animekun"}
             anime={"isekai ojisan "}
             numero={"5"}
-            button-nextVideo={"/ver/isekai-ojisan-6"}
+            siguienteVideo={"/ver/isekai-ojisan-6"}
             capitulosVideo={"/isekai-ojisan"}
-            button-beforeVideo={"/ver/isekai-ojisan-4"}
+            anteriorVideo={"/ver/isekai-ojisan-4"}
           />
         }
       />
@@ -10925,15 +10905,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/7mnw2idbbd6g.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"isekai ojisan Capitulo 6"}
             tituloPag={"Animekun"}
             anime={"isekai ojisan "}
             numero={"6"}
-            button-nextVideo={"/ver/isekai-ojisan-7"}
+            siguienteVideo={"/ver/isekai-ojisan-7"}
             capitulosVideo={"/isekai-ojisan"}
-            button-beforeVideo={"/ver/isekai-ojisan-5"}
+            anteriorVideo={"/ver/isekai-ojisan-5"}
           />
         }
       />
@@ -10942,15 +10922,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/8ghjtjsmkpqi.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"isekai ojisan Capitulo 7"}
             tituloPag={"Animekun"}
             anime={"isekai ojisan "}
             numero={"7"}
-            button-nextVideo={"/ver/isekai-ojisan-8"}
+            siguienteVideo={"/ver/isekai-ojisan-8"}
             capitulosVideo={"/isekai-ojisan"}
-            button-beforeVideo={"/ver/isekai-ojisan-6"}
+            anteriorVideo={"/ver/isekai-ojisan-6"}
           />
         }
       />
@@ -10959,15 +10939,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/nwd66vvhp1mv.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"isekai ojisan Capitulo 8"}
             tituloPag={"Animekun"}
             anime={"isekai ojisan "}
             numero={"8"}
-            button-nextVideo={"/ver/isekai-ojisan-9"}
+            siguienteVideo={"/ver/isekai-ojisan-9"}
             capitulosVideo={"/isekai-ojisan"}
-            button-beforeVideo={"/ver/isekai-ojisan-7"}
+            anteriorVideo={"/ver/isekai-ojisan-7"}
           />
         }
       />
@@ -10976,15 +10956,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/nm6xdpeeqeob.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"isekai ojisan Capitulo 9"}
             tituloPag={"Animekun"}
             anime={"isekai ojisan "}
             numero={"9"}
-            button-nextVideo={"/ver/isekai-ojisan-10"}
+            siguienteVideo={"/ver/isekai-ojisan-10"}
             capitulosVideo={"/isekai-ojisan"}
-            button-beforeVideo={"/ver/isekai-ojisan-8"}
+            anteriorVideo={"/ver/isekai-ojisan-8"}
           />
         }
       />
@@ -10993,15 +10973,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/zk03fc5kilhy.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"isekai ojisan Capitulo 10"}
             tituloPag={"Animekun"}
             anime={"isekai ojisan "}
             numero={"10"}
-            button-nextVideo={"/ver/isekai-ojisan-11"}
+            siguienteVideo={"/ver/isekai-ojisan-11"}
             capitulosVideo={"/isekai-ojisan"}
-            button-beforeVideo={"/ver/isekai-ojisan-9"}
+            anteriorVideo={"/ver/isekai-ojisan-9"}
           />
         }
       />
@@ -11010,15 +10990,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/yk8ab737ahw9.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"isekai ojisan Capitulo 11"}
             tituloPag={"Animekun"}
             anime={"isekai ojisan "}
             numero={"11"}
-            button-nextVideo={"/ver/isekai-ojisan-12"}
+            siguienteVideo={"/ver/isekai-ojisan-12"}
             capitulosVideo={"/isekai-ojisan"}
-            button-beforeVideo={"/ver/isekai-ojisan-10"}
+            anteriorVideo={"/ver/isekai-ojisan-10"}
           />
         }
       />
@@ -11027,14 +11007,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"isekai ojisan Capitulo 12"}
             tituloPag={"Animekun"}
             anime={"isekai ojisan "}
             numero={"12"}
             capitulosVideo={"/"}
-            button-beforeVideo={"/ver/-11"}
+            anteriorVideo={"/ver/-11"}
           />
         }
       />
@@ -11047,13 +11027,13 @@ function Videos() {
               "https://mega.nz/embed/gL1H1DiD#3Lf7r-IKMUdOOgFJwEmZ8mvgDrX01F_CuFtU2FmQmNQ"
             }
             frame1={"https://sblongvu.com/e/zs0ljhjkn107.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun"}
             anime={"BLEACH: Sennen Kessen-hen"}
             numero={"1"}
-            button-nextVideo={"/ver/bleach-sennen-kessen-hen-2"}
+            siguienteVideo={"/ver/bleach-sennen-kessen-hen-2"}
             capitulosVideo={"/bleach-sennen-kessen-hen"}
           />
         }
@@ -11066,15 +11046,15 @@ function Videos() {
               "https://mega.nz/embed/kOEgTYYY#N2DnH26Vs0OYPr_FTQX55XN9kRHA_Y8rzBOiO-Eb1jg"
             }
             frame1={"https://sblongvu.com/e/jmjyd8ymtbh2.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 2"}
             tituloPag={"Animekun"}
             anime={"BLEACH: Sennen Kessen-hen "}
             numero={"2"}
-            button-nextVideo={"/ver/bleach-sennen-kessen-hen-3"}
+            siguienteVideo={"/ver/bleach-sennen-kessen-hen-3"}
             capitulosVideo={"/bleach-sennen-kessen-hen"}
-            button-beforeVideo={"/ver/bleach-sennen-kessen-hen-1"}
+            anteriorVideo={"/ver/bleach-sennen-kessen-hen-1"}
           />
         }
       />
@@ -11086,15 +11066,15 @@ function Videos() {
               "https://mega.nz/embed/5TVGHIqK#zZSPnV5Aq7fycXDMMy14AEfi5OSSIyQU6x5_8iF3bJQ"
             }
             frame1={"https://sblongvu.com/e/907qt393wt82.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 3"}
             tituloPag={"Animekun"}
             anime={"BLEACH: Sennen Kessen-hen "}
             numero={"3"}
-            button-nextVideo={"/ver/bleach-sennen-kessen-hen-4"}
+            siguienteVideo={"/ver/bleach-sennen-kessen-hen-4"}
             capitulosVideo={"/bleach-sennen-kessen-hen"}
-            button-beforeVideo={"/ver/bleach-sennen-kessen-hen-2"}
+            anteriorVideo={"/ver/bleach-sennen-kessen-hen-2"}
           />
         }
       />
@@ -11106,15 +11086,15 @@ function Videos() {
               "https://mega.nz/embed/daskSYIZ#70LKeLuuiRgfwuU5_GA2zD2GqnTnpOG25RXtx4Tsg80"
             }
             frame1={"https://sblongvu.com/e/esmpokc92bjl.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 4"}
             tituloPag={"Animekun"}
             anime={"BLEACH: Sennen Kessen-hen "}
             numero={"4"}
-            button-nextVideo={"/ver/bleach-sennen-kessen-hen-5"}
+            siguienteVideo={"/ver/bleach-sennen-kessen-hen-5"}
             capitulosVideo={"/bleach-sennen-kessen-hen"}
-            button-beforeVideo={"/ver/bleach-sennen-kessen-hen-3"}
+            anteriorVideo={"/ver/bleach-sennen-kessen-hen-3"}
           />
         }
       />
@@ -11126,15 +11106,15 @@ function Videos() {
               "https://mega.nz/embed/9LNySRrR#BDebtXsYWqkgVnE7Olwso8Ig53pwAOaIvAEq52vVS1k"
             }
             frame1={"https://sblongvu.com/e/vsnnk7k6qmjx.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 5"}
             tituloPag={"Animekun"}
             anime={"BLEACH: Sennen Kessen-hen "}
             numero={"5"}
-            button-nextVideo={"/ver/bleach-sennen-kessen-hen-6"}
+            siguienteVideo={"/ver/bleach-sennen-kessen-hen-6"}
             capitulosVideo={"/bleach-sennen-kessen-hen"}
-            button-beforeVideo={"/ver/bleach-sennen-kessen-hen-4"}
+            anteriorVideo={"/ver/bleach-sennen-kessen-hen-4"}
           />
         }
       />
@@ -11146,15 +11126,15 @@ function Videos() {
               "https://mega.nz/embed/FTMShbbQ#lrh96fJlWRaa-vuFguwGUsRUnudlVzBMC3OZoopxEv8"
             }
             frame1={"https://sblongvu.com/e/rtpxhp7q331o.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 6"}
             tituloPag={"Animekun"}
             anime={"BLEACH: Sennen Kessen-hen "}
             numero={"6"}
-            button-nextVideo={"/ver/bleach-sennen-kessen-hen-7"}
+            siguienteVideo={"/ver/bleach-sennen-kessen-hen-7"}
             capitulosVideo={"/bleach-sennen-kessen-hen"}
-            button-beforeVideo={"/ver/bleach-sennen-kessen-hen-5"}
+            anteriorVideo={"/ver/bleach-sennen-kessen-hen-5"}
           />
         }
       />
@@ -11166,15 +11146,15 @@ function Videos() {
               "https://mega.nz/embed/xWl03RSY#vu-uY3oTnacRG3LkFdYR7lG1X22q7PRCfTtjA9dx6GA"
             }
             frame1={"https://sblongvu.com/e/z61mpk1lczqk.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 7"}
             tituloPag={"Animekun"}
             anime={"BLEACH: Sennen Kessen-hen "}
             numero={"7"}
-            button-nextVideo={"/ver/bleach-sennen-kessen-hen-8"}
+            siguienteVideo={"/ver/bleach-sennen-kessen-hen-8"}
             capitulosVideo={"/bleach-sennen-kessen-hen"}
-            button-beforeVideo={"/ver/bleach-sennen-kessen-hen-6"}
+            anteriorVideo={"/ver/bleach-sennen-kessen-hen-6"}
           />
         }
       />
@@ -11184,15 +11164,15 @@ function Videos() {
           <Video
             frame2={"https://www.yourupload.com/embed/0owJjce41P61"}
             frame1={"https://sblongvu.com/e/mwn4fe0co92q.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 8"}
             tituloPag={"Animekun"}
             anime={"BLEACH: Sennen Kessen-hen "}
             numero={"8"}
-            button-nextVideo={"/ver/bleach-sennen-kessen-hen-9"}
+            siguienteVideo={"/ver/bleach-sennen-kessen-hen-9"}
             capitulosVideo={"/bleach-sennen-kessen-hen"}
-            button-beforeVideo={"/ver/bleach-sennen-kessen-hen-7"}
+            anteriorVideo={"/ver/bleach-sennen-kessen-hen-7"}
           />
         }
       />
@@ -11204,15 +11184,15 @@ function Videos() {
               "https://mega.nz/embed/xKUXyKgL#tBSouAPs4B5tGqb-8Zng-wVwa1LyTGokaaAchuEX0kU"
             }
             frame1={"https://sbthe.com/e/u0veijxozcwd.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 9"}
             tituloPag={"Animekun"}
             anime={"BLEACH: Sennen Kessen-hen "}
             numero={"9"}
-            button-nextVideo={"/ver/bleach-sennen-kessen-hen-10"}
+            siguienteVideo={"/ver/bleach-sennen-kessen-hen-10"}
             capitulosVideo={"/bleach-sennen-kessen-hen"}
-            button-beforeVideo={"/ver/bleach-sennen-kessen-hen-8"}
+            anteriorVideo={"/ver/bleach-sennen-kessen-hen-8"}
           />
         }
       />
@@ -11224,15 +11204,15 @@ function Videos() {
               "https://mega.nz/embed/QXVVULCZ#7GrCAP7ywtyVJk8fG4-_m5Ub5HMoKWs6NyUKEDMLR0g"
             }
             frame1={"https://sbthe.com/e/7k25q7yl2utj.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 10"}
             tituloPag={"Animekun"}
             anime={"BLEACH: Sennen Kessen-hen "}
             numero={"10"}
-            button-nextVideo={"/ver/bleach-sennen-kessen-hen-11"}
+            siguienteVideo={"/ver/bleach-sennen-kessen-hen-11"}
             capitulosVideo={"/bleach-sennen-kessen-hen"}
-            button-beforeVideo={"/ver/bleach-sennen-kessen-hen-9"}
+            anteriorVideo={"/ver/bleach-sennen-kessen-hen-9"}
           />
         }
       />
@@ -11244,14 +11224,14 @@ function Videos() {
               "https://mega.nz/embed/1TEBRAyB#l0Ow0gh4_t-HyWwu5yucKfoa9fknxflCKBd0VXe5HdE"
             }
             frame1={"https://sbchill.com/e/xmtsgxxp6po4.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 11"}
             anime={"BLEACH: Sennen Kessen-hen "}
             numero={"11"}
-            button-nextVideo={"/ver/bleach-sennen-kessen-hen-12"}
+            siguienteVideo={"/ver/bleach-sennen-kessen-hen-12"}
             capitulosVideo={"/bleach-sennen-kessen-hen"}
-            button-beforeVideo={"/ver/bleach-sennen-kessen-hen-10"}
+            anteriorVideo={"/ver/bleach-sennen-kessen-hen-10"}
           />
         }
       />{" "}
@@ -11263,14 +11243,14 @@ function Videos() {
               "https://mega.nz/embed/gL8hTZzQ#ZU9qWgGCUXN75bIFvJzP9AhtEv1wXx4gK-o0Xn6RYiY"
             }
             frame1={"https://sbchill.com/e/d21rf1vrg7bh.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 12"}
             anime={"BLEACH: Sennen Kessen-hen "}
             numero={"12"}
-            button-nextVideo={"/ver/bleach-sennen-kessen-hen-13"}
+            siguienteVideo={"/ver/bleach-sennen-kessen-hen-13"}
             capitulosVideo={"/bleach-sennen-kessen-hen"}
-            button-beforeVideo={"/ver/bleach-sennen-kessen-hen-11"}
+            anteriorVideo={"/ver/bleach-sennen-kessen-hen-11"}
           />
         }
       />
@@ -11282,13 +11262,13 @@ function Videos() {
               "https://mega.nz/embed/UHVHHYiK#3kDFdNGtxV1-u8SxgtsCjI_7xQaJ__x59sQ4T66Qa9A"
             }
             frame1={"https://sbchill.com/e/h1vrloi3x6o3.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 13"}
             anime={"BLEACH: Sennen Kessen-hen "}
             numero={"13"}
             capitulosVideo={"/bleach-sennen-kessen-hen"}
-            button-beforeVideo={"/ver/bleach-sennen-kessen-hen-12"}
+            anteriorVideo={"/ver/bleach-sennen-kessen-hen-12"}
           />
         }
       />
@@ -11298,13 +11278,13 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/5i2h0gg1j6ee.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"ID: invaded Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun"}
             anime={"ID: invaded"}
             numero={"1"}
-            button-nextVideo={"/ver/id-invaded-2"}
+            siguienteVideo={"/ver/id-invaded-2"}
             capitulosVideo={"/id-invaded"}
           />
         }
@@ -11314,15 +11294,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/0k36tdowkim7.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"ID: invaded Capitulo 2"}
             tituloPag={"Animekun"}
             anime={"ID: invaded "}
             numero={"2"}
-            button-nextVideo={"/ver/id-invaded-3"}
+            siguienteVideo={"/ver/id-invaded-3"}
             capitulosVideo={"/id-invaded"}
-            button-beforeVideo={"/ver/id-invaded-1"}
+            anteriorVideo={"/ver/id-invaded-1"}
           />
         }
       />
@@ -11331,15 +11311,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/zk75f1x1ei7w.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"ID: invaded Capitulo 3"}
             tituloPag={"Animekun"}
             anime={"ID: invaded "}
             numero={"3"}
-            button-nextVideo={"/ver/id-invaded-4"}
+            siguienteVideo={"/ver/id-invaded-4"}
             capitulosVideo={"/id-invaded"}
-            button-beforeVideo={"/ver/id-invaded-2"}
+            anteriorVideo={"/ver/id-invaded-2"}
           />
         }
       />
@@ -11348,15 +11328,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/gx1xa079l92w.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"ID: invaded Capitulo 4"}
             tituloPag={"Animekun"}
             anime={"ID: invaded "}
             numero={"4"}
-            button-nextVideo={"/ver/id-invaded-5"}
+            siguienteVideo={"/ver/id-invaded-5"}
             capitulosVideo={"/id-invaded"}
-            button-beforeVideo={"/ver/id-invaded-3"}
+            anteriorVideo={"/ver/id-invaded-3"}
           />
         }
       />
@@ -11365,15 +11345,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/wagxryn9zqx6.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"ID: invaded Capitulo 5"}
             tituloPag={"Animekun"}
             anime={"ID: invaded "}
             numero={"5"}
-            button-nextVideo={"/ver/id-invaded-6"}
+            siguienteVideo={"/ver/id-invaded-6"}
             capitulosVideo={"/id-invaded"}
-            button-beforeVideo={"/ver/id-invaded-4"}
+            anteriorVideo={"/ver/id-invaded-4"}
           />
         }
       />
@@ -11382,15 +11362,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/4aqrjz6zltoy.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"ID: invaded Capitulo 6"}
             tituloPag={"Animekun"}
             anime={"ID: invaded "}
             numero={"6"}
-            button-nextVideo={"/ver/id-invaded-7"}
+            siguienteVideo={"/ver/id-invaded-7"}
             capitulosVideo={"/id-invaded"}
-            button-beforeVideo={"/ver/id-invaded-5"}
+            anteriorVideo={"/ver/id-invaded-5"}
           />
         }
       />
@@ -11399,15 +11379,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/vu1lk0xne4ty.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"ID: invaded Capitulo 7"}
             tituloPag={"Animekun"}
             anime={"ID: invaded "}
             numero={"7"}
-            button-nextVideo={"/ver/id-invaded-8"}
+            siguienteVideo={"/ver/id-invaded-8"}
             capitulosVideo={"/id-invaded"}
-            button-beforeVideo={"/ver/id-invaded-6"}
+            anteriorVideo={"/ver/id-invaded-6"}
           />
         }
       />
@@ -11416,15 +11396,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/pz9si7pe2rnd.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"ID: invaded Capitulo 8"}
             tituloPag={"Animekun"}
             anime={"ID: invaded "}
             numero={"8"}
-            button-nextVideo={"/ver/id-invaded-9"}
+            siguienteVideo={"/ver/id-invaded-9"}
             capitulosVideo={"/id-invaded"}
-            button-beforeVideo={"/ver/id-invaded-7"}
+            anteriorVideo={"/ver/id-invaded-7"}
           />
         }
       />
@@ -11433,15 +11413,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/8wxfhzz5rlaz.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"ID: invaded Capitulo 9"}
             tituloPag={"Animekun"}
             anime={"ID: invaded "}
             numero={"9"}
-            button-nextVideo={"/ver/id-invaded-10"}
+            siguienteVideo={"/ver/id-invaded-10"}
             capitulosVideo={"/id-invaded"}
-            button-beforeVideo={"/ver/id-invaded-8"}
+            anteriorVideo={"/ver/id-invaded-8"}
           />
         }
       />
@@ -11450,15 +11430,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/s4v1jb4k2uko.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"ID: invaded Capitulo 10"}
             tituloPag={"Animekun"}
             anime={"ID: invaded "}
             numero={"10"}
-            button-nextVideo={"/ver/id-invaded-11"}
+            siguienteVideo={"/ver/id-invaded-11"}
             capitulosVideo={"/id-invaded"}
-            button-beforeVideo={"/ver/id-invaded-9"}
+            anteriorVideo={"/ver/id-invaded-9"}
           />
         }
       />
@@ -11467,15 +11447,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/5j2blm5p9u5q.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"ID: invaded Capitulo 11"}
             tituloPag={"Animekun"}
             anime={"ID: invaded "}
             numero={"11"}
-            button-nextVideo={"/ver/id-invaded-12"}
+            siguienteVideo={"/ver/id-invaded-12"}
             capitulosVideo={"/id-invaded"}
-            button-beforeVideo={"/ver/id-invaded-10"}
+            anteriorVideo={"/ver/id-invaded-10"}
           />
         }
       />
@@ -11484,15 +11464,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/jvdb8pcasz35.html"}
-            beforeClass="button-before"
-            nextClass={"button-before"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-before"}
             tituloAnime={"ID: invaded Capitulo 12"}
             tituloPag={"Animekun"}
             anime={"ID: invaded "}
             numero={"12"}
             capitulosVideo={"/id-invaded"}
-            button-beforeVideo={"/ver/id-invaded-11"}
-            button-nextVideo={"/ver/id-invaded-13"}
+            anteriorVideo={"/ver/id-invaded-11"}
+            siguienteVideo={"/ver/id-invaded-13"}
           />
         }
       />
@@ -11501,14 +11481,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/0eaanig61e9h.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"ID: invaded Capitulo 13"}
             tituloPag={"Animekun"}
             anime={"ID: invaded "}
             numero={"13"}
             capitulosVideo={"/id-invaded"}
-            button-beforeVideo={"/ver/id-invaded-12"}
+            anteriorVideo={"/ver/id-invaded-12"}
           />
         }
       />
@@ -11518,13 +11498,13 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/9uq2uh8tdfzp.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Dororo Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun"}
             anime={"Dororo"}
             numero={"1"}
-            button-nextVideo={"/ver/dororo-2"}
+            siguienteVideo={"/ver/dororo-2"}
             capitulosVideo={"/dororo"}
           />
         }
@@ -11534,15 +11514,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/upoyvaajpykn.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Dororo Capitulo 2"}
             tituloPag={"Animekun"}
             anime={"Dororo "}
             numero={"2"}
-            button-nextVideo={"/ver/dororo-3"}
+            siguienteVideo={"/ver/dororo-3"}
             capitulosVideo={"/dororo"}
-            button-beforeVideo={"/ver/dororo-1"}
+            anteriorVideo={"/ver/dororo-1"}
           />
         }
       />
@@ -11551,15 +11531,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/d454i92fu7fk.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Dororo Capitulo 3"}
             tituloPag={"Animekun"}
             anime={"Dororo "}
             numero={"3"}
-            button-nextVideo={"/ver/dororo-4"}
+            siguienteVideo={"/ver/dororo-4"}
             capitulosVideo={"/dororo"}
-            button-beforeVideo={"/ver/dororo-2"}
+            anteriorVideo={"/ver/dororo-2"}
           />
         }
       />
@@ -11568,15 +11548,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/joxvpe58eni1.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Dororo Capitulo 4"}
             tituloPag={"Animekun"}
             anime={"Dororo "}
             numero={"4"}
-            button-nextVideo={"/ver/dororo-5"}
+            siguienteVideo={"/ver/dororo-5"}
             capitulosVideo={"/dororo"}
-            button-beforeVideo={"/ver/dororo-3"}
+            anteriorVideo={"/ver/dororo-3"}
           />
         }
       />
@@ -11585,15 +11565,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/ay51pk7a24hq.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Dororo Capitulo 5"}
             tituloPag={"Animekun"}
             anime={"Dororo "}
             numero={"5"}
-            button-nextVideo={"/ver/dororo-6"}
+            siguienteVideo={"/ver/dororo-6"}
             capitulosVideo={"/dororo"}
-            button-beforeVideo={"/ver/dororo-4"}
+            anteriorVideo={"/ver/dororo-4"}
           />
         }
       />
@@ -11602,15 +11582,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/8axlfxh11ltx.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Dororo Capitulo 6"}
             tituloPag={"Animekun"}
             anime={"Dororo "}
             numero={"6"}
-            button-nextVideo={"/ver/dororo-7"}
+            siguienteVideo={"/ver/dororo-7"}
             capitulosVideo={"/dororo"}
-            button-beforeVideo={"/ver/dororo-5"}
+            anteriorVideo={"/ver/dororo-5"}
           />
         }
       />
@@ -11619,15 +11599,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/m1r85nospg94.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Dororo Capitulo 7"}
             tituloPag={"Animekun"}
             anime={"Dororo "}
             numero={"7"}
-            button-nextVideo={"/ver/dororo-8"}
+            siguienteVideo={"/ver/dororo-8"}
             capitulosVideo={"/dororo"}
-            button-beforeVideo={"/ver/dororo-6"}
+            anteriorVideo={"/ver/dororo-6"}
           />
         }
       />
@@ -11636,15 +11616,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/ybeo870tvvs4.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Dororo Capitulo 8"}
             tituloPag={"Animekun"}
             anime={"Dororo "}
             numero={"8"}
-            button-nextVideo={"/ver/dororo-9"}
+            siguienteVideo={"/ver/dororo-9"}
             capitulosVideo={"/dororo"}
-            button-beforeVideo={"/ver/dororo-7"}
+            anteriorVideo={"/ver/dororo-7"}
           />
         }
       />
@@ -11653,15 +11633,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/qgokr3f4188d.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Dororo Capitulo 9"}
             tituloPag={"Animekun"}
             anime={"Dororo "}
             numero={"9"}
-            button-nextVideo={"/ver/dororo-10"}
+            siguienteVideo={"/ver/dororo-10"}
             capitulosVideo={"/dororo"}
-            button-beforeVideo={"/ver/dororo-8"}
+            anteriorVideo={"/ver/dororo-8"}
           />
         }
       />
@@ -11670,15 +11650,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/j9ysc6lmfglh.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Dororo Capitulo 10"}
             tituloPag={"Animekun"}
             anime={"Dororo "}
             numero={"10"}
-            button-nextVideo={"/ver/dororo-11"}
+            siguienteVideo={"/ver/dororo-11"}
             capitulosVideo={"/dororo"}
-            button-beforeVideo={"/ver/dororo-9"}
+            anteriorVideo={"/ver/dororo-9"}
           />
         }
       />
@@ -11687,15 +11667,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/2hg17xsi4qfy.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Dororo Capitulo 11"}
             tituloPag={"Animekun"}
             anime={"Dororo "}
             numero={"11"}
-            button-nextVideo={"/ver/dororo-12"}
+            siguienteVideo={"/ver/dororo-12"}
             capitulosVideo={"/dororo"}
-            button-beforeVideo={"/ver/dororo-10"}
+            anteriorVideo={"/ver/dororo-10"}
           />
         }
       />
@@ -11704,15 +11684,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/ao0u9bllgeze.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Dororo Capitulo 12"}
             tituloPag={"Animekun"}
             anime={"Dororo "}
             numero={"12"}
             capitulosVideo={"/dororo"}
-            button-beforeVideo={"/ver/dororo-11"}
-            button-nextVideo={"/ver/dororo-13"}
+            anteriorVideo={"/ver/dororo-11"}
+            siguienteVideo={"/ver/dororo-13"}
           />
         }
       />
@@ -11721,13 +11701,13 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/9l8ai7ouovaf.html"}
-            beforeClass="button-before"
+            contAnteriorClass="button-before"
             tituloAnime={"Dororo Capitulo 13"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             anime={"Dororo "}
             numero={"13"}
-            button-beforeVideo="/ver/dororo-12"
-            button-nextVideo={"/ver/dororo-14"}
+            anteriorVideo="/ver/dororo-12"
+            siguienteVideo={"/ver/dororo-14"}
             capitulosVideo={"/dororo"}
           />
         }
@@ -11737,14 +11717,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/6usxprhp8rzz.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Dororo Capitulo 14"}
             anime={"Dororo "}
             numero={"14"}
-            button-nextVideo={"/ver/dororo-15"}
+            siguienteVideo={"/ver/dororo-15"}
             capitulosVideo={"/dororo"}
-            button-beforeVideo={"/ver/dororo-13"}
+            anteriorVideo={"/ver/dororo-13"}
           />
         }
       />
@@ -11753,15 +11733,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/lw2h3vqz2xls.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Dororo Capitulo 15"}
             tituloPag={"Animekun"}
             anime={"Dororo "}
             numero={"15"}
-            button-nextVideo={"/ver/dororo-16"}
+            siguienteVideo={"/ver/dororo-16"}
             capitulosVideo={"/dororo"}
-            button-beforeVideo={"/ver/dororo-14"}
+            anteriorVideo={"/ver/dororo-14"}
           />
         }
       />
@@ -11770,14 +11750,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/0v6jstn6qds7.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Dororo Capitulo 16"}
             anime={"Dororo "}
             numero={"16"}
-            button-nextVideo={"/ver/dororo-17"}
+            siguienteVideo={"/ver/dororo-17"}
             capitulosVideo={"/dororo"}
-            button-beforeVideo={"/ver/dororo-15"}
+            anteriorVideo={"/ver/dororo-15"}
           />
         }
       />
@@ -11786,15 +11766,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/1c8f6mjdodur.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Dororo Capitulo 17"}
             tituloPag={"Animekun"}
             anime={"Dororo "}
             numero={"17"}
-            button-nextVideo={"/ver/dororo-18"}
+            siguienteVideo={"/ver/dororo-18"}
             capitulosVideo={"/dororo"}
-            button-beforeVideo={"/ver/dororo-16"}
+            anteriorVideo={"/ver/dororo-16"}
           />
         }
       />
@@ -11803,14 +11783,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/e9afffu78wot.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Dororo Capitulo 18"}
             anime={"Dororo "}
             numero={"18"}
-            button-nextVideo={"/ver/dororo-19"}
+            siguienteVideo={"/ver/dororo-19"}
             capitulosVideo={"/dororo"}
-            button-beforeVideo={"/ver/dororo-17"}
+            anteriorVideo={"/ver/dororo-17"}
           />
         }
       />
@@ -11819,14 +11799,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/vle1s8oltysn.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Dororo Capitulo 19"}
             anime={"Dororo "}
             numero={"19"}
-            button-nextVideo={"/ver/dororo-20"}
+            siguienteVideo={"/ver/dororo-20"}
             capitulosVideo={"/dororo"}
-            button-beforeVideo={"/ver/dororo-18"}
+            anteriorVideo={"/ver/dororo-18"}
           />
         }
       />
@@ -11835,15 +11815,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/no6a6b0fqfrt.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Dororo Capitulo 20"}
             tituloPag={"Animekun"}
             anime={"Dororo "}
             numero={"20"}
-            button-nextVideo={"/ver/dororo-21"}
+            siguienteVideo={"/ver/dororo-21"}
             capitulosVideo={"/dororo"}
-            button-beforeVideo={"/ver/dororo-19"}
+            anteriorVideo={"/ver/dororo-19"}
           />
         }
       />
@@ -11852,15 +11832,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/padn75r9pqem.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Dororo Capitulo 21"}
             tituloPag={"Animekun"}
             anime={"Dororo "}
             numero={"21"}
-            button-nextVideo={"/ver/dororo-22"}
+            siguienteVideo={"/ver/dororo-22"}
             capitulosVideo={"/dororo"}
-            button-beforeVideo={"/ver/dororo-20"}
+            anteriorVideo={"/ver/dororo-20"}
           />
         }
       />
@@ -11869,15 +11849,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/llpwz7l4buon.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Dororo Capitulo 22"}
             tituloPag={"Animekun"}
             anime={"Dororo "}
             numero={"22"}
-            button-nextVideo={"/ver/dororo-11"}
+            siguienteVideo={"/ver/dororo-11"}
             capitulosVideo={"/dororo"}
-            button-beforeVideo={"/ver/dororo-9"}
+            anteriorVideo={"/ver/dororo-9"}
           />
         }
       />
@@ -11886,15 +11866,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/pu94mu5x0vyc.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Dororo Capitulo 23"}
             tituloPag={"Animekun"}
             anime={"Dororo "}
             numero={"23"}
-            button-nextVideo={"/ver/dororo-24"}
+            siguienteVideo={"/ver/dororo-24"}
             capitulosVideo={"/dororo"}
-            button-beforeVideo={"/ver/dororo-22"}
+            anteriorVideo={"/ver/dororo-22"}
           />
         }
       />
@@ -11903,14 +11883,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/taozp4ef780d.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Dororo Capitulo 24"}
             tituloPag={"Animekun"}
             anime={"Dororo "}
             numero={"24"}
             capitulosVideo={"/dororo"}
-            button-beforeVideo={"/ver/dororo-23"}
+            anteriorVideo={"/ver/dororo-23"}
           />
         }
       />
@@ -11920,12 +11900,12 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/il1ii6eh334l.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Hoshi no samidare Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             anime={"Hoshi no samidare"}
             numero={"1"}
-            button-nextVideo={"/ver/hoshi-no-samidare-2"}
+            siguienteVideo={"/ver/hoshi-no-samidare-2"}
             capitulosVideo={"/hoshi-no-samidare"}
           />
         }
@@ -11935,15 +11915,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/n2oz6324s7ds	.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hoshi no samidare Capitulo 2"}
             tituloPag={"Animekun"}
             anime={"Hoshi no samidare "}
             numero={"2"}
-            button-nextVideo={"/ver/hoshi-no-samidare-3"}
+            siguienteVideo={"/ver/hoshi-no-samidare-3"}
             capitulosVideo={"/hoshi-no-samidare"}
-            button-beforeVideo={"/ver/hoshi-no-samidare-1"}
+            anteriorVideo={"/ver/hoshi-no-samidare-1"}
           />
         }
       />
@@ -11952,15 +11932,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/3o7uzcadowex.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hoshi no samidare Capitulo 3"}
             tituloPag={"Animekun"}
             anime={"Hoshi no samidare "}
             numero={"3"}
-            button-nextVideo={"/ver/hoshi-no-samidare-4"}
+            siguienteVideo={"/ver/hoshi-no-samidare-4"}
             capitulosVideo={"/hoshi-no-samidare"}
-            button-beforeVideo={"/ver/hoshi-no-samidare-2"}
+            anteriorVideo={"/ver/hoshi-no-samidare-2"}
           />
         }
       />
@@ -11969,14 +11949,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/3p3qzag9uk1u.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hoshi no samidare Capitulo 4"}
             anime={"Hoshi no samidare "}
             numero={"4"}
-            button-nextVideo={"/ver/hoshi-no-samidare-5"}
+            siguienteVideo={"/ver/hoshi-no-samidare-5"}
             capitulosVideo={"/hoshi-no-samidare"}
-            button-beforeVideo={"/ver/hoshi-no-samidare-3"}
+            anteriorVideo={"/ver/hoshi-no-samidare-3"}
           />
         }
       />
@@ -11985,14 +11965,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/7akrkm0t02wb.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hoshi no samidare Capitulo 5"}
             anime={"Hoshi no samidare "}
             numero={"5"}
-            button-nextVideo={"/ver/hoshi-no-samidare-6"}
+            siguienteVideo={"/ver/hoshi-no-samidare-6"}
             capitulosVideo={"/hoshi-no-samidare"}
-            button-beforeVideo={"/ver/hoshi-no-samidare-4"}
+            anteriorVideo={"/ver/hoshi-no-samidare-4"}
           />
         }
       />
@@ -12001,15 +11981,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/b1rmdfqtrb2i.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hoshi no samidare Capitulo 6"}
             tituloPag={"Animekun"}
             anime={"Hoshi no samidare "}
             numero={"6"}
-            button-nextVideo={"/ver/hoshi-no-samidare-7"}
+            siguienteVideo={"/ver/hoshi-no-samidare-7"}
             capitulosVideo={"/hoshi-no-samidare"}
-            button-beforeVideo={"/ver/hoshi-no-samidare-5"}
+            anteriorVideo={"/ver/hoshi-no-samidare-5"}
           />
         }
       />
@@ -12018,15 +11998,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/plqwqmxqjd0y.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hoshi no samidare Capitulo 7"}
             tituloPag={"Animekun"}
             anime={"Hoshi no samidare "}
             numero={"7"}
-            button-nextVideo={"/ver/hoshi-no-samidare-8"}
+            siguienteVideo={"/ver/hoshi-no-samidare-8"}
             capitulosVideo={"/hoshi-no-samidare"}
-            button-beforeVideo={"/ver/hoshi-no-samidare-6"}
+            anteriorVideo={"/ver/hoshi-no-samidare-6"}
           />
         }
       />
@@ -12035,15 +12015,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/wt2270etp4t8.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hoshi no samidare Capitulo 8"}
             tituloPag={"Animekun"}
             anime={"Hoshi no samidare "}
             numero={"8"}
-            button-nextVideo={"/ver/hoshi-no-samidare-9"}
+            siguienteVideo={"/ver/hoshi-no-samidare-9"}
             capitulosVideo={"/hoshi-no-samidare"}
-            button-beforeVideo={"/ver/hoshi-no-samidare-7"}
+            anteriorVideo={"/ver/hoshi-no-samidare-7"}
           />
         }
       />
@@ -12052,14 +12032,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/qej97vzb120j.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hoshi no samidare Capitulo 9"}
             anime={"Hoshi no samidare "}
             numero={"9"}
-            button-nextVideo={"/ver/hoshi-no-samidare-10"}
+            siguienteVideo={"/ver/hoshi-no-samidare-10"}
             capitulosVideo={"/hoshi-no-samidare"}
-            button-beforeVideo={"/ver/hoshi-no-samidare-8"}
+            anteriorVideo={"/ver/hoshi-no-samidare-8"}
           />
         }
       />
@@ -12068,14 +12048,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/wruzn18wbkrv.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={" Capitulo 10"}
             anime={"Hoshi no samidare "}
             numero={"10"}
-            button-nextVideo={"/ver/hoshi-no-samidare-11"}
+            siguienteVideo={"/ver/hoshi-no-samidare-11"}
             capitulosVideo={"/hoshi-no-samidare"}
-            button-beforeVideo={"/ver/hoshi-no-samidare-9"}
+            anteriorVideo={"/ver/hoshi-no-samidare-9"}
           />
         }
       />
@@ -12084,14 +12064,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/7ue8fgwoxwlj.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hoshi no samidare Capitulo 11"}
             anime={"Hoshi no samidare "}
             numero={"11"}
-            button-nextVideo={"/ver/hoshi-no-samidare-12"}
+            siguienteVideo={"/ver/hoshi-no-samidare-12"}
             capitulosVideo={"/hoshi-no-samidare"}
-            button-beforeVideo={"/ver/hoshi-no-samidare-10"}
+            anteriorVideo={"/ver/hoshi-no-samidare-10"}
           />
         }
       />
@@ -12100,14 +12080,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/n5aeym51zkco.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hoshi no samidare Capitulo 12"}
             anime={"Hoshi no samidare "}
             numero={"12"}
             capitulosVideo={"/hoshi-no-samidare"}
-            button-beforeVideo={"/ver/hoshi-no-samidare-11"}
-            button-nextVideo="/ver/hoshi-no-samidare-13"
+            anteriorVideo={"/ver/hoshi-no-samidare-11"}
+            siguienteVideo="/ver/hoshi-no-samidare-13"
           />
         }
       />
@@ -12116,14 +12096,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/dvvxgsfxgqh3.html"}
-            beforeClass="button-before"
+            contAnteriorClass="button-before"
             tituloAnime={"Hoshi no samidare Capitulo 13"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             anime={"Hoshi no samidare"}
             numero={"13"}
-            button-nextVideo={"/ver/hoshi-no-samidare-14"}
+            siguienteVideo={"/ver/hoshi-no-samidare-14"}
             capitulosVideo={"/hoshi-no-samidare"}
-            button-beforeVideo="/ver/hoshi-no-samidare-12"
+            anteriorVideo="/ver/hoshi-no-samidare-12"
           />
         }
       />
@@ -12132,14 +12112,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/1fhr49fuy7xu.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hoshi no samidare Capitulo 14"}
             anime={"Hoshi no samidare "}
             numero={"14"}
-            button-nextVideo={"/verhoshi-no-samidare/-15"}
+            siguienteVideo={"/verhoshi-no-samidare/-15"}
             capitulosVideo={"/hoshi-no-samidare"}
-            button-beforeVideo={"/ver/hoshi-no-samidare-13"}
+            anteriorVideo={"/ver/hoshi-no-samidare-13"}
           />
         }
       />
@@ -12148,14 +12128,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/8yp14yz5kmgz.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hoshi no samidare Capitulo 15"}
             anime={"Hoshi no samidare "}
             numero={"15"}
-            button-nextVideo={"/ver/hoshi-no-samidare-16"}
+            siguienteVideo={"/ver/hoshi-no-samidare-16"}
             capitulosVideo={"/hoshi-no-samidare"}
-            button-beforeVideo={"/ver/hoshi-no-samidare-14"}
+            anteriorVideo={"/ver/hoshi-no-samidare-14"}
           />
         }
       />
@@ -12164,14 +12144,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/dhp77ie6w9j0.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hoshi no samidare Capitulo 16"}
             anime={"Hoshi no samidare "}
             numero={"16"}
-            button-nextVideo={"/ver/hoshi-no-samidare-17"}
+            siguienteVideo={"/ver/hoshi-no-samidare-17"}
             capitulosVideo={"/hoshi-no-samidare"}
-            button-beforeVideo={"/ver/hoshi-no-samidare-15"}
+            anteriorVideo={"/ver/hoshi-no-samidare-15"}
           />
         }
       />
@@ -12180,14 +12160,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/btixupxcequm.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hoshi no samidare Capitulo 17"}
             anime={"Hoshi no samidare "}
             numero={"17"}
-            button-nextVideo={"/ver/hoshi-no-samidare-18"}
+            siguienteVideo={"/ver/hoshi-no-samidare-18"}
             capitulosVideo={"/hoshi-no-samidare"}
-            button-beforeVideo={"/ver/hoshi-no-samidare-16"}
+            anteriorVideo={"/ver/hoshi-no-samidare-16"}
           />
         }
       />
@@ -12196,14 +12176,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/n67a0xjm7l6t.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hoshi no samidare Capitulo 18"}
             anime={"Hoshi no samidare "}
             numero={"18"}
-            button-nextVideo={"/ver/hoshi-no-samidare-19"}
+            siguienteVideo={"/ver/hoshi-no-samidare-19"}
             capitulosVideo={"/hoshi-no-samidare"}
-            button-beforeVideo={"/ver/hoshi-no-samidare-17"}
+            anteriorVideo={"/ver/hoshi-no-samidare-17"}
           />
         }
       />
@@ -12212,14 +12192,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/llphngakkahr.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hoshi no samidare Capitulo 19"}
             anime={"Hoshi no samidare "}
             numero={"19"}
-            button-nextVideo={"/ver/hoshi-no-samidare-20"}
+            siguienteVideo={"/ver/hoshi-no-samidare-20"}
             capitulosVideo={"/hoshi-no-samidare"}
-            button-beforeVideo={"/ver/hoshi-no-samidare-18"}
+            anteriorVideo={"/ver/hoshi-no-samidare-18"}
           />
         }
       />
@@ -12228,15 +12208,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/qgt9wai327ai.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hoshi no samidare Capitulo 20"}
             tituloPag={"Animekun"}
             anime={"Hoshi no samidare "}
             numero={"20"}
-            button-nextVideo={"/ver/hoshi-no-samidare-21"}
+            siguienteVideo={"/ver/hoshi-no-samidare-21"}
             capitulosVideo={"/hoshi-no-samidare"}
-            button-beforeVideo={"/ver/hoshi-no-samidare-19"}
+            anteriorVideo={"/ver/hoshi-no-samidare-19"}
           />
         }
       />
@@ -12245,15 +12225,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/o0cgtchedxz1.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hoshi no samidare Capitulo 21"}
             tituloPag={"Animekun"}
             anime={"Hoshi no samidare "}
             numero={"21"}
-            button-nextVideo={"/ver/hoshi-no-samidare-22"}
+            siguienteVideo={"/ver/hoshi-no-samidare-22"}
             capitulosVideo={"/hoshi-no-samidare"}
-            button-beforeVideo={"/ver/hoshi-no-samidare-20"}
+            anteriorVideo={"/ver/hoshi-no-samidare-20"}
           />
         }
       />
@@ -12262,14 +12242,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/hk0a3b81sqp9.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hoshi no samidare Capitulo 22"}
             anime={"Hoshi no samidare "}
             numero={"22"}
-            button-nextVideo={"/ver/hoshi-no-samidare-23"}
+            siguienteVideo={"/ver/hoshi-no-samidare-23"}
             capitulosVideo={"/hoshi-no-samidare"}
-            button-beforeVideo={"/ver/hoshi-no-samidare-21"}
+            anteriorVideo={"/ver/hoshi-no-samidare-21"}
           />
         }
       />
@@ -12278,14 +12258,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/5mjv3y6e0iys.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Hoshi no samidare Capitulo 23"}
             anime={"Hoshi no samidare "}
             numero={"23"}
-            button-nextVideo={"/ver/hoshi-no-samidare-24"}
+            siguienteVideo={"/ver/hoshi-no-samidare-24"}
             capitulosVideo={"/hoshi-no-samidare"}
-            button-beforeVideo={"/ver/hoshi-no-samidare-22"}
+            anteriorVideo={"/ver/hoshi-no-samidare-22"}
           />
         }
       />
@@ -12294,14 +12274,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Hoshi no samidare Capitulo 24"}
             tituloPag={"Animekun"}
             anime={"Hoshi no samidare "}
             numero={"24"}
             capitulosVideo={"/hoshi-no-samidare"}
-            button-beforeVideo={"/ver/hoshi-no-samidare-23"}
+            anteriorVideo={"/ver/hoshi-no-samidare-23"}
           />
         }
       />
@@ -12311,13 +12291,13 @@ function Videos() {
         element={
           <Video
             frame1={"https://vanfem.com/v/265jdt2j4pmdl50"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={"Overlord Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             tituloPag={"Animekun"}
             anime={"Overlord"}
             numero={"1"}
-            button-nextVideo={"/ver/overlord-2"}
+            siguienteVideo={"/ver/overlord-2"}
             capitulosVideo={"/overlord"}
           />
         }
@@ -12327,15 +12307,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://vanfem.com/v/njwxdb2x5-n2jln"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord Capitulo 2"}
             tituloPag={"Animekun"}
             anime={"Overlord "}
             numero={"2"}
-            button-nextVideo={"/ver/overlord-3"}
+            siguienteVideo={"/ver/overlord-3"}
             capitulosVideo={"/overlord"}
-            button-beforeVideo={"/ver/overlord-1"}
+            anteriorVideo={"/ver/overlord-1"}
           />
         }
       />
@@ -12344,15 +12324,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://vanfem.com/v/w125wunre-ymp6r"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord Capitulo 3"}
             tituloPag={"Animekun"}
             anime={"Overlord "}
             numero={"3"}
-            button-nextVideo={"/ver/overlord-4"}
+            siguienteVideo={"/ver/overlord-4"}
             capitulosVideo={"/overlord"}
-            button-beforeVideo={"/ver/overlord-2"}
+            anteriorVideo={"/ver/overlord-2"}
           />
         }
       />
@@ -12361,15 +12341,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://vanfem.com/v/50ejztdx3wl4rnl"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord Capitulo 4"}
             tituloPag={"Animekun"}
             anime={"Overlord "}
             numero={"4"}
-            button-nextVideo={"/ver/overlord-5"}
+            siguienteVideo={"/ver/overlord-5"}
             capitulosVideo={"/overlord"}
-            button-beforeVideo={"/ver/overlord-3"}
+            anteriorVideo={"/ver/overlord-3"}
           />
         }
       />
@@ -12378,15 +12358,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://vanfem.com/v/ejxnzb-4j1m1374"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord Capitulo 5"}
             tituloPag={"Animekun"}
             anime={"Overlord "}
             numero={"5"}
-            button-nextVideo={"/ver/overlord-6"}
+            siguienteVideo={"/ver/overlord-6"}
             capitulosVideo={"/overlord"}
-            button-beforeVideo={"/ver/overlord-4"}
+            anteriorVideo={"/ver/overlord-4"}
           />
         }
       />
@@ -12395,15 +12375,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://vanfem.com/v/yz-56fe1yz8p1p0"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord Capitulo 6"}
             tituloPag={"Animekun"}
             anime={"Overlord "}
             numero={"6"}
-            button-nextVideo={"/ver/overlord-7"}
+            siguienteVideo={"/ver/overlord-7"}
             capitulosVideo={"/overlord"}
-            button-beforeVideo={"/ver/overlord-5"}
+            anteriorVideo={"/ver/overlord-5"}
           />
         }
       />
@@ -12412,15 +12392,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://vanfem.com/v/njwxdb2x5-njqq1"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord Capitulo 7"}
             tituloPag={"Animekun"}
             anime={"Overlord "}
             numero={"7"}
-            button-nextVideo={"/ver/overlord-8"}
+            siguienteVideo={"/ver/overlord-8"}
             capitulosVideo={"/overlord"}
-            button-beforeVideo={"/ver/overlord-6"}
+            anteriorVideo={"/ver/overlord-6"}
           />
         }
       />
@@ -12429,15 +12409,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://vanfem.com/v/8123yu87dr4k6q2"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord Capitulo 8"}
             tituloPag={"Animekun"}
             anime={"Overlord "}
             numero={"8"}
-            button-nextVideo={"/ver/overlord-9"}
+            siguienteVideo={"/ver/overlord-9"}
             capitulosVideo={"/overlord"}
-            button-beforeVideo={"/ver/overlord-7"}
+            anteriorVideo={"/ver/overlord-7"}
           />
         }
       />
@@ -12446,15 +12426,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://vanfem.com/v/50ejztdx3wll-rj"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord Capitulo 9"}
             tituloPag={"Animekun"}
             anime={"Overlord "}
             numero={"9"}
-            button-nextVideo={"/ver/overlord-10"}
+            siguienteVideo={"/ver/overlord-10"}
             capitulosVideo={"/overlord"}
-            button-beforeVideo={"/ver/overlord-8"}
+            anteriorVideo={"/ver/overlord-8"}
           />
         }
       />
@@ -12463,15 +12443,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://vanfem.com/v/r7exqce4qmnnw4j"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord Capitulo 10"}
             tituloPag={"Animekun"}
             anime={"Overlord "}
             numero={"10"}
-            button-nextVideo={"/ver/overlord-11"}
+            siguienteVideo={"/ver/overlord-11"}
             capitulosVideo={"/overlord"}
-            button-beforeVideo={"/ver/overlord-9"}
+            anteriorVideo={"/ver/overlord-9"}
           />
         }
       />
@@ -12480,15 +12460,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://vanfem.com/v/8123yu87dr4d4x8"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord Capitulo 11"}
             tituloPag={"Animekun"}
             anime={"Overlord "}
             numero={"11"}
-            button-nextVideo={"/ver/overlord-12"}
+            siguienteVideo={"/ver/overlord-12"}
             capitulosVideo={"/overlord"}
-            button-beforeVideo={"/ver/overlord-10"}
+            anteriorVideo={"/ver/overlord-10"}
           />
         }
       />
@@ -12497,15 +12477,15 @@ function Videos() {
         element={
           <Video
             frame1={"https://vanfem.com/v/jjrxnbd5rkrn777"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={"Overlord Capitulo 12"}
             tituloPag={"Animekun"}
             anime={"Overlord "}
             numero={"12"}
-            button-nextVideo={"/ver/overlord-13"}
+            siguienteVideo={"/ver/overlord-13"}
             capitulosVideo={"/overlord"}
-            button-beforeVideo={"/ver/overlord-11"}
+            anteriorVideo={"/ver/overlord-11"}
           />
         }
       />
@@ -12514,14 +12494,14 @@ function Videos() {
         element={
           <Video
             frame1={"https://vanfem.com/v/265jdt2j4p4nemj"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={"Overlord Capitulo 13"}
             tituloPag={"Animekun"}
             anime={"Overlord "}
             numero={"13"}
             capitulosVideo={"/overlord"}
-            button-beforeVideo={"/ver/-overlord-12"}
+            anteriorVideo={"/ver/-overlord-12"}
           />
         }
       />
@@ -12532,12 +12512,12 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="disable"
+            contAnteriorClass="disable"
             tituloAnime={" Capitulo 1"}
-            nextClass={"button-next"}
+            contSiguienteClass={"button-next"}
             anime={""}
             numero={"1"}
-            button-nextVideo={"/ver/-2"}
+            siguienteVideo={"/ver/-2"}
             capitulosVideo={"/"}
           />
         }
@@ -12548,14 +12528,14 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={" Capitulo 2"}
             anime={" "}
             numero={"2"}
-            button-nextVideo={"/ver/-3"}
+            siguienteVideo={"/ver/-3"}
             capitulosVideo={"/"}
-            button-beforeVideo={"/ver/-1"}
+            anteriorVideo={"/ver/-1"}
           />
         }
       />
@@ -12565,14 +12545,14 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={" Capitulo 3"}
             anime={" "}
             numero={"3"}
-            button-nextVideo={"/ver/-4"}
+            siguienteVideo={"/ver/-4"}
             capitulosVideo={"/"}
-            button-beforeVideo={"/ver/-2"}
+            anteriorVideo={"/ver/-2"}
           />
         }
       />
@@ -12582,14 +12562,14 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={" Capitulo 4"}
             anime={" "}
             numero={"4"}
-            button-nextVideo={"/ver/-5"}
+            siguienteVideo={"/ver/-5"}
             capitulosVideo={"/"}
-            button-beforeVideo={"/ver/-3"}
+            anteriorVideo={"/ver/-3"}
           />
         }
       />
@@ -12599,14 +12579,14 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={" Capitulo 5"}
             anime={" "}
             numero={"5"}
-            button-nextVideo={"/ver/-6"}
+            siguienteVideo={"/ver/-6"}
             capitulosVideo={"/"}
-            button-beforeVideo={"/ver/-4"}
+            anteriorVideo={"/ver/-4"}
           />
         }
       />
@@ -12616,14 +12596,14 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={" Capitulo 6"}
             anime={" "}
             numero={"6"}
-            button-nextVideo={"/ver/-7"}
+            siguienteVideo={"/ver/-7"}
             capitulosVideo={"/"}
-            button-beforeVideo={"/ver/-5"}
+            anteriorVideo={"/ver/-5"}
           />
         }
       />
@@ -12633,14 +12613,14 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={" Capitulo 7"}
             anime={" "}
             numero={"7"}
-            button-nextVideo={"/ver/-8"}
+            siguienteVideo={"/ver/-8"}
             capitulosVideo={"/"}
-            button-beforeVideo={"/ver/-6"}
+            anteriorVideo={"/ver/-6"}
           />
         }
       />
@@ -12650,14 +12630,14 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={" Capitulo 8"}
             anime={" "}
             numero={"8"}
-            button-nextVideo={"/ver/-9"}
+            siguienteVideo={"/ver/-9"}
             capitulosVideo={"/"}
-            button-beforeVideo={"/ver/-7"}
+            anteriorVideo={"/ver/-7"}
           />
         }
       />
@@ -12667,14 +12647,14 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={" Capitulo 9"}
             anime={" "}
             numero={"9"}
-            button-nextVideo={"/ver/-10"}
+            siguienteVideo={"/ver/-10"}
             capitulosVideo={"/"}
-            button-beforeVideo={"/ver/-8"}
+            anteriorVideo={"/ver/-8"}
           />
         }
       />
@@ -12684,14 +12664,14 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={" Capitulo 10"}
             anime={" "}
             numero={"10"}
-            button-nextVideo={"/ver/-11"}
+            siguienteVideo={"/ver/-11"}
             capitulosVideo={"/"}
-            button-beforeVideo={"/ver/-9"}
+            anteriorVideo={"/ver/-9"}
           />
         }
       />
@@ -12701,14 +12681,14 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"button-next"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
             tituloAnime={" Capitulo 11"}
             anime={" "}
             numero={"11"}
-            button-nextVideo={"/ver/-12"}
+            siguienteVideo={"/ver/-12"}
             capitulosVideo={"/"}
-            button-beforeVideo={"/ver/-10"}
+            anteriorVideo={"/ver/-10"}
           />
         }
       />
@@ -12718,13 +12698,13 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
-            beforeClass="button-before"
-            nextClass={"disable"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
             tituloAnime={" Capitulo 12"}
             anime={" "}
             numero={"12"}
             capitulosVideo={"/"}
-            button-beforeVideo={"/ver/-11"}
+            anteriorVideo={"/ver/-11"}
           />
         }
       />

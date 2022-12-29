@@ -19,8 +19,8 @@ export function Video({
   siguienteVideo,
   anteriorVideo,
   numero,
-  beforeClass,
-  nextClass,
+  contAnteriorClass,
+  contSiguienteClass,
   frame2,
   ...props
 }) {
@@ -123,7 +123,7 @@ export function Video({
                   </div>
                   <div className="column is-12-mobile is-4-tablet is-3-desktop">
                     <div className="columns is-variable is-1 cont-opciones">
-                      <a href={beforeClass} className="button-before">
+                      <a href={anteriorVideo} className={contAnteriorClass}>
                         <i className="fa fa-arrow-left"></i>
                       </a>
 
@@ -131,7 +131,7 @@ export function Video({
                         <i class="fa-solid fa-list"></i> Episodios
                       </a>
 
-                      <a href={nextClass} className="button-next">
+                      <a href={siguienteVideo} className={contSiguienteClass}>
                         <i className="fa fa-arrow-right"></i>
                       </a>
                     </div>
