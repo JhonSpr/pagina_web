@@ -233,33 +233,41 @@
   }
   .button-before:hover {
     color: #00f4f8 !important;
-    background-color: rgba(0, 0, 0, 0.5) !important;
+    background-color: rgba(72, 72, 72, 0.5) !important;
   }
   .button-next:hover {
-    background-color: rgba(0, 0, 0, 0.5) !important;
+    background-color: rgba(75, 72, 72, 0.5) !important;
     color: #00f4f8 !important;
   }
   .download {
     background-color: #363636 !important;
     padding: 15px;
-    display: inline-block !important;
-    margin: 0 10px;
+    margin: 20px 10px;
     border-radius: 10px;
+    position: relative;
+    font-size: 13px;
+  }
+  .cont-download {
+    width: 100%;
+    display: block;
+    margin-top: 45px;
+    position: relative;
   }
   .fa-download {
     margin: 0 7px;
   }
-  .download:hover .fa-download {
-    color: #00f4f8;
+  .download:hover {
+    color: #00f4f8 !important;
+    background-color: rgba(72, 72, 72, 0.5) !important;
   }
   .cont-links-download {
     background-color: #363636;
     border-radius: 10px;
     width: 50%;
-    margin-left: 16px;
+    margin-top: 50px;
   }
   .cont-links-download div {
-    margin: 15px 0;
+    margin: px 0;
     padding: 8px 10px;
   }
   .info {
@@ -268,6 +276,16 @@
   }
   .mobile {
     display: none !important;
+  }
+  .figura_downloads {
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 15px solid #363636;
+    margin-top: 25px;
+    margin-bottom: -50px;
+    margin-left: 45px;
   }
 }
 .nav-link {

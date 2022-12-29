@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import LoadingSearch from "./Colletion/Loading";
+
 function SearchBar({ placeholder }) {
   const [loading, setLoading] = useState(false);
   const [info, setInfo] = useState([]);

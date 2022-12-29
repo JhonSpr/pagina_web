@@ -11,6 +11,7 @@ import News from "../Colletion/News";
 //   AnimeRecommend4,
 // } from "./Elements/AnimesRecommend";
 import Disqus from "./Elements/disqus";
+import { useAuth0 } from "@auth0/auth0-react";
 
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Video({
@@ -24,6 +25,8 @@ export function Video({
   frame2,
   ...props
 }) {
+  const { isAuthenticated } = useAuth0();
+
   const [showdownloads, setDownloads] = useState(false);
   const [loadingDisqus, setLoadingDisqus] = useState(true);
   const [loadingFirstOption, setLoadingFirstOption] = useState(false);
@@ -135,6 +138,10 @@ export function Video({
                         <i className="fa fa-arrow-right"></i>
                       </a>
                     </div>
+                  </div>
+                </div>
+                {isAuthenticated ? (
+                  <div className="cont-download">
                     {showdownloads ? (
                       <a className="download" onClick={hideDownloads}>
                         <i className="fa-solid fa-download"></i>descargar
@@ -147,32 +154,41 @@ export function Video({
                       </a>
                     )}
                   </div>
-                </div>
-                {showdownloads ? (
-                  <div className="cont-links-download">
-                    <div>
-                      <a href="#link1">
-                        <i className="fa-solid fa-circle-down"></i>
-                        <span>descargar capitulo de {anime} </span>
-                      </a>
-                    </div>
-                    <div>
-                      <a href="#link1">
-                        <i className="fa-solid fa-circle-down"></i>
-
-                        <span>descargar capitulo de {anime} </span>
-                      </a>
-                    </div>
-                    <div>
-                      <a href="#link1">
-                        <i className="fa-solid fa-circle-down"></i>
-                        <span>descargar capitulo de {anime} </span>
-                      </a>
-                    </div>
-                  </div>
                 ) : (
                   <></>
                 )}
+                {showdownloads ? (
+                  <div className="figura_downloads"></div>
+                ) : (
+                  <></>
+                )}
+                <div className="cont-links-download">
+                  {showdownloads ? (
+                    <>
+                      <div>
+                        <a href="#link1">
+                          <i className="fa-solid fa-circle-down"></i>
+                          <span>descargar capitulo de {anime} </span>
+                        </a>
+                      </div>
+                      <div>
+                        <a href="#link1">
+                          <i className="fa-solid fa-circle-down"></i>
+
+                          <span>descargar capitulo de {anime} </span>
+                        </a>
+                      </div>
+                      <div>
+                        <a href="#link1">
+                          <i className="fa-solid fa-circle-down"></i>
+                          <span>descargar capitulo de {anime} </span>
+                        </a>
+                      </div>
+                    </>
+                  ) : (
+                    <></>
+                  )}
+                </div>
                 <div className="container_button_comments">
                   {loadingDisqus ? (
                     <button
