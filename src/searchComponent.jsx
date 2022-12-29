@@ -15,7 +15,13 @@ function SearchBar({ placeholder }) {
     } else {
       setHideData(false);
     }
-    if (info.length === 1) {
+    if (
+      info.length === 1 ||
+      info.length === 2 ||
+      info.length === 3 ||
+      info.length === 4 ||
+      info.length === 5
+    ) {
       setHideData(false);
     } else {
       setHideData(true);
@@ -83,7 +89,7 @@ function SearchBar({ placeholder }) {
                 </>
               ) : (
                 <>
-                  {info.slice(0, 4).map((data, index) => (
+                  {info.slice(0, 3).map((data, index) => (
                     <a
                       className="dataItem"
                       href={data.link}
