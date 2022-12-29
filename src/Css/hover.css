@@ -246,6 +246,7 @@
     border-radius: 10px;
     position: relative;
     font-size: 13px;
+    display: inline-block;
   }
   .cont-download {
     width: 100%;
