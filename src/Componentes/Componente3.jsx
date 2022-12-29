@@ -136,15 +136,15 @@ export function Video({
                       </a>
                     </div>
                     {showdownloads ? (
-                      <button className="download" onClick={hideDownloads}>
+                      <a className="download" onClick={hideDownloads}>
                         <i className="fa-solid fa-download"></i>descargar
                         capitulos
-                      </button>
+                      </a>
                     ) : (
-                      <button className="download" onClick={ShowDownloads}>
+                      <a className="download" onClick={ShowDownloads}>
                         <i className="fa-solid fa-download"></i>descargar
                         capitulos
-                      </button>
+                      </a>
                     )}
                   </div>
                 </div>
