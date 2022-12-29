@@ -124,7 +124,7 @@ export function Video({
                       ></iframe>
                     )}
                   </div>
-                  <div className="column is-12-mobile is-4-tablet is-3-desktop">
+                  <div className="column is-12-mobile is-4-tablet is-3-desktop box-opcions">
                     <div className="columns is-variable is-1 cont-opciones">
                       <a href={anteriorVideo} className={contAnteriorClass}>
                         <i className="fa fa-arrow-left"></i>
@@ -139,56 +139,57 @@ export function Video({
                       </a>
                     </div>
                   </div>
-                </div>
-                {isAuthenticated ? (
-                  <div className="cont-download">
-                    {showdownloads ? (
-                      <a className="download" onClick={hideDownloads}>
-                        <i className="fa-solid fa-download"></i>descargar
-                        capitulos
-                      </a>
-                    ) : (
-                      <a className="download" onClick={ShowDownloads}>
-                        <i className="fa-solid fa-download"></i>descargar
-                        capitulos
-                      </a>
-                    )}
-                  </div>
-                ) : (
-                  <></>
-                )}
-                {showdownloads ? (
-                  <div className="figura_downloads"></div>
-                ) : (
-                  <></>
-                )}
-                <div className="cont-links-download">
-                  {showdownloads ? (
-                    <>
-                      <div>
-                        <a href="#link1">
-                          <i className="fa-solid fa-circle-down"></i>
-                          <span>descargar capitulo de {anime} </span>
+                  {isAuthenticated ? (
+                    <div className="cont-download">
+                      {showdownloads ? (
+                        <a className="download" onClick={hideDownloads}>
+                          <i className="fa-solid fa-download"></i>descargar
+                          capitulos
                         </a>
-                      </div>
-                      <div>
-                        <a href="#link1">
-                          <i className="fa-solid fa-circle-down"></i>
-
-                          <span>descargar capitulo de {anime} </span>
+                      ) : (
+                        <a className="download" onClick={ShowDownloads}>
+                          <i className="fa-solid fa-download"></i>descargar
+                          capitulos
                         </a>
-                      </div>
-                      <div>
-                        <a href="#link1">
-                          <i className="fa-solid fa-circle-down"></i>
-                          <span>descargar capitulo de {anime} </span>
-                        </a>
-                      </div>
-                    </>
+                      )}
+                    </div>
                   ) : (
                     <></>
                   )}
+                  {showdownloads ? (
+                    <div className="figura_downloads"></div>
+                  ) : (
+                    <></>
+                  )}
+                  <div className="cont-links-download">
+                    {showdownloads ? (
+                      <>
+                        <div>
+                          <a href="#link1">
+                            <i className="fa-solid fa-circle-down"></i>
+                            <span>descargar capitulo de {anime} </span>
+                          </a>
+                        </div>
+                        <div>
+                          <a href="#link1">
+                            <i className="fa-solid fa-circle-down"></i>
+
+                            <span>descargar capitulo de {anime} </span>
+                          </a>
+                        </div>
+                        <div>
+                          <a href="#link1">
+                            <i className="fa-solid fa-circle-down"></i>
+                            <span>descargar capitulo de {anime} </span>
+                          </a>
+                        </div>
+                      </>
+                    ) : (
+                      <></>
+                    )}
+                  </div>
                 </div>
+
                 <div className="container_button_comments">
                   {loadingDisqus ? (
                     <button
