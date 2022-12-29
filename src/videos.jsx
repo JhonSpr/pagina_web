@@ -9095,8 +9095,7 @@ function Videos() {
             frame1={"https://sblanh.com/e/m4kppghr5mpf.html"}
             contAnteriorClass="disable"
             tituloAnime={"Spy x Family 2nd temporada Capitulo 1"}
-            contSiguienteClass={"button-before"}
-            tituloPag={"Animekun"}
+            contSiguienteClass={"button-next"}
             anime={"Spy x Family 2nd Temporada"}
             numero={"1"}
             siguienteVideo={"/ver/spy-x-family-2nd-temporada-2"}
@@ -9110,7 +9109,7 @@ function Videos() {
           <Video
             frame1={"https://sbanh.com/e/iax1kh5jmlw2.html"}
             contAnteriorClass="button-before"
-            contSiguienteClass={"button-before"}
+            contSiguienteClass={"button-next"}
             tituloAnime={"Spy x Family 2nd Temporada Capitulo 2"}
             anime={"Spy x Family 2nd Temporada "}
             numero={"2"}
@@ -9126,7 +9125,7 @@ function Videos() {
           <Video
             frame1={"https://sbanh.com/e/duqs5x463y25.html"}
             contAnteriorClass="button-before"
-            contSiguienteClass={"button-before"}
+            contSiguienteClass={"button-next"}
             tituloAnime={"Spy x Family 2nd Temporada Capitulo 3"}
             anime={"Spy x Family 2nd Temporada "}
             numero={"3"}
@@ -9142,7 +9141,7 @@ function Videos() {
           <Video
             frame1={"https://sbanh.com/e/rnk00xkiayzx.html"}
             contAnteriorClass="button-before"
-            contSiguienteClass={"button-before"}
+            contSiguienteClass={"button-next"}
             tituloAnime={"Spy x Family 2nd Temporada Capitulo 4"}
             tituloPag={"Animekun"}
             anime={"Spy x Family 2nd Temporada "}
@@ -9159,7 +9158,7 @@ function Videos() {
           <Video
             frame1={"https://sblongvu.com/e/2si4dqjyi17f.html"}
             contAnteriorClass="button-before"
-            contSiguienteClass={"button-before"}
+            contSiguienteClass={"button-next"}
             tituloAnime={"Spy x Family 2nd Temporada Capitulo 5"}
             tituloPag={"Animekun"}
             anime={"Spy x Family 2nd Temporada "}
@@ -9176,7 +9175,7 @@ function Videos() {
           <Video
             frame1={"https://sblongvu.com/e/4s3txnlub5ir.html"}
             contAnteriorClass="button-before"
-            contSiguienteClass={"button-before"}
+            contSiguienteClass={"button-next"}
             tituloAnime={"Spy x Family 2nd Temporada Capitulo 6"}
             tituloPag={"Animekun"}
             anime={"Spy x Family 2nd Temporada "}
