@@ -80,11 +80,7 @@ function AlertNoLogged({ props }) {
     <React.Fragment>
       {isAuthenticated ? (
         <li className="navbar-item item-nav" style={{ display: "block" }}>
-          <a
-            className="nav-link item-nav"
-            href="/peliculas"
-            onClick={handleSuccess}
-          >
+          <a className="nav-link item-nav" href="/peliculas">
             Peliculas
           </a>
         </li>
