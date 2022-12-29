@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-has-content */
 /* eslint-disable eqeqeq */
 import React, { useEffect, useState } from "react";
-import Loading from "./Colletion/Loading";
+import LoadingSearch from "./Colletion/Loading";
 function SearchBar({ placeholder }) {
   const [loading, setLoading] = useState(false);
   const [info, setInfo] = useState([]);
@@ -78,7 +78,7 @@ function SearchBar({ placeholder }) {
             <>
               {loading ? (
                 <>
-                  <Loading />
+                  <LoadingSearch />
                 </>
               ) : (
                 <>
