@@ -11,6 +11,7 @@ import {
   Page6,
   Page7,
 } from "./Elements/Paginas_Emisiones";
+import { Pagination } from "./Elements/Pagination";
 
 export function Pagina1Emisiones() {
   return (
@@ -29,35 +30,24 @@ export function Pagina1Emisiones() {
           <Page1 />
         </div>
       </section>
-      <div className="paginacion-contenedor">
-        <ul>
-          <li className="active">
-            <a href="/en-emision">1</a>
-          </li>
-          {/* <li>
-            <a href="/en-emision page=2">2</a>
-          </li>
-          <li>
-            <a href="/en-emision page=3">3</a>
-          </li>
-          <li>
-            <a href="/en-emision page=4">4</a>
-          </li>
-          <li>
-            <a href="/en-emision page=5">5</a>
-          </li>
-          <li>
-            <a href="/en-emision page=6">6</a>
-          </li>
-          <li>
-            <a href="/en-emision page=7">7</a>
-          </li>
-
-          <a href="/en-emision page=2" className="siguiente">
-            »
-          </a> */}
-        </ul>
-      </div>
+      <Pagination
+        classNameBefore={"disable"}
+        link1={"/en-emision "}
+        link2={"/finalizados page=2"}
+        link3={"/finalizados page=3"}
+        link4={"/finalizados page=4"}
+        link5={"/finalizados page=5"}
+        link6={"/finalizados page=6"}
+        link7={"/finalizados page=7"}
+        classNameNext={"disable"}
+        active1="active"
+        active2={"disable"}
+        active3={"disable"}
+        active4={"disable"}
+        active5={"disable"}
+        active6={"disable"}
+        active7={"disable"}
+      />
       <hr />
       <Footer />
     </>

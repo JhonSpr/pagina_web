@@ -3,10 +3,10 @@ import React from "react";
 export default function Listas({ anime, ...props }) {
   return (
     <>
-      <ul className="anime-page__episode-list is-size-6">
+      <ul className="anime-page__episode-list">
         <li className={props.li1}>
           <a
-            className="fa-play-circle d-inline-flex align-items-center is-rounded "
+            className="fa-play-circle d-inline-flex"
             href={props.capituloAnime1}
           >
             {anime} Episodio 1
@@ -14,7 +14,7 @@ export default function Listas({ anime, ...props }) {
         </li>
         <li className={props.li2}>
           <a
-            className="fa-play-circle d-inline-flex align-items-center is-rounded "
+            className="fa-play-circle d-inline-flex align-items-center  "
             href={props.capituloAnime2}
           >
             {anime} Episodio 2
@@ -22,7 +22,7 @@ export default function Listas({ anime, ...props }) {
         </li>
         <li className={props.li3}>
           <a
-            className="fa-play-circle d-inline-flex align-items-center is-rounded "
+            className="fa-play-circle d-inline-flex align-items-center"
             href={props.capituloAnime3}
           >
             {anime} Episodio 3
@@ -30,7 +30,7 @@ export default function Listas({ anime, ...props }) {
         </li>
         <li className={props.li4}>
           <a
-            className="fa-play-circle d-inline-flex align-items-center is-rounded "
+            className="fa-play-circle d-inline-flex align-items-center"
             href={props.capituloAnime4}
           >
             {anime} Episodio 4
@@ -38,7 +38,7 @@ export default function Listas({ anime, ...props }) {
         </li>
         <li className={props.li5}>
           <a
-            className="fa-play-circle d-inline-flex align-items-center is-rounded "
+            className="fa-play-circle d-inline-flex align-items-center"
             href={props.capituloAnime5}
           >
             {anime} Episodio 5
@@ -46,7 +46,7 @@ export default function Listas({ anime, ...props }) {
         </li>
         <li className={props.li6}>
           <a
-            className="fa-play-circle d-inline-flex align-items-center is-rounded "
+            className="fa-play-circle d-inline-flex align-items-center"
             href={props.capituloAnime6}
           >
             {anime} Episodio 6
@@ -54,7 +54,7 @@ export default function Listas({ anime, ...props }) {
         </li>
         <li className={props.li7}>
           <a
-            className="fa-play-circle d-inline-flex align-items-center is-rounded "
+            className="fa-play-circle d-inline-flex align-items-center"
             href={props.capituloAnime7}
           >
             {anime} Episodio 7
@@ -62,7 +62,7 @@ export default function Listas({ anime, ...props }) {
         </li>
         <li className={props.li8}>
           <a
-            className="fa-play-circle d-inline-flex align-items-center is-rounded "
+            className="fa-play-circle d-inline-flex align-items-center"
             href={props.capituloAnime8}
           >
             {anime} Episodio 8
@@ -70,7 +70,7 @@ export default function Listas({ anime, ...props }) {
         </li>
         <li className={props.li9}>
           <a
-            className="fa-play-circle d-inline-flex align-items-center is-rounded "
+            className="fa-play-circle d-inline-flex align-items-center"
             href={props.capituloAnime9}
           >
             {anime} Episodio 9
@@ -78,7 +78,7 @@ export default function Listas({ anime, ...props }) {
         </li>
         <li className={props.li10}>
           <a
-            className="fa-play-circle d-inline-flex align-items-center is-rounded "
+            className="fa-play-circle d-inline-flex align-items-center"
             href={props.capituloAnime10}
           >
             {anime} Episodio 10
@@ -86,7 +86,7 @@ export default function Listas({ anime, ...props }) {
         </li>
         <li className={props.li11}>
           <a
-            className="fa-play-circle d-inline-flex align-items-center is-rounded "
+            className="fa-play-circle d-inline-flex align-items-center"
             href={props.capituloAnime11}
           >
             {anime} Episodio 11
@@ -94,7 +94,7 @@ export default function Listas({ anime, ...props }) {
         </li>
         <li className={props.li12}>
           <a
-            className="fa-play-circle d-inline-flex align-items-center is-rounded "
+            className="fa-play-circle d-inline-flex align-items-center"
             href={props.capituloAnime12}
           >
             {anime} Episodio 12

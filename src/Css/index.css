@@ -37,11 +37,9 @@ span {
 }
 a {
   text-decoration: none;
-  color: rgb(240, 240, 240) !important;
+  color: #333 !important;
 }
-.contenedor-ul {
-  justify-content: flex-end;
-}
+
 .paginacion-contenedor {
   justify-content: center;
   align-items: center;
@@ -435,16 +433,25 @@ input {
 .serie-card .tag.airing {
   position: absolute;
   right: 0;
-  top: 5px;
-  background-color: #00a43b !important;
-  color: #fff !important;
+  bottom: 35px;
+  background-color: #22c45d !important;
+  color: rgb(0, 0, 0) !important;
   border-radius: 0.2rem 0 0.2rem 0;
 }
-
+.serie-card .tag.end {
+  position: absolute;
+  right: 0;
+  bottom: 35px;
+  background-color: #b63f07 !important;
+  color: rgb(252, 252, 252) !important;
+  border-radius: 0.2rem 0 0.2rem 0;
+}
 .serie-card .tag.type {
   position: absolute;
-  right: 5px;
+  left: 0;
+  top: 5px;
   bottom: 2rem;
+  color: rgb(255, 255, 255) !important;
 }
 .navbar {
   background-color: rgb(20, 20, 20) !important;
@@ -565,23 +572,6 @@ textarea {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
   }
-
-  .capitulos-grid > .item {
-    width: calc(25% - 0.1em);
-    margin: 0.05em;
-  }
-}
-
-.item {
-  cursor: pointer;
-  margin: 10px;
-  width: 267px;
-  height: auto;
-  position: relative;
-  left: 0px;
-  display: inline-block;
-  padding: 10px;
-  transition: all 0.5s;
 }
 
 .overarchingdiv {
@@ -622,67 +612,38 @@ textarea {
   -webkit-transform: rotate(360deg);
   transform: rotate(360deg);
 }
-.pgnav {
-  transition: 0.1s;
-  cursor: pointer;
-  font-size: 50px !important;
-  margin: 10px;
-  display: inline-block !important;
-  padding: 6px 8px;
-}
 
 .section {
   padding: 1rem 0.5rem;
   position: relative;
 }
 
-.anime-page__next-episode {
-  display: inline-block;
-  padding: 0.8rem 1rem;
-  background-color: #363636;
-  vertical-align: middle;
-  margin-bottom: 1rem;
-}
-
 .anime-page__episode-list {
-  max-height: 400px;
+  max-height: 500px;
   overflow-x: auto;
-  margin-bottom: 2.5rem;
+  margin-bottom: 3.5rem;
 }
 
 .anime-page__episode-list > li {
-  border-bottom: 1px solid #eceff1;
+  border-bottom: 1px solid #00f4f8;
 }
 
 .anime-page__episode-list > li > a:before {
   font-family: "Font Awesome 5 Free";
-  margin-right: 0.7rem;
+  margin-right: 0.4rem;
+  font-size: 15px;
 }
 
 .anime-page__episode-list > li > a {
   display: block;
-  padding: 1rem;
-  color: rgba(255, 255, 255, 0.7);
+  padding: 1.2rem;
+  color: #d1d1d1 !important;
   border-radius: 0.25rem;
 }
 
 .has-border-bottom {
-  border-bottom: 2px solid rgba(158, 158, 158, 0.12);
-  margin-bottom: 0.5rem;
-}
-
-.episode-banner-top div {
-  margin: 0 auto !important;
-}
-
-.episode-banner-top-2 div {
-  margin: 0 auto !important;
-  display: flex;
-  justify-content: center;
-}
-
-.viewed {
-  color: seagreen !important;
+  border-bottom: 2px solid rgba(14, 177, 206, 0.877);
+  margin-bottom: 0.6rem;
 }
 
 /* width */
@@ -706,37 +667,12 @@ textarea {
   background: rgba(20, 20, 20);
 }
 .anime-page__episode-list > li > a {
-  width: 100%;
+  width: 100% !important;
 }
 
 .anime-page__episode-list > li > a:hover {
   background-color: rgb(100, 100, 100) !important;
-  color: #fff !important;
-}
-
-.episode-page__servers-list {
-  background: transparent !important;
-}
-
-.episode-page__servers.is-toggle a {
-  background: #111111;
-  color: #fff;
-  border: none;
-}
-.episode-page__servers.is-toggle li.is-active a {
-  background-color: rgb(100, 100, 100) !important;
-  border-radius: 0;
-}
-.episode-page__servers.is-toggle a:hover {
-  background-color: rgb(100, 100, 100) !important;
-}
-
-.wrap {
-  background-color: #2f2f2f;
-  border-radius: 6px;
-  padding: 0.2rem;
-  color: #8a8a8a;
-  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  color: #00f4f8 !important;
 }
 
 .iframe-container {
@@ -756,63 +692,24 @@ textarea {
   height: 100%;
 }
 
-.episode-page__anime-cover {
-  margin-bottom: 0.5rem;
-}
-
-.episode-banner-top div {
-  margin: 0 auto !important;
-}
-
-.episode-banner-top-2 div {
-  margin: 0 auto !important;
-  display: flex;
-  justify-content: center;
-}
-
-.pag-text {
-  padding: 15px;
-  border-bottom: 2px rgb(100, 100, 100) solid;
-}
-
-.li {
-  display: none;
-}
-
 .image_2 {
   border: 2px solid #00f4f8;
 }
 
-.sec {
-  display: none;
-}
-
 .filtrador {
-  padding-left: 20px;
-  margin-top: 6em;
+  padding-left: 10px;
+  margin-top: 7em;
 }
 
 .filtrador h1 {
   color: rgb(240, 240, 240);
   margin-bottom: 0.5em;
-  font-size: 1.2em;
-}
-
-.filter-item {
-  margin: 0 2px;
-  border-radius: 0% !important;
-}
-
-.contenedor-años li {
-  display: inline-block;
-}
-
-.dropdown-toggle {
-  z-index: 1 !important;
+  font-size: 1em;
 }
 
 .fa-filter {
   margin-left: 4px;
+  color: #d1d1d1;
 }
 
 .disable {
@@ -820,23 +717,11 @@ textarea {
 }
 
 .Icono-list {
-  color: #00f4f8 !important;
+  color: #d1d1d1 !important;
   margin-right: 5px;
 }
 
-@media screen and (min-width: 1000px) and (max-width: 2560px) {
-  .navbar-burger.burger {
-    display: none;
-  }
-  .mobile {
-    display: none !important;
-  }
-}
-
 @media screen and (min-width: 1px) and (max-width: 999px) {
-  .nav-link {
-    border-bottom: 1px solid rgb(100, 100, 100);
-  }
   #last-link {
     border-bottom: none !important;
   }

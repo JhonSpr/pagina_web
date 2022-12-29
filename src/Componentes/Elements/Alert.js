@@ -8,50 +8,47 @@
  */
 import React from "react";
 import alertify from "alertifyjs";
+import { useAuth0 } from "@auth0/auth0-react";
 
-class AlertifyTest extends React.Component {
-  constructor(props) {
-    super(props);
+function AlertNoLogged({ props }) {
+  const { isAuthenticated } = useAuth0();
 
-    this.state = {};
-  }
-
-  handleSimpleMessage() {
+  const handleSimpleMessage = () => {
     // default notification
     // Shorthand for:
     // alertify.notify( message, [type, wait, callback]);
     alertify.message("Normal message");
-  }
+  };
 
-  handleSuccess() {
+  const handleSuccess = () => {
     // success notification
     // Shorthand for:
     // alertify.notify( message, 'success', [wait, callback]);
     alertify.success("Success message");
-  }
+  };
 
-  handleError() {
+  const handleError = () => {
     // error notification
     // Shorthand for:
     // alertify.notify( message, 'error', [wait, callback]);
-    alertify.error("Proximamente");
-  }
+    alertify.error("Necesitas estas logeado");
+  };
 
-  handleWarning() {
+  const handleWarning = () => {
     // warning notification
     // Shorthand for:
     // alertify.notify( message, 'warning', [wait, callback]);
     alertify.warning("Warning message");
-  }
+  };
 
-  handleAlertBoxClick() {
+  const handleAlertBoxClick = () => {
     alertify.alert("Custom Heading", "This is an alert dialog.", function () {
       // Optional side effect
       alertify.message("OK");
     });
-  }
+  };
 
-  handleOkCancelConfirmation() {
+  const handleOkCancelConfirmation = () => {
     alertify.confirm(
       "Custom Heading",
       "This is a confirm dialog.",
@@ -62,9 +59,9 @@ class AlertifyTest extends React.Component {
         alertify.error("Cancel");
       }
     );
-  }
+  };
 
-  handlePrompt() {
+  const handlePrompt = () => {
     alertify.prompt(
       "Custom Heading",
       "This is a prompt dialog.",
@@ -76,26 +73,36 @@ class AlertifyTest extends React.Component {
         alertify.error("Cancel");
       }
     );
-  }
+  };
 
-  render() {
-    return (
-      <React.Fragment>
+  return (
+    <React.Fragment>
+      {isAuthenticated ? (
         <li className="navbar-item item-nav" style={{ display: "block" }}>
-          <a className="nav-link item-nav" onClick={this.handleError}>
+          <a
+            className="nav-link item-nav"
+            href="/peliculas"
+            onClick={handleSuccess}
+          >
             Peliculas
           </a>
         </li>
+      ) : (
+        <li className="navbar-item item-nav" style={{ display: "block" }}>
+          <a className="nav-link item-nav" onClick={handleError}>
+            Peliculas
+          </a>
+        </li>
+      )}
 
-        {/* <button onClick={this.handleSuccess}>Ver</button>
+      {/* <button onClick={this.handleSuccess}>Ver</button>
         <br />
         <button onClick={this.handleError}>Error Message</button>
         <br />
         <button onClick={this.handleWarning}>Warning Message</button>
         <br /> */}
-      </React.Fragment>
-    );
-  }
+    </React.Fragment>
+  );
 }
 
-export default AlertifyTest;
+export default AlertNoLogged;

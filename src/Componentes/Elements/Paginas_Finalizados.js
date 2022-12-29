@@ -48,7 +48,7 @@ const Page1 = () => {
             </a>
             <span className="tag year is-dark">{data.year}</span>
             <span className="tag is-danger type">TV</span>
-            <span className={data.classEstado}>{data.estado}</span>
+            <span className={data.classEstado}>{data.mode}</span>
             <div className="title">
               <h3>
                 <a
@@ -89,7 +89,7 @@ const Page2 = () => {
             </a>
             <span className="tag year is-dark">{data.year}</span>
             <span className="tag is-danger type">TV</span>
-            <span className={data.classEstado}>{data.estado}</span>
+            <span className={data.classEstado}>{data.mode}</span>
             <div className="title">
               <h3>
                 <a
@@ -131,7 +131,7 @@ const Page3 = () => {
             </a>
             <span className="tag year is-dark">{data.year}</span>
             <span className="tag is-danger type">TV</span>
-            <span className={data.classEstado}>{data.estado}</span>
+            <span className={data.classEstado}>{data.mode}</span>
             <div className="title">
               <h3>
                 <a
@@ -173,7 +173,7 @@ const Page4 = () => {
             </a>
             <span className="tag year is-dark">{data.year}</span>
             <span className="tag is-danger type">TV</span>
-            <span className={data.classEstado}>{data.estado}</span>
+            <span className={data.classEstado}>{data.mode}</span>
             <div className="title">
               <h3>
                 <a
@@ -215,7 +215,7 @@ const Page5 = () => {
             </a>
             <span className="tag year is-dark">{data.year}</span>
             <span className="tag is-danger type">TV</span>
-            <span className={data.classEstado}>{data.estado}</span>
+            <span className={data.classEstado}>{data.mode}</span>
             <div className="title">
               <h3>
                 <a
@@ -258,7 +258,7 @@ const Page6 = () => {
             </a>
             <span className="tag year is-dark">{data.year}</span>
             <span className="tag is-danger type">TV</span>
-            <span className={data.classEstado}>{data.estado}</span>
+            <span className={data.classEstado}>{data.mode}</span>
             <div className="title">
               <h3>
                 <a
@@ -300,7 +300,7 @@ const Page7 = () => {
             </a>
             <span className="tag year is-dark">{data.year}</span>
             <span className="tag is-danger type">TV</span>
-            <span className={data.classEstado}>{data.estado}</span>
+            <span className={data.classEstado}>{data.mode}</span>
             <div className="title">
               <h3>
                 <a

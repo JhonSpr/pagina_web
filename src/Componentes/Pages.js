@@ -1,5 +1,6 @@
 /* eslint-disable no-unused-vars */
 
+import { useState } from "react";
 import Footer from "../Colletion/Footer";
 import { Filter } from "./Elements/Filter";
 import {
@@ -11,6 +12,7 @@ import {
   Page6,
   Page7,
 } from "./Elements/Paginas";
+import { Pagination } from "./Elements/Pagination";
 
 export function Pagina1() {
   return (
@@ -29,35 +31,19 @@ export function Pagina1() {
           <Page1 />
         </div>
       </section>
-      <div className="paginacion-contenedor">
-        <ul>
-          <li className="active">
-            <a href="/animes">1</a>
-          </li>
-          <li>
-            <a href="/animes page=2">2</a>
-          </li>
-          <li>
-            <a href="/animes page=3">3</a>
-          </li>
-          <li>
-            <a href="/animes page=4">4</a>
-          </li>
-          <li>
-            <a href="/animes page=5">5</a>
-          </li>
-          <li>
-            <a href="/animes page=6">6</a>
-          </li>
-          <li>
-            <a href="/animes page=7">7</a>
-          </li>
 
-          <a href="/animes page=2" className="siguiente">
-            »
-          </a>
-        </ul>
-      </div>
+      <Pagination
+        classNameBefore={"disable"}
+        link1={"/animes"}
+        link2={"/animes page=2"}
+        link3={"/animes page=3"}
+        link4={"/animes page=4"}
+        link5={"/animes page=5"}
+        link6={"/animes page=6"}
+        link7={"/animes page=7"}
+        linkNext={"/animes page=2"}
+        active1="active"
+      />
       <hr />
       <Footer />
     </>
@@ -66,7 +52,6 @@ export function Pagina1() {
 export function Pagina2() {
   return (
     <>
-      {" "}
       <title>Animekuns - Animes online HD</title>
       <section className="container items-animes">
         <section className="filtrador">
@@ -79,40 +64,20 @@ export function Pagina2() {
         </section>
         <div className="list-series">
           <Page2 />
-        </div>{" "}
-      </section>{" "}
-      <div className="paginacion-contenedor">
-        <ul>
-          <a href="/animes" className="anterior">
-            «
-          </a>
-          <li>
-            <a href="/animes">1</a>
-          </li>
-          <li className="active">
-            <a href="/animes page=2">2</a>
-          </li>
-          <li>
-            <a href="/animes page=3">3</a>
-          </li>
-          <li>
-            <a href="/animes page=4">4</a>
-          </li>
-          <li>
-            <a href="/animes page=5">5</a>
-          </li>
-          <li>
-            <a href="/animes page=6">6</a>
-          </li>
-          <li>
-            <a href="/animes page=7">7</a>
-          </li>
-
-          <a href="/animes page=3" className="siguiente">
-            »
-          </a>
-        </ul>
-      </div>
+        </div>
+      </section>
+      <Pagination
+        linkBefore={"/animes"}
+        link1={"/animes"}
+        link2={"/animes page=2"}
+        link3={"/animes page=3"}
+        link4={"/animes page=4"}
+        link5={"/animes page=5"}
+        link6={"/animes page=6"}
+        link7={"/animes page=7"}
+        linkNext={"/animes page=3"}
+        active2="active"
+      />
       <hr />
       <Footer />
     </>
@@ -121,7 +86,6 @@ export function Pagina2() {
 export function Pagina3() {
   return (
     <>
-      {" "}
       <title>Animekuns - Animes online HD</title>
       <section className="container items-animes">
         <section className="filtrador">
@@ -136,37 +100,18 @@ export function Pagina3() {
           <Page3 />
         </div>
       </section>
-      <div className="paginacion-contenedor">
-        <ul>
-          <a href="/animes page=2" className="anterior">
-            «
-          </a>
-          <li>
-            <a href="/animes">1</a>
-          </li>
-          <li>
-            <a href="/animes page=2">2</a>
-          </li>
-          <li className="active">
-            <a href="/animes page=3">3</a>
-          </li>
-          <li>
-            <a href="/animes page=4">4</a>
-          </li>
-          <li>
-            <a href="/animes page=5">5</a>
-          </li>
-          <li>
-            <a href="/animes page=6">6</a>
-          </li>
-          <li>
-            <a href="/animes page=7">7</a>
-          </li>
-          <a href="/animes page=4" className="siguiente">
-            »
-          </a>
-        </ul>
-      </div>
+      <Pagination
+        linkBefore={"/animes page=2"}
+        link1={"/animes"}
+        link2={"/animes page=2"}
+        link3={"/animes page=3"}
+        link4={"/animes page=4"}
+        link5={"/animes page=5"}
+        link6={"/animes page=6"}
+        link7={"/animes page=7"}
+        linkNext={"/animes page=4"}
+        active3="active"
+      />
       <hr />
       <Footer />
     </>
@@ -175,7 +120,6 @@ export function Pagina3() {
 export function Pagina4() {
   return (
     <>
-      {" "}
       <title>Animekuns - Animes online HD</title>
       <section className="container items-animes">
         <section className="filtrador">
@@ -190,37 +134,18 @@ export function Pagina4() {
           <Page4 />
         </div>
       </section>
-      <div className="paginacion-contenedor">
-        <ul>
-          <a href="/animes page=3" className="anterior">
-            «
-          </a>
-          <li>
-            <a href="/animes">1</a>
-          </li>
-          <li>
-            <a href="/animes page=2">2</a>
-          </li>
-          <li>
-            <a href="/animes page=3">3</a>
-          </li>
-          <li className="active">
-            <a href="/animes page=4">4</a>
-          </li>
-          <li>
-            <a href="/animes page=5">5</a>
-          </li>
-          <li>
-            <a href="/animes page=6">6</a>
-          </li>
-          <li>
-            <a href="/animes page=7">7</a>
-          </li>
-          <a href="/animes page=5" className="siguiente">
-            »
-          </a>
-        </ul>
-      </div>
+      <Pagination
+        linkBefore={"/animes page=3"}
+        link1={"/animes"}
+        link2={"/animes page=2"}
+        link3={"/animes page=3"}
+        link4={"/animes page=4"}
+        link5={"/animes page=5"}
+        link6={"/animes page=6"}
+        link7={"/animes page=7"}
+        linkNext={"/animes page=5"}
+        active4="active"
+      />
       <hr />
       <Footer />
     </>
@@ -229,7 +154,6 @@ export function Pagina4() {
 export function Pagina5() {
   return (
     <>
-      {" "}
       <title>Animekuns - Animes online HD</title>
       <section className="container items-animes">
         <section className="filtrador">
@@ -244,38 +168,18 @@ export function Pagina5() {
           <Page5 />
         </div>
       </section>
-      <div className="paginacion-contenedor">
-        <ul>
-          <a href="/animes page=4" className="anterior">
-            «
-          </a>
-          <li>
-            <a href="/animes">1</a>
-          </li>
-          <li>
-            <a href="/animes page=2">2</a>
-          </li>
-          <li>
-            <a href="/animes page=3">3</a>
-          </li>
-          <li>
-            <a href="/animes page=4">4</a>
-          </li>
-          <li className="active">
-            <a href="/animes page=5">5</a>
-          </li>
-          <li>
-            <a href="/animes page=6">6</a>
-          </li>
-          <li>
-            <a href="/animes page=7">7</a>
-          </li>
-
-          <a href="/animes page=6" className="siguiente">
-            »
-          </a>
-        </ul>
-      </div>
+      <Pagination
+        linkBefore={"/animes page=4"}
+        link1={"/animes"}
+        link2={"/animes page=2"}
+        link3={"/animes page=3"}
+        link4={"/animes page=4"}
+        link5={"/animes page=5"}
+        link6={"/animes page=6"}
+        link7={"/animes page=7"}
+        linkNext={"/animes page=6"}
+        active5="active"
+      />
       <hr />
       <Footer />
     </>
@@ -284,7 +188,6 @@ export function Pagina5() {
 export function Pagina6() {
   return (
     <>
-      {" "}
       <title>Animekuns - Animes online HD</title>
       <section className="container items-animes">
         <section className="filtrador">
@@ -299,37 +202,18 @@ export function Pagina6() {
           <Page6 />
         </div>
       </section>{" "}
-      <div className="paginacion-contenedor">
-        <ul>
-          <a href="/animes page=5" className="anterior">
-            «
-          </a>
-          <li>
-            <a href="/animes">1</a>
-          </li>
-          <li>
-            <a href="/animes page=2">2</a>
-          </li>
-          <li>
-            <a href="/animes page=3">3</a>
-          </li>
-          <li>
-            <a href="/animes page=4">4</a>
-          </li>
-          <li>
-            <a href="/animes page=5">5</a>
-          </li>
-          <li className="active">
-            <a href="/animes page=6">6</a>
-          </li>
-          <li>
-            <a href="/animes page=7">7</a>
-          </li>
-          <a href="/animes page=7" className="siguiente">
-            »
-          </a>
-        </ul>
-      </div>
+      <Pagination
+        linkBefore={"/animes page=5"}
+        link1={"/animes"}
+        link2={"/animes page=2"}
+        link3={"/animes page=3"}
+        link4={"/animes page=4"}
+        link5={"/animes page=5"}
+        link6={"/animes page=6"}
+        link7={"/animes page=7"}
+        linkNext={"/animes page=7"}
+        active6="active"
+      />
       <hr />
       <Footer />
     </>
@@ -338,7 +222,6 @@ export function Pagina6() {
 export function Pagina7() {
   return (
     <>
-      {" "}
       <title>Animekuns - Animes online HD</title>
       <section className="container items-animes">
         <section className="filtrador">
@@ -353,34 +236,18 @@ export function Pagina7() {
           <Page7 />
         </div>
       </section>
-      <div className="paginacion-contenedor">
-        <ul>
-          <a href="/animes page=6" className="anterior">
-            «
-          </a>
-          <li>
-            <a href="/animes">1</a>
-          </li>
-          <li>
-            <a href="/animes page=2">2</a>
-          </li>
-          <li>
-            <a href="/animes page=3">3</a>
-          </li>
-          <li>
-            <a href="/animes page=4">4</a>
-          </li>
-          <li>
-            <a href="/animes page=5">5</a>
-          </li>
-          <li>
-            <a href="/animes page=6">6</a>
-          </li>
-          <li className="active">
-            <a href="/animes page=7">7</a>
-          </li>
-        </ul>
-      </div>
+      <Pagination
+        linkBefore={"/animes page=6"}
+        link1={"/animes"}
+        link2={"/animes page=2"}
+        link3={"/animes page=3"}
+        link4={"/animes page=4"}
+        link5={"/animes page=5"}
+        link6={"/animes page=6"}
+        link7={"/animes page=7"}
+        classNameNext={"disable"}
+        active7="active"
+      />
       <hr />
       <Footer />
     </>

@@ -2,7 +2,6 @@
 
 import img from "../Json/Data.json";
 import BookData from "../Json/Data.json";
-import { Alertas } from "../index";
 import SearchBar from "../searchComponent";
 import { LoginButton } from "./Elements/login";
 import LogoutButton from "./Elements/logout";
@@ -11,6 +10,7 @@ import { useAuth0 } from "@auth0/auth0-react";
 import { LoginButtonMobile } from "./Elements/LoginMobile";
 import LogoutButtonMobile from "./Elements/LogoutMobile";
 import ProfileMobile from "../Perfil/perfilMobile";
+import AlertNoLogged from "./Elements/Alert";
 
 export default function Menubar() {
   const { isAuthenticated } = useAuth0();
@@ -61,9 +61,8 @@ export default function Menubar() {
                   Emisiones
                 </a>
               </li>
-
-              <Alertas />
-              <ProfileMobile />
+              <AlertNoLogged />
+              {isAuthenticated ? <ProfileMobile /> : <></>}
             </ul>
 
             <div className="dropdown filter-item">

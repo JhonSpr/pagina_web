@@ -73,9 +73,9 @@ function App() {
           exact
           element={
             <Numero12
-              sec2={"sec"}
-              sec3={"sec"}
-              sec1={"sec"}
+              sec2={"disable"}
+              sec3={"disable"}
+              sec1={"disable"}
               descripcion={
                 "Todo comenzó como la típica trama de amor de los chicos de la vieja escuela: el chico malo de último año se encuentra con un estudiante de secundaria adorablemente torpe, uno de ellos se enamora, y así sucesivamente. Pero aunque Miyano es un autoproclamado experto en el amor de los niños, no se ha dado cuenta... él mismo está en uno. ¡Lo que significa que depende de Sasaki asegurarse de que su historia tenga un feliz para siempre...!"
               }
@@ -106,9 +106,9 @@ function App() {
           element={
             <Numero12
               tituloAnime={"Akudama Drive"}
-              sec2={"sec"}
-              sec3={"sec"}
-              sec1={"sec"}
+              sec2={"disable"}
+              sec3={"disable"}
+              sec1={"disable"}
               descripcion={
                 "Hace muchos años, una Gran Guerra Civil devastó Japón, dejando al país fragmentado en dos regiones: Kansai y Kanto. En Kansai, un grupo de seis Akudama llevan a cabo las misiones que les encomienda un misterioso gato negro, mientras evaden a la policía. Pero un viaje peligroso está a punto de desarrollarse cuando una niña civil se retuerce en el estilo de vida de los Akudama y es testigo de sus impulsos criminales."
               }
@@ -137,9 +137,9 @@ function App() {
           element={
             <Capitulos24
               tituloAnime={"Hanyo no Yashahime ni no Shou"}
-              sec2={"sec"}
-              sec3={"sec"}
-              sec1={"sec"}
+              sec2={"disable"}
+              sec3={"disable"}
+              sec1={"disable"}
               descripcion={
                 "¡Las hijas de Sesshomaru e Inuyasha se lanzan en una aventura que trasciende en el tiempo! En el Japón Feudal, las gemelas mitad demonio Towa y Setsuna son separadas durante un incendio forestal. Mientras busca desesperadamente a su hermana menor, Towa se encuentra un misterioso túnel que la transporta al Japón moderno, en donde es encontrada y puesta al cuidado del hermano de Kagome Higurashi, Sota y su familia. Diez años después, el túnel que conecta las dos eras es abierto de nuevo, permitiendo a Towa volver a reunirse con Setsuna, quien ahora se ha convertido en una Asesina de Youkais en conjunto con Kohaku. Pero lo peor es que Setsuna parece haber perdido sus recuerdos y ya no reconoce a Towa. Ahora uniéndose con Moroha, la hija de Inuyasha, y con Kagome, las tres viajarán entre dos eras en una aventura por recuperar un pasado olvidado."
               }
@@ -182,9 +182,9 @@ function App() {
           element={
             <Numero12
               tituloAnime={"Heion Sedai no Idaten Tachi"}
-              sec2={"sec"}
-              sec3={"sec"}
-              sec1={"sec"}
+              sec2={"disable"}
+              sec3={"disable"}
+              sec1={"disable"}
               descripcion={
                 "En la historia de este manga, los dioses aparecieron cuando la humanidad estaba al borde de la aniquilación por parte de los demonios. Deidades llamadas “Idaten” pelearon y sellaron a los demonios hace 800 años. Ahora, los “Idaten” ya no tiene experiencia en peleas y viven vidas pacíficas. Pero, al mismo tiempo, los demonios están reviviendo, y la batalla entre humanos, dioses y demonios está a punto de comenzar. ¿Cuál será el bando que se alce con la victoria en esta ocasión con las condiciones tan cambiadas?"
               }
@@ -218,9 +218,9 @@ function App() {
                 "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2"
               }
               descripcion={"Segunda parte de la segunda temporada del slime"}
-              sec2={"sec"}
-              sec3={"sec"}
-              sec1={"sec"}
+              sec2={"disable"}
+              sec3={"disable"}
+              sec1={"disable"}
               anime={
                 "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 "
               }
@@ -277,9 +277,9 @@ function App() {
           element={
             <Numero12
               tituloAnime={"Peach Boy Riverside"}
-              sec2={"sec"}
-              sec3={"sec"}
-              sec1={"sec"}
+              sec2={"disable"}
+              sec3={"disable"}
+              sec1={"disable"}
               descripcion={
                 "Saltherine Aldarake, princesa del Reino de Aldarake, sueña con viajar por el mundo, un sueño peligroso en una tierra donde los monstruos deambulan por el campo a su antojo y los humanos viven detrás de muros altos y fuertes. Pero cuando un encuentro casual con la viajera Mikoto le da esperanza a su sueño, él lo rompe poco después, ya que se revela como nada menos que Momotaro, un despiadado asesino de demonios. Aunque horrorizada por la sangre que Momotaro deja atrás, Saltherine está más convencida que nunca de que necesita aprender sobre el mundo más allá de sus muros, y viaja ... siguiendo los pasos del misterioso, carismático y aterrador chico que conoció ese día..."
               }
@@ -310,9 +310,9 @@ function App() {
           element={
             <Capitulos24
               tituloAnime={"Jujutsu Kaisen"}
-              sec2={"sec"}
-              sec3={"sec"}
-              sec1={"sec"}
+              sec2={"disable"}
+              sec3={"disable"}
+              sec1={"disable"}
               descripcion={
                 "Un niño lucha... por 'la muerte justa'. Dificultad, arrepentimiento, vergüenza: los sentimientos negativos que sentimos los humanos se convierten en Maldiciones que acechan en nuestra vida diaria. Las maldiciones corren desenfrenadas por todo el mundo, capaces de llevar a la gente a una terrible desgracia e incluso a la muerte. Además, las maldiciones solo pueden ser exorcizadas por otra maldición. Itadori Yuji es un chico con una fuerza física tremenda, aunque vive una vida de escuela secundaria completamente normal. Un día, para salvar a un amigo que ha sido atacado por Maldiciones, se come el dedo del Espectro de Doble Cara, llevándose la Maldición a su propia alma. A partir de entonces, comparte un cuerpo con el Espectro de Doble Cara. Guiado por el más poderoso de los hechiceros, Gojo Satoru, Itadori es admitido en la Escuela Superior Técnica Metropolitana de Hechicería de Tokio, una organización que lucha contra las maldiciones ... y así comienza la heroica historia de un niño que se convirtió en una maldición para exorcizar una maldición. , una vida de la que nunca podría volver atrás."
               }
@@ -353,9 +353,9 @@ function App() {
           element={
             <Capitulos24
               tituloAnime={"Shingeki no Bahamut:Virgin Soul"}
-              sec2={"sec"}
-              sec3={"sec"}
-              sec1={"sec"}
+              sec2={"disable"}
+              sec3={"disable"}
+              sec1={"disable"}
               descripcion={
                 "10 años después de que el mundo escapó de la destrucción debido al resurgimiento de Bahamut, los humanos en la capital real recolectan riqueza, los demonios son esclavizados para ayudar con el renacimiento de la capital y los dioses pierden su poder debido a una disminución de la piedad religiosa."
               }
@@ -398,7 +398,7 @@ function App() {
           element={
             <Numero12
               descripcion={"Segunda temporada de Castlevania."}
-              sec3={"sec"}
+              sec3={"disable"}
               hrefSecuela={"/castlevania"}
               hrefSecuela2={"/castlevania-tercera-temporada"}
               textoSecuela={"Precuela"}
@@ -431,8 +431,8 @@ function App() {
           path="/ao-no-exorcist:-kyoto-fujouou-hen"
           element={
             <Animes13
-              sec2={"sec"}
-              sec3={"sec"}
+              sec2={"disable"}
+              sec3={"disable"}
               textoSecuela={"Precuela"}
               nombreSecuela={"Ao no Exorcist"}
               hrefSecuela={"/ao-no-exorcist"}
@@ -477,8 +477,8 @@ function App() {
               textoSecuela={"Secuela"}
               hrefSecuela={"/fairy-gone-segunda-temporada"}
               nombreSecuela={"Fairy Gone Segunda Temporada"}
-              sec2={"sec"}
-              sec3={"sec"}
+              sec2={"disable"}
+              sec3={"disable"}
               capituloAnime1={"/ver/fairy-gone-1"}
               capituloAnime2={"/ver/fairy-gone-2"}
               capituloAnime3={"/ver/fairy-gone-3"}
@@ -508,8 +508,8 @@ function App() {
               hrefSecuela={"/ver/dr-stone-wars"}
               nombreSecuela={"Dr. Stone: Wars"}
               textoSecuela={"Secuela"}
-              sec2={"sec"}
-              sec3={"sec"}
+              sec2={"disable"}
+              sec3={"disable"}
               imagenAnime={"https://i.postimg.cc/c1pKCY17/dr-stone-ryusui.jpg"}
               li2={"li"}
               li3={"li"}
@@ -537,9 +537,9 @@ function App() {
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
-              sec1={"sec"}
-              sec2={"sec"}
-              sec3={"sec"}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
               imagenAnime={"https://i.postimg.cc/m2WDBsV8/isekai-yakkyoku.jpg"}
               capituloAnime1={"/ver/isekai-yakkyoku-1"}
               capituloAnime2={"/ver/isekai-yakkyoku-2"}
@@ -567,9 +567,9 @@ function App() {
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
-              sec1={"sec"}
-              sec2={"sec"}
-              sec3={"sec"}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
               imagenAnime={
                 "https://i.postimg.cc/j2HRLDvv/kuro-no-shoukanshi.jpg"
               }
@@ -597,8 +597,8 @@ function App() {
               tipo={"TV"}
               numeroEpisodios={"12"}
               estado={"Finalizado"}
-              sec2={"sec"}
-              sec3={"sec"}
+              sec2={"disable"}
+              sec3={"disable"}
               hrefSecuela={"/fairy-gone"}
               textoSecuela={"Precuela"}
               nombreSecuela={"Fairy Gone"}
@@ -635,9 +635,9 @@ function App() {
               imagenAnime={
                 "https://i.postimg.cc/RZFzzprg/isekai-meikyuu-de-harem-wo.jpg"
               }
-              sec1={"sec"}
-              sec2={"sec"}
-              sec3={"sec"}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
               capituloAnime1={"/ver/isekai-meiryuu-de-harem-wo-1"}
               capituloAnime2={"/ver/isekai-meiryuu-de-harem-wo-2"}
               capituloAnime3={"/ver/isekai-meiryuu-de-harem-wo-3"}
@@ -705,8 +705,8 @@ function App() {
               capituloAnime12={
                 "/ver/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada-12"
               }
-              sec2={"sec"}
-              sec3={"sec"}
+              sec2={"disable"}
+              sec3={"disable"}
               hrefSecuela={"youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e"}
               nombreSecuela={"Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e"}
               textoSecuela={"Precuela"}
@@ -728,8 +728,8 @@ function App() {
               nombreSecuela={"Spy x Family Temporada 2"}
               hrefSecuela={"/spy-x-family-2nd-temporada"}
               textoSecuela={"Secuela"}
-              sec2={"sec"}
-              sec3={"sec"}
+              sec2={"disable"}
+              sec3={"disable"}
               capituloAnime1={"/ver/spy-x-family-1"}
               capituloAnime2={"/ver/spy-x-family-2"}
               capituloAnime3={"/ver/spy-x-family-3"}
@@ -770,8 +770,8 @@ function App() {
               textoSecuela={"Precuela"}
               nombreSecuela={"Date A Live III"}
               hrefSecuela={"/date-a-live-III"}
-              sec2={"sec"}
-              sec3={"sec"}
+              sec2={"disable"}
+              sec3={"disable"}
             />
           }
         />
@@ -831,8 +831,8 @@ function App() {
               textoSecuela={"Precuela"}
               nombreSecuela={"Tate no Yuusha no Naraigari"}
               hrefSecuela={"/tate-no-yuusha-no-naraigari"}
-              sec2={"sec"}
-              sec3={"sec"}
+              sec2={"disable"}
+              sec3={"disable"}
             />
           }
         />
@@ -860,9 +860,9 @@ function App() {
               capituloAnime10={"/ver/tomodachi-game-10"}
               capituloAnime11={"/ver/tomodachi-game-11"}
               capituloAnime12={"/ver/tomodachi-game-12"}
-              sec1={"sec"}
-              sec2={"sec"}
-              sec3={"sec"}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
             />
           }
         />
@@ -880,9 +880,9 @@ function App() {
               imagenAnime={
                 "https://i.postimg.cc/3wYmRGBf/baraou-no-souretsu.jpg"
               }
-              sec1={"sec"}
-              sec2={"sec"}
-              sec3={"sec"}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
               capituloAnime1={"/ver/baraou-no-souretsu-1"}
               capituloAnime2={"/ver/baraou-no-souretsu-2"}
               capituloAnime3={"/ver/baraou-no-souretsu-3"}
@@ -992,9 +992,9 @@ function App() {
               li59={"li"}
               li58={"li"}
               li57={"li"}
-              sec1={"sec"}
-              sec2={"sec"}
-              sec3={"sec"}
+              sec1={"disable"}
+              sec2={"disable"}
+              sec3={"disable"}
             />
           }
         />
@@ -1002,9 +1002,9 @@ function App() {
           path="/extreme-hearts"
           element={
             <Numero12
-              sec2={"sec"}
-              sec3={"sec"}
-              sec1={"sec"}
+              sec2={"disable"}
+              sec3={"disable"}
+              sec1={"disable"}
               descripcion={
                 'La historia está ambientada en el futuro, no mucho después del día de hoy. Los hiperdeportes, que usan equipos extremos como elementos de apoyo, se han convertido en competencias de pasatiempos populares entre niños y adultos. Hiyori Hayama es una cantante de secundaria que no tiene nada que ver con Hyper Sports, pero cierto incidente pone en marcha la historia: "Esta es la historia de cómo conocimos a nuestros mejores amigos".'
               }
@@ -1033,9 +1033,9 @@ function App() {
           exact
           element={
             <Capitulos24
-              sec2={"sec"}
-              sec3={"sec"}
-              sec1={"sec"}
+              sec2={"disable"}
+              sec3={"disable"}
+              sec1={"disable"}
               descripcion={
                 'Tada Banri, es un estudiante de nuevo ingreso en una escuela privada de derecho en Tokio, después de la ceremonia de apertura, él estaba completamente perdido tratando de encontrar el camino hacia el salón de orientación para los de primer año. En ese momento, se encuentra con un estudiante de primer año, que también estaba perdido, Mitsuo Yanagisawa. De alguna manera llegaron al lugar donde se dirigían, pero de repente frente a los dos aparece una chica hermosa que sostiene un ramo de rosas. La chica golpeó a Mitsuo en la cara con el ramo. "felicidades, estudiante de nuevo ingreso", fue todo lo que dijo, y luego se fue. La mujer que golpeo a Mitsuo se trataba de su amiga de la infancia, Kaga Kouko. Cuando eran niños se habían prometido a casarse cuando algún día llegarán a cumplir sus sueños. Con el fin de escapar de ella, Mitsuo había salido secretamente y tomado el examen de este colegio privado muy conocido.'
               }
@@ -1076,9 +1076,9 @@ function App() {
           exact
           element={
             <Capitulos12
-              sec2={"sec"}
-              sec3={"sec"}
-              sec1={"sec"}
+              sec2={"disable"}
+              sec3={"disable"}
+              sec1={"disable"}
               li70={"li"}
               li69={"li"}
               li68={"li"}
@@ -1170,8 +1170,8 @@ function App() {
               nombreSecuela={
                 "Muhyo to Roujii no Mahouritsu Soudan Jimusho Segunda Temporada"
               }
-              sec2={"sec"}
-              sec3={"sec"}
+              sec2={"disable"}
+              sec3={"disable"}
               descripcion={
                 '¿Alguna vez fuiste víctima de una posesión espiritual? ¿Hay algún fantasma que quieras hacer desaparecer de tu casa... o hacerlo arder eternamente en el infierno? Si respondiste "sí" a cualquiera de estas preguntas o a cualquier otra similar, entonces necesitas a Muhyo y Roji, expertos en las leyes de lo sobrenatural. Hacer justicia con los espíritus es su especialidad.'
               }
@@ -1223,9 +1223,9 @@ function App() {
           path="/gensou-sangokushi-tenge-reishink"
           element={
             <Numero12
-              sec2={"sec"}
-              sec3={"sec"}
-              sec1={"sec"}
+              sec2={"disable"}
+              sec3={"disable"}
+              sec1={"disable"}
               descripcion={
                 "La historia se sitúa en la antigua China durante la era de los Tres Reinos, cuando varios poderosos señores de la guerra comenzaron a maniobrar para conquistar los reinos conocidos. Después de que fuera aniquilada en circunstancias imprevistas, la 6ª Unidad se ha vuelto a reunir con miembros de pasados diversos y problemáticos: el líder y practicante del sello Ōki, el purificador de espíritus Shunkyō, Teiken y el cazador de demonios Shōrei."
               }
@@ -1253,8 +1253,8 @@ function App() {
           path="/tate-no-yuusha-no-naraigari"
           element={
             <Capitulos12
-              sec2={"sec"}
-              sec3={"sec"}
+              sec2={"disable"}
+              sec3={"disable"}
               li26={"li"}
               li27={"li"}
               li28={"li"}
@@ -1346,9 +1346,9 @@ function App() {
           exact
           element={
             <Numero12
-              sec2={"sec"}
-              sec3={"sec"}
-              sec1={"sec"}
+              sec2={"disable"}
+              sec3={"disable"}
+              sec1={"disable"}
               descripcion={
                 "Haru Shirogane es una persona de mente débil que es constantemente intimidada, mientras que Taiga ha viajado desde el otro lado del mar con la esperanza de convertirse en el hombre más fuerte del mundo. Una noche, los dos se encuentran con Shun Kamiya, el jugador más fuerte de XB (Extreme Baseball), y líder de la Tribu Minato. Cuando se encuentran, cada una de las tribus dispersas por Neo-Tokio está a punto de enfrentarse a una gran amenaza. Bajo las órdenes del Rey de Neo-Tokio, “Houtenshin”, el Chiyoda Try, dirigido por el misterioso Ojiro Otori, ha comenzado a tomar el control de todas las tribus del país. Sus malvadas garras están a punto de llegar a la Tribu Minato…"
               }
