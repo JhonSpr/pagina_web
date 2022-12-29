@@ -38,7 +38,6 @@ function SearchBar({ placeholder }) {
         .catch((err) => console.log("Solicitud fallida", err));
     });
   }, [search]);
-  console.log(search);
   setTimeout(() => {
     setLoading(false);
   }, 2000);
