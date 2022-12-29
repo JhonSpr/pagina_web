@@ -165,20 +165,7 @@ export function Video({
                     {showdownloads ? (
                       <>
                         <div>
-                          <a href="#link1">
-                            <i className="fa-solid fa-circle-down"></i>
-                            <span>descargar capitulo de {anime} </span>
-                          </a>
-                        </div>
-                        <div>
-                          <a href="#link1">
-                            <i className="fa-solid fa-circle-down"></i>
-
-                            <span>descargar capitulo de {anime} </span>
-                          </a>
-                        </div>
-                        <div>
-                          <a href="#link1">
+                          <a href={props.link1Capitulo}>
                             <i className="fa-solid fa-circle-down"></i>
                             <span>descargar capitulo de {anime} </span>
                           </a>
