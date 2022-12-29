@@ -116,10 +116,11 @@
   }
   .download {
     background-color: #363636 !important;
-    padding: 15px;
+    padding: 7px;
     display: inline-block !important;
     margin: 0 10px;
     border-radius: 10px;
+    font-size: 13px;
   }
   .fa-download {
     margin: 0 7px;
@@ -132,7 +133,7 @@
     border-radius: 10px;
     width: 100%;
     margin-left: 16px;
-    font-size: 15px;
+    font-size: 13px;
   }
   .cont-links-download div {
     margin: 15px 0;
