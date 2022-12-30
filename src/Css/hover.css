@@ -160,6 +160,9 @@
     text-align: center;
     border-bottom: #00f4f8 1px solid !important;
   }
+  .fa-search {
+    left: 180px !important;
+  }
 }
 @media (min-width: 1000px) {
   .nav-link:hover {
