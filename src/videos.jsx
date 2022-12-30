@@ -9391,11 +9391,14 @@ function Videos() {
         path="/ver/mob-psycho-100-III-1"
         element={
           <Video
+            frame2={
+              "https://mega.nz/embed/AXtB1BCY#1uN29VjdxeFcxxVszDDUs8PqD3-Lhz4zF9XOpa2yTTk"
+            }
             frame1={"https://sbanh.com/e/ytbhr4qicr5y.html"}
             lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Mob Pyscho 100 III Capitulo 1"}
-            contSiguienteClass={"button-before"}
+            contSiguienteClass={"button-next"}
             anime={"Mob Psycho 100 III"}
             numero={"1"}
             siguienteVideo={"/ver/mob-psycho-100-III-2"}
@@ -9407,6 +9410,9 @@ function Videos() {
         path="/ver/mob-psycho-100-III-2"
         element={
           <Video
+            frame2={
+              "https://mega.nz/embed/hf9ljDgS#mvgb1An-_wvHZgDRCA1rMiV08ugwJchoxlnKyCl7Id8"
+            }
             frame1={"https://sbanh.com/e/qs4jajqkebhq.html"}
             contAnteriorClass="button-before"
             contSiguienteClass={"button-before"}
@@ -9423,6 +9429,9 @@ function Videos() {
         path="/ver/mob-psycho-100-III-3"
         element={
           <Video
+            frame2={
+              "https://mega.nz/embed/halkCTLJ#6mfXeA1rnA9yROUKAbtqN7872cIlI9sjZe-G4StzHTQ"
+            }
             frame1={"https://sbanh.com/e/ug0tktbfudel.html"}
             contAnteriorClass="button-before"
             contSiguienteClass={"button-before"}
@@ -9439,6 +9448,9 @@ function Videos() {
         path="/ver/mob-psycho-100-III-4"
         element={
           <Video
+            frame2={
+              "https://mega.nz/embed/Mf9QXZaL#czQRRGS7awmAQN5jJu4XGhdsEwlbSCNuN-HvlsURQJ0"
+            }
             frame1={"https://sbanh.com/e/urzwcad0ioxm.html"}
             contAnteriorClass="button-before"
             contSiguienteClass={"button-next"}
@@ -9456,6 +9468,9 @@ function Videos() {
         path="/ver/mob-psycho-100-III-5"
         element={
           <Video
+            frame2={
+              "https://mega.nz/embed/8Hdx0AAJ#tIiYl0jcdDcEuwZojnbsGj6u7S07j9w0AGoRPFW7k60"
+            }
             frame1={"https://sbanh.com/e/j8h77qwzcwwk.html"}
             contAnteriorClass="button-before"
             contSiguienteClass={"button-next"}
@@ -9473,6 +9488,9 @@ function Videos() {
         path="/ver/mob-psycho-100-III-6"
         element={
           <Video
+            frame2={
+              "https://mega.nz/embed/ET1AzLhL#FsxC3WG5XpT5D1rrJSR5Cr2SpTr743d5drF59b9d0ls"
+            }
             frame1={"https://sbanh.com/e/9n7l2f2v1e6r.html"}
             contAnteriorClass="button-before"
             contSiguienteClass={"button-next"}
@@ -9490,6 +9508,9 @@ function Videos() {
         path="/ver/mob-psycho-100-III-7"
         element={
           <Video
+            frame2={
+              "https://mega.nz/embed/8K1XTApQ#B-oXzbHfEzBQtILW-V5CGAzG_oYxJW6m6ATuKDmSCU4"
+            }
             frame1={"https://sblongvu.com/e/rnkzfsraqu7a.html"}
             contAnteriorClass="button-before"
             contSiguienteClass={"button-next"}
@@ -9506,6 +9527,9 @@ function Videos() {
         path="/ver/mob-psycho-100-III-8"
         element={
           <Video
+            frame2={
+              "https://mega.nz/embed/cHM30IYQ#MS8sU_05ew8hVCnKQ3yDWu54HtNFXjDp6zkfd9DYdKE"
+            }
             frame1={"https://sblongvu.com/e/x0ycpy8wplsm.html"}
             contAnteriorClass="button-before"
             contSiguienteClass={"button-next"}
@@ -9522,6 +9546,9 @@ function Videos() {
         path="/ver/mob-psycho-100-III-9"
         element={
           <Video
+            frame2={
+              "https://mega.nz/embed/VT9ARYbD#P6yp9q6qrhGzzvjaYjLxF9GvawxqN9yixVkhU08t2qI"
+            }
             frame1={"https://sblongvu.com/e/42tqztsmxk60.html"}
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
@@ -9535,50 +9562,59 @@ function Videos() {
         }
       />
       <Route
-        path="/ver/-10"
+        path="/ver/mob-psycho-100-III-10"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame2={
+              "https://mega.nz/embed/4DMmFa4Z#5P6TiDzlf55fsEQhsixgAMB758irp7O5RQp0CONn9gE"
+            }
+            frame1={"https://sbchill.com/e/cgnu51ow46ph.html"}
             contAnteriorClass="button-before"
             contSiguienteClass={"button-next"}
             tituloAnime={"Mob Psycho 100 III Capitulo 10"}
             anime={"Mob Psycho 100 III "}
             numero={"10"}
-            siguienteVideo={"/ver/-11"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-9"}
+            siguienteVideo={"/ver/mob-psycho-100-III-11"}
+            capitulosVideo={"/mob-psycho-100-III"}
+            anteriorVideo={"/ver/mob-psycho-100-III-9"}
           />
         }
       />
       <Route
-        path="/ver/-11"
+        path="/ver/mob-psycho-100-III-11"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame2={
+              "https://mega.nz/embed/dXEQ2YRY#0Zs2aBa3zDFlQ6My29vVBV4EWjRk4EJpnZuSgUVckSE"
+            }
+            frame1={"https://sbchill.com/e/63jdc455k9nl.html"}
             contAnteriorClass="button-before"
             contSiguienteClass={"button-next"}
             tituloAnime={"Mob Psycho 100 III Capitulo 11"}
             anime={"Mob Psycho 100 III "}
             numero={"11"}
-            siguienteVideo={"/ver/-12"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-10"}
+            siguienteVideo={"/ver/mob-psycho-100-III-12"}
+            capitulosVideo={"/mob-psycho-100-III"}
+            anteriorVideo={"/ver/mob-psycho-100-III-10"}
           />
         }
       />
       <Route
-        path="/ver/-12"
+        path="/ver/mob-psycho-100-III-12"
         element={
           <Video
-            frame1={"https://sbthe.com/e/.html"}
+            frame2={
+              "https://mega.nz/embed/5as2nDBA#FoyMn8yEDueg6hum_E3GdNU1cdSGdAWE_tJEC9yYZvs"
+            }
+            frame1={"https://sbchill.com/e/lqwv5y096u0t.html"}
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             lastCapitulo={"button-caps-last"}
             tituloAnime={"Mob Psycho 100 III Capitulo 12"}
             anime={"Mob Psycho 100 III "}
             numero={"12"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-11"}
+            capitulosVideo={"/mob-psycho-100-III"}
+            anteriorVideo={"/ver/mob-psycho-100-III-11"}
           />
         }
       />

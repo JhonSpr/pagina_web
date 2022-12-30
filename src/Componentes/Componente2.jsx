@@ -4,7 +4,6 @@ import ButtonDisqus from "../Colletion/Button_Disqus";
 import Footer from "../Colletion/Footer";
 import banner from "../Json/Banners.json";
 import { React, useState } from "react";
-import { useEffect } from "react";
 
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Capitulos12({
