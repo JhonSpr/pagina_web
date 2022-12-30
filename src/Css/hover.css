@@ -125,6 +125,12 @@
     width: 100%;
     background-color: #00f4f8;
   }
+  .button-caps-last {
+    border-radius: 0 30px 30px 0;
+  }
+  .button-caps-fisrt {
+    border-radius: 30px 0 0 30px;
+  }
   .download {
     background-color: #363636 !important;
     padding: 7px;
@@ -242,6 +248,12 @@
     text-align: center;
     display: inline-block;
     background-color: #363636 !important;
+  }
+  .button-caps-last {
+    border-radius: 0 30px 30px 0;
+  }
+  .button-caps-fisrt {
+    border-radius: 30px 0 0 30px;
   }
   .button-before:hover {
     color: #00f4f8 !important;

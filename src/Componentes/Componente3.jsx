@@ -124,7 +124,10 @@ export function Video({
                         <i className="fa fa-arrow-left"></i>
                       </a>
 
-                      <a href={capitulosVideo} className="button-caps">
+                      <a
+                        href={capitulosVideo}
+                        className={"button-caps " + props.lastCapitulo}
+                      >
                         <i class="fa-solid fa-list"></i>
                       </a>
 

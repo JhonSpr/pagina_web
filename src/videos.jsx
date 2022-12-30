@@ -13,6 +13,7 @@ function Videos() {
             frame2={
               "https://mega.nz/embed/VgN33D7R#QM6K6zWGUdciRHhUGnjtetbGJlMwIyR2kSmgRQ3BbB8"
             }
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Akudama Drive Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -172,7 +173,6 @@ function Videos() {
             contAnteriorClass="button-before"
             contSiguienteClass={"button-next"}
             tituloAnime={"Akudama Drive Capitulo 9"}
-            tituloPag={"Animekun"}
             anime={"Akudama Drive"}
             numero={"9"}
             classOpcionSiguiente="column is-3-desktop is-2-tablet is-2-mobile"
@@ -191,7 +191,6 @@ function Videos() {
             contAnteriorClass="button-before"
             contSiguienteClass={"button-next"}
             tituloAnime={"Akudama Drive Capitulo 10"}
-            tituloPag={"Animekun"}
             anime={"Akudama Drive"}
             numero={"10"}
             siguienteVideo={"/ver/akudama-drive-11"}
@@ -209,7 +208,6 @@ function Videos() {
             contAnteriorClass="button-before"
             contSiguienteClass={"button-next"}
             tituloAnime={"Akudama Drive Capitulo 11"}
-            tituloPag={"Animekun"}
             anime={"Akudama Drive"}
             numero={"11"}
             siguienteVideo={"/ver/akudama-drive-12"}
@@ -226,6 +224,7 @@ function Videos() {
             frame2="https://mega.nz/embed/dGtFDYJY#Ke1H2eUj0JuIZrvHH_-pllhigTN63luW37MnEyDGzaY"
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
+            lastCapitulo={"button-caps-last"}
             tituloAnime={"Akudama Drive Capitulo 12"}
             tituloPag={"Animekun"}
             anime={"Akudama Drive"}
@@ -247,6 +246,7 @@ function Videos() {
               "https://mega.nz/embed/EVQDWAjL#Ln1Op33LdB_YKYKiTivFHZiVqjIvaY28rVTHiz5yztY"
             }
             frame1={"https://sbthe.com/e/4m26e9ffn8tm.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Hanyo no Yashahime ni no Shou Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -703,6 +703,7 @@ function Videos() {
             frame2={
               "https://mega.nz/embed/8M4SXC4A#h7s_quvn6qzeJoEqGjY29J-pk3ZS1DDRoXmlaLnillw"
             }
+            lastCapitulo={"button-caps-last"}
             frame1={"https://sbthe.com/e/e82iesw2ssa0.html"}
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
@@ -724,6 +725,7 @@ function Videos() {
               "https://mega.nz/embed/uw4ARaxJ#KcpSHRZHbHMjx-t1n1LbTqPw9kjO4tuBLUFtCrwc070"
             }
             frame1={"https://sbthe.com/e/u8654pht6mrx.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Heion Sedai no Idaten Tachi Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -924,6 +926,7 @@ function Videos() {
               "https://mega.nz/embed/2sgEQKyb#-A_EMqXEFXS39LF7OWeRxzlqI_PoB3BDk4vWKMVa1cw"
             }
             frame1={"https://sbthe.com/e/p72kqt6u8unq.html"}
+            lastCapitulo={"button-caps-last"}
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Heion Sedai no Idaten Tachi Capitulo 11"}
@@ -942,6 +945,7 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/nnq7yonfq4oq.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass={"disable"}
             tituloAnime={
               "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2 Capitulo 1"
@@ -1254,6 +1258,7 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/geisodig38lu.html"}
+            lastCapitulo={"button-caps-last"}
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={
@@ -1278,6 +1283,7 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/akjadkvgbi6b.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Peach Boy Riverside Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -1475,6 +1481,7 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/2q60xu86q1py.html"}
+            lastCapitulo={"button-caps-last"}
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Peach Boy Riverside Capitulo 12"}
@@ -1493,6 +1500,7 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/u9ik3w41ladd.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={" Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -1906,6 +1914,7 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/321us5ufgu3w.html"}
+            lastCapitulo={"button-caps-last"}
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Jujutsu Kaisen Capitulo 24"}
@@ -1924,6 +1933,7 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/0trvdy6xoatg.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -2341,6 +2351,7 @@ function Videos() {
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Shingeki no Bahamut:Virgin Soul Capitulo 24"}
+            lastCapitulo={"button-caps-last"}
             tituloPag={"Animekun Gratis"}
             anime={"Shingeki no Bahamut:Virgin Soul "}
             numero={"24"}
@@ -2356,6 +2367,7 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/nsqplrxmuobs.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Castlevania Segunda Temporada Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -2484,6 +2496,7 @@ function Videos() {
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Castlevania Segunda Temporada Capitulo 12"}
+            lastCapitulo={"button-caps-last"}
             tituloPag={"Animekun Gratis"}
             anime={"Castlevania Segunda Temporada "}
             numero={"8"}
@@ -2499,6 +2512,7 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/sgwnwd964n02.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Overlord III Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -2714,6 +2728,7 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/lcbqmou1mlf5.html"}
+            lastCapitulo={"button-caps-last"}
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Overlord III Capitulo 13"}
@@ -2732,6 +2747,7 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/d4f0vaktgsx0.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Ao no Exorcist Kyoto Fujouou Hen Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -2947,6 +2963,7 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/x0qgch2nzi2l.html"}
+            lastCapitulo={"button-caps-last"}
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Ao no Exorcist Kyoto Fujouou Hen Capitulo 13"}
@@ -2965,6 +2982,7 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/lqoeguu6lv30.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Fairy Gone Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -3163,6 +3181,7 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/0tknl8stst17.html"}
+            lastCapitulo={"button-caps-last"}
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Fairy Gone Capitulo 12"}
@@ -3198,6 +3217,7 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/s0ddzbyf5t6w.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={" Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -3397,6 +3417,7 @@ function Videos() {
             frame1={"https://sbthe.com/e/.html"}
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
+            lastCapitulo={"button-caps-last"}
             tituloAnime={"Isekai Yakkyoku Capitulo 12"}
             tituloPag={"Animekun Gratis"}
             anime={"Isekai Yakkyoku "}
@@ -3413,6 +3434,7 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/ydx4i29ucbv4.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Kuro no Shoukanshi Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -3611,6 +3633,7 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
+            lastCapitulo={"button-caps-last"}
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Kuro no Shoukanshi Capitulo 12"}
@@ -3629,6 +3652,7 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/m8xdrpde2tc6.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Fairy Gone Segunda Temporada Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -3829,6 +3853,7 @@ function Videos() {
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Fairy Gone Segunda Temporada Capitulo 12"}
+            lastCapitulo={"button-caps-last"}
             tituloPag={"Animekun Gratis"}
             anime={"Fairy Gone Segunda Temporada "}
             numero={"12"}
@@ -3844,6 +3869,7 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/ol02fy8w3ovs.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={" Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -4042,6 +4068,7 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
+            lastCapitulo={"button-caps-last"}
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Isekai Meiryuu de Harem wo Capitulo 12"}
@@ -4060,6 +4087,7 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/7l7x92jwalc6.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={" Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -4368,7 +4396,7 @@ function Videos() {
             tituloAnime={
               "Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e Segunda Temporada Capitulo 12"
             }
-            tituloPag={"Animekun Gratis"}
+            lastCapitulo={"button-caps-last"}
             anime={
               "Youkoso Jitsuryoku Shijuo Shugi no Kyoushitsu e Segunda Temporada "
             }
@@ -4389,6 +4417,7 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/0kfqvqbokons.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Spy x Family Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -4586,6 +4615,7 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/71trlw0hlpcv.html"}
+            lastCapitulo={"button-caps-last"}
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Spy x Family Capitulo 12"}
@@ -4604,6 +4634,7 @@ function Videos() {
           <Video
             frame2={""}
             frame1={"https://sbthe.com/e/khuqp41twd42.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Date a Live IV Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -4790,7 +4821,9 @@ function Videos() {
         path="/ver/date-a-live-IV-12"
         element={
           <Video
+            frame2={""}
             frame1={"https://sbthe.com/e/8jwulstwxvf5.html"}
+            lastCapitulo={"button-caps-last"}
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Date a Live IV Capitulo 12"}
@@ -4808,7 +4841,9 @@ function Videos() {
         exact
         element={
           <Video
+            frame2={""}
             frame1={"https://sbthe.com/e/iua5pjl09wr8.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={
               "Tate no Yuusha no Naraigari Segunda Temporada Capitulo 1"
@@ -4828,6 +4863,7 @@ function Videos() {
         path="/ver/tate-no-yuusha-no-naraigari-segunda-temporada-2"
         element={
           <Video
+            frame2={""}
             frame1={"https://sbthe.com/e/m3yqx7hhktv1.html"}
             contAnteriorClass="button-before"
             contSiguienteClass={"button-next"}
@@ -5088,7 +5124,7 @@ function Videos() {
             tituloAnime={
               "Tate no Yuusha no Naraigari Segunda Temporada Capitulo 13"
             }
-            tituloPag={"Animekun Gratis"}
+            lastCapitulo={"button-caps-last"}
             anime={"Tate no Yuusha no Naraigari Segunda Temporada "}
             numero={"13"}
             capitulosVideo={"/tate-no-yuusha-no-naraigari-segunda-temporada"}
@@ -5104,6 +5140,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/xw4crh9sl276.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Tomodachi Game Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -5291,6 +5328,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/3k4mpop05jm1.html"}
+            lastCapitulo={"button-caps-last"}
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Tomodachi Game Capitulo 12"}
@@ -5308,6 +5346,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/achrsafvaswy.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Baraou no Souretsu Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -5698,6 +5737,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/hq9600g9ir6z.html"}
+            lastCapitulo={"button-caps-last"}
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Baraou no Souretsu Capitulo 24"}
@@ -5712,13 +5752,10 @@ function Videos() {
       ----------------
       <Route
         path="/ver/karakuri-circus-1"
-        element={<Video tituloAnime={"Karakuri Circus Capitulo 1"} />}
-      />
-      <Route
-        path="/ver/karakuri-circus-1"
         element={
           <Video
             frame1={"https://sbthe.com/e/u9x04cimut2j.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Karakuri Circus Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -6314,6 +6351,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/1lmcrau8saib.html"}
+            lastCapitulo={"button-caps-last"}
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Karakuri Circus Capitulo 36"}
@@ -6331,6 +6369,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/es3puvrsy8zq.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Extreme Heart Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -6518,6 +6557,7 @@ function Videos() {
           <Video
             frame1={"https://sbthe.com/e/9jucieseh2rb.htm"}
             contAnteriorClass="button-before"
+            lastCapitulo={"button-caps-last"}
             contSiguienteClass={"disable"}
             tituloAnime={"Extreme Heart Capitulo 12"}
             tituloPag={"Animekun"}
@@ -6534,6 +6574,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/xyt861drkkmh.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Golden Time Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -6926,6 +6967,7 @@ function Videos() {
             frame1={"https://sbthe.com/e/5g7qqhvll2yx.html"}
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
+            lastCapitulo={"button-caps-last"}
             tituloAnime={"Golden Time Capitulo 24"}
             tituloPag={"Animekun"}
             anime={"Golden Time "}
@@ -6941,6 +6983,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/8voksjn8id1o.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -8014,6 +8057,7 @@ function Videos() {
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Fullmetal Alchemist Brotherhood Capitulo 64"}
+            lastCapitulo={"button-caps-last"}
             tituloPag={"Animekun"}
             anime={"Fullmetal Alchemist Brotherhood "}
             numero={"64"}
@@ -8028,6 +8072,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/d6xups0i6vm6.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={
               "Muhyo to Rouji no Mahouritsu Soudan Jumusho Capitulo 1"
@@ -8265,7 +8310,7 @@ function Videos() {
             tituloAnime={
               "Muhyo to Rouji no Mahouritsu Soudan Jumusho Capitulo 12"
             }
-            tituloPag={"Animekun"}
+            lastCapitulo={"button-caps-last"}
             anime={"Muhyo to Rouji no Mahouritsu Soudan Jumusho "}
             numero={"12"}
             capitulosVideo={"/muhyo-to-rouji-no-mahouritsu-soudan-jimusho"}
@@ -8281,6 +8326,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/6t7xanow5wak.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Sabikui Bisco Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -8470,7 +8516,7 @@ function Videos() {
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Sabikui Bisco Capitulo 12"}
-            tituloPag={"Animekun"}
+            lastCapitulo={"button-caps-last"}
             anime={"Sabikui Bisco "}
             numero={"12"}
             capitulosVideo={"/sabikui-bisco"}
@@ -8484,6 +8530,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Koroshi Ai Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -8673,7 +8720,7 @@ function Videos() {
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Koroshi Ai Capitulo 12"}
-            tituloPag={"Animekun"}
+            lastCapitulo={"button-caps-last"}
             anime={"Koroshi Ai "}
             numero={"12"}
             capitulosVideo={"/kuroshi-ai"}
@@ -8687,6 +8734,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/mv8uyfa88934.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Tribe Nine Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -8876,7 +8924,7 @@ function Videos() {
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Tribe Nine Capitulo 12"}
-            tituloPag={"Animekun"}
+            lastCapitulo={"button-caps-last"}
             anime={"Tribe Nine "}
             numero={"12"}
             capitulosVideo={"/tribe-nine"}
@@ -8890,6 +8938,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/288o4oewqa5q.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -9079,7 +9128,7 @@ function Videos() {
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Gensou Sangokushi Tengen Reishink Capitulo 12"}
-            tituloPag={"Animekun"}
+            lastCapitulo={"button-caps-last"}
             anime={"Gensou Sangokushi Tengen Reishink "}
             numero={"12"}
             capitulosVideo={"/gensou-sangokushi-tengen-reishink"}
@@ -9096,6 +9145,7 @@ function Videos() {
               "https://mega.nz/embed/EDknQaoS#CKmFTIGig-MnrA0hUypb1XDoMkDTRMW_VOQyAV5Wrb0"
             }
             frame1={"https://sblanh.com/e/m4kppghr5mpf.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Spy x Family 2nd temporada Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -9325,6 +9375,7 @@ function Videos() {
               "https://mega.nz/embed/FCFAhLaK#CEGfmsEa1pWEPoKdHv_lLRRgm38-SRBmb7tNeQe-Stk"
             }
             frame1={"https://embedsb.com/e/zpz8400jk7cb.html"}
+            lastCapitulo="button-caps-last"
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Spy x Family 2nd Temporada Capitulo 13"}
@@ -9341,6 +9392,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/ytbhr4qicr5y.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Mob Pyscho 100 III Capitulo 1"}
             contSiguienteClass={"button-before"}
@@ -9521,6 +9573,7 @@ function Videos() {
             frame1={"https://sbthe.com/e/.html"}
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
+            lastCapitulo={"button-caps-last"}
             tituloAnime={"Mob Psycho 100 III Capitulo 12"}
             anime={"Mob Psycho 100 III "}
             numero={"12"}
@@ -9535,6 +9588,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblanh.com/e/0f1z1eipuw37.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Mob Psycho 100 Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -9740,6 +9794,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblanh.com/e/xgr3n5wovop2.html"}
+            lastCapitulo={"button-caps-last"}
             contAnteriorClass="button-before"
             tituloAnime={"Mob Pyscho 100"}
             tituloPag={"Animekun"}
@@ -9756,6 +9811,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblanh.com/e/207cerrmetul.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Mob Pyscho 100 II Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -9959,6 +10015,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbspeed.com/e/rugg39r8frwn.html"}
+            lastCapitulo={"button-caps-last"}
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Mob Pyscho 100 II Capitulo 13"}
@@ -9976,6 +10033,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbspeed.com/e/c6a2jtbnmbao.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Overlord II Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -10179,6 +10237,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/yfvfteoz3n3f.html"}
+            lastCapitulo={"button-caps-last"}
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Overlord II Capitulo 13"}
@@ -10196,6 +10255,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/milah99c58yn.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Overlord III Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -10402,7 +10462,7 @@ function Videos() {
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Overlord III Capitulo 13"}
-            tituloPag={"Animekun"}
+            lastCapitulo={"button-caps-last"}
             anime={"Overlord III "}
             numero={"13"}
             capitulosVideo={"/overlord-III"}
@@ -10416,6 +10476,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbanh.com/e/858dew3ko0ks.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Overlord IV Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -10622,7 +10683,7 @@ function Videos() {
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Overlord IV Capitulo 13"}
-            tituloPag={"Animekun"}
+            lastCapitulo={"button-caps-last"}
             anime={"Overlord IV "}
             numero={"13"}
             capitulosVideo={"/overlord-IV"}
@@ -10636,6 +10697,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/d6b1tjplyuqa.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={" 1"}
             contSiguienteClass={"button-next"}
@@ -10858,6 +10920,7 @@ function Videos() {
             frame1={"https://sbthe.com/e/7vbvf95ypnp9.html"}
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
+            lastCapitulo={"button-caps-last"}
             tituloAnime={"Violet Evergarden Capitulo 14"}
             tituloPag={"Animekun"}
             anime={"Violet Evergarden "}
@@ -10873,6 +10936,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sblongvu.com/e/1oytct9wvmtu.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"isekai ojisan Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -11063,6 +11127,7 @@ function Videos() {
             contSiguienteClass={"disable"}
             tituloAnime={"isekai ojisan Capitulo 12"}
             tituloPag={"Animekun"}
+            lastCapitulo={"button-caps-last"}
             anime={"isekai ojisan "}
             numero={"12"}
             capitulosVideo={"/"}
@@ -11081,8 +11146,8 @@ function Videos() {
             frame1={"https://sblongvu.com/e/zs0ljhjkn107.html"}
             contAnteriorClass="disable"
             tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 1"}
+            lastCapitulo={"button-caps-fisrt"}
             contSiguienteClass={"button-next"}
-            tituloPag={"Animekun"}
             anime={"BLEACH: Sennen Kessen-hen"}
             numero={"1"}
             siguienteVideo={"/ver/bleach-sennen-kessen-hen-2"}
@@ -11314,6 +11379,7 @@ function Videos() {
               "https://mega.nz/embed/UHVHHYiK#3kDFdNGtxV1-u8SxgtsCjI_7xQaJ__x59sQ4T66Qa9A"
             }
             frame1={"https://sbchill.com/e/h1vrloi3x6o3.html"}
+            lastCapitulo={"button-caps-last"}
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"BLEACH: Sennen Kessen-hen Capitulo 13"}
@@ -11333,7 +11399,7 @@ function Videos() {
             contAnteriorClass="disable"
             tituloAnime={"ID: invaded Capitulo 1"}
             contSiguienteClass={"button-next"}
-            tituloPag={"Animekun"}
+            lastCapitulo={"button-caps-fisrt"}
             anime={"ID: invaded"}
             numero={"1"}
             siguienteVideo={"/ver/id-invaded-2"}
@@ -11536,7 +11602,7 @@ function Videos() {
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"ID: invaded Capitulo 13"}
-            tituloPag={"Animekun"}
+            lastCapitulo={"button-caps-last"}
             anime={"ID: invaded "}
             numero={"13"}
             capitulosVideo={"/id-invaded"}
@@ -11550,6 +11616,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/9uq2uh8tdfzp.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Dororo Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -11938,7 +12005,7 @@ function Videos() {
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Dororo Capitulo 24"}
-            tituloPag={"Animekun"}
+            lastCapitulo={"button-caps-last"}
             anime={"Dororo "}
             numero={"24"}
             capitulosVideo={"/dororo"}
@@ -11952,6 +12019,7 @@ function Videos() {
         element={
           <Video
             frame1={"https://sbthe.com/e/il1ii6eh334l.html"}
+            lastCapitulo={"button-caps-fisrt"}
             contAnteriorClass="disable"
             tituloAnime={"Hoshi no samidare Capitulo 1"}
             contSiguienteClass={"button-next"}
@@ -12329,7 +12397,7 @@ function Videos() {
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Hoshi no samidare Capitulo 24"}
-            tituloPag={"Animekun"}
+            lastCapitulo={"button-caps-last"}
             anime={"Hoshi no samidare "}
             numero={"24"}
             capitulosVideo={"/hoshi-no-samidare"}
@@ -12346,7 +12414,7 @@ function Videos() {
             contAnteriorClass="disable"
             tituloAnime={"Overlord Capitulo 1"}
             contSiguienteClass={"button-next"}
-            tituloPag={"Animekun"}
+            lastCapitulo={"button-caps-fisrt"}
             anime={"Overlord"}
             numero={"1"}
             siguienteVideo={"/ver/overlord-2"}
@@ -12549,7 +12617,7 @@ function Videos() {
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={"Overlord Capitulo 13"}
-            tituloPag={"Animekun"}
+            lastCapitulo={"button-caps-last"}
             anime={"Overlord "}
             numero={"13"}
             capitulosVideo={"/overlord"}
@@ -12565,6 +12633,7 @@ function Videos() {
             frame2={""}
             frame1={"https://sbthe.com/e/.html"}
             contAnteriorClass="disable"
+            lastCapitulo={"button-caps-fisrt"}
             tituloAnime={" Capitulo 1"}
             contSiguienteClass={"button-next"}
             anime={""}
@@ -12753,6 +12822,7 @@ function Videos() {
             contAnteriorClass="button-before"
             contSiguienteClass={"disable"}
             tituloAnime={" Capitulo 12"}
+            lastCapitulo={"button-caps-last"}
             anime={" "}
             numero={"12"}
             capitulosVideo={"/"}
