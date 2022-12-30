@@ -182,6 +182,7 @@
   .card:hover .title_news {
     color: #00f4f8;
   }
+
   .card:hover img {
     opacity: 0.5;
   }

@@ -201,10 +201,6 @@ export function Video({
                     Noticias sobre anime
                   </h5>
                   <div className="columns is-mobile is-multiline is-variable is-1">
-                    {/* <AnimeRecommend1 />
-                    <AnimeRecommend2 />
-                    <AnimeRecommend3 />
-                    <AnimeRecommend4 /> */}
                     <main className="container_news">
                       <News />
                     </main>
