@@ -2570,7 +2570,7 @@ function App() {
         <Route
           path="/spy-x-family-2nd-temporada"
           element={
-            <Emision12
+            <Animes13
               tituloAnime={"Spy x Family 2nd Temporada"}
               imagenAnime={
                 "https://i.postimg.cc/RFxhPx33/spy-x-family-cour-2.jpg"
@@ -2580,15 +2580,11 @@ function App() {
               tipo={"TV"}
               sec2={"disable"}
               sec3={"disable"}
-              estado={"En Emisión"}
-              numeroEpisodios={"10"}
+              estado={"Finalizado"}
+              numeroEpisodios={"13"}
               hrefSecuela="/spy-x-family"
               nombreSecuela={"SPY x FAMILY"}
               textoSecuela={"Precuela"}
-              Fecha={"Sábado 10 de Diciembre"}
-              li11={"disable"}
-              li12={"disable"}
-              li13={"disable"}
               capituloAnime1={"/ver/spy-x-family-2nd-temporada-1"}
               capituloAnime2={"/ver/spy-x-family-2nd-temporada-2"}
               capituloAnime3={"/ver/spy-x-family-2nd-temporada-3"}
@@ -2601,6 +2597,7 @@ function App() {
               capituloAnime10={"/ver/spy-x-family-2nd-temporada-10"}
               capituloAnime11={"/ver/spy-x-family-2nd-temporada-11"}
               capituloAnime12={"/ver/spy-x-family-2nd-temporada-12"}
+              capituloAnime13={"/ver/spy-x-family-2nd-temporada-13"}
             />
           }
         />

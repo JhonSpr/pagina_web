@@ -9187,7 +9187,9 @@ function Videos() {
         path="/ver/spy-x-family-2nd-temporada-6"
         element={
           <Video
-            frame2={""}
+            frame2={
+              "https://mega.nz/embed/Mf82hL4Y#Ipj58NPkOUn17loPFiF5nkWr64y3YF00M3CMPZDtKM4"
+            }
             frame1={"https://sblongvu.com/e/4s3txnlub5ir.html"}
             contAnteriorClass="button-before"
             contSiguienteClass={"button-next"}
@@ -9205,7 +9207,9 @@ function Videos() {
         path="/ver/spy-x-family-2nd-temporada-7"
         element={
           <Video
-            frame2={""}
+            frame2={
+              "https://mega.nz/embed/hGlk3C6D#kUlOHNePj1rapCR9X7z7FxuSsqxIjdtcKIakgsmnJGo"
+            }
             frame1={"https://sblongvu.com/e/c8655zli44rf.html"}
             contAnteriorClass="button-before"
             contSiguienteClass={"button-next"}
@@ -9222,7 +9226,9 @@ function Videos() {
         path="/ver/spy-x-family-2nd-temporada-8"
         element={
           <Video
-            frame2={""}
+            frame2={
+              "https://mega.nz/embed/YbFBzBpQ#dN6ZoBA75Qx79TlOStJUF12HBCFMnKkNk3jXfw7j5_c"
+            }
             frame1={"https://sblongvu.com/e/z4m7wb3adp0v.html"}
             contAnteriorClass="button-before"
             contSiguienteClass={"button-next"}
@@ -9239,7 +9245,9 @@ function Videos() {
         path="/ver/spy-x-family-2nd-temporada-9"
         element={
           <Video
-            frame2={""}
+            frame2={
+              "https://mega.nz/embed/0T0S1LQI#qvecHyFm7t-0ukgV8yIfssGtjUKq4L4W7lfkbP3FT9Q"
+            }
             frame1={"https://sblongvu.com/e/4c6cd2pdewik.html"}
             contAnteriorClass="button-before"
             contSiguienteClass={"button-next"}
@@ -9256,7 +9264,9 @@ function Videos() {
         path="/ver/spy-x-family-2nd-temporada-10"
         element={
           <Video
-            frame2={""}
+            frame2={
+              "https://mega.nz/embed/sGkCxDrZ#gcmXBu3e4wM6ynnmqH-QWAHGsJW4n92yHia257LhR8o"
+            }
             frame1={"https://sblongvu.com/e/pk1nah92r61y.html"}
             contAnteriorClass="button-before"
             contSiguienteClass={"button-next"}
@@ -9273,8 +9283,10 @@ function Videos() {
         path="/ver/spy-x-family-2nd-temporada-11"
         element={
           <Video
-            frame2={""}
-            frame1={"https://sbthe.com/e/.html"}
+            frame2={
+              "https://mega.nz/embed/oblRDKjS#T1ZF6PgoqAHea3WsLqy6rx4qkoceC5lRrVcvi_QwdJM"
+            }
+            frame1={"https://embedsb.com/e/9tx85e6ifyow.html"}
             contAnteriorClass="button-before"
             contSiguienteClass={"button-next"}
             tituloAnime={"Spy x Family 2nd Temporada Capitulo 11"}
@@ -9290,15 +9302,36 @@ function Videos() {
         path="/ver/spy-x-family-2nd-temporada-12"
         element={
           <Video
-            frame2={""}
-            frame1={"https://sbthe.com/e/.html"}
+            frame2={
+              "https://mega.nz/embed/EOVnHLQK#JgsKVPfjM62SLhpIT_jQ8mTjRkh5-lzBKebzU19yJh4"
+            }
+            frame1={"https://embedsb.com/e/9wwsqxubuwuc.html"}
             contAnteriorClass="button-before"
-            contSiguienteClass={"disable"}
+            contSiguienteClass={"button-next"}
             tituloAnime={"Spy x Family 2nd Temporada Capitulo 12"}
             anime={"Spy x Family 2nd Temporada"}
             numero={"12"}
             capitulosVideo={"/spy-x-family-2nd-temporada"}
             anteriorVideo={"/ver/spy-x-family-2nd-temporada-11"}
+            siguienteVideo={"/ver/spy-x-family-2nd-temporada-13"}
+          />
+        }
+      />
+      <Route
+        path="/ver/spy-x-family-2nd-temporada-13"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/FCFAhLaK#CEGfmsEa1pWEPoKdHv_lLRRgm38-SRBmb7tNeQe-Stk"
+            }
+            frame1={"https://embedsb.com/e/zpz8400jk7cb.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
+            tituloAnime={"Spy x Family 2nd Temporada Capitulo 13"}
+            anime={"Spy x Family 2nd Temporada"}
+            numero={"13"}
+            capitulosVideo={"/spy-x-family-2nd-temporada"}
+            anteriorVideo={"/ver/spy-x-family-2nd-temporada-12"}
           />
         }
       />
