@@ -98,15 +98,9 @@ export function Video({
                         src={props.frame1}
                         id="div1"
                         allowFullScreen
-                        picture-in-picture
                       ></iframe>
                     ) : (
-                      <iframe
-                        src={frame2}
-                        id="div1"
-                        allowFullScreen
-                        picture-in-picture
-                      ></iframe>
+                      <iframe src={frame2} id="div1" allowFullScreen></iframe>
                     )}
                     {loadingSecondOption ? (
                       <iframe
