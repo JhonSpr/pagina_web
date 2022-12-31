@@ -38,6 +38,9 @@ span {
 a {
   text-decoration: none;
 }
+.rutas {
+  color: #d1d1d1 !important;
+}
 
 .paginacion-contenedor {
   justify-content: center;
