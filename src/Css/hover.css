@@ -186,6 +186,12 @@
   }
 }
 @media (min-width: 1000px) {
+  .cont-icon-bars {
+    display: none !important;
+  }
+  .cont-icon-x {
+    display: none !important;
+  }
   .nav-link:hover {
     color: #f1f1f1 !important;
     background-color: #363636 !important;

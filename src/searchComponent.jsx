@@ -1,3 +1,5 @@
+/* eslint-disable no-self-compare */
+/* eslint-disable eqeqeq */
 import React, { useEffect, useState } from "react";
 import LoadingSearch from "./Colletion/Loading";
 
@@ -26,6 +28,7 @@ function SearchBar({ placeholder }) {
       setHideData(true);
     }
   };
+
   useEffect(() => {
     setLoading(true);
     setTimeout(() => {
