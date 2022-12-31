@@ -41,6 +41,7 @@ export function Pagina1Finalizados() {
         link7={"/finalizados page=7"}
         linkNext={"/finalizados page=2"}
         active1="active"
+        active7="disable"
       />
       <hr />
       <Footer />
@@ -75,6 +76,7 @@ export function Pagina2Finalizados() {
         link7={"/finalizados page=7"}
         linkNext={"/finalizados page=3"}
         active2="active"
+        active7="disable"
       />
       <hr />
       <Footer />
@@ -109,6 +111,7 @@ export function Pagina3Finalizados() {
         link7={"/finalizados page=7"}
         linkNext={"/finalizados page=4"}
         active3="active"
+        active7="disable"
       />
       <hr />
       <Footer />
@@ -145,6 +148,7 @@ export function Pagina4Finalizados() {
         classNameNext={"siguiente"}
         linkNext={"/finalizados page=5"}
         active4="active"
+        active7="disable"
       />
       <hr />
       <Footer />
@@ -181,6 +185,7 @@ export function Pagina5Finalizados() {
         classNameNext={"siguiente"}
         linkNext={"/finalizados page=5"}
         active5="active"
+        active7="disable"
       />
       <hr />
       <Footer />
