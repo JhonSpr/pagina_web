@@ -11148,6 +11148,7 @@ function Videos() {
             tituloPag={"Animekun"}
             anime={"isekai ojisan "}
             numero={"11"}
+            lastCapitulo={"button-caps-last"}
             siguienteVideo={"/ver/isekai-ojisan-12"}
             capitulosVideo={"/isekai-ojisan"}
             anteriorVideo={"/ver/isekai-ojisan-10"}
