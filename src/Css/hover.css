@@ -181,6 +181,9 @@
   .fa-bars {
     font-size: 18px;
   }
+  .navbar-collapse {
+    transition: none;
+  }
 }
 @media (min-width: 1000px) {
   .nav-link:hover {
