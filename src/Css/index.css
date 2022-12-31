@@ -395,7 +395,7 @@ input {
   .list-series > .serie-card,
   .noticia-card {
     width: calc(19.99997% - 10px);
-    margin: 5px;
+    margin: 1px;
   }
 }
 

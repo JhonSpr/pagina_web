@@ -1,9 +1,9 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 
-import PauseOnHover from "./Elements/Scroll";
 import Footer from "../Colletion/Footer";
 import { useEffect, useState } from "react";
 import ButtonDisqus from "../Colletion/Button_Disqus";
+import Scroll from "../Componentes/Elements/Scroll";
 
 /* eslint-disable jsx-a11y/no-distracting-elements */
 export function Inicio() {
@@ -31,7 +31,7 @@ export function Inicio() {
       // convertir a json
       .then((json) => setInfo(json))
       //imprimir los datos en la consola
-      .catch((err) => console.log("Solicitud fallida", err)); // CaA
+      .catch((err) => console.log("Solicitud fallida", err));
   }, [setInfo]);
   return (
     <>
@@ -42,19 +42,19 @@ export function Inicio() {
             <div className="container" style={{ padding: "10px" }}>
               <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">
                 <i
-                  class="fa-solid fa-circle"
+                  className="fa-solid fa-circle"
                   style={{ color: "rgb(240 30 20)", marginRight: "5px" }}
                 ></i>
                 Emisiones
               </h1>
-              <PauseOnHover />
+              <Scroll />
             </div>
           </section>
           <section className="section page-home__latest-series">
             <div className="container">
               <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">
                 <i
-                  class="fa-solid fa-layer-group"
+                  className="fa-solid fa-layer-group"
                   style={{ color: "rgb(20 620 240)" }}
                 ></i>
                 RECIEN AGREGADOS
