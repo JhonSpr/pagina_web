@@ -9551,7 +9551,7 @@ function Videos() {
             }
             frame1={"https://sblongvu.com/e/42tqztsmxk60.html"}
             contAnteriorClass="button-before"
-            contSiguienteClass={"disable"}
+            contSiguienteClass={"button-next"}
             tituloAnime={"Mob Psycho 100 III Capitulo 9"}
             anime={"Mob Psycho 100 III "}
             numero={"9"}
