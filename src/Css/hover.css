@@ -9,6 +9,10 @@
   font-size: 15px;
 }
 
+.cont-log a {
+  color: #d1d1d1;
+}
+
 .image_baner {
   width: 100%;
   height: 1900px;
