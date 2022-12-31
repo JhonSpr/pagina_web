@@ -11,10 +11,18 @@ import { LoginButtonMobile } from "./Elements/LoginMobile";
 import LogoutButtonMobile from "./Elements/LogoutMobile";
 import ProfileMobile from "../Perfil/perfilMobile";
 import AlertNoLogged from "./Elements/Alert";
+import { useState } from "react";
 
 export default function Menubar() {
   const { isAuthenticated } = useAuth0();
+  const [X, setX] = useState(false);
 
+  const changeX = () => {
+    setX(true);
+  };
+  const changeBurger = () => {
+    setX(false);
+  };
   return (
     <>
       <nav className="navbar navbar-expand-lg bg-dark">
@@ -32,17 +40,28 @@ export default function Menubar() {
             data-bs-toggle="collapse"
             data-bs-target="#navbarSupportedContent"
           >
-            <a
-              role="button"
-              className="navbar-burger burger"
-              aria-label="menu"
-              aria-expanded="false"
-              data-target="navbarText"
-            >
-              <span className="line1"></span>
-              <span className="line2"></span>
-              <span className="line3"></span>
-            </a>
+            {X ? (
+              <a
+                onClick={changeBurger}
+                role={"button"}
+                aria-expanded="false"
+                data-target="navbarText"
+                className="cont-icon-x"
+              >
+                <span className="fa-regular fa-x icon-x"></span>
+              </a>
+            ) : (
+              <a
+                role="button"
+                className="cont-icon-bars"
+                aria-label="menu"
+                aria-expanded="false"
+                data-target="navbarText"
+                onClick={changeX}
+              >
+                <span class="fa-solid fa-bars"></span>
+              </a>
+            )}
           </div>
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0 cont-ul">
