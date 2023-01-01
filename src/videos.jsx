@@ -11156,7 +11156,7 @@ function Videos() {
         }
       />
       <Route
-        path="/ver/-12"
+        path="/ver/isekai-ojisan-12"
         element={
           <Video
             frame1={"https://sbthe.com/e/.html"}
@@ -11167,8 +11167,8 @@ function Videos() {
             lastCapitulo={"button-caps-last"}
             anime={"isekai ojisan "}
             numero={"12"}
-            capitulosVideo={"/"}
-            anteriorVideo={"/ver/-11"}
+            capitulosVideo={"/isekai-ojisan"}
+            anteriorVideo={"/ver/isekai-ojisan-11"}
           />
         }
       />
@@ -12663,6 +12663,254 @@ function Videos() {
         }
       />
       ---------------- ----------------
+      <Route
+        path="/ver/shadows-house-1"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/NkF3WaDR#Sx26-x_uouf8IUXTz6vFxT6LE26-iD2Y_qlw0vGFubc"
+            }
+            frame1={"https://sbthe.com/e/83smhy8i2p4z.html"}
+            contAnteriorClass="disable"
+            lastCapitulo={"button-caps-fisrt"}
+            tituloAnime={"Shadows House Capitulo 1"}
+            contSiguienteClass={"button-next"}
+            anime={"Shadows House "}
+            numero={"1"}
+            siguienteVideo={"/ver/shadows-house-2"}
+            capitulosVideo={"/shadows-house"}
+          />
+        }
+      />
+      <Route
+        path="/ver/shadows-house-2"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/N0NUTI7B#3k4Iil4ezMrT3tDR3PV1WkvDusp1f1tUewcwmUhZMjQ"
+            }
+            frame1={"https://sbthe.com/e/syx18wruxtfb.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Shadows House Capitulo 2"}
+            anime={"Shadows House "}
+            numero={"2"}
+            siguienteVideo={"/ver/shadows-house-3"}
+            capitulosVideo={"/shadows-house"}
+            anteriorVideo={"/ver/shadows-house-1"}
+          />
+        }
+      />
+      <Route
+        path="/ver/shadows-house-3"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/lgdEHaxZ#G2hpWCs3o08tVDRgcuZ31xGiV3vQ2aKz8uOJQQmYp74"
+            }
+            frame1={"https://sbthe.com/e/wzc2iydw9xyd.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Shadows House Capitulo 3"}
+            anime={"Shadows House "}
+            numero={"3"}
+            siguienteVideo={"/ver/shadows-house-4"}
+            capitulosVideo={"/shadows-house"}
+            anteriorVideo={"/ver/shadows-house-2"}
+          />
+        }
+      />
+      <Route
+        path="/ver/shadows-house-4"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/p0sQCTiA#Fn_5cdR4r-iuLZkAq6PLj53HtIxYMKtaBKociw0y9K4"
+            }
+            frame1={"https://sbthe.com/e/kbtntqmj9rl4.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Shadows House Capitulo 4"}
+            anime={"Shadows House "}
+            numero={"4"}
+            siguienteVideo={"/ver/shadows-house-5"}
+            capitulosVideo={"/shadows-house"}
+            anteriorVideo={"/ver/shadows-house-3"}
+          />
+        }
+      />
+      <Route
+        path="/ver/shadows-house-5"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/Eld3gLgJ#N5L6eTp-cE3vcADEHX7MZTqQglFX-s2jCQdw2yIr3Qc"
+            }
+            frame1={"https://sbthe.com/e/2b8embn8cy4r.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Shadows House Capitulo 5"}
+            anime={"Shadows House "}
+            numero={"5"}
+            siguienteVideo={"/ver/shadows-house-6"}
+            capitulosVideo={"/shadows-house"}
+            anteriorVideo={"/ver/shadows-house-4"}
+          />
+        }
+      />
+      <Route
+        path="/ver/shadows-house-6"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/51EBkLIa#SSHNKLB70Cy_rr7muXeYJOpEB5SfNjuWp7iMVUX5Nuo"
+            }
+            frame1={"https://sbthe.com/e/ghhqgmxwsgrk.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Shadows House Capitulo 6"}
+            anime={"Shadows House "}
+            numero={"6"}
+            siguienteVideo={"/ver/shadows-house-7"}
+            capitulosVideo={"/shadows-house"}
+            anteriorVideo={"/ver/shadows-house-5"}
+          />
+        }
+      />
+      <Route
+        path="/ver/shadows-house-7"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/N41iiTTJ#u-RC3iyX-BrrvypPJKuIM4T1WqECilfyYdT0FDmTjns"
+            }
+            frame1={"https://sbthe.com/e/wyvqpl136hyy.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Shadows House Capitulo 7"}
+            anime={"Shadows House "}
+            numero={"7"}
+            siguienteVideo={"/ver/shadows-house-8"}
+            capitulosVideo={"/shadows-house"}
+            anteriorVideo={"/ver/shadows-house-6"}
+          />
+        }
+      />
+      <Route
+        path="/ver/shadows-house-8"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/M4Fz0YZL#-FVSH4N9ZE7xYQydA5GmKl2mv3TGOzKB6zcOODZ9lHY"
+            }
+            frame1={"https://sbthe.com/e/j3i59krrmhng.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Shadows House Capitulo 8"}
+            anime={"Shadows House "}
+            numero={"8"}
+            siguienteVideo={"/ver/shadows-house-9"}
+            capitulosVideo={"/shadows-house"}
+            anteriorVideo={"/ver/shadows-house-7"}
+          />
+        }
+      />
+      <Route
+        path="/ver/shadows-house-9"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/Yhk30JKQ#6q4Yq5QMH9b2aTWSOK6phCLAWg1Of1ln9aftylCyZ8k"
+            }
+            frame1={"https://sbthe.com/e/0s0ziktrczyk.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Shadows House Capitulo 9"}
+            anime={"Shadows House "}
+            numero={"9"}
+            siguienteVideo={"/ver/shadows-house-10"}
+            capitulosVideo={"/shadows-house"}
+            anteriorVideo={"/ver/shadows-house-8"}
+          />
+        }
+      />
+      <Route
+        path="/ver/shadows-house-10"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/801jzJSL#U3LSXiQEs2z0l8ZGc255mdvi_YT8FAh5dIjA2HNsi2c"
+            }
+            frame1={"https://sbthe.com/e/yqmx18mphuwi.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Shadows House Capitulo 10"}
+            anime={"Shadows House "}
+            numero={"10"}
+            siguienteVideo={"/ver/shadows-house-11"}
+            capitulosVideo={"/shadows-house"}
+            anteriorVideo={"/ver/shadows-house-9"}
+          />
+        }
+      />
+      <Route
+        path="/ver/shadows-house-11"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/5pMWXZKD#ym74WfmxCh4cmV4t0FmRHg9YAwXe-RsSj2lgzKh8_C4"
+            }
+            frame1={"https://sbthe.com/e/xp431x8wk9yx.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Shadows House Capitulo 11"}
+            anime={"Shadows House "}
+            numero={"11"}
+            siguienteVideo={"/ver/shadows-house-12"}
+            capitulosVideo={"/shadows-house"}
+            anteriorVideo={"/ver/shadows-house-10"}
+          />
+        }
+      />
+      <Route
+        path="/ver/shadows-house-12"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/JTcmGCZS#Bt6e_FCSSOierWo8VvPlSzZAoEF8ivwPH-Gmkv-fg38"
+            }
+            frame1={"https://sbthe.com/e/cgkcbbidjyjo.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Shadows House Capitulo 12"}
+            anime={"Shadows House "}
+            numero={"12"}
+            siguienteVideo={"/ver/shadows-house-13"}
+            capitulosVideo={"/shadows-house"}
+            anteriorVideo={"/ver/shadows-house-11"}
+          />
+        }
+      />
+      <Route
+        path="/ver/shadows-house-13"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/Z1EBwagC#6ctJ0cL_rHmWd0T5lBF-B4ssI4gjifOi2uRhG5E-DL0"
+            }
+            frame1={"https://sbthe.com/e/8zrmk5g5qacp.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
+            tituloAnime={"Shadows House Capitulo 13"}
+            lastCapitulo={"button-caps-last"}
+            anime={"Shadows House "}
+            numero={"13"}
+            capitulosVideo={"/shadows-house"}
+            anteriorVideo={"/ver/shadows-house-12"}
+          />
+        }
+      />
+      ---------------- ---------------- ----------------
       <Route
         path="/ver/-1"
         element={
