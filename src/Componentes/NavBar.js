@@ -93,6 +93,8 @@ export default function Menubar() {
                   style={{ color: "#d1d1d1" }}
                 >
                   Perfil
+                  <i className="fa-sharp fa-solid fa-caret-up"></i>
+                  <i className="fa-sharp fa-solid fa-caret-down"></i>
                 </a>
 
                 <ul
