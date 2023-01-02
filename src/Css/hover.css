@@ -239,6 +239,11 @@
   }
 }
 @media (min-width: 1000px) {
+  .logout-sesion-mobile {
+    background-color: #336363 !important;
+    color: #d1d1d1;
+    outline: none;
+  }
   .session-desktop {
     background-color: #336363 !important;
   }
