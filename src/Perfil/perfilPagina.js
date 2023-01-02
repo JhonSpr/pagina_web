@@ -48,7 +48,7 @@ const PerfilPag = () => {
 
             <button
               onClick={() => logout({ returnTo: window.location.origin })}
-              className="button session-desktop"
+              className="session-desktop"
             >
               Cerrar Session
             </button>
