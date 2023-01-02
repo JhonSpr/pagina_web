@@ -237,6 +237,9 @@
   }
 }
 @media (min-width: 1000px) {
+  .session-desktop {
+    background-color: #336363 !important;
+  }
   .dropdown-toggle {
     display: none;
   }
