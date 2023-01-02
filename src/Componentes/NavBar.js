@@ -7,8 +7,6 @@ import { LoginButton } from "./Elements/login";
 import LogoutButton from "./Elements/logout";
 import Profile from "../Perfil/perfil";
 import { useAuth0 } from "@auth0/auth0-react";
-import { LoginButtonMobile } from "./Elements/LoginMobile";
-import LogoutButtonMobile from "./Elements/LogoutMobile";
 import ProfileMobile from "../Perfil/perfilMobile";
 import { useState } from "react";
 import { AlertNoLogged } from "./Elements/Alert";
