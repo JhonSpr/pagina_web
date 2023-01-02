@@ -8,7 +8,7 @@ const LogoutButton = () => {
   return (
     <a
       onClick={() => logout({ returnTo: window.location.origin })}
-      style={{ marginLeft: "10px" }}
+      style={{ marginLeft: "10px", borderTop: "1px solid #00f4f8" }}
     >
       Cerrar Session
     </a>
