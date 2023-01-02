@@ -102,7 +102,7 @@ export default function Menubar() {
                         <LogoutButton />
                       </>
                     ) : (
-                      <LoginButton />
+                      <></>
                     )}
                   </li>
                 </ul>
