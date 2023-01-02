@@ -97,7 +97,7 @@ export default function Menubar() {
 
                 <ul
                   className="dropdown-menu"
-                  style={{ background: "#111111", marginTop: "20px" }}
+                  style={{ background: "rgba(0, 0, 0, 0.9", marginTop: "20px" }}
                 >
                   <Profile />
                   <li>
