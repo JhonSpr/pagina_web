@@ -229,6 +229,9 @@
   .navbar-collapse {
     transition: none;
   }
+  .menu-desktop {
+    display: none;
+  }
 }
 @media (min-width: 1000px) {
   .cont-icon-bars {
