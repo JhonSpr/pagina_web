@@ -243,6 +243,9 @@
     background-color: #336363 !important;
     color: #d1d1d1;
     outline: none;
+    border: 1px solid #363636;
+    padding: 5px;
+    border-radius: 7px;
   }
   .session-desktop {
     background-color: #336363 !important;
