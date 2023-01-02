@@ -87,6 +87,7 @@ function AlertNoLogged({ props }) {
       ) : (
         <li className="navbar-item item-nav" style={{ display: "block" }}>
           <a className="nav-link item-nav" onClick={handleError}>
+            <i className="fa-solid fa-lock"></i>
             Peliculas
           </a>
         </li>
