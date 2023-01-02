@@ -95,7 +95,10 @@ export default function Menubar() {
                   Perfil
                 </div>
 
-                <ul className="dropdown-menu" style={{ background: "#111111" }}>
+                <ul
+                  className="dropdown-menu"
+                  style={{ background: "#111111", marginTop: "20px" }}
+                >
                   <Profile />
                   <li>
                     {isAuthenticated ? (
