@@ -14,6 +14,7 @@ export const LoginButton = () => {
         padding: "5px",
         borderRadius: "7px",
       }}
+      className="session-desktop"
     >
       Iniciar Sesión
     </a>

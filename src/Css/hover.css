@@ -232,6 +232,9 @@
   .menu-desktop {
     display: none;
   }
+  .session-desktop {
+    display: none;
+  }
 }
 @media (min-width: 1000px) {
   .dropdown-toggle {
