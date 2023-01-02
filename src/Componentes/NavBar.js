@@ -102,7 +102,10 @@ export default function Menubar() {
                     onClick={NoIsOpen}
                   >
                     Perfil
-                    <i className="fa-sharp fa-solid fa-caret-down"></i>
+                    <i
+                      className="fa-sharp fa-solid fa-caret-down"
+                      style={{ marginLeft: "6px" }}
+                    ></i>
                   </a>
                 ) : (
                   <a
@@ -113,7 +116,10 @@ export default function Menubar() {
                     onClick={IsOpen}
                   >
                     Perfil
-                    <i className="fa-sharp fa-solid fa-caret-up"></i>
+                    <i
+                      className="fa-sharp fa-solid fa-caret-up"
+                      style={{ marginLeft: "6px" }}
+                    ></i>
                   </a>
                 )}
                 <ul
