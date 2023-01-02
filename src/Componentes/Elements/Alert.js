@@ -1,16 +1,11 @@
+/* eslint-disable no-unused-vars */
 /* eslint-disable jsx-a11y/anchor-is-valid */
-/*
- * Author: Alex Chau
- * Date: 8 March 2019
- *
- * Description:
- *    Test Alertify functionalities
- */
+
 import React from "react";
 import alertify from "alertifyjs";
 import { useAuth0 } from "@auth0/auth0-react";
 
-function AlertNoLogged({ props }) {
+export function AlertNoLogged({ mensaje }) {
   const { isAuthenticated } = useAuth0();
   // eslint-disable-next-line no-unused-vars
   const handleSimpleMessage = () => {
@@ -31,7 +26,7 @@ function AlertNoLogged({ props }) {
     // error notification
     // Shorthand for:
     // alertify.notify( message, 'error', [wait, callback]);
-    alertify.error("Necesitas estar logeado");
+    alertify.error(mensaje);
   };
   // eslint-disable-next-line no-unused-vars
   const handleWarning = () => {
@@ -53,10 +48,10 @@ function AlertNoLogged({ props }) {
       "Custom Heading",
       "This is a confirm dialog.",
       function () {
-        alertify.success("Ok");
+        alertify.success();
       },
       function () {
-        alertify.error("Cancel");
+        alertify.error();
       }
     );
   };
@@ -102,5 +97,66 @@ function AlertNoLogged({ props }) {
     </React.Fragment>
   );
 }
+export function AlertSucces({ mensaje }) {
+  const Correctamente = () => {
+    alertify.success("Todo salio Correctamente");
+  };
+  const { isAuthenticated } = useAuth0();
 
-export default AlertNoLogged;
+  return (
+    <>
+      {isAuthenticated ? (
+        <li className="navbar-item item-nav" style={{ display: "block" }}>
+          <a className="nav-link item-nav" href="/peliculas">
+            {mensaje}
+          </a>
+        </li>
+      ) : (
+        <li className="navbar-item item-nav" style={{ display: "block" }}>
+          <a
+            className="nav-link item-nav"
+            onClick={Correctamente}
+            style={{ textAlign: "center" }}
+          >
+            <i className="fa-solid fa-lock" style={{ marginRight: "6px" }}></i>
+            {mensaje}
+          </a>
+        </li>
+      )}
+    </>
+  );
+}
+export function AlertNoSession({ mensajeOk, mensajeCancel }) {
+  const { isAuthenticated } = useAuth0();
+
+  const handleOkCancelConfirmation = () => {
+    alertify.confirm(
+      "Necesitas Estar Logeado",
+      "Inicia Sesión para usar esta categoria",
+      function () {
+        alertify.success(mensajeOk);
+      },
+      function () {
+        alertify.error(mensajeCancel);
+      }
+    );
+  };
+  return (
+    <>
+      {isAuthenticated ? (
+        <li className="navbar-item item-nav" style={{ display: "block" }}>
+          <a className="nav-link item-nav" href="/peliculas">
+            Peliculas
+          </a>
+        </li>
+      ) : (
+        <li className="navbar-item item-nav" style={{ display: "block" }}>
+          <a className="nav-link item-nav" onClick={handleOkCancelConfirmation}>
+            <i className="fa-solid fa-lock" style={{ marginRight: "6px" }}></i>
+            Peliculas
+          </a>
+        </li>
+      )}
+    </>
+  );
+}

@@ -7,21 +7,6 @@ import Scroll from "../Componentes/Elements/Scroll";
 
 /* eslint-disable jsx-a11y/no-distracting-elements */
 export function Inicio() {
-  (function () {
-    // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-    var d = document,
-      s = d.createElement("script"); // IMPORTANT: Replace EXAMPLE with your forum shortname!
-    s.src = "https://animekuns-1.disqus.com/recommendations.js";
-    s.setAttribute("data-timestamp", +new Date());
-    (d.head || d.body).appendChild(s);
-  })();
-
-  <noscript>
-    Please enable JavaScript to view the
-    <a href="https://disqus.com/?ref_noscript" rel="nofollow">
-      comments powered by Disqus.
-    </a>
-  </noscript>;
   const [info, setInfo] = useState([]);
 
   useEffect(() => {
@@ -227,7 +212,6 @@ export function Inicio() {
                     </article>
                   </div>
                   <ButtonDisqus />
-                  <div id="disqus_recommendations"></div>
                 </div>
               </div>
             </div>

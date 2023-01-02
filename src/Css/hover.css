@@ -2,6 +2,47 @@
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
 }
+.button {
+  color: #d1d1d1;
+  margin-bottom: 20px;
+  right: 0;
+  margin-left: 10px;
+}
+.button:hover {
+  color: #00f4f8;
+}
+.ajs-dialog {
+  background-color: #111111 !important;
+  color: #d1d1d1 !important;
+}
+.ajs-header {
+  background-color: #111111 !important;
+  color: #d1d1d1 !important;
+  border-radius: 1000px !important;
+}
+.ajs-footer {
+  background-color: #111111 !important;
+  color: #464646 !important;
+  border-radius: 1000px !important;
+}
+.ajs-ok {
+  color: #00f4f8 !important;
+  background-color: #363636 !important;
+  border-radius: 100px;
+  outline: none !important;
+}
+.ajs-cancel {
+  color: #00f4f8 !important;
+  background-color: #363636 !important;
+  border-radius: 100px;
+  outline: none !important;
+}
+.ajs-ok:hover {
+  color: #d1d1d1 !important;
+}
+.ajs-cancel:hover {
+  color: #d1d1d1 !important;
+}
 .serie-card {
   overflow: hidden;
 }

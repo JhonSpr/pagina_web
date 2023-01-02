@@ -10,8 +10,8 @@ import { useAuth0 } from "@auth0/auth0-react";
 import { LoginButtonMobile } from "./Elements/LoginMobile";
 import LogoutButtonMobile from "./Elements/LogoutMobile";
 import ProfileMobile from "../Perfil/perfilMobile";
-import AlertNoLogged from "./Elements/Alert";
 import { useState } from "react";
+import { AlertNoLogged } from "./Elements/Alert";
 
 export default function Menubar() {
   const { isAuthenticated } = useAuth0();
@@ -80,7 +80,7 @@ export default function Menubar() {
                   Emisiones
                 </a>
               </li>
-              <AlertNoLogged />
+              <AlertNoLogged mensaje={"Necesitas Estar Logeado!"} />
               {isAuthenticated ? <ProfileMobile /> : <></>}
             </ul>
 
