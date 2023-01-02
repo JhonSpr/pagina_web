@@ -96,7 +96,7 @@ export default function Menubar() {
                   <i className="fa-sharp fa-solid fa-caret-up"></i>
                   <i className="fa-sharp fa-solid fa-caret-down"></i>
                 </a>
-
+                
                 <ul
                   className="dropdown-menu"
                   style={{ background: "rgba(0, 0, 0, 0.9", marginTop: "20px" }}
