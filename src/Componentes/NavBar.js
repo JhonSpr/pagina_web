@@ -87,14 +87,14 @@ export default function Menubar() {
             {isAuthenticated ? (
               <div className="dropdown filter-item">
                 <div
-                  className="dropdown-toggle navbar-item-menu-drop navbar-item perfil"
+                  className="dropdown-toggle  "
                   data-bs-toggle="dropdown"
                   aria-expanded="false"
                 >
                   Perfil
                 </div>
 
-                <ul className="dropdown-menu  menu-drop">
+                <ul className="dropdown-menu dropdown-menu-dark menu-drop">
                   <Profile />
                   <li>
                     {isAuthenticated ? (
