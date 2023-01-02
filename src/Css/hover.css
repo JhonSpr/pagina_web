@@ -234,6 +234,9 @@
   }
 }
 @media (min-width: 1000px) {
+  .dropdown-toggle {
+    display: none;
+  }
   .cont-icon-bars {
     display: none !important;
   }
