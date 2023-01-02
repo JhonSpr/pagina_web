@@ -14,9 +14,16 @@ import { useState } from "react";
 import { AlertNoLogged } from "./Elements/Alert";
 
 export default function Menubar() {
+  const [open, setOpen] = useState(false);
   const { isAuthenticated } = useAuth0();
   const [X, setX] = useState(false);
 
+  const IsOpen = () => {
+    setOpen(true);
+  };
+  const NoIsOpen = () => {
+    setOpen(false);
+  };
   const changeX = () => {
     setX(true);
   };
@@ -86,17 +93,29 @@ export default function Menubar() {
 
             {isAuthenticated ? (
               <div className="dropdown filter-item">
-                <a
-                  className="menu-desktop "
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
-                  style={{ color: "#d1d1d1" }}
-                >
-                  Perfil
-                  <i className="fa-sharp fa-solid fa-caret-up"></i>
-                  <i className="fa-sharp fa-solid fa-caret-down"></i>
-                </a>
-                
+                {open ? (
+                  <a
+                    className="menu-desktop "
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false"
+                    style={{ color: "#d1d1d1" }}
+                    onClick={NoIsOpen}
+                  >
+                    Perfil
+                    <i className="fa-sharp fa-solid fa-caret-down"></i>
+                  </a>
+                ) : (
+                  <a
+                    className="menu-desktop "
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false"
+                    style={{ color: "#d1d1d1" }}
+                    onClick={IsOpen}
+                  >
+                    Perfil
+                    <i className="fa-sharp fa-solid fa-caret-up"></i>
+                  </a>
+                )}
                 <ul
                   className="dropdown-menu"
                   style={{ background: "rgba(0, 0, 0, 0.9", marginTop: "20px" }}
