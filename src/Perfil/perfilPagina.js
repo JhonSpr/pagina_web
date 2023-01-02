@@ -2,15 +2,14 @@ import React from "react";
 import { useAuth0 } from "@auth0/auth0-react";
 
 const PerfilPag = () => {
-  const { loginWithRedirect } = useAuth0();
   const { logout } = useAuth0();
 
   const { user, isAuthenticated, isLoading } = useAuth0();
 
   if (isLoading) {
     return (
-      <div class="spinner-border text-secondary" role="status">
-        <span class="visually-hidden">Loading...</span>
+      <div className="spinner-border text-secondary" role="status">
+        <span className="visually-hidden">Loading...</span>
       </div>
     );
   }
@@ -48,16 +47,8 @@ const PerfilPag = () => {
             </ul>
 
             <button
-              className="button"
-              type="button"
-              disabled
-              onClick={() => loginWithRedirect()}
-            >
-              Iniciar Sesion
-            </button>
-            <button
               onClick={() => logout({ returnTo: window.location.origin })}
-              className="button"
+              className="button session-desktop"
             >
               Cerrar Session
             </button>
