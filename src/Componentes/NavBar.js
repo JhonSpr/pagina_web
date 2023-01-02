@@ -142,14 +142,6 @@ export default function Menubar() {
               <LoginButton />
             )}
 
-            {isAuthenticated ? (
-              <>
-                <LogoutButtonMobile />
-              </>
-            ) : (
-              <LoginButtonMobile />
-            )}
-
             <SearchBar
               placeholder={"Buscar animes..."}
               data={BookData}
