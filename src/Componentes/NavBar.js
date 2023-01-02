@@ -125,15 +125,6 @@ export default function Menubar() {
                   style={{ background: "rgba(0, 0, 0, 0.9", marginTop: "20px" }}
                 >
                   <Profile />
-                  <li>
-                    {isAuthenticated ? (
-                      <>
-                        <LogoutButton />
-                      </>
-                    ) : (
-                      <></>
-                    )}
-                  </li>
                 </ul>
               </div>
             ) : (
