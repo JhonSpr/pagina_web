@@ -93,6 +93,7 @@ export default function Menubar() {
                 >
                   Perfil
                 </div>
+                <div className="figura_search"></div>
                 <ul className="dropdown-menu dropdown-menu-dark menu-drop">
                   <Profile />
                   <li>
