@@ -3,6 +3,7 @@ import { useAuth0 } from "@auth0/auth0-react";
 
 const ProfileMobile = () => {
   const { user, isAuthenticated, isLoading } = useAuth0();
+  const { logout } = useAuth0();
 
   if (isLoading) {
     return (
@@ -22,6 +23,12 @@ const ProfileMobile = () => {
         <a href={`/perfil/${user.nickname}`}>
           <h2 className="nickname">{user.nickname}</h2>
         </a>
+        <button
+          onClick={() => logout({ returnTo: window.location.origin })}
+          className="session-desktop"
+        >
+          Cerrar Session
+        </button>
       </li>
     )
   );
