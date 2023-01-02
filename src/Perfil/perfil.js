@@ -8,10 +8,10 @@ const Profile = () => {
   if (isLoading) {
     return (
       <div
-        class="spinner-border spinner-border-sm spinner-container"
+        className="spinner-border spinner-border-sm spinner-container"
         role="status"
       >
-        <span class="visually-hidden">Loading...</span>
+        <span className="visually-hidden">Loading...</span>
       </div>
     );
   }
