@@ -124,12 +124,19 @@ export default function Menubar() {
                   style={{ background: "rgba(0, 0, 0, 0.9", marginTop: "20px" }}
                 >
                   <Profile />
-                  <button
-                    onClick={() => logout({ returnTo: window.location.origin })}
-                    className="logout-sesion-mobile"
+                  <div
+                    className="container-button"
+                    style={{ textAlign: "center" }}
                   >
-                    Cerrar Sesion
-                  </button>
+                    <button
+                      onClick={() =>
+                        logout({ returnTo: window.location.origin })
+                      }
+                      className="logout-sesion-mobile"
+                    >
+                      Cerrar Sesion
+                    </button>
+                  </div>
                 </ul>
               </div>
             ) : (
