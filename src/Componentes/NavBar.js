@@ -126,7 +126,10 @@ export default function Menubar() {
                   <Profile />
                   <div
                     className="container-button"
-                    style={{ textAlign: "center" }}
+                    style={{
+                      textAlign: "center",
+                      borderBottom: "1px solid #363636",
+                    }}
                   >
                     <button
                       onClick={() =>
