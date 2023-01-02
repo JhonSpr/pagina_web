@@ -4,7 +4,6 @@ import img from "../Json/Data.json";
 import BookData from "../Json/Data.json";
 import SearchBar from "../searchComponent";
 import { LoginButton } from "./Elements/login";
-import LogoutButton from "./Elements/logout";
 import Profile from "../Perfil/perfil";
 import { useAuth0 } from "@auth0/auth0-react";
 import ProfileMobile from "../Perfil/perfilMobile";
@@ -13,7 +12,7 @@ import { AlertNoLogged } from "./Elements/Alert";
 
 export default function Menubar() {
   const [open, setOpen] = useState(false);
-  const { isAuthenticated } = useAuth0();
+  const { isAuthenticated, logout } = useAuth0();
   const [X, setX] = useState(false);
 
   const IsOpen = () => {
@@ -125,6 +124,12 @@ export default function Menubar() {
                   style={{ background: "rgba(0, 0, 0, 0.9", marginTop: "20px" }}
                 >
                   <Profile />
+                  <button
+                    onClick={() => logout({ returnTo: window.location.origin })}
+                    className="logout-sesion-mobile"
+                  >
+                    Cerrar Sesion
+                  </button>
                 </ul>
               </div>
             ) : (

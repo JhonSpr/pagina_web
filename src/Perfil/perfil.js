@@ -2,8 +2,7 @@ import React from "react";
 import { useAuth0 } from "@auth0/auth0-react";
 
 const Profile = () => {
-  const { user, isAuthenticated, isLoading, logout, loginWithRedirect } =
-    useAuth0();
+  const { user, isAuthenticated, isLoading } = useAuth0();
 
   if (isLoading) {
     return (
@@ -24,27 +23,6 @@ const Profile = () => {
         <a href={`/perfil/${user.nickname}`}>
           <h2 className="nickname">{user.nickname}</h2>
         </a>
-        {isAuthenticated ? (
-          <button
-            onClick={() => logout({ returnTo: window.location.origin })}
-            className="logout-sesion-mobile"
-          >
-            Cerrar Sesion
-          </button>
-        ) : (
-          <button
-            onClick={() => loginWithRedirect()}
-            style={{
-              color: "#d1d1d1",
-              border: "1px solid #363636",
-              padding: "5px",
-              borderRadius: "7px",
-            }}
-            className="session-desktop"
-          >
-            Iniciar Sesión
-          </button>
-        )}
       </li>
     )
   );
