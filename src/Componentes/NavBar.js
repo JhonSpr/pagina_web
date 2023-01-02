@@ -94,7 +94,7 @@ export default function Menubar() {
                   Perfil
                 </div>
 
-                <ul className="dropdown-menu dropdown-menu-dark menu-drop">
+                <ul className="dropdown-menu">
                   <Profile />
                   <li>
                     {isAuthenticated ? (
