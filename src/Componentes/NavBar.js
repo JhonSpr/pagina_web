@@ -87,7 +87,7 @@ export default function Menubar() {
             {isAuthenticated ? (
               <div className="dropdown filter-item">
                 <div
-                  className="dropdown-toggle menu-desktop "
+                  className="menu-desktop "
                   data-bs-toggle="dropdown"
                   aria-expanded="false"
                   style={{ color: "#d1d1d1" }}
