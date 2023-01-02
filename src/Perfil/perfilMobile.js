@@ -25,9 +25,9 @@ const ProfileMobile = () => {
         </a>
         <button
           onClick={() => logout({ returnTo: window.location.origin })}
-          className="session-desktop"
+          className="logout-sesion-mobile"
         >
-          Cerrar Session
+          Cerrar Sesion
         </button>
       </li>
     )
