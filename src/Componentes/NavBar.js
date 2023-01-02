@@ -90,6 +90,7 @@ export default function Menubar() {
                   className="dropdown-toggle  "
                   data-bs-toggle="dropdown"
                   aria-expanded="false"
+                  style={{ color: "#d1d1d1" }}
                 >
                   Perfil
                 </div>
