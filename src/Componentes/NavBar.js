@@ -129,7 +129,7 @@ export default function Menubar() {
                     style={{
                       textAlign: "center",
                       borderTop: "1px solid #363636",
-                      padding: "5px auto",
+                      marginTop: "5px",
                     }}
                   >
                     <button
