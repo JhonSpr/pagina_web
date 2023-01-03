@@ -6,16 +6,7 @@ export const LoginButton = () => {
   const { loginWithRedirect } = useAuth0();
 
   return (
-    <a
-      onClick={() => loginWithRedirect()}
-      style={{
-        color: "#d1d1d1",
-        border: "1px solid #363636",
-        padding: "5px",
-        borderRadius: "7px",
-      }}
-      className="session-desktop"
-    >
+    <a onClick={() => loginWithRedirect()} className="session-desktop">
       Iniciar Sesión
     </a>
   );

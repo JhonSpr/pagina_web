@@ -128,7 +128,8 @@ export default function Menubar() {
                     className="container-button"
                     style={{
                       textAlign: "center",
-                      borderBottom: "1px solid #363636",
+                      borderTop: "1px solid #363636",
+                      padding: "5px auto",
                     }}
                   >
                     <button
