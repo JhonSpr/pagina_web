@@ -13114,7 +13114,851 @@ function Videos() {
             anteriorVideo={"/ver/zuihou-de-zhaohuan-shi-the-last-summoner-11"}
           />
         }
-      />{" "}
+      />
+      <Route
+        path="/ver/-1"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="disable"
+            lastCapitulo={"button-caps-fisrt"}
+            tituloAnime={" Capitulo 1"}
+            contSiguienteClass={"button-next"}
+            anime={""}
+            numero={"1"}
+            siguienteVideo={"/ver/-2"}
+            capitulosVideo={"/"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-2"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 2"}
+            anime={" "}
+            numero={"2"}
+            siguienteVideo={"/ver/-3"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-1"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-3"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 3"}
+            anime={" "}
+            numero={"3"}
+            siguienteVideo={"/ver/-4"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-2"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-4"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 4"}
+            anime={" "}
+            numero={"4"}
+            siguienteVideo={"/ver/-5"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-3"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-5"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 5"}
+            anime={" "}
+            numero={"5"}
+            siguienteVideo={"/ver/-6"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-4"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-6"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 6"}
+            anime={" "}
+            numero={"6"}
+            siguienteVideo={"/ver/-7"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-5"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-7"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 7"}
+            anime={" "}
+            numero={"7"}
+            siguienteVideo={"/ver/-8"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-6"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-8"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 8"}
+            anime={" "}
+            numero={"8"}
+            siguienteVideo={"/ver/-9"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-7"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-9"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 9"}
+            anime={" "}
+            numero={"9"}
+            siguienteVideo={"/ver/-10"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-8"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-10"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 10"}
+            anime={" "}
+            numero={"10"}
+            siguienteVideo={"/ver/-11"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-9"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-11"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 11"}
+            anime={" "}
+            numero={"11"}
+            siguienteVideo={"/ver/-12"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-10"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-12"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
+            tituloAnime={" Capitulo 12"}
+            lastCapitulo={"button-caps-last"}
+            anime={" "}
+            numero={"12"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-11"}
+          />
+        }
+      />
+      ----------------
+      <Route
+        path="/ver/shingeki-no-bahamut-genesis-1"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/iLhwSQZZ#AMgeiQDUu5yE5HaU5PyI2QBw44YASPCIhCWXaOQC-U4"
+            }
+            frame1={"https://sbthe.com/e/6a5dutvx4gyp.html"}
+            contAnteriorClass="disable"
+            lastCapitulo={"button-caps-fisrt"}
+            tituloAnime={"Shingeki no Bahamut: Genesis Capitulo 1"}
+            contSiguienteClass={"button-next"}
+            anime={"Shingeki no Bahamut: Genesis"}
+            numero={"1"}
+            siguienteVideo={"/ver/shingeki-no-bahamut-genesis-2"}
+            capitulosVideo={"/shingeki-no-bahamut-genesis"}
+          />
+        }
+      />
+      <Route
+        path="/ver/shingeki-no-bahamut-genesis-2"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/KfBCDIwQ#AFyADwAlQP_ir-CuDg678wClgiUAXi1L4g-S1w7QgnU"
+            }
+            frame1={"https://sbthe.com/e/ydwocspb1oy1.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Shingeki no Bahamut: Genesis Capitulo 2"}
+            anime={"Shingeki no Bahamut: Genesis "}
+            numero={"2"}
+            siguienteVideo={"/ver/shingeki-no-bahamut-genesis-3"}
+            capitulosVideo={"/shingeki-no-bahamut-genesis"}
+            anteriorVideo={"/ver/shingeki-no-bahamut-genesis-1"}
+          />
+        }
+      />
+      <Route
+        path="/ver/shingeki-no-bahamut-genesis-3"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/3WR0XDpL#AE__IwDnf2NbA8ewIVClpwDTxXEASt3jW9TkdiGS6i8"
+            }
+            frame1={"https://sbthe.com/e/eh7mvyhhl7px.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Shingeki no Bahamut: Genesis Capitulo 3"}
+            anime={"Shingeki no Bahamut: Genesis "}
+            numero={"3"}
+            siguienteVideo={"/ver/shingeki-no-bahamut-genesis-4"}
+            capitulosVideo={"/shingeki-no-bahamut-genesis"}
+            anteriorVideo={"/ver/shingeki-no-bahamut-genesis-2"}
+          />
+        }
+      />
+      <Route
+        path="/ver/shingeki-no-bahamut-genesis-4"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/iXgwiRLT#AHK6LQD2pmAjP9xBPmI9qwDhJFwAvANiI9gh_T6sFsc"
+            }
+            frame1={"https://sbthe.com/e/5e431jh808s4.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Shingeki no Bahamut: Genesis Capitulo 4"}
+            anime={"Shingeki no Bahamut: Genesis "}
+            numero={"4"}
+            siguienteVideo={"/ver/shingeki-no-bahamut-genesis-5"}
+            capitulosVideo={"/shingeki-no-bahamut-genesis"}
+            anteriorVideo={"/ver/shingeki-no-bahamut-genesis-3"}
+          />
+        }
+      />
+      <Route
+        path="/ver/shingeki-no-bahamut-genesis-5"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/zeYwEYZD#AHACYgDWxzgxRIgtod1mJQDMKdYAps8GMT91CaHL_3Y"
+            }
+            frame1={"https://sbthe.com/e/5kwda4l0c9p9.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Shingeki no Bahamut: Genesis Capitulo 5"}
+            anime={"Shingeki no Bahamut: Genesis "}
+            numero={"5"}
+            siguienteVideo={"/ver/shingeki-no-bahamut-genesis-6"}
+            capitulosVideo={"/shingeki-no-bahamut-genesis"}
+            anteriorVideo={"/ver/shingeki-no-bahamut-genesis-4"}
+          />
+        }
+      />
+      <Route
+        path="/ver/shingeki-no-bahamut-genesis-6"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/WTZRVB6D#AFGwgADL7570r2WSugJdWQCY-gMAzqXt9IWJnroainU"
+            }
+            frame1={"https://sbthe.com/e/g8zdldyalmga.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Shingeki no Bahamut: Genesis Capitulo 6"}
+            anime={"Shingeki no Bahamut: Genesis "}
+            numero={"6"}
+            siguienteVideo={"/ver/shingeki-no-bahamut-genesis-7"}
+            capitulosVideo={"/shingeki-no-bahamut-genesis"}
+            anteriorVideo={"/ver/shingeki-no-bahamut-genesis-5"}
+          />
+        }
+      />
+      <Route
+        path="/ver/shingeki-no-bahamut-genesis-7"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/iWQlkDoJ#APGxvAB9-cPoPqu5pvdWhgATa9gAJ2G86Gq4j6bLWw0"
+            }
+            frame1={"https://sbthe.com/e/vy95fxs5peco.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Shingeki no Bahamut: Genesis Capitulo 7"}
+            anime={"Shingeki no Bahamut: Genesis "}
+            numero={"7"}
+            siguienteVideo={"/ver/shingeki-no-bahamut-genesis-8"}
+            capitulosVideo={"/shingeki-no-bahamut-genesis"}
+            anteriorVideo={"/ver/shingeki-no-bahamut-genesis-6"}
+          />
+        }
+      />
+      <Route
+        path="/ver/shingeki-no-bahamut-genesis-8"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/SHox0bCK#AIpk4wAx7w55-Fhzom9wNQArf8YAtVk8eZcJgqK3UOg"
+            }
+            frame1={"https://sbthe.com/e/yb50ll5j2t7t.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Shingeki no Bahamut: Genesis Capitulo 8"}
+            anime={"Shingeki no Bahamut: Genesis "}
+            numero={"8"}
+            siguienteVideo={"/ver/shingeki-no-bahamut-genesis-9"}
+            capitulosVideo={"/shingeki-no-bahamut-genesis"}
+            anteriorVideo={"/ver/shingeki-no-bahamut-genesis-7"}
+          />
+        }
+      />
+      <Route
+        path="/ver/shingeki-no-bahamut-genesis-9"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/vfIEWCRZ#AAWyzgAnGTT-8-0p8vNs5QCCnOQAipQS_lv2J_JFt7s"
+            }
+            frame1={"https://sbthe.com/e/sg3fcw7dze03.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Shingeki no Bahamut: Genesis Capitulo 9"}
+            anime={"Shingeki no Bahamut: Genesis "}
+            numero={"9"}
+            siguienteVideo={"/ver/shingeki-no-bahamut-genesis-10"}
+            capitulosVideo={"/shingeki-no-bahamut-genesis"}
+            anteriorVideo={"/ver/shingeki-no-bahamut-genesis-8"}
+          />
+        }
+      />
+      <Route
+        path="/ver/shingeki-no-bahamut-genesis-10"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/WfZ1mYgb#AFr2vAAzS6YSR72HceQLAwCVR_oAKiCEErg6t3GTqrU"
+            }
+            frame1={"https://sbthe.com/e/9fmgioptq4lf.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Shingeki no Bahamut: Genesis Capitulo 10"}
+            anime={"Shingeki no Bahamut: Genesis "}
+            numero={"10"}
+            siguienteVideo={"/ver/shingeki-no-bahamut-genesis-11"}
+            capitulosVideo={"/shingeki-no-bahamut-genesis"}
+            anteriorVideo={"/ver/shingeki-no-bahamut-genesis-9"}
+          />
+        }
+      />
+      <Route
+        path="/ver/shingeki-no-bahamut-genesis-11"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/XbRSBSpT#AHl4AwCZNiceZb0MxsIyzgCHOVYAhx63Hk-K2cbaKBc"
+            }
+            frame1={"https://sbthe.com/e/fh6mdni0sod8.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Shingeki no Bahamut: Genesis Capitulo 11"}
+            anime={"Shingeki no Bahamut: Genesis "}
+            numero={"11"}
+            siguienteVideo={"/ver/shingeki-no-bahamut-genesis-12"}
+            capitulosVideo={"/shingeki-no-bahamut-genesis"}
+            anteriorVideo={"/ver/shingeki-no-bahamut-genesis-10"}
+          />
+        }
+      />
+      <Route
+        path="/ver/shingeki-no-bahamut-genesis-12"
+        element={
+          <Video
+            frame2={
+              "https://mega.nz/embed/baAA3QKS#AGShgQDw9r8hCfUXxAVd3wBpRzIAFIheIR5_DcTo7zk"
+            }
+            frame1={"https://sbthe.com/e/lu6e9369nrk0.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
+            tituloAnime={"Shingeki no Bahamut: Genesis Capitulo 12"}
+            lastCapitulo={"button-caps-last"}
+            anime={"Shingeki no Bahamut: Genesis "}
+            numero={"12"}
+            capitulosVideo={"/shingeki-no-bahamut-genesis"}
+            anteriorVideo={"/ver/shingeki-no-bahamut-genesis-11"}
+          />
+        }
+      />
+      ----------------
+      <Route
+        path="/ver/-1"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="disable"
+            lastCapitulo={"button-caps-fisrt"}
+            tituloAnime={" Capitulo 1"}
+            contSiguienteClass={"button-next"}
+            anime={""}
+            numero={"1"}
+            siguienteVideo={"/ver/-2"}
+            capitulosVideo={"/"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-2"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 2"}
+            anime={" "}
+            numero={"2"}
+            siguienteVideo={"/ver/-3"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-1"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-3"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 3"}
+            anime={" "}
+            numero={"3"}
+            siguienteVideo={"/ver/-4"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-2"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-4"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 4"}
+            anime={" "}
+            numero={"4"}
+            siguienteVideo={"/ver/-5"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-3"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-5"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 5"}
+            anime={" "}
+            numero={"5"}
+            siguienteVideo={"/ver/-6"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-4"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-6"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 6"}
+            anime={" "}
+            numero={"6"}
+            siguienteVideo={"/ver/-7"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-5"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-7"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 7"}
+            anime={" "}
+            numero={"7"}
+            siguienteVideo={"/ver/-8"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-6"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-8"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 8"}
+            anime={" "}
+            numero={"8"}
+            siguienteVideo={"/ver/-9"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-7"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-9"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 9"}
+            anime={" "}
+            numero={"9"}
+            siguienteVideo={"/ver/-10"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-8"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-10"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 10"}
+            anime={" "}
+            numero={"10"}
+            siguienteVideo={"/ver/-11"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-9"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-11"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 11"}
+            anime={" "}
+            numero={"11"}
+            siguienteVideo={"/ver/-12"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-10"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-12"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
+            tituloAnime={" Capitulo 12"}
+            lastCapitulo={"button-caps-last"}
+            anime={" "}
+            numero={"12"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-11"}
+          />
+        }
+      />
+      ----------------
+      <Route
+        path="/ver/-1"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="disable"
+            lastCapitulo={"button-caps-fisrt"}
+            tituloAnime={" Capitulo 1"}
+            contSiguienteClass={"button-next"}
+            anime={""}
+            numero={"1"}
+            siguienteVideo={"/ver/-2"}
+            capitulosVideo={"/"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-2"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 2"}
+            anime={" "}
+            numero={"2"}
+            siguienteVideo={"/ver/-3"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-1"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-3"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 3"}
+            anime={" "}
+            numero={"3"}
+            siguienteVideo={"/ver/-4"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-2"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-4"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 4"}
+            anime={" "}
+            numero={"4"}
+            siguienteVideo={"/ver/-5"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-3"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-5"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 5"}
+            anime={" "}
+            numero={"5"}
+            siguienteVideo={"/ver/-6"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-4"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-6"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 6"}
+            anime={" "}
+            numero={"6"}
+            siguienteVideo={"/ver/-7"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-5"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-7"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 7"}
+            anime={" "}
+            numero={"7"}
+            siguienteVideo={"/ver/-8"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-6"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-8"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 8"}
+            anime={" "}
+            numero={"8"}
+            siguienteVideo={"/ver/-9"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-7"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-9"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 9"}
+            anime={" "}
+            numero={"9"}
+            siguienteVideo={"/ver/-10"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-8"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-10"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 10"}
+            anime={" "}
+            numero={"10"}
+            siguienteVideo={"/ver/-11"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-9"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-11"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={" Capitulo 11"}
+            anime={" "}
+            numero={"11"}
+            siguienteVideo={"/ver/-12"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-10"}
+          />
+        }
+      />
+      <Route
+        path="/ver/-12"
+        element={
+          <Video
+            frame2={""}
+            frame1={"https://sbthe.com/e/.html"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
+            tituloAnime={" Capitulo 12"}
+            lastCapitulo={"button-caps-last"}
+            anime={" "}
+            numero={"12"}
+            capitulosVideo={"/"}
+            anteriorVideo={"/ver/-11"}
+          />
+        }
+      />
+      ----------------
       <Route
         path="/ver/-1"
         element={

@@ -1610,19 +1610,19 @@ function App() {
               sec3="disable"
               nombreSecuela={"Shingeki no Bahamut: Virgin Soul"}
               textoSecuela={"Secuela"}
-              hrefSecuela={"/shingeki-no-bahamut:-virgin-soul"}
-              capituloAnime1={"/shingeki-no-bahamut-genesis-1"}
-              capituloAnime2={"/shingeki-no-bahamut-genesis-2"}
-              capituloAnime3={"/shingeki-no-bahamut-genesis-3"}
-              capituloAnime4={"/shingeki-no-bahamut-genesis-4"}
-              capituloAnime5={"/shingeki-no-bahamut-genesis-5"}
-              capituloAnime6={"/shingeki-no-bahamut-genesis-6"}
-              capituloAnime7={"/shingeki-no-bahamut-genesis-7"}
-              capituloAnime8={"/shingeki-no-bahamut-genesis-8"}
-              capituloAnime9={"/shingeki-no-bahamut-genesis-9"}
-              capituloAnime10={"/shingeki-no-bahamut-genesis-10"}
-              capituloAnime11={"/shingeki-no-bahamut-genesis-11"}
-              capituloAnime12={"/shingeki-no-bahamut-genesis-12"}
+              hrefSecuela={"/ver/shingeki-no-bahamut:-virgin-soul"}
+              capituloAnime1={"/ver/shingeki-no-bahamut-genesis-1"}
+              capituloAnime2={"/ver/shingeki-no-bahamut-genesis-2"}
+              capituloAnime3={"/ver/shingeki-no-bahamut-genesis-3"}
+              capituloAnime4={"/ver/shingeki-no-bahamut-genesis-4"}
+              capituloAnime5={"/ver/shingeki-no-bahamut-genesis-5"}
+              capituloAnime6={"/ver/shingeki-no-bahamut-genesis-6"}
+              capituloAnime7={"/ver/shingeki-no-bahamut-genesis-7"}
+              capituloAnime8={"/ver/shingeki-no-bahamut-genesis-8"}
+              capituloAnime9={"/ver/shingeki-no-bahamut-genesis-9"}
+              capituloAnime10={"/ver/shingeki-no-bahamut-genesis-10"}
+              capituloAnime11={"/ver/shingeki-no-bahamut-genesis-11"}
+              capituloAnime12={"/ver/shingeki-no-bahamut-genesis-12"}
             />
           }
         />
