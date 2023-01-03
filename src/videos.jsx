@@ -12912,6 +12912,210 @@ function Videos() {
       />
       ---------------- ---------------- ----------------
       <Route
+        path="/ver/zuihou-de-zhaohuan-shi-the-last-summoner-1"
+        element={
+          <Video
+            frame2={"https://saidochesto.top/embed.php?id=22773"}
+            frame1={"https://saidochesto.top/embed.php?id=22773"}
+            contAnteriorClass="disable"
+            lastCapitulo={"button-caps-fisrt"}
+            tituloAnime={"Zuihou de Zhaohuan Shi The Last Summoner Capitulo 1"}
+            contSiguienteClass={"button-next"}
+            anime={"Zuihou de Zhaohuan Shi The Last Summoner"}
+            numero={"1"}
+            siguienteVideo={"/ver/zuihou-de-zhaohuan-shi-the-last-summoner-2"}
+            capitulosVideo={"/zuihou-de-zhaohuan-shi-the-last-summoner"}
+          />
+        }
+      />
+      <Route
+        path="/ver/zuihou-de-zhaohuan-shi-the-last-summoner-2"
+        element={
+          <Video
+            frame2={"https://saidochesto.top/embed.php?id=22774"}
+            frame1={"https://saidochesto.top/embed.php?id=22774"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Zuihou de Zhaohuan Shi The Last Summoner Capitulo 2"}
+            anime={"Zuihou de Zhaohuan Shi The Last Summoner "}
+            numero={"2"}
+            siguienteVideo={"/ver/zuihou-de-zhaohuan-shi-the-last-summoner-3"}
+            capitulosVideo={"/zuihou-de-zhaohuan-shi-the-last-summoner"}
+            anteriorVideo={"/ver/zuihou-de-zhaohuan-shi-the-last-summoner-1"}
+          />
+        }
+      />
+      <Route
+        path="/ver/zuihou-de-zhaohuan-shi-the-last-summoner-3"
+        element={
+          <Video
+            frame2={"https://saidochesto.top/embed.php?id=23397"}
+            frame1={"https://saidochesto.top/embed.php?id=23397"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Zuihou de Zhaohuan Shi The Last Summoner Capitulo 3"}
+            anime={"Zuihou de Zhaohuan Shi The Last Summoner "}
+            numero={"3"}
+            siguienteVideo={"/ver/zuihou-de-zhaohuan-shi-the-last-summoner-4"}
+            capitulosVideo={"/zuihou-de-zhaohuan-shi-the-last-summoner"}
+            anteriorVideo={"/ver/zuihou-de-zhaohuan-shi-the-last-summoner-2"}
+          />
+        }
+      />
+      <Route
+        path="/ver/zuihou-de-zhaohuan-shi-the-last-summoner-4"
+        element={
+          <Video
+            frame2={"https://saidochesto.top/embed.php?id=23658"}
+            frame1={"https://saidochesto.top/embed.php?id=23658"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Zuihou de Zhaohuan Shi The Last Summoner Capitulo 4"}
+            anime={"Zuihou de Zhaohuan Shi The Last Summoner "}
+            numero={"4"}
+            siguienteVideo={"/ver/zuihou-de-zhaohuan-shi-the-last-summoner-5"}
+            capitulosVideo={"/zuihou-de-zhaohuan-shi-the-last-summoner"}
+            anteriorVideo={"/ver/zuihou-de-zhaohuan-shi-the-last-summoner-3"}
+          />
+        }
+      />
+      <Route
+        path="/ver/zuihou-de-zhaohuan-shi-the-last-summoner-5"
+        element={
+          <Video
+            frame2={"https://saidochesto.top/embed.php?id=24162"}
+            frame1={"https://saidochesto.top/embed.php?id=24162"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Zuihou de Zhaohuan Shi The Last Summoner Capitulo 5"}
+            anime={"Zuihou de Zhaohuan Shi The Last Summoner "}
+            numero={"5"}
+            siguienteVideo={"/ver/zuihou-de-zhaohuan-shi-the-last-summoner-6"}
+            capitulosVideo={"/zuihou-de-zhaohuan-shi-the-last-summoner"}
+            anteriorVideo={"/ver/zuihou-de-zhaohuan-shi-the-last-summoner-4"}
+          />
+        }
+      />
+      <Route
+        path="/ver/zuihou-de-zhaohuan-shi-the-last-summoner-6"
+        element={
+          <Video
+            frame2={"https://saidochesto.top/embed.php?id=24526"}
+            frame1={"https://saidochesto.top/embed.php?id=24526"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Zuihou de Zhaohuan Shi The Last Summoner Capitulo 6"}
+            anime={"Zuihou de Zhaohuan Shi The Last Summoner "}
+            numero={"6"}
+            siguienteVideo={"/ver/zuihou-de-zhaohuan-shi-the-last-summoner-7"}
+            capitulosVideo={"/zuihou-de-zhaohuan-shi-the-last-summoner"}
+            anteriorVideo={"/ver/zuihou-de-zhaohuan-shi-the-last-summoner-5"}
+          />
+        }
+      />
+      <Route
+        path="/ver/zuihou-de-zhaohuan-shi-the-last-summoner-7"
+        element={
+          <Video
+            frame2={"https://saidochesto.top/embed.php?id=24658"}
+            frame1={"https://saidochesto.top/embed.php?id=24658"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Zuihou de Zhaohuan Shi The Last Summoner Capitulo 7"}
+            anime={"Zuihou de Zhaohuan Shi The Last Summoner "}
+            numero={"7"}
+            siguienteVideo={"/ver/zuihou-de-zhaohuan-shi-the-last-summoner-8"}
+            capitulosVideo={"/zuihou-de-zhaohuan-shi-the-last-summoner"}
+            anteriorVideo={"/ver/zuihou-de-zhaohuan-shi-the-last-summoner-6"}
+          />
+        }
+      />
+      <Route
+        path="/ver/zuihou-de-zhaohuan-shi-the-last-summoner-8"
+        element={
+          <Video
+            frame2={"https://saidochesto.top/embed.php?id=24721"}
+            frame1={"https://saidochesto.top/embed.php?id=24721"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Zuihou de Zhaohuan Shi The Last Summoner Capitulo 8"}
+            anime={"Zuihou de Zhaohuan Shi The Last Summoner "}
+            numero={"8"}
+            siguienteVideo={"/ver/zuihou-de-zhaohuan-shi-the-last-summoner-9"}
+            capitulosVideo={"/zuihou-de-zhaohuan-shi-the-last-summoner"}
+            anteriorVideo={"/ver/zuihou-de-zhaohuan-shi-the-last-summoner-7"}
+          />
+        }
+      />
+      <Route
+        path="/ver/zuihou-de-zhaohuan-shi-the-last-summoner-9"
+        element={
+          <Video
+            frame2={"https://saidochesto.top/embed.php?id=24807"}
+            frame1={"https://saidochesto.top/embed.php?id=24807"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Zuihou de Zhaohuan Shi The Last Summoner Capitulo 9"}
+            anime={"Zuihou de Zhaohuan Shi The Last Summoner "}
+            numero={"9"}
+            siguienteVideo={"/ver/zuihou-de-zhaohuan-shi-the-last-summoner-10"}
+            capitulosVideo={"/zuihou-de-zhaohuan-shi-the-last-summoner"}
+            anteriorVideo={"/ver/zuihou-de-zhaohuan-shi-the-last-summoner-8"}
+          />
+        }
+      />
+      <Route
+        path="/ver/zuihou-de-zhaohuan-shi-the-last-summoner-10"
+        element={
+          <Video
+            frame2={"https://saidochesto.top/embed.php?id=24859"}
+            frame1={"https://saidochesto.top/embed.php?id=24859"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Zuihou de Zhaohuan Shi The Last Summoner Capitulo 10"}
+            anime={"Zuihou de Zhaohuan Shi The Last Summoner "}
+            numero={"10"}
+            siguienteVideo={"/ver/zuihou-de-zhaohuan-shi-the-last-summoner-11"}
+            capitulosVideo={"/zuihou-de-zhaohuan-shi-the-last-summoner"}
+            anteriorVideo={"/ver/zuihou-de-zhaohuan-shi-the-last-summoner-9"}
+          />
+        }
+      />
+      <Route
+        path="/ver/zuihou-de-zhaohuan-shi-the-last-summoner-11"
+        element={
+          <Video
+            frame2={"https://saidochesto.top/embed.php?id=24920"}
+            frame1={"https://saidochesto.top/embed.php?id=24920"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"button-next"}
+            tituloAnime={"Zuihou de Zhaohuan Shi The Last Summoner Capitulo 11"}
+            anime={"Zuihou de Zhaohuan Shi The Last Summoner "}
+            numero={"11"}
+            siguienteVideo={"/ver/zuihou-de-zhaohuan-shi-the-last-summoner-12"}
+            capitulosVideo={"/zuihou-de-zhaohuan-shi-the-last-summoner"}
+            anteriorVideo={"/ver/zuihou-de-zhaohuan-shi-the-last-summoner-10"}
+          />
+        }
+      />
+      <Route
+        path="/ver/zuihou-de-zhaohuan-shi-the-last-summoner-12"
+        element={
+          <Video
+            frame2={"https://saidochesto.top/embed.php?id=25044"}
+            frame1={"https://saidochesto.top/embed.php?id=25044"}
+            contAnteriorClass="button-before"
+            contSiguienteClass={"disable"}
+            tituloAnime={"Zuihou de Zhaohuan Shi The Last Summoner Capitulo 12"}
+            lastCapitulo={"button-caps-last"}
+            anime={"Zuihou de Zhaohuan Shi The Last Summoner "}
+            numero={"12"}
+            capitulosVideo={"/zuihou-de-zhaohuan-shi-the-last-summoner"}
+            anteriorVideo={"/ver/zuihou-de-zhaohuan-shi-the-last-summoner-11"}
+          />
+        }
+      />{" "}
+      <Route
         path="/ver/-1"
         element={
           <Video
