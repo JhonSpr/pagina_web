@@ -13960,19 +13960,21 @@ function Videos() {
       />
       ----------------
       <Route
-        path="/ver/-1"
+        path="/ver/bungou-stray-dogs-4ta-temporada-1"
         element={
           <Video
-            frame2={""}
-            frame1={"https://sbthe.com/e/.html"}
+            frame2={
+              "https://mega.nz/embed/he9SWSLK#tkEwyWNcXmKoLIKKz33sLFTmydcILvrFZKhNfAqiock"
+            }
+            frame1={"https://sbchill.com/e/8oywmnu1m8k1.html"}
             contAnteriorClass="disable"
             lastCapitulo={"button-caps-fisrt"}
             tituloAnime={" Capitulo 1"}
-            contSiguienteClass={"button-next"}
-            anime={""}
+            contSiguienteClass={"button-next disable"}
+            anime={"Bungou Stray Dogs 4ta Temporada"}
             numero={"1"}
-            siguienteVideo={"/ver/-2"}
-            capitulosVideo={"/"}
+            siguienteVideo={"/ver/bungou-stray-dogs-4ta-temporada-2"}
+            capitulosVideo={"/bungou-stray-dogs-4ta-temporada"}
           />
         }
       />
