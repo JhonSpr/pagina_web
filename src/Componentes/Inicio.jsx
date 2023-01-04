@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { useState } from "react";
-import ButtonDisqus from "../Components/LoadDisqus";
+import ButtonDisqus from "./Elements/disqus";
 import "../css/inicio.css";
 import FecthInicio from "./fecthInicio";
 export default function PageInicio() {
