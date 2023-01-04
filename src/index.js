@@ -3,6 +3,7 @@ import ReactDOM from "react-dom/client";
 import "./Css/index.css";
 import "./Css/bulma.min.css";
 import "./Css/hover.css";
+import "./Css/inicio.css";
 import { BrowserRouter } from "react-router-dom";
 import App from "./home";
 import Videos from "./videos";

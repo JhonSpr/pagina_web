@@ -1,225 +1,205 @@
+/* eslint-disable no-unused-vars */
 /* eslint-disable jsx-a11y/anchor-is-valid */
-
-import Footer from "../Colletion/Footer";
-import { useEffect, useState } from "react";
-import ButtonDisqus from "../Colletion/Button_Disqus";
-import Scroll from "../Componentes/Elements/Scroll";
-
-/* eslint-disable jsx-a11y/no-distracting-elements */
-export function Inicio() {
-  const [info, setInfo] = useState([]);
-
-  useEffect(() => {
-    fetch("https://api-rest.up.railway.app/api/v1/workouts")
-      // Exito
-      .then((response) => response.json())
-      // convertir a json
-      .then((json) => setInfo(json))
-      //imprimir los datos en la consola
-      .catch((err) => console.log("Solicitud fallida", err));
-  }, [setInfo]);
+import React, { useState } from "react";
+import ButtonDisqus from "../Components/LoadDisqus";
+import "../css/inicio.css";
+import FecthInicio from "./fecthInicio";
+export default function PageInicio() {
+  const [openSideBar, setOpenSideBar] = useState(false);
+  const [hideSideBar, setHideSideBar] = useState(false);
+  const handleClick = () => {
+    setOpenSideBar(true);
+    setHideSideBar(false);
+  };
+  const handleHideSide = () => {
+    setOpenSideBar(false);
+    setHideSideBar(true);
+  };
   return (
     <>
-      <title>Animekuns - animes online HD</title>
-      <div>
-        <div>
-          <section className="section page-home__latest-series">
-            <div className="container" style={{ padding: "10px" }}>
-              <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">
-                <i
-                  className="fa-solid fa-circle"
-                  style={{ color: "rgb(240 30 20)", marginRight: "5px" }}
-                ></i>
-                Emisiones
-              </h1>
-              <Scroll />
-            </div>
-          </section>
-          <section className="section page-home__latest-series">
-            <div className="container">
-              <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">
-                <i
-                  className="fa-solid fa-layer-group"
-                  style={{ color: "rgb(20 620 240)" }}
-                ></i>
-                RECIEN AGREGADOS
-              </h1>
-              <hr />
-              <div className="list-series">
-                {info.slice(150, 168).map((data) => (
-                  <article
-                    className="serie-card"
-                    title={data.name}
-                    key={data.id}
-                  >
-                    <figure className="image overarchingdiv2">
-                      <a href={data.link}>
-                        <img src={data.image} alt={data.name} />
-                        <div className="overlay-dark"></div>
-                        <div className="hoveroverlay">
-                          <i className="fas fa-play pgnav activehov"></i>
-                        </div>
-                      </a>
-                      <span className="tag year is-dark">{data.year}</span>
-                      <span className="tag is-danger type">TV</span>
-                      <span className={data.classEstado}>{data.estado}</span>
-                      <div className="title">
-                        <h3>
-                          <a
-                            href={data.link}
-                            className="has-text-orange has-text-weight-semibold has-text-centered is-size-6"
-                          >
-                            {data.name}
-                          </a>
-                        </h3>
-                      </div>
-                    </figure>
-                  </article>
-                ))}
-              </div>
-            </div>
-          </section>
-          <section className="section page-home__latest-series">
-            <div className="container rounded-container">
-              <h1 className="titulo title is-size-4 has-text-centered has-text-weight-semibold has-text-light is-uppercase">
-                <i
-                  class="fa-sharp fa-solid fa-diamond"
-                  style={{ color: "rgb(20 230 20)" }}
-                ></i>{" "}
-                Proximamente
-              </h1>
-              <hr />
-              <div className="list-series">
-                <div>
-                  <div style={{ alignItems: "center" }}>
-                    <article style={{ textAlign: "center", display: "grid" }}>
-                      <ul
-                        style={{
-                          color: "rgb(250 250 250)",
-                        }}
-                      >
-                        <li
-                          style={{
-                            display: "inline-block",
-                            margin: "7px",
-                            width: "100%",
-                            background: "#202020",
-                          }}
-                        >
-                          Aggretsuko
-                        </li>
-                        <li
-                          style={{
-                            display: "inline-block",
-                            margin: "7px",
-                            width: "100%",
-                            background: "#202020",
-                          }}
-                        >
-                          Attack on Titan
-                        </li>
-                        <li
-                          style={{
-                            display: "inline-block",
-                            margin: "7px",
-                            width: "100%",
-                            background: "#202020",
-                          }}
-                        >
-                          Black Clover: La Pelicula
-                        </li>
-                        <li
-                          style={{
-                            display: "inline-block",
-                            margin: "7px",
-                            width: "100%",
-                            background: "#202020",
-                          }}
-                        >
-                          Blue Giant: La Pelicula
-                        </li>
-                        <li
-                          style={{
-                            display: "inline-block",
-                            margin: "7px",
-                            width: "100%",
-                            background: "#202020",
-                          }}
-                        >
-                          Blue Orchestra,
-                        </li>
-                        <li
-                          style={{
-                            display: "inline-block",
-                            margin: "7px",
-                            width: "100%",
-                            background: "#202020",
-                          }}
-                        >
-                          Bungo Stray Dogs,
-                        </li>
-                        <li
-                          style={{
-                            display: "inline-block",
-                            margin: "7px",
-                            width: "100%",
-                            background: "#202020",
-                          }}
-                        >
-                          Castlevania: Nocture,
-                        </li>
-                        <li
-                          style={{
-                            display: "inline-block",
-                            margin: "7px",
-                            width: "100%",
-                            background: "#202020",
-                          }}
-                        >
-                          Classroom of the Elite: Tercera Temporada
-                        </li>
-                        <li
-                          style={{
-                            display: "inline-block",
-                            margin: "7px",
-                            width: "100%",
-                            background: "#202020",
-                          }}
-                        >
-                          Demon Slayer
-                        </li>
-                        <li
-                          style={{
-                            display: "inline-block",
-                            margin: "7px",
-                            width: "100%",
-                            background: "#202020",
-                          }}
-                        >
-                          Dr Stone
-                        </li>
-                        <li
-                          style={{
-                            display: "inline-block",
-                            background: "#202020",
-                            margin: "7px",
-                            width: "100%",
-                          }}
-                        >
-                          Edens Zero: Segunda Temporada
-                        </li>
-                      </ul>
-                    </article>
-                  </div>
-                  <ButtonDisqus />
-                </div>
-              </div>
-            </div>
-          </section>
+      <section className="container container-home">
+        <div className="container-wrap-sidebar">
+          {openSideBar ? (
+            <a onClick={handleHideSide} className="show-sidebar">
+              Anime En Emision <i class="fa-solid fa-caret-down"></i>
+            </a>
+          ) : (
+            <a onClick={handleClick} className="show-sidebar">
+              Anime En Emision <i class="fa-solid fa-caret-up"></i>
+            </a>
+          )}
         </div>
-      </div>{" "}
-      <hr />
-      <Footer />
+        {openSideBar ? (
+          <sidebar className="sidebar-home">
+            <li>
+              <a href="/peter-grill-to-kenja-no-jikan-super-extra">
+                <h2>
+                  {" "}
+                  <i className="fa-regular fa-circle-play"></i> Peter grill to
+                  kenja no jikan super extra
+                </h2>
+                <span className="tipo">ANIME</span>
+              </a>
+            </li>
+            <li>
+              <a href="/isekai-ojisan">
+                <h2>
+                  <i className="fa-regular fa-circle-play"></i> Isekai ojisan
+                </h2>
+                <span className="tipo">ANIME</span>
+              </a>
+            </li>
+            <li>
+              <a href="/danmachi-iv">
+                <h2>
+                  <i className="fa-regular fa-circle-play"></i> Danmachi IV
+                </h2>{" "}
+                <span className="tipo">ANIME</span>
+              </a>
+            </li>
+            <li>
+              <a href="/yowamushi-pedal-limit-break">
+                <h2>
+                  <i className="fa-regular fa-circle-play"></i> Yowamushi pedal
+                  limit break
+                </h2>{" "}
+                <span className="tipo">ANIME</span>
+              </a>
+            </li>
+            <li>
+              <a href="/bluelock">
+                <h2>
+                  <i className="fa-regular fa-circle-play"></i> BLUELOCK
+                </h2>{" "}
+                <span className="tipo">ANIME</span>
+              </a>
+            </li>
+            <li>
+              <a href="/fuufu-ijou-koibito-miman">
+                <h2>
+                  <i className="fa-regular fa-circle-play"></i> Fuufu Ijou
+                  koibito miman
+                </h2>{" "}
+                <span className="tipo">ANIME</span>
+              </a>
+            </li>
+            <li>
+              <a href="/vazzrock-the-animation">
+                <h2>
+                  <i className="fa-regular fa-circle-play"></i> Vazzrock the
+                  animation
+                </h2>{" "}
+                <span className="tipo">ANIME</span>
+              </a>
+            </li>
+            <li>
+              <a href="/bersek-ougon-jidai-hen-memorial-edition">
+                <h2>
+                  <i className="fa-regular fa-circle-play"></i> Bersek Ougon
+                  jidai hen memorial edition
+                </h2>{" "}
+                <span className="tipo">ANIME</span>
+              </a>
+            </li>
+          </sidebar>
+        ) : (
+          <>
+            <sidebar className="sidebar-home side-desktop">
+              <div className="container-li-sidebar">
+                <li>
+                  <h2>Animes En Emision</h2>
+                </li>
+                <li>
+                  <a href="/peter-grill-to-kenja-no-jikan-super-extra">
+                    <h2>
+                      {" "}
+                      <i className="fa-regular fa-circle-play"></i> Peter grill
+                      to kenja no jikan super extra
+                    </h2>
+                    <span className="tipo">ANIME</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="/isekai-ojisan">
+                    <h2>
+                      <i className="fa-regular fa-circle-play"></i> Isekai
+                      ojisan
+                    </h2>
+                    <span className="tipo">ANIME</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="/danmachi-iv">
+                    <h2>
+                      <i className="fa-regular fa-circle-play"></i> Danmachi IV
+                    </h2>{" "}
+                    <span className="tipo">ANIME</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="/yowamushi-pedal-limit-break">
+                    <h2>
+                      <i className="fa-regular fa-circle-play"></i> Yowamushi
+                      pedal limit break
+                    </h2>{" "}
+                    <span className="tipo">ANIME</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="/bluelock">
+                    <h2>
+                      <i className="fa-regular fa-circle-play"></i> BLUELOCK
+                    </h2>{" "}
+                    <span className="tipo">ANIME</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="/fuufu-ijou-koibito-miman">
+                    <h2>
+                      <i className="fa-regular fa-circle-play"></i> Fuufu Ijou
+                      koibito miman
+                    </h2>{" "}
+                    <span className="tipo">ANIME</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="/vazzrock-the-animation">
+                    <h2>
+                      <i className="fa-regular fa-circle-play"></i> Vazzrock the
+                      animation
+                    </h2>{" "}
+                    <span className="tipo">ANIME</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="/bersek-ougon-jidai-hen-memorial-edition">
+                    <h2>
+                      <i className="fa-regular fa-circle-play"></i> Bersek Ougon
+                      jidai hen memorial edition
+                    </h2>{" "}
+                    <span className="tipo">ANIME</span>
+                  </a>
+                </li>
+              </div>
+            </sidebar>
+          </>
+        )}
+        <section className="recien-agregados">
+          <h1 className="title-home">RECIEN AGREGADOS</h1>
+          <div className="list-series">
+            <FecthInicio />
+          </div>
+        </section>
+      </section>
+      <div className="container container-home-2">
+        <section className="proximos">
+          <h1 className="title-home">Proximos</h1>
+          <div className="list-series">
+            <FecthInicio /> <br />
+            <ButtonDisqus />
+          </div>
+        </section>
+      </div>
     </>
   );
 }
