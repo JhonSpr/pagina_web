@@ -6,7 +6,7 @@ import banner from "../../Json/Banners.json";
 import Listas36 from "../Listas.js/Listas36";
 
 /* eslint-disable jsx-a11y/iframe-has-title */
-export function Capitulos24({ anime, ...props }) {
+export function Capitulos36({ anime, ...props }) {
   let end = 83;
   let RandomNumber = Math.floor(Math.random() * end);
   return (
