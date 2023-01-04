@@ -35,7 +35,7 @@ import {
   Pagina3Finalizados,
   Pagina4Finalizados,
 } from "./Componentes/Pages_Finalizados";
-import PageInicio from "./Componentes/Inicio";
+import PageInicio from "./Componentes/Inicio.jsx";
 function App() {
   return (
     <div>
