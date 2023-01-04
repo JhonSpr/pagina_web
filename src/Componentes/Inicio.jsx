@@ -2,7 +2,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { useState } from "react";
 import ButtonDisqus from "../Colletion/Button_Disqus";
-import "../css/inicio.css";
+import "../Css/inicio.css";
 import FecthInicio from "./fecthInicio";
 export default function PageInicio() {
   const [openSideBar, setOpenSideBar] = useState(false);
