@@ -9,8 +9,7 @@ import App from "./home";
 import Videos from "./videos";
 import { Auth0Provider } from "@auth0/auth0-react";
 import Menubar from "./Componentes/NavBar";
-import { Route, Routes } from "react-router-dom";
-import { PageInicio } from "./Componentes/Inicio";
+
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <BrowserRouter>
@@ -22,9 +21,6 @@ root.render(
       <Menubar />
       <App />
       <Videos />
-      <Routes>
-        <Route path="/" element={<PageInicio />} />
-      </Routes>
     </Auth0Provider>
   </BrowserRouter>
 );

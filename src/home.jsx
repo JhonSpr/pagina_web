@@ -35,10 +35,12 @@ import {
   Pagina3Finalizados,
   Pagina4Finalizados,
 } from "./Componentes/Pages_Finalizados";
+import { PageInicio } from "./Componentes/Inicio";
 function App() {
   return (
     <div>
       <Routes>
+        <Route path="/" element={<PageInicio />} />
         {/* Pages */}
         <Route path="/finalizados" element={<Pagina1Finalizados />} />
         <Route path="/finalizados%20page=2" element={<Pagina2Finalizados />} />
