@@ -3,7 +3,7 @@
 import React, { useState } from "react";
 import ButtonDisqus from "../Colletion/Button_Disqus";
 import FecthInicio from "./fecthInicio";
-export default function PageInicio() {
+export function PageInicio() {
   const [openSideBar, setOpenSideBar] = useState(false);
   const [hideSideBar, setHideSideBar] = useState(false);
   const handleClick = () => {
