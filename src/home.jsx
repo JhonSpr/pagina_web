@@ -36,6 +36,7 @@ import {
   Pagina3Finalizados,
   Pagina4Finalizados,
 } from "./Componentes/Pages_Finalizados";
+import { Capitulos36 } from "./Componentes/Capitulos.js/Capitulos36";
 function App() {
   return (
     <div>
@@ -913,7 +914,7 @@ function App() {
         <Route
           path="/karakuri-circus"
           element={
-            <Capitulos12
+            <Capitulos36
               descripcion={
                 "El protagonista, Masaru, acaba de heredar una gran fortuna tras la muerte de su padre. Sin embargo, la gente está tratando de ponerlo en sus manos por cualquier medio necesario, incluso si eso significa matarlo. Narumi ayuda a Masaru a ser secuestrado después de luchar contra figuras extrañas. Descubre que no son humanos, sino títeres de madera con una fuerza increíble. Después de una dura lucha, Narumi se ve obligado a admitir que no es un oponente para ellos; y justo cuando empieza a pensar que Masaru será capturado, Shirogane, el vigilante de Masaru, llega de Francia con un arma, el títere Arlequin. Aquí comienza la historia de Karakuri Circus."
               }
@@ -958,41 +959,57 @@ function App() {
               capituloAnime34={"/ver/karakuri-circus-34"}
               capituloAnime35={"/ver/karakuri-circus-35"}
               capituloAnime36={"/ver/karakuri-circus-36"}
-              li37={"disable"}
-              li38={"disable"}
-              li39={"disable"}
-              li40={"disable"}
-              li41={"disable"}
-              li42={"disable"}
-              li43={"disable"}
-              li44={"disable"}
-              li45={"disable"}
-              li46={"disable"}
-              li47={"disable"}
-              li48={"disable"}
-              li49={"disable"}
-              li50={"disable"}
-              li51={"disable"}
-              li52={"disable"}
-              li53={"disable"}
-              li54={"disable"}
-              li55={"disable"}
-              li56={"disable"}
-              li70={"disable"}
-              li69={"disable"}
-              li68={"disable"}
-              li67={"disable"}
-              li66={"disable"}
-              li65={"disable"}
-              li64={"disable"}
-              li63={"disable"}
-              li62={"disable"}
-              li61={"disable"}
-              li60={"disable"}
-              li59={"disable"}
-              li58={"disable"}
-              li57={"disable"}
-              sec1={"disable"}
+            />
+          }
+        />
+        <Route
+          path="/bungou-stray-dogs-4ta-temporada"
+          element={
+            <Capitulos36
+              descripcion={"Cuarta temporada de Bungou Stray Dogs"}
+              anime={"Bungou Stray Dogs"}
+              tipo={"TV"}
+              numeroEpisodios={"1"}
+              estado={"En Emision"}
+              imagenAnime={"https://i.postimg.cc/8PvHxKnk/Stray-dogs.jpg"}
+              capituloAnime1={"/ver/bungou-stray-dogs-4ta-temporada-1"}
+              li2="disable"
+              li3="disable"
+              li4="disable"
+              li5="disable"
+              li6="disable"
+              li7="disable"
+              li8="disable"
+              li9="disable"
+              li10="disable"
+              li11="disable"
+              li12="disable"
+              li13="disable"
+              li14="disable"
+              li15="disable"
+              li16="disable"
+              li17="disable"
+              li18="disable"
+              li19="disable"
+              li20="disable"
+              li21="disable"
+              li22="disable"
+              li23="disable"
+              li24="disable"
+              li25="disable"
+              li26="disable"
+              li27="disable"
+              li28="disable"
+              li29="disable"
+              li30="disable"
+              li31="disable"
+              li32="disable"
+              li33="disable"
+              li34="disable"
+              li35="disable"
+              li36="disable"
+              textoSecuela={"Proximo Capitulo"}
+              nombreSecuela="Miercoles 11 de Enero"
               sec2={"disable"}
               sec3={"disable"}
             />
