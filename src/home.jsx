@@ -7,7 +7,7 @@ import { Numero12 } from "./Componentes/Capitulos.js/Capitulos12";
 import { Emision12 } from "./Componentes/EnEmision12";
 import { Animes13 } from "./Componentes/Capitulos.js/Anime13";
 import { Capitulos24 } from "./Componentes/Capitulos.js/Capitulos24";
-import { Inicio } from "./Componentes/Inicio";
+import { PageInicio } from "./Componentes/Inicio";
 import { Policy } from "./Componentes/Policy";
 import {
   Pagina1,
@@ -40,7 +40,7 @@ function App() {
   return (
     <div>
       <Routes>
-        <Route path="/" element={<Inicio />} />
+        <Route path="/" element={<PageInicio />} />
         {/* Pages */}
         <Route path="/finalizados" element={<Pagina1Finalizados />} />
         <Route path="/finalizados%20page=2" element={<Pagina2Finalizados />} />
