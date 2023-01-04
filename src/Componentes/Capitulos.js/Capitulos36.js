@@ -1,43 +1,19 @@
 /* eslint-disable react/style-prop-object */
 /* eslint-disable jsx-a11y/anchor-is-valid */
-
-import banner from "../../Json/Banners.json";
-import { React } from "react";
-import "../../css/InfoAnimes.css";
-import "../../css/bulma.min.css";
-import Listas36 from "../Listas.js/Listas36";
 import ButtonDisqus from "../../Colletion/Button_Disqus";
+import Footer from "../../Colletion/Footer";
+import banner from "../../Json/Banners.json";
+import Listas36 from "../Listas.js/Listas36";
+
 /* eslint-disable jsx-a11y/iframe-has-title */
-export function Capitulos36({
-  sec1,
-  sec2,
-  sec3,
-  hrefSecuela2,
-  hrefSecuela3,
-  nombreSecuela2,
-  nombreSecuela3,
-  textoSecuela2,
-  textoSecuela3,
-  hrefSecuela,
-  textoSecuela,
-  nombreSecuela,
-  tituloAnime,
-  imagenAnime,
-  descripcion,
-  anime,
-  numeroEpisodios,
-  tipo,
-  estado,
-  ...props
-}) {
+export function Capitulos24({ anime, ...props }) {
   let end = 83;
   let RandomNumber = Math.floor(Math.random() * end);
-
   return (
     <>
       <title>{anime} Online HD</title>
-
       <section className="section">
+        {" "}
         <div
           className="serie-background"
           style={{
@@ -48,24 +24,25 @@ export function Capitulos36({
         ></div>
         <div className="container">
           <div className="columns is-mobile is-multiline info">
-            <div className="column is-12-mobile xis-3-tablet xis-3-desktop is-narrow-tablet is-narrow-desktop image">
-              <figure className="imagen-info">
-                <img src={imagenAnime} alt={anime} />
+            <div className="column is-12-mobile xis-3-tablet xis-3-desktop xhas-background-danger is-narrow-tablet is-narrow-desktop">
+              <figure className="image is-2by4 image_2">
+                <img src={props.imagenAnime} alt={anime} />
               </figure>
               <br />
             </div>
+
             <div className="column columnas">
               <div className="columns is-multiline is-narrow">
                 <div className="column is-12-mobile is-8-tablet is-10-desktop">
-                  <h1 className="title-info">{anime}</h1>
+                  <h1 className="title has-text-orange">{anime}</h1>
                 </div>
                 <div className="column is-12-mobile is-4-tablet is-2-desktop"></div>
               </div>
 
-              <h6 className="is-uppercase has-text-grey has-text-center has-border-bottom">
+              <h6 className="has-text-weight-semibold is-uppercase has-text-grey has-border-bottom">
                 Descripcion
               </h6>
-              <div className="has-text-light sinopsis">{descripcion}</div>
+              <div className="has-text-light sinopsis">{props.descripcion}</div>
 
               <br />
               <br />
@@ -75,54 +52,53 @@ export function Capitulos36({
               </p>
 
               <ul className="has-text-light">
-                <li className="has-text-normal has-text-weight-semibold">
-                  <span className="has-text-weight-semibold has-text-grey is-uppercase has-text-normal">
+                <li>
+                  <span className="has-text-weight-semibold has-text-grey is-uppercase">
                     Tipo:
                   </span>
-                  {tipo}
+                  {props.tipo}
                 </li>
-                <li className="has-text-normal has-text-weight-semibold">
-                  <span className="has-text-weight-semibold has-text-grey is-uppercase has-text-normal">
+                <li>
+                  <span className="has-text-weight-semibold has-text-grey is-uppercase">
                     Estado:
                   </span>
-                  {estado}
+                  {props.estado}
                 </li>
-                <li className="has-text-normal has-text-weight-semibold">
-                  <span className="has-text-weight-semibold has-text-grey is-uppercase has-text-normal">
+                <li>
+                  <span className="has-text-weight-semibold has-text-grey is-uppercase">
                     Episodios:
-                  </span>
-                  {numeroEpisodios}
+                  </span>{" "}
+                  {props.numeroEpisodios}
                 </li>
-                <li className={sec1}>
+                <li className={props.sec1}>
                   <span className="has-text-weight-semibold has-text-grey is-uppercase">
-                    {textoSecuela}:
+                    {props.textoSecuela}:
                   </span>
-                  <a href={hrefSecuela}>{nombreSecuela}</a>
+                  <a href={props.hrefSecuela}>{props.nombreSecuela}</a>
                 </li>
-                <li className={sec2}>
+                <li className={props.sec2}>
                   <span className="has-text-weight-semibold has-text-grey is-uppercase">
-                    {textoSecuela2}:
+                    {props.textoSecuela2}:
                   </span>
-                  <a href={hrefSecuela2}>{nombreSecuela2}</a>
+                  <a href={props.hrefSecuela2}>{props.nombreSecuela2}</a>
                 </li>
-                <li className={sec3}>
+                <li className={props.sec3}>
                   <span className="has-text-weight-semibold has-text-grey is-uppercase">
-                    {textoSecuela3}:
+                    {props.textoSecuela3}:
                   </span>
-                  <a href={hrefSecuela3}>{nombreSecuela3}</a>
+                  <a href={props.hrefSecuela3}>{props.nombreSecuela3}</a>
                 </li>
               </ul>
             </div>
           </div>
         </div>
       </section>
-
       <section className="section">
         <div className="container">
           <div className="columns">
             <div className="column is-12">
               <h1 className="title is-size-5 has-text-weight-light has-text-light has-text-weight-semibold ">
-                <i className="fa fa-list-ul has-text-orange Icono-list"></i>
+                <i className="fa fa-list-ul has-text-orange Icono-list"></i>{" "}
                 <b> Lista de episodios </b>
               </h1>
 
@@ -206,6 +182,8 @@ export function Capitulos36({
           <ButtonDisqus />
         </div>
       </section>
+      <hr />
+      <Footer />
     </>
   );
 }
