@@ -3,7 +3,6 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 /* eslint-disable array-callback-return */
 import { useEffect, useState } from "react";
-import "../css/App.css";
 import "../css/hovers.css";
 import "../css/Pagination.css";
 import {

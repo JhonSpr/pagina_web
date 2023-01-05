@@ -8,6 +8,7 @@ import PageInicio from "./Pages/PageInicio";
 import Routes12 from "./Routes/Routes12";
 import Routes24 from "./Routes/Routes24";
 import Routes36 from "./Routes/Routes36";
+import "./css/App.css";
 import { PageEmisiones } from "./Pages/PageEmisiones";
 import {
   PageTV,
