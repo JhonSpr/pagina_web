@@ -1,0 +1,19 @@
+.pagination {
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.page-item a,
+span {
+  color: #d1d1d1 !important;
+  outline: none !important;
+}
+.page-item a {
+  border: 1px solid #363636 !important;
+}
+.page-item a:hover {
+  background-color: #363636 !important;
+}
+.page-item.active {
+  background-color: #363636;
+  border: 0;
+}
