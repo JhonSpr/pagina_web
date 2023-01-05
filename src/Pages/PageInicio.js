@@ -21,11 +21,11 @@ export default function PageInicio() {
       <section className="container container-home">
         <div className="container-wrap-sidebar">
           {openSideBar ? (
-            <a onClick={handleHideSide} className="show-sidebar">
+            <a onClick={handleHideSide} className="show-sidebar title-sidebar">
               Anime En Emision <i className="fa-solid fa-caret-down"></i>
             </a>
           ) : (
-            <a onClick={handleClick} className="show-sidebar">
+            <a onClick={handleClick} className="show-sidebar title-sidebar">
               Anime En Emision <i className="fa-solid fa-caret-up"></i>
             </a>
           )}
@@ -107,7 +107,7 @@ export default function PageInicio() {
             <sidebar className="sidebar-home side-desktop">
               <div className="container-li-sidebar">
                 <li>
-                  <h2>Animes En Emision</h2>
+                  <h2 className="title-sidebar-emisiones">Animes En Emision</h2>
                 </li>
                 <li>
                   <a href="/peter-grill-to-kenja-no-jikan-super-extra">
