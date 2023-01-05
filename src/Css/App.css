@@ -351,7 +351,7 @@ span {
   margin: 0;
 }
 .container-logo {
-  border-top: 1px solid #00f4f8;
+  border-top: 3px solid #00f4f8;
 }
 
 .logo-cont {
@@ -364,7 +364,7 @@ span {
   color: #00f4f8 !important;
 }
 .logo-cont:hover {
-  border-top: 1px solid #fafafa !important;
+  border-top: 3px solid #fafafa !important;
   border-radius: 100% 100% 0% 0%;
 }
 .logo-cont {

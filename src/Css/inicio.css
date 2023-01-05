@@ -80,8 +80,18 @@ h2 {
   .tipo {
     position: absolute;
     right: -10px;
-    background-color: #00f4f8;
+    background-color: #00fbff;
     color: #161616 !important;
+    font-weight: 700;
+    font-size: 14px !important;
+    border-radius: 10px;
+    padding: 2px;
+  }
+  .tipo-screen {
+    position: absolute;
+    right: -10px;
+    background-color: #d9ff00;
+    color: #020202 !important;
     font-weight: 700;
     font-size: 14px !important;
     border-radius: 10px;
@@ -101,13 +111,28 @@ h2 {
   .title-sidebar-emisiones {
     width: 100%;
     padding: 5px 0;
-    border-radius: 30px;
+    border-radius: 3px;
     text-transform: uppercase;
     font-weight: 700;
-    background-color: rgba(0, 209, 17, 0.4) !important;
+    background-color: rgba(107, 107, 107, 0.4) !important;
   }
 }
 @media (max-width: 999px) {
+  .show-sidebar {
+    background: #202020 !important;
+    padding: 5px 7px;
+    border-radius: 5px;
+  }
+  .tipo-screen {
+    position: absolute;
+    right: -10px;
+    background-color: #d9ff00 !important;
+    color: #020202 !important;
+    font-weight: 700;
+    font-size: 14px !important;
+    border-radius: 10px;
+    padding: 2px;
+  }
   .container_comments {
     width: 80%;
   }

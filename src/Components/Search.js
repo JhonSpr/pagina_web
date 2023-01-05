@@ -1,14 +1,14 @@
+/* eslint-disable no-redeclare */
 /* eslint-disable no-self-compare */
 /* eslint-disable eqeqeq */
 import React, { useEffect, useState } from "react";
 import LoadingSearch from "./elements/LoadingSearch";
 
-function Search({ placeholder }) {
+function Search() {
   const [loading, setLoading] = useState(false);
   const [info, setInfo] = useState([]);
   const [search, setSearch] = useState("");
   const [hideData, setHideData] = useState(true);
-
   const searcher = (e) => {
     setSearch(e.target.value);
     if (search === "") {
