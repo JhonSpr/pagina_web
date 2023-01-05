@@ -12,7 +12,7 @@ function Search({ placeholder }) {
   const searcher = (e) => {
     setSearch(e.target.value);
     if (search === "") {
-      setHideData(true);
+      setHideData(null);
     } else {
       setHideData(false);
     }
@@ -100,7 +100,7 @@ function Search({ placeholder }) {
             </>
           )}
         </div>
-      </form>{" "}
+      </form>
     </>
   );
 }

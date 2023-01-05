@@ -7,11 +7,13 @@ export default function Navbar() {
   return (
     <>
       <nav className="navbar navbar-expand-lg ">
-        <a className="navbar-brand logo-cont" href="/">
-          <h3 className="letraA">A</h3>
-          <h3 className="letraM"> NIMEKUN</h3>
-          <h3 className="letraA">S</h3>
-        </a>
+        <div>
+          <a className="navbar-brand container-logo logo-cont" href="/">
+            <h3 className="letraA">A</h3>
+            <h3 className="letraM"> NIMEKUN</h3>
+            <h3 className="letraA">S</h3>
+          </a>
+        </div>
         <a
           className="navbar-toggler"
           type="button"

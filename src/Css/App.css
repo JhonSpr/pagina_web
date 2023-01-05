@@ -253,7 +253,7 @@ span {
 }
 .serie-card .tag.end {
   position: absolute;
-  text-transform: lowercase;
+
   right: 0;
   bottom: 35px;
   border-radius: 4px;
@@ -350,16 +350,18 @@ span {
   display: inline-block;
   margin: 0;
 }
+.container-logo {
+  border-top: 1px solid #00f4f8;
+}
 
 .logo-cont {
   color: #111111;
-  background-color: #111111 !important;
-  border-radius: 10% 10% 20% 100%;
+  border-radius: 100% 100% 0% 0%;
   padding: 5px 10px;
-  transition: all 0.5s;
+  transition: all 0.08s;
 }
-.logo-cont:hover {
-  border-radius: 100% 100% 100% 100% !important;
+.logo-cont:hover h3 {
+  color: #00f4f8 !important;
 }
 .logo-cont {
   font-style: italic;

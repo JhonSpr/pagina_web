@@ -1,8 +1,10 @@
-.serie-card :hover img {
-  transform: scaleX(1.1);
-  transition: 0.2s;
-  filter: brightness(50%);
+.serie-card:hover img {
+  filter: saturate(180%);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  transition: all 0.1s ease-out;
 }
+
 .serie-card {
   overflow: hidden;
 }
@@ -11,5 +13,5 @@
   height: 100%;
   position: absolute;
   opacity: 1 !important;
-  z-index: 99;
+  z-index: 0;
 }

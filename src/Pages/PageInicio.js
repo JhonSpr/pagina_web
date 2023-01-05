@@ -2,6 +2,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { useState } from "react";
 import ButtonDisqus from "../Components/LoadDisqus";
+import { FecthEmisionesHome } from "../fetching/fecthEmisiones";
 import FecthInicio from "../fetching/fecthInicio";
 export default function PageInicio() {
   const [openSideBar, setOpenSideBar] = useState(false);
@@ -189,9 +190,15 @@ export default function PageInicio() {
           <div className="list-series">
             <FecthInicio />
           </div>
-          <h1 className="title-home">RECIEN AGREGADOS</h1>
+          <h1 className="title-home">
+            <i
+              className="fa-solid fa-star"
+              style={{ marginRight: "5px", color: "rgb(1004 24 63 )" }}
+            ></i>
+            Emisiones
+          </h1>
           <div className="list-series">
-            <FecthInicio />
+            <FecthEmisionesHome />
             <ButtonDisqus />
           </div>
         </section>
