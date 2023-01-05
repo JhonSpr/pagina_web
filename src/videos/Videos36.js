@@ -1,7 +1,6 @@
 import React from "react";
 import { Route, Routes } from "react-router";
 import { Video } from "../Components/elements/Videos";
-import "../css/Video.css";
 export function Videos36() {
   return (
     <>
