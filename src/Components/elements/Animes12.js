@@ -5,8 +5,6 @@ import banner from "../../Json/Banners.json";
 import { React } from "react";
 import Listas12 from "../Listas.js/Listas12";
 import ButtonDisqus from "../LoadDisqus";
-import "../../css/InfoAnimes.css";
-import "../../css/bulma.min.css";
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Capitulos12({
   sec1,

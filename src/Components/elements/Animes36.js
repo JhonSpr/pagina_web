@@ -4,8 +4,6 @@
 import banner from "../../Json/Banners.json";
 import { React } from "react";
 import ButtonDisqus from "../LoadDisqus";
-import "../../css/InfoAnimes.css";
-import "../../css/bulma.min.css";
 import Listas36 from "../Listas.js/Listas36";
 /* eslint-disable jsx-a11y/iframe-has-title */
 export function Capitulos36({
