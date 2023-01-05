@@ -6,7 +6,7 @@ import { useEffect, useState } from "react";
 import "../css/App.css";
 import "../css/hovers.css";
 import "../css/Pagination.css";
-import FecthTV, {
+import {
   FecthTV2,
   FecthTV3,
   FecthTV4,
