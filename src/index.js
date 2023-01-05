@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./Css/App.css";
 import "./Css/bulma.min.css";
-import "./Css/hover.css";
+import "./Css/hovers.css";
 import "./Css/InfoAnimes.css";
 import "./Css/Pagination.css";
 import "./Css/Video.css";
