@@ -363,6 +363,10 @@ span {
 .logo-cont:hover h3 {
   color: #00f4f8 !important;
 }
+.logo-cont:hover {
+  border-top: 1px solid #fafafa !important;
+  border-radius: 100% 100% 0% 0%;
+}
 .logo-cont {
   font-style: italic;
 }
