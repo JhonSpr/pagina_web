@@ -1,5 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
+import "./Css/App.css";
+import "./Css/bulma.min.css";
+import "./Css/hover.css";
+import "./Css/InfoAnimes.css";
+import "./Css/Pagination.css";
+import "./Css/Video.css";
+import "./Css/inicio.css";
+
 import { PageAnime } from "./Pages/PageAnimes";
 import Navbar from "./Components/Navbar";
 import { Route, Routes } from "react-router";
@@ -8,6 +16,7 @@ import PageInicio from "./Pages/PageInicio";
 import Routes12 from "./Routes/Routes12";
 import Routes24 from "./Routes/Routes24";
 import Routes36 from "./Routes/Routes36";
+
 import { PageEmisiones } from "./Pages/PageEmisiones";
 import {
   PageTV,
