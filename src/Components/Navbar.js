@@ -1,6 +1,5 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
-import { AlertError } from "../Alertas/AlertError";
 import { AlertErrores } from "../Alertas/AlertErrores";
 import Search from "./Search";
 
@@ -51,13 +50,13 @@ export default function Navbar() {
                 estados
               </a>
               <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a className="dropdown-item" href="/en-emision">
+                <a className="dropdown-item" href="/animes/en-emision">
                   En Emision
                 </a>
-                <a className="dropdown-item" href="/finalizados">
+                <a className="dropdown-item" href="/animes/finalizados">
                   Finalizado
                 </a>
-                <AlertError mensaje={"¡Proximamente!"} />
+                <AlertErrores mensaje={"¡Proximamente!"} />
               </div>
             </li>
             <li className="nav-item dropdown">

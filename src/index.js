@@ -41,13 +41,21 @@ root.render(
       <Routes24 />
       <Routes36 />
       <Videos12 />
-
       <Videos36 />
       <Routes>
+        Inicio
         <Route path="/" element={<PageInicio />} />
+        ==================================================================
+        Paginas Animes
         <Route path="/animes" element={<PageAnime />} />
-        <Route path="/finalizados" element={<PageAnime />} />
-        <Route path="/en-emision" element={<PageEmisiones />} />
+        ==================================================================
+        Paginas Finalizados
+        <Route path="/animes/finalizados" element={<PageAnime />} />
+        ==================================================================
+        Paginas de Emisiones
+        <Route path="/animes/en-emision" element={<PageEmisiones />} />
+        ==================================================================
+        Paginas de Tipo TV
         <Route path="/animes/tv" element={<PageTV />} />
         <Route path="/animes/tv=page2" element={<PageTV2 />} />
         <Route path="/animes/tv=page3" element={<PageTV3 />} />
@@ -55,6 +63,7 @@ root.render(
         <Route path="/animes/tv=page5" element={<PageTV5 />} />
         <Route path="/animes/tv=page6" element={<PageTV6 />} />
         <Route path="/animes/tv=page7" element={<PageTV7 />} />
+        ==================================================================
       </Routes>
     </BrowserRouter>
   </>
