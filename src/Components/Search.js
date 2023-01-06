@@ -47,7 +47,12 @@ function Search() {
   }, 4000);
   return (
     <>
-      <form action={`/` + search.replace(/ /g, "-").toLocaleLowerCase()}>
+      {/* </>action={`/` + search.replace(/ /g, "-").toLocaleLowerCase()} */}
+      <form
+        onSubmit={(e) => {
+          e.preventDefault();
+        }}
+      >
         <div className="search">
           <div className="searchInputs">
             <li className="navbar-item">
@@ -61,7 +66,10 @@ function Search() {
                 autoComplete="off"
                 autoSave="off"
               />
-              <i className="fa-solid fa-search" id="icon-search-navbar"></i>
+
+              <a href={`/` + search.toLowerCase().replace(/ /, "-")}>
+                <i className="fa-solid fa-search" id="icon-search-navbar"></i>
+              </a>
             </li>
           </div>
         </div>

@@ -1,6 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 import { AlertError } from "../Alertas/AlertError";
+import { AlertErrores } from "../Alertas/AlertErrores";
 import Search from "./Search";
 
 export default function Navbar() {
@@ -74,12 +75,14 @@ export default function Navbar() {
                 <a className="dropdown-item" href="/animes/tv">
                   TV
                 </a>
-                <a className="dropdown-item" href="/animes/ova">
+                <AlertErrores mensaje={"OVA"} />
+                <AlertErrores mensaje={"PELICULA"} />
+                {/* <a className="dropdown-item" href="/animes/ova">
                   OVA
                 </a>
                 <a className="dropdown-item" href="/animes/peliculas">
                   PELICULA
-                </a>
+                </a> */}
               </div>
             </li>
           </ul>
